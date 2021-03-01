@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00262" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oxford, Bodleian Library, Auct. E. 3. 08 (Misc. 051.8)
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2020-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Oxford
+     </settlement>
+     <repository>
+      Bodleian Library
+     </repository>
+     <collection>
+      Auct.
+     </collection>
+     <idno>
+      E. 3. 08 (Misc. 051.8)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       47025
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00262_01">
+      <locus from="340" to="434 (p.)">
+       340–434 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="2" xml:id="PTAMS00262_02">
+      <locus from="466" to="475 (p.)">
+       466–475 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta023" n="3" xml:id="PTAMS00262_03">
+      <locus from="504" to="521 (p.)">
+       504–521 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta024" n="4" xml:id="PTAMS00262_04">
+      <locus from="521" to="523 (p.)">
+       521–523 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate when-iso="1612">
+        a. 1612 ante
+       </origDate>
+      </p>
+     </origin>
+    </history>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

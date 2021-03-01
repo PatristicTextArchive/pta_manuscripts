@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00279" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oxford, Bodleian Library, Barocci 189
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2020-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Oxford
+     </settlement>
+     <repository>
+      Bodleian Library
+     </repository>
+     <collection>
+      Barocci
+     </collection>
+     <idno>
+      189
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       47476
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00279_01">
+      <locus from="103" to="112v">
+       103–112v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00279_02">
+      <locus from="137" to="142v">
+       137–142v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00279_03">
+      <locus from="146v" to="148v">
+       146v–148v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate when-iso="1598">
+        a. 1598
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/4d8fd54c-c3af-4ff3-a141-964b275cc5bc," type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

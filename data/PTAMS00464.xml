@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00464" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1255
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2020-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana
+     </repository>
+     <collection>
+      Vat. gr.
+     </collection>
+     <idno>
+      1255
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       67886
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00464_01">
+      <locus from="094" to="098">
+       094–098
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00464_02">
+      <locus from="098v" to="101">
+       098v–101
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.1255" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

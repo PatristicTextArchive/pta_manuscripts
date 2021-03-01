@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" telota:doctype="manuscriptDesc" xml:id="PTAMS00010">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 253
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2020-08-14" who="#AvS">
+    Created TEI file
+   </change>
+   <change when-iso="2018-08-16" who="SE">Übertrag Notiz Richard; Beschreibung unvollständig</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Athêna
+     </settlement>
+     <repository>
+      Ethnikê Bibliothêkê tês Hellados (EBE)
+     </repository>
+     <collection>
+      Fonds principal
+     </collection>
+     <idno>
+      253
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       2549
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem n="1" corresp="urn:cts:pta:pta0002.pta001">
+      <locus from="2r" to="XXX">2r-XXX</locus>
+      <rubric/>
+      <incipit type="mutile">λίττουσα λῆρον καὶ πολλὴν κατέχουσα τῶν ἀκροατῶν φλυαρίαν</incipit>
+      <explicit/>
+     </msItem>
+     <msItem n="2" corresp="urn:cts:pta:pta0002.pta002">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>					
+     <msItem n="3" corresp="urn:cts:pta:pta0002.pta003">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="4" corresp="urn:cts:pta:pta0002.pta004">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="5" corresp="urn:cts:pta:pta0002.pta005">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="6" corresp="urn:cts:pta:pta0002.pta006">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="7" corresp="urn:cts:pta:pta0002.pta007">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="8" corresp="urn:cts:pta:pta0002.pta008">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="9" corresp="urn:cts:pta:pta0002.pta009">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="10" corresp="urn:cts:pta:pta0002.pta010">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="11" corresp="urn:cts:pta:pta0002.pta011">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="12" corresp="urn:cts:pta:pta0002.pta012">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="13" corresp="urn:cts:pta:pta0002.pta013">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="14" corresp="urn:cts:pta:pta0002.pta014">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="15" corresp="urn:cts:pta:pta0002.pta015">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="16" corresp="urn:cts:pta:pta0002.pta016">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="17" corresp="urn:cts:pta:pta0002.pta017">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="18" corresp="urn:cts:pta:pta0002.pta018">
+      <locus from="XXX" to="XXX">XXX-XXX</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="19" corresp="urn:cts:pta:pta0002.pta019">
+      <locus from="XXX" to="141r">XXX-141r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="20" corresp="urn:cts:pta:pta0002.pta020">
+      <locus from="141r" to="149r">141r-149r</locus>
+      <note>Johannes Chrysostomus, Ad populum Antiochenum homilie 21</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="21" corresp="urn:cts:pta:pta0002.pta021">
+      <locus from="149r" to="156v">149r-156v</locus>
+      <note>Johannes Chrysostomus, Ad illuminandos catechesis 2 (CPG 4464, BHG ,
+       Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="22" corresp="urn:cts:pta:pta0002.pta022">
+      <locus from="157r" to="163r">157r-163r</locus>
+      <note>(Johannes Chrysostomus), In secundum domini adventum (CPG 4595, BHG ,
+       Aldama 110)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="23" corresp="urn:cts:pta:pta0002.pta023">
+      <locus from="163r" to="166v">163r-166v</locus>
+      <note>Johannes Chrysostomus, In Eutropium (CPG 4392, BHG , Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="24" corresp="urn:cts:pta:pta0002.pta024">
+      <locus from="166v" to="179v">166v-179v</locus>
+      <note>(Johannes Chrysostomus), Homilia de capto Eutropio (CPG 4528, BHG ,
+       Aldama 170)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="25" corresp="urn:cts:pta:pta0002.pta025">
+      <locus from="179v" to="187v">179v-187v</locus>
+      <note>Johannes Chrysostomus, In dictum Pauli: Nolo vos ignorare (CPG 4380,
+       BHG , Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="26" corresp="urn:cts:pta:pta0002.pta026">
+      <locus from="187v" to="193r">187v-193r</locus>
+      <note>Johannes Chrysostomus, De baptismo Christi (CPG 4335, BHG 1941, Aldama
+       )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="27" corresp="urn:cts:pta:pta0001.pta116">
+      <locus from="193r" to="204r">193r-204r</locus>
+      <note>(Johannes Chrysostomus), In baptismum et in tentationem (CPG , BHG
+       1936m, Aldama )</note>
+      <rubric>εἰς τὸ βάπτισμα καὶ εἰς τὸν πειρασμὸν καὶ εἰς τὸν λῃστήν, 
+       καὶ κατὰ ἀρεικνῶν, καὶ τί νοητέον τὸ, κλητὸς ἀπόστολος, 
+       και εἰς τινα ῤητὰ τοῦ ἀποστόλου ἑρμηνεία</rubric>
+      <incipit>Ὅπερ ἐστιν ὁ ἥλιος τοῖς σώμασιν, τοῦτο τών γραφῶν αἱ λαμπάδες τῇ ψυχῇ</incipit>
+      <explicit/>
+     </msItem>
+     <msItem n="28" corresp="urn:cts:pta:pta0002.pta027">
+      <locus from="204v" to="207v">204v-207v</locus>
+      <note>(Johannes Chrysostomus), In s. Bassum (CPG 4512, BHG 271, Aldama
+       77)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="29" corresp="urn:cts:pta:pta0002.pta028">
+      <locus from="208r" to="210r">208r-210r</locus>
+      <note>Johannes Chrysostomus, De terrae motu (CPG 4366, BHG 1700y, Aldama
+       )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="30" corresp="urn:cts:pta:pta0002.pta029">
+      <locus from="210r" to="212v">210r-212v</locus>
+      <note>(Johannes Chrysostomus), In publicanum et pharisaeum (= exc. ex de
+       incomprehensibili hom. 5) (CPG 4716, BHG , Aldama 202)</note>
+      <rubric/>
+      <incipit>καθάπερ νεφῶν συνδρομὴ</incipit>
+      <explicit/>
+     </msItem>
+     <msItem n="31" corresp="urn:cts:pta:pta0002.pta030">
+      <locus from="212v" to="219v">212v-219v</locus>
+      <note>Johannes Chrysostomus, De profectu evangelii (CPG 4385, BHG , Aldama
+       )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="32" xml:id="PTAMS00010_01">
+      <locus from="219v" to="226v">
+       219v–226v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="33" xml:id="PTAMS00010_02">
+      <locus from="226v" to="232v">
+       226v–232v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν περι φύσεως νόμον· κε εὐλόγησον</rubric>
+      <incipit>Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος·</incipit>
+      <explicit>ἡ ἀμεριστος βασιλεία· ἡ ἄσχιστος τιμή· ἡ ἀδιαίρετος ελπίς· ἡ ἀκατάληπτος δόξα τοῦ πρς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνς· ὧ ἡ δόξα εἰς τοὺς 
+       αἰῶνας  ἀμήν·</explicit>
+     </msItem>
+     <msItem n="34" corresp="urn:cts:pta:pta0002.pta031">
+      <locus from="233r" to="235v">233r-235v</locus>
+      <note>(Johannes Chrysostomus), In illud: Attendite ne eleemosynam (CPG 4585,
+       BHG , Aldama 307)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="35" corresp="urn:cts:pta:pta0002.pta032">
+      <locus from="236r" to="246r">236r-246r</locus>
+      <note>Johannes Chrysostomus, De resurrectione mortuorum (CPG 4340, BHG ,
+       Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="36" corresp="urn:cts:pta:pta0002.pta033">
+      <locus from="246r" to="252v">246r-252v</locus>
+      <note>Johannes Chrysostomus, In epistulam ad Hebraeos homilia 31 (CPG 4440,
+       BHG , Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="37" corresp="urn:cts:pta:pta0002.pta034">
+      <locus from="252v" to="257v">252v-257v</locus>
+      <note>(Johannes Chrysostomus), Ecloga de compunctione et patientia homilia
+       44 (CPG 4684, BHG , Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="38" corresp="urn:cts:pta:pta0002.pta035">
+      <locus from="257v" to="264r">257v-264r</locus>
+      <note>Johannes Chrysostomus, In illud: hoc scitote quod in novissimis diebus
+       (CPG 4423, BHG 1616b, Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="39" corresp="urn:cts:pta:pta0002.pta036">
+      <locus from="264r" to="267v">264r-267v</locus>
+      <note>Johannes Chrysostomus, in illud: ne timueritis cum dives factus fuerit
+       homo (CPG 4414, BHG 2353c, Aldama 274)</note>
+      <rubric/>
+      <incipit/>
+      <explicit type="mutile">καὶ πολλὴ τῆς παρρησίας αὐτῆς ὑπερ</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="40" xml:id="PTAMS00010_03">
+      <locus from="268r" to="276r">
+       268r–276r
+      </locus>
+      <rubric/>
+      <incipit type="mutile">ἂκουε.Θάρρα ὁ πατὴρ Ἀβραὰμ εἰδώλων ἠν καὶ προτκυνήτης καὶ θεραπευτὴς</incipit>
+      <explicit>ἡ γάρ ὑπομονὴ τῶν πενήτων οὐκ ἀπολεῖται εἰς τὸν χἰῶνα 
+       ἐν Χριστῶ Ιησοῦ...ἀμήν</explicit>
+     </msItem>
+     <msItem n="41" corresp="urn:cts:pta:pta0002.pta037">
+      <locus from="276r" to="283r">276r-283r</locus>
+      <note>Johannes Chrysostomus, In epistulam ad Hebraeos homilia 20 (CPG 4440,
+       BHG , Aldama )</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="42" corresp="urn:cts:pta:pta0002.pta038">
+      <locus from="283r" to="291v">283r-291v</locus>
+      <note>Johannes Chrysostomus, In Psalmum 50 homilia 1 (CPG 4544, BHG , Aldama
+       294)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="43" corresp="urn:cts:pta:pta0002.pta039">
+      <locus from="292r" to="301r">292r-301r</locus>
+      <note>Johannes Chrysostomus, In Psalmum 50 homilia 2 (CPG 4545, BHG , Aldama
+       474)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="44" corresp="urn:cts:pta:pta0002.pta040">
+      <locus from="301r" to="304r">301r-304r</locus>
+      <note>Johannes Chrysostomus, De paenitentia et in lectionem de Davide et de
+       uxore Uriae (CPG 4694, BHG , Aldama 194)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem n="45" corresp="urn:cts:pta:pta0002.pta041">
+      <locus from="304v" to="312r">304v-312r</locus>
+      <note>Johannes Chrysostomus, Expositio in Psalmum 41 (CPG 4413(2), BHG ,
+       Aldama 520)</note>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <physDesc>
+     <objectDesc>
+      <supportDesc>
+       <support>
+         <material>Pergament</material>
+       </support>
+       <extent><dimensions type="leaf" unit="mm">
+         <height>325</height>
+         <width>232</width>
+        </dimensions>
+        <measure type="numLeaves">309</measure>
+       </extent>
+      </supportDesc>
+     </objectDesc>
+    </physDesc>
+    <history>
+     <origin>
+      <p n="origPrimary">
+       <origDate notBefore-iso="1054-01-01" notAfter-iso="1054-12-31">1054 (Richard)</origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/en/browse/3001" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+     <listBibl>
+      <listBibl type="bibl">
+       <bibl>Sakkelion, 46</bibl>
+       <bibl>M. Richard, Pinakes (<ref type="straighturl" target="http://ideal.irht.cnrs.fr/document/818465">http://ideal.irht.cnrs.fr/document/818465</ref>)</bibl>
+      </listBibl>
+     </listBibl>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

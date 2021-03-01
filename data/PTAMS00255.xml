@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00255" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Napoli, Biblioteca Nazionale, fonds principal II B 05
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2020-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Napoli
+     </settlement>
+     <repository>
+      Biblioteca Nazionale
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+      II B 05
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       46021
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00255_01">
+      <locus from="221v" to="234v">
+       221v–234v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14 med.
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://www.nuovabibliotecamanoscritta.it/Generale/ricerca/AnteprimaManoscritto.html?codiceMan=50325&amp;tipoRicerca=A&amp;urlSearch=pagCorrente%3D3.0%26__checkbox_autografi%3Dtrue%26tipoRicerca%3DA%26__checkbox_datati%3Dtrue%26__checkbox_palinsesto%3Dtrue%26tipo_corpo_codice%3D%26tipo_parola%3DA%26data_da%3D%26responsabilita%3D%26__checkbox_immagini%3Dtrue%26data_a%3D%26linguaMan%3D0%26titolo%3D%26__checkbox_decorati%3Dtrue%26argomento%3D%26segnatura%3D%26anticasegnatura%3D%26incipit%3D%26__checkbox_musicali%3Dtrue%26__checkbox_carteggio%3Dtrue%26codBiblioteca%3D59%26__checkbox_restauro%3Dtrue%26explicit%3D%26__checkbox_astampa%3Dtrue%26nome%3D%26parola%3D%26__checkbox_composito%3Dtrue%26language%3Dit%26ordinaDatazione%3Dfalse%26ordineInverso%3Dfalse&amp;codice=&amp;codiceDigital=" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
