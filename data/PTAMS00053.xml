@@ -89,7 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/viewpage.php?index=943&amp;history=1&amp;index=943&amp;history=1" type="straighturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

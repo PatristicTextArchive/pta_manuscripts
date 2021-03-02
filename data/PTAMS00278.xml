@@ -105,7 +105,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/94b35cfd-5bd9-4a01-837b-0ffed015cd7b," type="straighturl"/>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/94b35cfd-5bd9-4a01-837b-0ffed015cd7b" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/94b35cfd-5bd9-4a01-837b-0ffed015cd7b.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

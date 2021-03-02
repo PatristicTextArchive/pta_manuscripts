@@ -107,6 +107,9 @@
        <bibl>
         <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.13" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.13/manifest.json" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>

@@ -99,6 +99,9 @@
        <bibl>
         <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.547" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.547/manifest.json" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>

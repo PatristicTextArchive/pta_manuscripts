@@ -91,6 +91,9 @@
        <bibl>
         <ref target="https://www.loc.gov/item/00279381622-ms" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279381622-ms/manifest.json" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>

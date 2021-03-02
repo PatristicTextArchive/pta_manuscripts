@@ -91,6 +91,9 @@
        <bibl>
         <ref target="http://digi.vatlib.it/view/MSS_Chig.R.IV.12" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Chig.R.IV.12/manifest.json" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>
