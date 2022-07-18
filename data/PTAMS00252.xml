@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Mutilene, Monê tou Leimônos, fonds principal 87
+     München, Bayerische Staatsbibliothek (BSB), Cod.graec. 551
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Mutilene
+      München
      </settlement>
      <repository>
-      Monê tou Leimônos
+      Bayerische Staatsbibliothek (BSB)
      </repository>
      <collection>
-      fonds principal
+      Cod.graec.
      </collection>
      <idno>
-      87
+      551
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       45410
+       44999
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00252_01">
-      <locus from="404v" to="412v">
-       404v–412v
+     <msItem corresp="urn:cts:pta:pta0001.pta036" n="1" xml:id="PTAMS00252_01">
+      <locus from="064v" to="065">
+       064v–065
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://daten.digitale-sammlungen.de/~db/0007/bsb00077176/images/index.html" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00077176/manifest" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

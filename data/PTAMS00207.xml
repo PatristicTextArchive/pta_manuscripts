@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Meteora, Monê Metamorphôseôs, fonds principal 366
+     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 148
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,51 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Meteora
+      Messina
      </settlement>
      <repository>
-      Monê Metamorphôseôs
+      Biblioteca Regionale Universitaria 'Giacomo Longo'
      </repository>
      <collection>
-      fonds principal
+      S. Salv.
      </collection>
      <idno>
-      366
+      148
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       41776
+       40809
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00207_01">
-      <locus from="009v" to="017">
-       009v–017
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00207_02">
-      <locus from="180v" to="190v">
-       180v–190v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta021" n="3" xml:id="PTAMS00207_03">
-      <locus from="297" to="304">
-       297–304
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="4" xml:id="PTAMS00207_04">
-      <locus from="304" to="310v">
-       304–310v
+     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00207_01">
+      <locus from="248v" to="249v">
+       248v–249v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>

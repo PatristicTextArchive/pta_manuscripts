@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Kraków, Biblioteka Jagiellońska, Berlin, graec. 1°.45.VIII (281)
+     Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Graec. 1°.25 (263)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Kraków
+      Berlin
      </settlement>
      <repository>
-      Biblioteka Jagiellońska
+      Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)
      </repository>
      <collection>
-      Berlin, graec.
+      Graec.
      </collection>
      <idno>
-      1°.45.VIII (281)
+      1°.25 (263)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       9129
+       9098
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00043_01">
-      <locus from="001" to="008v, item 09">
-       001–008v, item 09
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00043_02">
-      <locus from="001" to="008v, item 12">
-       001–008v, item 12
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00043_01">
+      <locus from="159v" to="169v">
+       159v–169v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>

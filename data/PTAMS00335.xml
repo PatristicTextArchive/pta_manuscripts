@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 776
+     Paris, Bibliothèque nationale de France (BNF), Grec 758
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,69 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      grec
+      Grec
      </collection>
      <idno>
-      776
+      758
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50360
+       50341
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00335_01">
-      <locus from="092" to="097">
-       092–097
+     <msItem corresp="urn:cts:pta:pta0001.pta038" n="1" xml:id="PTAMS00335_01">
+      <locus from="045" to="052v">
+       045–052v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00335_02">
-      <locus from="097" to="099v">
-       097–099v
+     <msItem corresp="urn:cts:pta:pta0001.pta057" n="2" xml:id="PTAMS00335_02">
+      <locus from="1-4v">
+       1-4v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00335_03">
-      <locus from="255v" to="260v">
-       255v–260v
+     <msItem corresp="urn:cts:pta:pta0001.pta061" n="3" xml:id="PTAMS00335_03">
+      <locus from="17v-19v, 23v-33v">
+       17v-19v, 23v-33v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta060" n="4" xml:id="PTAMS00335_04">
+      <locus from="20-23v, 12-17v">
+       20-23v, 12-17v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="5" xml:id="PTAMS00335_05">
+      <locus from="33v-45">
+       33v-45
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta058" n="6" xml:id="PTAMS00335_06">
+      <locus from="4v-8v">
+       4v-8v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta059" n="7" xml:id="PTAMS00335_07">
+      <locus from="9-11v">
+       9-11v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +127,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -105,8 +137,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b10723792h," type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107234122" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107234122/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

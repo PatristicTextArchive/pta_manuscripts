@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Cambridge, Trinity College, fonds principal B.08.07 (191)
+     Bruxelles, Bibliothèque Royale Albert Ier, fonds principal IV.00459
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Cambridge
+      Bruxelles
      </settlement>
      <repository>
-      Trinity College
+      Bibliothèque Royale Albert Ier
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      B.08.07 (191)
+      IV.00459
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       11921
+       10033
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00050_01">
-      <locus from="070v" to="078">
-       070v–078
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00050_02">
-      <locus from="351" to="357v">
-       351–357v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00050_01">
+      <locus from="059v" to="063">
+       059v–063
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11 ex.
+       <origDate notAfter-iso="0900-12-31" notBefore-iso="0701-01-01">
+        s. 08–09
        </origDate>
       </p>
      </origin>

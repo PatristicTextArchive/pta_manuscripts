@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00557" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 621
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-05-03" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana (BAV)
+     </repository>
+     <collection>
+      Vat. gr.
+     </collection>
+     <idno>
+      621
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       67252
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       E
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6203" n="1" xml:id="PTAMS00557_01">
+      <locus from="1r" to="77r">
+       1r–77r
+      </locus>
+      <rubric>Τοῦ μακαρίτου Θεοδορίτου ἐπισκόπου· Κύρου ἑρμηνεία εἰς τὰ ἄσμα τῶν ἀσμάτων τῶ θεοφιλεστάτῶ ἐπισκόπω ἰωάννη, Θεοδώριτος</rubric>
+      <incipit>ἡ τῶν θείων λογίων ἐξήγησις, δεῖται</incipit>
+      <explicit>ἐστιν ἀντίληψις αὐτῷ παρὰ σοθ, αἱ ἀναβάσεις σου καρδίᾳ αὐτοῦ· σοι δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:-</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00557_02">
+      <locus from="079r" to="182r">
+       79r–182r
+      </locus>
+      <rubric>
+       Θεοδωρήτου ἐπϊσκόπου κΰρου τῆς πόλεως· ὑπόμνημα εἰς τὰς ὁράσεις τοῦ προφήτου δανϊὴλ
+      </rubric>
+      <incipit>
+       Εἰ πᾶσϊ ῥᾴδιον ἦν, τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit>
+       εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν : τῷ θεῷ ἡμῶν δόξα
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

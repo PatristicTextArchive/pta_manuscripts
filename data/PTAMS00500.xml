@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. VII. 031 (coll. 1018)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2071
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr.
+      Vat. gr.
      </collection>
      <idno>
-      VII. 031 (coll. 1018)
+      2071
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70548
+       68701
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00500_01">
-      <locus from="278" to="281v">
-       278–281v
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00500_01">
+      <locus from="168v" to="191v">
+       168v–191v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="2" xml:id="PTAMS00500_02">
+      <locus from="218v" to="226v">
+       218v–226v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate>
+        unbekannt
        </origDate>
       </p>
      </origin>

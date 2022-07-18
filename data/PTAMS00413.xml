@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal B. VI. 02 (Pasini 295)
+     Sinai, Monê tês Hagias Aikaterinês, gr. 535
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Torino
+      Sinai
      </settlement>
      <repository>
-      Biblioteca Nazionale Universitaria
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      B. VI. 02 (Pasini 295)
+      535
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63770
+       58910
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00413_01">
-      <locus from="001" to="012">
-       001–012
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="2" xml:id="PTAMS00413_02">
-      <locus from="018v" to="037">
-       018v–037
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00413_01">
+      <locus from="064v" to="080">
+       064v–080
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279380691-ms" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

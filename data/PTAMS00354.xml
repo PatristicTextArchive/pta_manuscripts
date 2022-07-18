@@ -4,8 +4,12 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1220A
+     Paris, Bibliothèque nationale de France (BNF), grec 979
     </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
    </titleStmt>
    <editionStmt>
     <edition>
@@ -38,6 +42,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2021-11-10" who="#AvS">Added msitem data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -58,18 +63,513 @@
       grec
      </collection>
      <idno>
-      1220A
+      979
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50826
+       50570
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       P
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00354_01">
-      <locus from="075" to="092">
-       075–092
+     <msItem defective="true" corresp="cpg:3010.38" n="1" xml:id="PTAMS00354_01">
+      <locus from="1r" to="3r">1r–3r</locus>
+      <rubric type="missing"/>
+      <incipit type="defective">ὅτι λεντίῳ διαζώννυται καὶ νίπτει τοὺς πόδας <note>= inc. PG 36,328 (l. 25)</note></incipit>
+      <explicit>ὅσον ἐφικτὸν τοῖς δεσμοῖς τῆς σαρκός· ἐν χριστῷ ἰησοῦ τῷ κυρίῳ ἡμῶν· ὧ ἡ δόξα καὶ τὸ κράτος· εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:–</explicit>
+     </msItem>
+     <msItem corresp="cpg:3010.39" n="2" xml:id="PTAMS00354_02">
+      <locus from="3r" to="13v">3r–13v</locus>
+      <rubric>Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν γρηγορίου ἐπισκόπου ναζιανζοῦ τοῦ θεολόγου λόγος εἰς τὰ ἅγια θεοφάνεια εὐλόγησον +</rubric>
+      <incipit>Πάλιν Ἰησοῦς ὁ ἐμὸς</incipit>
+      <explicit>ἧς νῦν μετρίως ὑποδεχόμεθα τὴν μίαν αὐγὴν ἐκ μιᾶς τῆς θεότητος· ἐν χριστῷ ἰησοῦ τῷ κυρίῳ ἡμῶν· ὧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4522" n="3" xml:id="PTAMS00354_03">
+      <locus from="13v" to="17r">13v–17r</locus>
+      <rubric>Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου· λόγος εἰς τὰ ἅγια θεοφάνεια εὐλόγησον +</rubric>
+      <incipit>Ἡ πηγὴ τῶν εὐαγγελικῶν διδαγμάτων</incipit>
+      <explicit>ὑπὲρ ἀδόξων τὸν ἔνδοξον· δοξά σω μὲν οὖν τὸν ἐπιφανέντα δεσκότην χριστόν· ὅτι αὐτῷ πρέπει δόξα, καὶ τὸ κράτος· τῷ πατρὶ καὶ τῷ υἱῷ καὶ τῷ ἁγίῳ πνεύματι· νῦν καὶ ἀεὶ καὶ εἱς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν +</explicit>
+     </msItem>
+     <msItem corresp="cpg:5806" n="4" xml:id="PTAMS00354_04">
+      <locus from="17r" to="21v">17r–21v</locus>
+      <rubric>τοῦ ἁγίου πατρὸς ἡμῶν καὶ μακαρίου <unclear>πρόκλου</unclear>· ἀρχιεπισκόπου κωνσταντινουπόλεως· λόγος εἰς τὰ ἅγια θεοφάνεια· εὐλόγησον πάτερ:- </rubric>
+      <incipit>Χριστὸς τῷ κόσμῳ ἐπέφανεν</incipit>
+      <explicit>χάριτι καὶ οἰκτιρμοῖς καὶ φιλανθρωπία· τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθ’ οὗ τῷ θεῷ καὶ πατρὶ· ἡ δόξα καὶ τὸ κράτος· σὺν τῷ ἁγίῷ καὶ ἀγαθῶ· καὶ ζωοποιῶ πνεύματι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:-</explicit>
+     </msItem>
+     <msItem corresp="cpg:3771" n="5" xml:id="PTAMS00354_05">
+      <locus from="21v" to="26r">21v–26r</locus>
+      <rubric>τοῦ ἁγίου ἐπιφανίου ἀρχιεπισκόπου κύπρου ἐγκώμιον εἰς τὴν ἁγίαν θεοτόκον μαριάμ εὐλόγησον</rubric>
+      <incipit>Τὰς ἐκλαμπούσας μαρμαρυγὰς τῆς θεοτόκου ἀκτῖνας</incipit>
+      <explicit>τοῖς δεσμοῖς τῆς σαρκὸς· ἐν χριστῷ ἰησοῦ τῶι κυρίῷ ἡμῶν· ὧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:-</explicit>
+     </msItem>
+     <msItem corresp="cpg:4875" n="6" xml:id="PTAMS00354_06">
+      <locus from="26r" to="37r">26r–37r</locus>
+      <rubric>+ τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου· λόγος εἰς τὸν ἀστέρα καὶ εἰς τοὺς μάγους· καὶ εἰς τὴν γένναν τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ, μέχρι ἀναστάσεως αὐτοῦ· καὶ εἰς τὰ νήπια· καὶ εἰς τὴν ἀπάτην ἡρώδου· εὐλόγησον:-</rubric>
+      <incipit>Δεῦτε πάντα τὰ ἔθνη</incipit>
+      <explicit>τριάδα ἀχώριστον καὶ ὁμοούσιον δοξάζοντες· εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:-</explicit>
+     </msItem>
+     <msItem corresp="cpg:5816" n="7" xml:id="PTAMS00354_07">
+      <locus from="37v" to="42r">37v–42r</locus>
+      <rubric>τοῦ ἁγίου πατρὸς ἡμῶν πρόκλου ἀρχιεπισκόπου κωνσταντινουπόλεως· λόγος εἰς τὸν ἅγιον μάρτυραν καὶ ἀρχιδιάκονον στέφανον· εὐλόγησον</rubric>
+      <incipit>Ὁ μὲν αἰσθητὸς ἥλιος, ὑπὲρ γῆς ἀνατέλλον</incipit>
+      <explicit>τὸν ἀκρογωνιαῖον λίθον ἔνδοθεν φέρων, χριστὸν ἰησοῦν. τὸν κύριον ἡμῶν· αὐτῷ ἡ δόξα τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:-</explicit>
+     </msItem>
+     <msItem corresp="cpg:4638" n="8" xml:id="PTAMS00354_08">
+      <locus from="42r" to="45v">42r–45v</locus>
+      <rubric>+ τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου τοῦ χρυσοστόμου· λόγος εἰς τὸν ἡρώδην καὶ εἰς τὰ νήπια· εὐλόγησον δέσποτα:-</rubric>
+      <incipit>Ἤθελον μὲν ἀεὶ καὶ πάντοτε</incipit>
+      <explicit>τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τῶν οὐρανῶν· ἐν χριστῷ ἰησου τῷ κυρίῳ ἡμῶν· ὧ ἡ δόξα καὶ τὸ κράτος νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:-</explicit>
+     </msItem>
+     <msItem corresp="cpg:3253
+BHG 0246y-0260ab" n="9" xml:id="PTAMS00354_09">
+      <note>
+       Amphilochius Iconiensis, Vita et miracula S. Basilii Magni (CPG 3253
+BHG 0246y-0260ab)
+      </note>
+      <locus from="45v" to="73v">045v-48v, 049-73v</locus>
+      <rubric>+ Διήγησις τοῦ ὁσίου πατρὸς ἡμῶν ἀμφιλοχίου ἐπισκόπου τοῦ ἰκονίου· περὶ τοῦ βίου καὶ τῶν θαυμάτων τοῦ ἐν ἁγίοις πατρὸς ἡμῶν βασιλείου ἀρχιεπισκόπου γενομένου καισαρέων μεγάλης πόλεως τῆς πρώτης τῶν καππαδοκῶν χώρας· εὐλόγησον δέσποτα:-</rubric>
+      <incipit>Ἀδελφοί· οὐκ ἦν ἀπηκοῶς εὐγνώμονας υἱοὺς</incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:3592
+BHG 1973-1973b" n="10" xml:id="PTAMS00354_10">
+      <note>
+       Cyrillus Hierosolymitanus, Hom in occursum Domini (CPG 3592
+BHG 1973-1973b)
+      </note>
+      <locus from="074-78v">
+       074-78v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:1778
+BHG 1960" n="11" xml:id="PTAMS00354_11">
+      <note>
+       Gregorius Thaumaturgus Neocaesariensis, Oratio de hypapante (CPG 1778
+BHG 1960)
+      </note>
+      <locus from="078v-84">
+       078v-84
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7751" n="12" xml:id="PTAMS00354_12">
+      <note>
+       Anastasius Sinaita, In sextum Psalmum (CPG 7751)
+      </note>
+      <locus from="093v-106v*">
+       093v-106v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3945
+BHG 2102y" n="13" xml:id="PTAMS00354_13">
+      <note>
+       Ephraem Graecus, De communi resurrectione (CPG 3945
+BHG 2102y)
+      </note>
+      <locus from="114v-119v">
+       114v-119v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:1776
+BHG 1092w" n="14" xml:id="PTAMS00354_14">
+      <note>
+       Gregorius Thaumaturgus Neocaesariensis, Homilia II in annuntiationem Deiparae (CPG 1776
+BHG 1092w)
+      </note>
+      <locus from="122v-130v*">
+       122v-130v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8008
+BHG 1104
+Aldama 193" n="15" xml:id="PTAMS00354_15">
+      <note>
+       Germanus CP. ptr. I, In praesentationem Deiparae II (CPG 8008
+BHG 1104
+Aldama 193)
+      </note>
+      <locus from="130v-136v*">
+       130v-136v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta035" n="16" xml:id="PTAMS00354_16">
+      <locus from="141r" to="144r">
+       141r–144r
+      </locus>
+      <rubric>Σευηρίου ἐπισκόπου γαβαλῶν· εἰς τὸν ἐκ γεννητῆς τυφλόν· εὐλόγησον</rubric>
+      <incipit>Τοῖς τῆς γῆς βασιλεῦσιν</incipit>
+      <explicit>εἰ νεκρὸς ἐστίν, οὐκ οἶδα· ἓν οἶδα ὅτι τυφλὸς ὢν ἄρτι βλέπω· ὅτι αὐτῷ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν</explicit>
+     </msItem>
+     <msItem corresp="cpg:BHG 1201-1201d, 1201f" n="17" xml:id="PTAMS00354_17">
+      <note>
+       Hagiographica, Martyres XL Sebasteni (SS.), Passio (BHG 1201-1201d, 1201f)
+      </note>
+      <locus from="144-150v">
+       144-150v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4519
+BHG 1128f
+Aldama 389
+CCG Appendix VIII, 10" n="18" xml:id="PTAMS00354_18">
+      <note>
+       Iohannes Chrysostomus, In annuntiationem Beatae Mariae Virginis (CPG 4519
+BHG 1128f
+Aldama 389
+CCG Appendix VIII, 10)
+      </note>
+      <locus from="151-154v">
+       151-154v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4681
+BHG 2231-2231c
+Aldama 567" n="19" xml:id="PTAMS00354_19">
+      <note>
+       Iohannes Chrysostomus, In Lazarum, homilia 2 (CPG 4681
+BHG 2231-2231c
+Aldama 567)
+      </note>
+      <locus from="155-158">
+       155-158
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3767" n="20" xml:id="PTAMS00354_20">
+      <note>
+       Epiphanius Constantiensis, In Festo Palmarum (CPG 3767)
+      </note>
+      <locus from="158-166*">
+       158-166*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7898
+BHG 2216-2216c" n="21" xml:id="PTAMS00354_21">
+      <note>
+       Leontius CP. presbyter, Hom. 3 in ramos palmarum (CPG 7898
+BHG 2216-2216c)
+      </note>
+      <locus from="166-171">
+       166-171
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7894
+BHG 0939i" n="22" xml:id="PTAMS00354_22">
+      <note>
+       Leontius CP. presbyter, Homilia 4 in Iob (CPG 7894
+BHG 0939i)
+      </note>
+      <locus from="171-176v">
+       171-176v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4046
+BHG 1162e" n="23" xml:id="PTAMS00354_23">
+      <note>
+       Ephraem Graecus, In meretricem (CPG 4046
+BHG 1162e)
+      </note>
+      <locus from="189v-197*">
+       189v-197*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3234
+BHG 1162h
+Aldama 196" n="24" xml:id="PTAMS00354_24">
+      <note>
+       Amphilochius Iconiensis, In mulierem peccatricem (CPG 3234
+BHG 1162h
+Aldama 196)
+      </note>
+      <locus from="197-205v">
+       197-205v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4025
+BHG 0450k" n="25" xml:id="PTAMS00354_25">
+      <note>
+       Ephraem Graecus, De Passione Saluatoris (CPG 4025
+BHG 0450k)
+      </note>
+      <locus from="205v-210*">
+       205v-210*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7754
+BHG 0416c" n="26" xml:id="PTAMS00354_26">
+      <note>
+       Anastasius Sinaita, Homilia in Passionem Iesu Christi (CPG 7754
+BHG 0416c)
+      </note>
+      <locus from="210-230v*">
+       210-230v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3768
+BHG 0808e" n="27" xml:id="PTAMS00354_27">
+      <note>
+       Epiphanius Constantiensis, In diuini corporis sepulturam (CPG 3768
+BHG 0808e)
+      </note>
+      <locus from="230v-244v">
+       230v-244v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5527
+BHG 0635u-0635uc
+Aldama 028" n="28" xml:id="PTAMS00354_28">
+      <note>
+       Eusebius Alexandrinus (pseudo), Sermo 18 : De Domini resurrectione (CPG 5527
+BHG 0635u-0635uc
+Aldama 028)
+      </note>
+      <locus from="248-253">
+       248-253
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3010.01,45" n="29" xml:id="PTAMS00354_29">
+      <note>
+       Gregorius Nazianzenus, In sanctum Pascha 1-2 (or. 1 et 45) (CPG 3010.01,45)
+      </note>
+      <locus from="253v-256*">
+       253v-256*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3010.44
+BHG 1021" n="30" xml:id="PTAMS00354_30">
+      <note>
+       Gregorius Nazianzenus, In nouam Dominicam (or. 44) (CPG 3010.44
+BHG 1021)
+      </note>
+      <locus from="256-262*">
+       256-262*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4513
+BHG 1488
+Aldama 314" n="31" xml:id="PTAMS00354_31">
+      <note>
+       Iohannes Chrysostomus, In SS. Petrum et Heliam (CPG 4513
+BHG 1488
+Aldama 314)
+      </note>
+      <locus from="262-270v">
+       262-270v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4651
+BHG 2269ba-2269bd
+Aldama 450" n="32" xml:id="PTAMS00354_32">
+      <note>
+       Iohannes Chrysostomus, In illud : Ascendit Dominus in templo (CPG 4651
+BHG 2269ba-2269bd
+Aldama 450)
+      </note>
+      <locus from="270v-274v">
+       270v-274v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7899b
+BHG 2103eb" n="33" xml:id="PTAMS00354_33">
+      <note>
+       Leontius CP. presbyter, Hom. 13 in pentecosten (CPG 7899b
+BHG 2103eb)
+      </note>
+      <locus from="283v-290">
+       283v-290
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4597
+BHG 0820
+Aldama 185" n="34" xml:id="PTAMS00354_34">
+      <note>
+       Iohannes Chrysostomus, In principium indictionis (CPG 4597
+BHG 0820
+Aldama 185)
+      </note>
+      <locus from="290-293v">
+       290-293v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:CANT 193.2
+BHG 1490" n="35" xml:id="PTAMS00354_35">
+      <note>
+       Hagiographica, Petrus et Paulus ap. (SS.), Passio amborum (recensio longior) (CANT 193.2
+BHG 1490)
+      </note>
+      <locus from="294-309v">
+       294-309v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3939
+BHG 1982" n="36" xml:id="PTAMS00354_36">
+      <note>
+       Ephraem Graecus, In transfigurationem Domini (CPG 3939
+BHG 1982)
+      </note>
+      <locus from="310-316v">
+       310-316v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8182
+BHG 1115-1115a" n="37" xml:id="PTAMS00354_37">
+      <note>
+       Andreas Cretensis, In dormitionem S. Mariae II (CPG 8182
+BHG 1115-1115a)
+      </note>
+      <locus from="316v-324v">
+       316v-324v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8181-8183" n="38" xml:id="PTAMS00354_38">
+      <note>
+       Andreas Cretensis, In Dormitionem S. Mariae I-III (CPG 8181-8183)
+      </note>
+      <locus from="324v-332*">
+       324v-332*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:BHG 0396-0409z" n="39" xml:id="PTAMS00354_39">
+      <note>
+       Menander protector, Visio Constantini, inuentio Crucis et clauorum (BHG 0396-0409z)
+      </note>
+      <locus from="332-333">
+       332-333
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:BHG 0396-0409z" n="40" xml:id="PTAMS00354_40">
+      <note>
+       Menander protector, Visio Constantini, inuentio Crucis et clauorum (BHG 0396-0409z)
+      </note>
+      <locus from="333v-340v">
+       333v-340v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4300
+BHG 1768" n="41" xml:id="PTAMS00354_41">
+      <note>
+       Nectarius Constantinopolitanus, Sermo de festo S. Theodori (CPG 4300
+BHG 1768)
+      </note>
+      <locus from="340v-373*">
+       340v-373*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:BHG 0743" n="42" xml:id="PTAMS00354_42">
+      <note>
+       Rhodo hagiographus, Vita S. Heraclidis monachi (BHG 0743)
+      </note>
+      <locus from="371-v, 375-378v">
+       371-v, 375-378v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:CANT 050
+BHG 1046, 1046b-1046g" n="43" xml:id="PTAMS00354_43">
+      <note>
+       Apocrypha, Protevangelium Iacobi (CANT 050
+BHG 1046, 1046b-1046g)
+      </note>
+      <locus from="373-374v, 325-332">
+       373-374v, 325-332
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +579,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10721751q" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721751q/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

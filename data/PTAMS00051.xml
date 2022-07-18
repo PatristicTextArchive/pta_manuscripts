@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Cambridge, Trinity College, fonds principal B.08.08 (192)
+     Cambridge, Trinity College, fonds principal B.08.07 (191)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,29 +58,42 @@
       fonds principal
      </collection>
      <idno>
-      B.08.08 (192)
+      B.08.07 (191)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       11922
+       11921
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ca
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00051_01">
-      <locus from="001" to="014v">
-       001–014v
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00051_01">
+      <locus from="070v" to="078r">
+       70v–78r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="2" xml:id="PTAMS00051_02">
+      <locus from="351r" to="357v">
+       351r–357v
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ Χρυσοστόμου· λὀγος πῶς ὁ ἀδὰμ διεπλάσθη τῆ ἑκτῆ ἡμέρα· ἐν ὧ καὶ τὴν ψυχὴν ἔλαβεν· καὶ περὶ τῆς νυχθήσης θεῖας πλευρᾶς τῆ ἁγία καὶ μεγάλη παρασκευῆ:</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ καρποί</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἀνεκλήθημεν διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθοὗ τῶ πατρὶ δόξα συν τῶ παναγίω καὶ ζωοποιῶ πνεύματι· νῦνι καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11 ex.
        </origDate>
       </p>
      </origin>
@@ -89,10 +102,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.8" type="straighturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.7" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.8/manifest.json" type="manifesturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.7/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

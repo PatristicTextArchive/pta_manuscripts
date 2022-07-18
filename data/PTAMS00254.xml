@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Napoli, Biblioteca nazionale Vittorio Emanuele III, ex-Vind. gr. 19*
+     Mutilene, Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa), fonds principal 57
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Napoli
+      Mutilene
      </settlement>
      <repository>
-      Biblioteca nazionale Vittorio Emanuele III
+      Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa)
      </repository>
      <collection>
-      ex-Vind. gr.
+      fonds principal
      </collection>
      <idno>
-      19*
+      57
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       45975
+       45321
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00254_01">
-      <locus from="065" to="067">
-       065–067
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00254_02">
-      <locus from="104" to="105v">
-       104–105v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta003" n="3" xml:id="PTAMS00254_03">
-      <locus from="118" to="119">
-       118–119
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00254_01">
+      <locus from="165" to="167">
+       165–167
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
-        s. 17 in.
+       <origDate when-iso="1604">
+        a. 1604
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Laud gr. 21
+     Oxford, Bodleian Library, Holkham gr. 022
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,37 @@
       Bodleian Library
      </repository>
      <collection>
-      Laud
+      Holkham
      </collection>
      <idno>
-      gr. 21
+      gr. 022
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48242
+       48090
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00294_01">
-      <locus from="261" to="261v">
-       261–261v
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="1" xml:id="PTAMS00294_01">
+      <locus from="094" to="098v">
+       094–098v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="2" xml:id="PTAMS00294_02">
+      <locus from="465">
+       465
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="3" xml:id="PTAMS00294_03">
+      <locus from="71v-84">
+       71v-84
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
+        s. 15–16
        </origDate>
       </p>
      </origin>

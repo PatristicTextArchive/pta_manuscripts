@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Firenze, Biblioteca Medicea Laurenziana (BML), S. Marco 679
+     Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 86. 08
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,29 @@
       Biblioteca Medicea Laurenziana (BML)
      </repository>
      <collection>
-      S. Marco
+      Plut.
      </collection>
      <idno>
-      679
+      86. 08
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       16898
+       16794
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00072_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00072_01">
+      <locus from="305" to="309">
+       305–309
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00072_02">
+      <locus from="305" to="309">
+       305–309
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +87,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.86.8" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

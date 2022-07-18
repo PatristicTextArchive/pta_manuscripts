@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Barb. gr. 583
+     Torino, Biblioteca Nazionale Universitaria, fonds principal B. III. 28 (Pasini 115)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Torino
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      Barb. gr.
+      fonds principal
      </collection>
      <idno>
-      583
+      B. III. 28 (Pasini 115)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65123
+       63697
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00424_01">
-      <locus from="147" to="152 (p.)">
-       147–152 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00424_01">
+      <locus from="101v-112">
+       101v-112
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00424_02">
-      <locus from="871" to="876 (p.)">
-       871–876 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00424_02">
+      <locus from="120v" to="129v">
+       120v–129v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,24 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 (3/4)
+       <origDate>
+        15
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.583" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.583/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

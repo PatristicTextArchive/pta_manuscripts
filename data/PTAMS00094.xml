@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Dionusiou, fonds principal 0173 (Lambros 3707)
+     Hagion Oros, Monê Dionusiou, fonds principal 0142 (Lambros 3676), nunc 0239
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,26 @@
       fonds principal
      </collection>
      <idno>
-      0173 (Lambros 3707)
+      0142 (Lambros 3676), nunc 0239
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       20141
+       20110
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00094_01">
-      <locus from="080" to="103v">
-       080–103v
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00094_01">
+      <locus from="015v" to="031v">
+       015v–031v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00094_02">
+      <locus from="032" to="048">
+       032–048
       </locus>
       <rubric/>
       <incipit/>
@@ -85,15 +93,6 @@
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://www.loc.gov/item/0027105029A-ma/" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

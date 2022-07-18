@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 214 (Vlad. 393)
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 135 (Vlad. 170)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Sinod. gr.
      </collection>
      <idno>
-      214 (Vlad. 393)
+      135 (Vlad. 170)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43839
+       43760
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00236_01">
-      <locus from="184-185">
-       184-185
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00236_01">
+      <locus from="109v" to="122v">
+       109v–122v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1401-01-01">
-        s. 15–17
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>

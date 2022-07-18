@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 172
+     Oxford, Bodleian Library, Auct. E. 4. 05 (Misc. 051.21)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Bodleian Library
      </repository>
      <collection>
-      Barocci
+      Auct.
      </collection>
      <idno>
-      172
+      E. 4. 05 (Misc. 051.21)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47459
+       47038
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00277_01">
-      <locus from="216" to="221">
-       216–221
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00277_01">
+      <locus from="I. 458" to="469 (p.)">
+       I. 458–469 (p.)
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
-        s. 14–15
+       <origDate when-iso="1587">
+        a. 1587
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/de88edef-d764-490a-a233-ea88b71586e5" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/de88edef-d764-490a-a233-ea88b71586e5.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

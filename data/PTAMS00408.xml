@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal B. III. 31 (Pasini 116)
+     Sinai, Monê tês Hagias Aikaterinês, gr. 491
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,42 +49,60 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Torino
+      Sinai
      </settlement>
      <repository>
-      Biblioteca Nazionale Universitaria
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      B. III. 31 (Pasini 116)
+      491
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63700
+       58866
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Si
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00408_01">
-      <locus from="090" to="097v">
-       090–097v
+     <msItem corresp="urn:cts:pta:pta0001.pta028" n="1" xml:id="PTAMS00408_01">
+      <locus from="87v" to="103r">
+       87v–103r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>σευηριανοῦ. ἐπισκοπου. γαβαλων εις τα θεοφανια</rubric>
+      <incipit>ἀνοιγέσθω· σήμερον. πᾶν· στόμα. πρὸς. θεολογίαν·</incipit>
+      <explicit>γένοιτο δὲ ἀδελφοὶ πάντοτε καταλαμπομένους. τω παναγίω θω δόξαν ἀναπέμπειν· ω πρέπει δόξα εἰς τοὺς αἰῶνας των αιωνων ἀμήν:-</explicit>
+      <finalRubric>+ του αγιου σευηριανου εις τα θεοφανια:</finalRubric>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
-        s. 15–16
+       <origDate>
+        8-9
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279382341-ms" type="straighturl"/>
+       </bibl>
+       <bibl>
+       <ref target="https://www.loc.gov/item/00279382341-ms/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

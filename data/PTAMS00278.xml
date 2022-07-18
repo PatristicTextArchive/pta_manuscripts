@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 186
+     Oxford, Bodleian Library, Auct. E. 5. 12 (Misc. 077)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,21 @@
       Bodleian Library
      </repository>
      <collection>
-      Barocci
+      Auct.
      </collection>
      <idno>
-      186
+      E. 5. 12 (Misc. 077)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47473
+       47064
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00278_01">
-      <locus from="174" to="193v">
-       174–193v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="2" xml:id="PTAMS00278_02">
-      <locus from="193v" to="206v">
-       193v–206v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="3" xml:id="PTAMS00278_03">
-      <locus from="261v" to="267v, 270">
-       261v–267v, 270–272v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00278_01">
+      <locus from="350v-355v">
+       350v-355v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate>
+        12
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/94b35cfd-5bd9-4a01-837b-0ffed015cd7b" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/94b35cfd-5bd9-4a01-837b-0ffed015cd7b.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), hist. gr. 62
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2401
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Vaticano
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      hist. gr.
+      Vat. gr.
      </collection>
      <idno>
-      62
+      2401
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70939
+       69032
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00502_01">
-      <locus from="144v" to="149">
-       144v–149
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00502_01">
+      <locus from="390" to="420">
+       390–420
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1319">
-        a. 1319
+       <origDate when-iso="1304–1305">
+        a. 1304–1305
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     København, Det Kongelige Bibliotek, Thott 0044 2°
+     Kozane, Kobentareios Dêmotikê Bibliothêkê, fonds principal 83
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      København
+      Kozane
      </settlement>
      <repository>
-      Det Kongelige Bibliotek
+      Kobentareios Dêmotikê Bibliothêkê
      </repository>
      <collection>
-      Thott
+      fonds principal
      </collection>
      <idno>
-      0044 2°
+      83
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       37259
+       36989
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00186_01">
-      <locus from="005v" to="008">
-       005v–008
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00186_02">
-      <locus from="008" to="013">
-       008–013
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00186_03">
-      <locus from="013" to="018v">
-       013–018v
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00186_01">
+      <locus from="001" to="013v">
+       001–013v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1800-12-31" notBefore-iso="1701-01-01">
+        s. 18
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://www5.kb.dk/manus/vmanus/2011/dec/ha/object69670/en/" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

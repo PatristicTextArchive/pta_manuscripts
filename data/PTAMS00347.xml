@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1173
+     Paris, Bibliothèque nationale de France (BNF), grec 779
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,47 @@
       grec
      </collection>
      <idno>
-      1173
+      779
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50774
+       50364
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Gb
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00347_01">
-      <locus from="190v" to="192">
-       190v–192
+     <msItem corresp="urn:cts:pta:pta0001.pta009" n="1" xml:id="PTAMS00347_01">
+      <locus from="240v" to="261v">
+       240v–261v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="2" xml:id="PTAMS00347_02">
+      <locus from="261v" to="269v">
+       261v–269v
+      </locus>
+      <rubric><num>γ</num> τοῦ αὐτοῦ εἰς τὸ ἐν ἀρχὴ ἢν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θυ. κύριε εὐλόγησον ⁖ + +</rubric>
+      <incipit>χθὲς ἡμῖν ὁ λόγος· εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit>γένοιτο δὲ ἡμᾶς εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ διδασκάλου· ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι. ἐν χω ιυ· ὦ ἡ δόξα εἰς τοὺς αἰώνας τῶν αἰώνων ἀμήν:—</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta042" n="3" xml:id="PTAMS00347_03">
+      <locus from="280r-289v">
+       280r-289v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="4" xml:id="PTAMS00347_04">
+      <locus from="296v" to="310v">
+       296v–310v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +108,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -89,8 +118,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107224921," type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107226022" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107226022/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

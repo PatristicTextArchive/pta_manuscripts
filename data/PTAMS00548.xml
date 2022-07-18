@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00526" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Escorial (El-), Real Biblioteca, fonds principal Ι. I. 14 (Andrés 482) [ms. détruit]
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
+   <change when-iso="2021-04-12" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Escorial (El-)
+     </settlement>
+     <repository>
+      Real Biblioteca
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+      Ι. I. 14 (Andrés 482)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       14686
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00526_01">
+      <locus from="1r" to="135r">
+       1r–135r
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00526_02">
+      <locus from="135r" to="135r">
+       135r–135r
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

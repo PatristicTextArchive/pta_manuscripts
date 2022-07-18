@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wroclaw, Biblioteka Uniwersytecka, Rehdinger 26
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 101 (coll. 1360)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wroclaw
+      Venezia
      </settlement>
      <repository>
-      Biblioteka Uniwersytecka
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      Rehdinger
+      gr.
      </collection>
      <idno>
-      26
+      II. 101 (coll. 1360)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       72188
+       70263
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00516_01">
-      <locus from="102" to="117">
-       102–117
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00516_01">
+      <locus from="54v-59">
+       54v-59
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1201-01-01">
-        s. 13–14
+       <origDate>
+        16 ex.
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://dk.bu.uni.wroc.pl/cymelia/displayDocument.htm?docId=5002000384" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal A 173 sup. (Martini-Bassi 066)
+     Meteôra, Monê Metamorphôseôs, fonds principal 549
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Milano
+      Meteôra
      </settlement>
      <repository>
-      Biblioteca Ambrosiana
+      Monê Metamorphôseôs
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      A 173 sup. (Martini-Bassi 066)
+      549
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       42260
+       41959
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00212_01">
-      <locus from="031" to="043">
-       031–043
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="1" xml:id="PTAMS00212_01">
+      <locus from="278" to="279">
+       278–279
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00212_02">
+      <locus from="279" to="288v">
+       279–288v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>

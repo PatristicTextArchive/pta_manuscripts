@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 1027
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 461
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      1027
+      461
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       3323
+       2757
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00026_01">
-      <locus from="316v" to="318v">
-       316v–318v
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00026_01">
+      <locus from="365" to="406 (p.)">
+       365–406 (p.)
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

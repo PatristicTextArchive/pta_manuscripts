@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 059 (coll. 1149)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1920
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,75 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr.
+      Vat. gr.
      </collection>
      <idno>
-      II. 059 (coll. 1149)
+      1920
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70221
+       68549
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00494_01">
-      <locus from="236v" to="248">
-       236v–248
+     <msItem corresp="urn:cts:pta:pta0001.pta060" n="1" xml:id="PTAMS00494_01">
+      <locus from="106v-119v">
+       106v-119v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00494_02">
-      <locus from="248v" to="256">
-       248v–256
+     <msItem corresp="urn:cts:pta:pta0001.pta061" n="2" xml:id="PTAMS00494_02">
+      <locus from="120-131v">
+       120-131v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00494_03">
-      <locus from="256" to="259v">
-       256–259v
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="3" xml:id="PTAMS00494_03">
+      <locus from="131v-146v">
+       131v-146v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="4" xml:id="PTAMS00494_04">
+      <locus from="398v-403v">
+       398v-403v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta057" n="5" xml:id="PTAMS00494_05">
+      <locus from="81-89">
+       81-89
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta058" n="6" xml:id="PTAMS00494_06">
+      <locus from="89-96v">
+       89-96v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta059" n="7" xml:id="PTAMS00494_07">
+      <locus from="956v-106">
+       956v-106
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +127,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1579">
-        a. 1579
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 307
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 59 (coll. 1149)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,51 +49,63 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Venezia
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      theol. gr.
+      gr.
      </collection>
      <idno>
-      307
+      II. 59 (coll. 1149)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       71974
+       70221
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Mf
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00514_01">
-      <locus from="093" to="093v">
-       093–093v
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00514_01">
+      <locus from="236v" to="248">
+       236v–248
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00514_02">
+      <locus from="248v" to="256">
+       248v–256
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00514_03">
+      <locus from="256r" to="259v">
+       256r–259v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ, εἰς τὸν περὶ φύσεως νόμον:</rubric>
+      <incipit>πᾶσα γραφὴ, θεόπνευστος καὶ ὠφέλιμος, ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας,</incipit>
+      <explicit type="defective">τούτων δὲ οὕτω τελεσθέντων, οὐ μόνον ἐν ταῦθα προσπαθῶς καὶ εἰρηνικῶς βιωσόμεθα, ἀλλὰ καὶ ἐν τῶ μέλλοντι αἰῶνι τοῖς ἐκ δεξιῶν παραστα? τοῦ σωτῆρος χυ ἐπιτευξόμεθα· ὧ πρέπει δόξα καὶ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        1300 ca.
+       <origDate when-iso="1579">
+        a. 1579
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32018" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

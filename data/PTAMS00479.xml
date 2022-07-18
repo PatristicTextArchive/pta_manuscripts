@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2061A
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1146
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Vat. gr.
      </collection>
      <idno>
-      2061A
+      1146
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       68691
+       67777
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00479_01">
-      <locus from="140" to="140v, 143">
-       140–140v, 143–143v, 232–232v
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00479_01">
+      <locus from="220" to="230v">
+       220–230v
       </locus>
       <rubric/>
       <incipit/>
@@ -80,20 +80,11 @@
      <origin>
       <p n="origDate">
        <origDate>
-        9
+        unbekannt
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=20048,http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=20307,http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=40559,http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=42321" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

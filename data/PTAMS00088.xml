@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Batopediou, fonds principal 0639
+     Hagion Oros, Monê Batopediou, fonds principal 634
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      0639
+      634
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       18783
+       18778
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00088_01">
-      <locus from="017v" to="018v">
-       017v–018v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00088_02">
-      <locus from="034v" to="036">
-       034v–036
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00088_01">
+      <locus from="012" to="032">
+       012–032
       </locus>
       <rubric/>
       <incipit/>

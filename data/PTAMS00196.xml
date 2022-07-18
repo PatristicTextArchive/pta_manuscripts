@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Madrid, Biblioteca nacional de España (BNE), fonds principal 4747
+     London, British Library, Harley 5639
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Madrid
+      London
      </settlement>
      <repository>
-      Biblioteca nacional de España (BNE)
+      British Library
      </repository>
      <collection>
-      fonds principal
+      Harley
      </collection>
      <idno>
-      4747
+      5639
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       40223
+       39599
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00196_01">
-      <locus from="285v" to="295v">
-       285v–295v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00196_01">
+      <locus from="207v" to="217">
+       207v–217
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        1552 ca.
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5639" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

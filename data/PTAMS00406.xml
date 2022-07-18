@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Univeristaria, fonds principal B. II. 21 (Pasini 099)
+     Sinai, Monê tês Hagias Aikaterinês, gr. 380
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,51 +49,43 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Torino
+      Sinai
      </settlement>
      <repository>
-      Biblioteca Nazionale Univeristaria
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      B. II. 21 (Pasini 099)
+      380
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63664
+       58755
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00406_01">
-      <locus from="189" to="206">
-       189–206
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00406_01">
+      <locus from="264" to="269">
+       264–269
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00406_02">
-      <locus from="227v" to="240v">
-       227v–240v
+     <msItem corresp="urn:cts:pta:pta0001.pta052" n="2" xml:id="PTAMS00406_02">
+      <locus from="281" to="288v">
+       281–288v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00406_03">
-      <locus from="269v" to="285">
-       269v–285
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="4" xml:id="PTAMS00406_04">
-      <locus from="285" to="311">
-       285–311
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00406_03">
+      <locus from="305v" to="316">
+       305v–316
       </locus>
       <rubric/>
       <incipit/>
@@ -103,12 +95,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1201-01-01">
+        s. 13–14
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279380265-ms" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

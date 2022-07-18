@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Mutilene, Monê tou Leimônos, fonds principal 64
+     München, Bayerische Staatsbibliothek (BSB), Cod.graec. 393
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Mutilene
+      München
      </settlement>
      <repository>
-      Monê tou Leimônos
+      Bayerische Staatsbibliothek (BSB)
      </repository>
      <collection>
-      fonds principal
+      Cod.graec.
      </collection>
      <idno>
-      64
+      393
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       45386
+       44841
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00251_01">
-      <locus from="131v" to="133v">
-       131v–133v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00251_01">
+      <locus from="218" to="222">
+       218–222
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1101-01-01">
+        s. 12–13
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://84.205.233.134/library/view_more_en.php?id=194&amp;status=3&amp;type=manuscript" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 148
+     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 63
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       S. Salv.
      </collection>
      <idno>
-      148
+      63
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       40809
+       40724
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00204_01">
-      <locus from="248v" to="249v">
-       248v–249v
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00204_01">
+      <locus from="089" to="096v">
+       089–096v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>

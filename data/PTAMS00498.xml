@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 168 b (coll. 1112)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2048
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr.
+      Vat. gr.
      </collection>
      <idno>
-      II. 168 b (coll. 1112)
+      2048
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70335
+       68677
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00498_01">
-      <locus from="366" to="370">
-       366–370
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00498_01">
+      <locus from="048" to="051">
+       048–051
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00498_02">
-      <locus from="370" to="377v">
-       370–377v
+     <msItem corresp="urn:cts:pta:pta0001.pta056" n="2" xml:id="PTAMS00498_02">
+      <locus from="093v" to="095v">
+       093v–095v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +87,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1481">
-        a. 1481
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.2048" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.2048/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 321 (Vlad. 221)
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 234 (Vlad. 217)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,31 @@
       Sinod. gr.
      </collection>
      <idno>
-      321 (Vlad. 221)
+      234 (Vlad. 217)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43946
+       43859
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Mz
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00240_01">
-      <locus from="331" to="335v">
-       331–335v
+      <locus from="145v" to="154r">
+       145v–154r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου· ὁμιλία εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος· καὶ περἱ τῆς νυχθείσης πλευράς·</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθ’οὗ τῶ πατρὶ δόξα σὺν ἁγίω πνεύματι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="2" xml:id="PTAMS00240_02">
+      <locus from="287v" to="295v">
+       287v–295v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +92,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1654">
-        a. 1654
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>

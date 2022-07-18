@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 12
+     Madrid, Biblioteca nacional de España (BNE), fonds principal 4747
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Messina
+      Madrid
      </settlement>
      <repository>
-      Biblioteca Regionale Universitaria 'Giacomo Longo'
+      Biblioteca nacional de España (BNE)
      </repository>
      <collection>
-      S. Salv.
+      fonds principal
      </collection>
      <idno>
-      12
+      4747
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       40673
+       40223
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00199_01">
-      <locus from="167" to="171v">
-       167–171v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00199_01">
+      <locus from="285v" to="295v">
+       285v–295v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate when-iso="ca.">
+        1552 ca.
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://www.bibliome.it/ms-gr-012/" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

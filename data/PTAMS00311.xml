@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), Coisl. 299
+     Paris, Bibliothèque de la Sorbonne, fonds principal 190
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,24 +52,24 @@
       Paris
      </settlement>
      <repository>
-      Bibliothèque nationale de France (BNF)
+      Bibliothèque de la Sorbonne
      </repository>
      <collection>
-      Coisl.
+      fonds principal
      </collection>
      <idno>
-      299
+      190
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       49440
+       49112
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00311_01">
-      <locus from="I" to="IIv">
-       I–IIv
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00311_01">
+      <locus from="228" to="233v">
+       228–233v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        9
+       <origDate when-iso="1424">
+        a. 1424
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110043832" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110043832/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

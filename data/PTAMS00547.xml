@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00525" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.3
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
+   <change when-iso="2021-04-10" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Firenze
+     </settlement>
+     <repository>
+      Biblioteca Medicea Laurenziana (BML)
+     </repository>
+     <collection>
+      Plut.
+     </collection>
+     <idno>
+      11.3
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       16157
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       F
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00525_01">
+      <locus from="2r" to="136r">
+       2r–136r
+      </locus>
+      <rubric>
+       τοῦ μακαρίου θεοδωρίτου ἐπισκόπου πόλεως κύρου ὑπόθεσις τῆς εἰς τὸν προφήτην ἰεζεκιὴλ ἑρμηνείας
+      </rubric>
+      <incipit>
+       Οἱ μὲν τοῦ σώματος ὁφθαλμοὶ
+      </incipit>
+      <explicit>
+       νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta060" n="2" xml:id="PTAMS00525_02">
+      <locus from="138r" to="139v">
+       138r–139v
+      </locus>
+      <rubric>
+       προφητεία δανιήλ
+      </rubric>
+      <incipit>
+       Καὶ ἦν ἀνὴρ οἰκῶν ἐν βαβυλῶνι
+      </incipit>
+      <explicit>
+       ἀπὸ τῆς ἡμέρας ἐκείνης καὶ ἐπέκεινα
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00525_03">
+      <locus from="139v" to="224v">
+       139v–224v
+      </locus>
+      <rubric>
+       τοῦ μακαρίου θεοδωίτου ἐπισκόπου κύρρου ἑρμηνεία εἰς τὸν προφήτην δανιήλ
+      </rubric>
+      <incipit>
+       Εἰ πᾶσι ῥᾴδιον ἦν τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit>
+       καὶ κατεβρώθησαν παραχρῆμα ἐνώπιον αὐτοῦ
+      </explicit>
+     </msItem>
+     <msItem defective="true" corresp="cpg:3778" n="4" xml:id="PTAMS00525_04">
+      <locus from="225r" to="225r">
+       225r–225r
+      </locus>
+      <rubric>
+       <!-- Excerptum ex cap. 16 -->
+      </rubric>
+      <incipit>
+       Δανιὴλ ἦν ἐκ βεθηρῶν τῆς ἀνωτέρας φυλῆς ἰούδα
+      </incipit>
+      <explicit>
+       ἀλλὰ πάντα τὸν χρόνον τῆς ἀλλοιώσεως αὐτοῦ
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:6210" n="5" xml:id="PTAMS00525_05">
+      <locus from="229r" to="304r">
+       229r–304r
+      </locus>
+      <rubric>
+       θεοδωρίτου θεραπευτικὴ ἑλληνικῶν παθημάτων ὑπόθεσις
+      </rubric>
+      <incipit>
+       Πολλάκις μοι τῶν τῆς ἑλληνικῆς μυθολογίας ἐξηρτημένων
+      </incipit>
+      <explicit>
+       ἑλληνικῶν θεραπευτικῆς παθημάτων τέλος
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.3" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

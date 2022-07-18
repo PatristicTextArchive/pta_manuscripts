@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. Z. 565 (coll. 0526)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1631
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr. Z.
+      Vat. gr.
      </collection>
      <idno>
-      565 (coll. 0526)
+      1631
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70036
+       68262
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00486_01">
-      <locus from="045" to="056">
-       045–056
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00486_02">
-      <locus from="108" to="114v">
-       108–114v
+     <msItem corresp="urn:cts:pta:pta0001.pta056" n="1" xml:id="PTAMS00486_01">
+      <locus from="219v" to="222v">
+       219v–222v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>

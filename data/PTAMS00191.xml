@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     London, British Library, Add. 19703
+     Leiden, Bibliotheek der Rijksuniversiteit, Voss. gr. Q° 54
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      London
+      Leiden
      </settlement>
      <repository>
-      British Library
+      Bibliotheek der Rijksuniversiteit
      </repository>
      <collection>
-      Add.
+      Voss.
      </collection>
      <idno>
-      19703
+      gr. Q° 54
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       38977
+       38161
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00191_01">
-      <locus from="094v" to="110">
-       094v–110
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00191_01">
+      <locus from="132">
+       132
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00191_02">
-      <locus from="244v" to="258v">
-       244v–258v
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00191_02">
+      <locus from="460v" to="461">
+       460v–461
       </locus>
       <rubric/>
       <incipit/>
@@ -87,21 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
+        s. 15–16
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19703," type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

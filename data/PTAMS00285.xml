@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Canon. gr. 100
+     Oxford, Bodleian Library, Barocci 189
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,37 @@
       Bodleian Library
      </repository>
      <collection>
-      Canon. gr.
+      Barocci
      </collection>
      <idno>
-      100
+      189
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47650
+       47476
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00285_01">
-      <locus from="001" to="007">
-       001–007
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00285_01">
+      <locus from="103" to="112v">
+       103–112v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="2" xml:id="PTAMS00285_02">
-      <locus from="012" to="021v">
-       012–021v
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00285_02">
+      <locus from="137" to="142v">
+       137–142v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="3" xml:id="PTAMS00285_03">
+      <locus from="146v" to="148v">
+       146v–148v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +95,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate when-iso="1598">
+        a. 1598
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/4d8fd54c-c3af-4ff3-a141-964b275cc5bc" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/4d8fd54c-c3af-4ff3-a141-964b275cc5bc.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Pal. gr. 245
+     Thessalonikê, Monê Blatadôn, fonds principal 23
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Thessalonikê
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Monê Blatadôn
      </repository>
      <collection>
-      Pal. gr.
+      fonds principal
      </collection>
      <idno>
-      245
+      23
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65077
+       63158
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00421_01">
-      <locus from="158" to="169">
-       158–169
+     <msItem corresp="urn:cts:pta:pta0001.pta003" n="1" xml:id="PTAMS00421_01">
+      <locus from="202v" to="224">
+       202v–224
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14 med.
        </origDate>
       </p>
      </origin>

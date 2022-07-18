@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 986
+     Paris, Bibliothèque nationale de France (BNF), grec 776
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,29 +58,45 @@
       grec
      </collection>
      <idno>
-      986
+      776
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50577
+       50360
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00345_01">
-      <locus from="446" to="464v">
-       446–464v
+     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00345_01">
+      <locus from="092" to="097">
+       092–097
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="2" xml:id="PTAMS00345_02">
+      <locus from="097" to="099v">
+       097–099v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="3" xml:id="PTAMS00345_03">
+      <locus from="255v" to="260r">
+       255v–260r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ, εἰς τὸ πῶς ὁ Ἀδὰμ ἔλαβε τὴν ψυχὴν, καὶ περὶ τοῦ παθι τοῦ χριστοῦ· ευο:</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν· ἰησοῦ χριστοῦ· ὦ ἡ δόξα· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
@@ -89,11 +105,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107219323" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10723792h" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107219323/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723792h/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

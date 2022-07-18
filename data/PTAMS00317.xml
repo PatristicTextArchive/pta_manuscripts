@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), gr. 656
+     Paris, Bibliothèque nationale de France (BNF), Coisl. 299
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,45 +55,21 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      gr.
+      Coisl.
      </collection>
      <idno>
-      656
+      299
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50237
+       49440
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00317_01">
-      <locus from="314" to="317">
-       314–317
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00317_02">
-      <locus from="317v" to="325">
-       317v–325
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00317_03">
-      <locus from="325" to="331v">
-       325–331v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="4" xml:id="PTAMS00317_04">
-      <locus from="343" to="353">
-       343–353
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00317_01">
+      <locus from="I" to="IIv">
+       I–IIv
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate>
+        9
        </origDate>
       </p>
      </origin>
@@ -113,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10723973w" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110043832?rk=2231770;4" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723973w/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110043832?rk=2231770;4/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

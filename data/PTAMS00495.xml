@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 063 (coll. 1343)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1990
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr.
+      Vat. gr.
      </collection>
      <idno>
-      II. 063 (coll. 1343)
+      1990
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70225
+       68619
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00495_01">
-      <locus from="408v" to="431v">
-       408v–431v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="2" xml:id="PTAMS00495_02">
-      <locus from="440" to="454v">
-       440–454v
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00495_01">
+      <locus from="104" to="115">
+       104–115
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="0901-01-01">
+        s. 10–12
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.1990" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.1990/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

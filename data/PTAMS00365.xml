@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paros, Monê tês Zoodochou Pêgês Loggobardas, fonds principal 28 (725)
+     Paris, Bibliothèque nationale de France (BNF), grec 1220A
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Paros
+      Paris
      </settlement>
      <repository>
-      Monê tês Zoodochou Pêgês Loggobardas
+      Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      fonds principal
+      grec
      </collection>
      <idno>
-      28 (725)
+      1220A
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       54214
+       50826
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00365_01">
-      <locus from="049" to="057">
-       049–057
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00365_01">
+      <locus from="075" to="092">
+       075–092
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
-        s. 15–16
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

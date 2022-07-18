@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 85
+     Torino, Biblioteca Nazionale Universitaria, fonds principal B. V. 40 (Pasini 150)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Torino
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      Ottob. gr.
+      fonds principal
      </collection>
      <idno>
-      85
+      B. V. 40 (Pasini 150)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65326
+       63768
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00429_01">
-      <locus from="182v" to="184">
-       182v–184
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00429_02">
-      <locus from="196" to="100">
-       196–100
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="1" xml:id="PTAMS00429_01">
+      <locus from="136v" to="139v">
+       136v–139v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.85" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.85/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Κ. IV. 09 (Andrés 542) [ms. détruit]
+     Dublin, Chester Beatty Library, Manuscripts W.131
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Escorial (El-)
+      Dublin
      </settlement>
      <repository>
-      Real Biblioteca
+      Chester Beatty Library
      </repository>
      <collection>
-      fonds principal
+      Manuscripts
      </collection>
      <idno>
-      Κ. IV. 09 (Andrés 542) [ms. détruit]
+      W.131
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       14746
+       13563
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00055_01">
-      <locus from="085" to="098v">
-       085–098v
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00055_01">
+      <locus from="016" to="028">
+       016–028
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        unbekannt
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>

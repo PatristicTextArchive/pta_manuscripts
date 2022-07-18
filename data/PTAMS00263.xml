@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Auct. E. 3. 09 (Misc. 051.9)
+     Ohrid, Naroden Muzej, fonds principal 001 (Mošin 72)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Oxford
+      Ohrid
      </settlement>
      <repository>
-      Bodleian Library
+      Naroden Muzej
      </repository>
      <collection>
-      Auct.
+      fonds principal
      </collection>
      <idno>
-      E. 3. 09 (Misc. 051.9)
+      001 (Mošin 72)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47026
+       46735
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00263_01">
-      <locus from="169" to="188 (p.)">
-       169–188 (p.)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="2" xml:id="PTAMS00263_02">
-      <locus from="379" to="396 (p.)">
-       379–396 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00263_01">
+      <locus from="193" to="202 (p.)">
+       193–202 (p.)
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1612">
-        a. 1612 ante
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14 (3/4)
        </origDate>
       </p>
      </origin>

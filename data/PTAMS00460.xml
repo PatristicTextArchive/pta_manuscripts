@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1146
+     Vaticano, Biblioteca Apostolica Vaticana, Reg. gr. Pio II 23
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,37 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Reg. gr. Pio II
      </collection>
      <idno>
-      1146
+      23
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67777
+       66382
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00460_01">
-      <locus from="220" to="230v">
-       220–230v
+     <msItem corresp="urn:cts:pta:pta0001.pta056" n="1" xml:id="PTAMS00460_01">
+      <locus from="005" to="027v">
+       005–027v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00460_02">
+      <locus from="045" to="049v">
+       045–049v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="3" xml:id="PTAMS00460_03">
+      <locus from="049v" to="052v">
+       049v–052v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        unbekannt
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>

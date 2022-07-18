@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. Z. 109 (coll. 0467)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1587
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr. Z.
+      Vat. gr.
      </collection>
      <idno>
-      109 (coll. 0467)
+      1587
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       69580
+       68218
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00484_01">
-      <locus from="130v" to="135v">
-       130v–135v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00484_02">
-      <locus from="135v" to="145">
-       135v–145
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00484_03">
-      <locus from="145" to="154">
-       145–154
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00484_01">
+      <locus from="265" to="269v">
+       265–269v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        11 ex, 13
+       <origDate when-iso="1389">
+        a. 1389
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.1587.pt.2" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.1587.pt.2/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

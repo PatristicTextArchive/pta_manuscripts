@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1225
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 419
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Vat. gr.
      </collection>
      <idno>
-      1225
+      419
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67856
+       67050
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00463_01">
-      <locus from="176" to="181v">
-       176–181v
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00463_01">
+      <locus from="303" to="312v">
+       303–312v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.419" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.419/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

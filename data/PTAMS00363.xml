@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), Supplément grec 1275
+     Paris, Bibliothèque nationale de France (BNF), grec 1202
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      Supplément grec
+      grec
      </collection>
      <idno>
-      1275
+      1202
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       53939
+       50807
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00363_01">
-      <locus from="103" to="104">
-       103–104
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00363_01">
+      <locus from="201" to="208">
+       201–208
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
@@ -89,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110041337" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10721848t" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110041337/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721848t/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

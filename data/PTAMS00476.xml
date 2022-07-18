@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2013
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 585
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,34 +58,18 @@
       Vat. gr.
      </collection>
      <idno>
-      2013
+      585
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       68642
+       67216
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00476_01">
-      <locus from="028v" to="031v">
-       028v–031v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00476_02">
-      <locus from="082v" to="084v">
-       082v–084v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="3" xml:id="PTAMS00476_03">
-      <locus from="090" to="092">
-       090–092
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00476_01">
+      <locus from="54">
+       54
       </locus>
       <rubric/>
       <incipit/>
@@ -95,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.2013" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.2013/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

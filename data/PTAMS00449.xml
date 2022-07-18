@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 559
+     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 179
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,29 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Ottob. gr.
      </collection>
      <idno>
-      559
+      179
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67190
+       65422
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00449_01">
-      <locus from="051v" to="058v">
-       051v–058v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00449_01">
+      <locus from="158v" to="163">
+       158v–163
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="2" xml:id="PTAMS00449_02">
-      <locus from="266" to="269v">
-       266–269v
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="2" xml:id="PTAMS00449_02">
+      <locus from="170" to="175">
+       170–175
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +87,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.179" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.179/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Leiden, Bibliotheek der Rijksuniversiteit, Voss. gr. F° 48
+     København, Det Kongelige Bibliotek, Thott 0044 2°
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,43 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Leiden
+      København
      </settlement>
      <repository>
-      Bibliotheek der Rijksuniversiteit
+      Det Kongelige Bibliotek
      </repository>
      <collection>
-      Voss.
+      Thott
      </collection>
      <idno>
-      gr. F° 48
+      0044 2°
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       38058
+       37259
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00188_01">
-      <locus from="064" to="077">
-       064–077
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00188_01">
+      <locus from="005v" to="008">
+       005v–008
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="2" xml:id="PTAMS00188_02">
+      <locus from="008" to="013">
+       008–013
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="3" xml:id="PTAMS00188_03">
+      <locus from="013" to="018v">
+       013–018v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -89,7 +105,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32083," type="straighturl"/>
+        <ref target="http://www5.kb.dk/manus/vmanus/2011/dec/ha/object69670/en/" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

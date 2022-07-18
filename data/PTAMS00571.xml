@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00571" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paris, Bibliothèque nationale de France (BNF), Coisl. 25
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-10" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Paris
+     </settlement>
+     <repository>
+      Bibliothèque nationale de France (BNF)
+     </repository>
+     <collection>
+      Coisl.
+     </collection>
+     <idno>
+      25
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       49167
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem n="1" xml:id="PTAMS00571_01">
+      <locus from="1r" to="3v">1r-3v</locus>
+      <rubric>ἔκθεσις κεφαλαίων τῶν πράξεων τοῦ Παμφίλου</rubric>
+      <incipit>ἐκ πατέρων ἡμεῖς καὶ διδασκάλων τὸν τρόπον</incipit>
+      <explicit>πρὸς τοὺς ἐν ῥώμη ἰουδαίους</explicit>
+      <finalRubric>κεφάλαια μὲν τὰ ὅλα <num>μ</num>· τὰ δὲ τούτοις ἑπόμενα ἄτινα τὰς σημειώσεις ἔχουσιν διὰ τοῦ ⁜ <num>μη</num>:-</finalRubric>
+     </msItem>
+     <msItem corresp="bhg:1457" n="2" xml:id="PTAMS00571_02">
+      <locus from="4r" to="4v">4r–v</locus>
+      <rubric>ἀποδημία Παύλου τοῦ ἀποστόλου</rubric>
+      <incipit>ἀπὸ δαμασκοῦ ἤρξατο καὶ ἀνῆλθεν εἰς ἱερουσαλήμ. ἐκεῖ εἰς τάρσον</incipit>
+      <explicit>ὕστερον ἐν αὐτῆ τῆ ῥώμη ἔμαρτύρησεν:-</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta067" n="3" xml:id="PTAMS00571_03">
+      <locus from="5r" to="190v">5r–190v</locus>
+      <rubric>Πράξεις τῶν ἁγίων ἀποστόλων</rubric>
+      <incipit>Τὸν μὲν πρῶτον λόγον ἐποιησάμην</incipit>
+      <explicit>μετὰ πάσης παρρησίας ἀκωλύτως. ἀμήν·</explicit>
+      <finalRubric>πράξεις τῶν ἁγίων ἀποστόλων στίχοι <num>͵βφκα</num></finalRubric>
+     </msItem>
+     <msItem corresp="cpg:C150" n="4" xml:id="PTAMS00571_04">
+      <locus from="5r" to="190v">5r–190v</locus>
+      <rubric>ἑρμηνεία τῶν πράξεων· τοῦ χρυσοστόμου καὶ ἑτέρων διαφόρων. περὶ τῆς ἐξ ἀναστάσεως διδασκαλίας τε χριστοῦ καὶ ὀπτασίας πρὸς τοὺς μαθητὰς καὶ περὶ ἔτι ἀγγελίας τῆς τοῦ ἁγίου πνεύματος δωρεᾶς· θέας τε καὶ τρόπου τῆς ἀναλήψεως χριστοῦ· καὶ περὶ τῆς ἐνδόξου καὶ δευτέρας αὐτοῦ παρουσίας:-</rubric>
+      <incipit>ἁντιοχεὺς ὑπάρχων τὸ γένος ὁ λοῦκας.</incipit>
+      <explicit>μηνὶ ἰουνίου εἰκοστὴ ἐνάτη ἡμέρα:-</explicit>
+      <finalRubric>τέλος τῶν σχολίων τῶν πράξεων</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta082" n="5" xml:id="PTAMS00571_05">
+      <locus from="191r" to="203v">191r-203v</locus>
+      <rubric>ἰακώβου ἐπιστολή</rubric>
+      <incipit>Ἰάκωβος θεοῦ καὶ κυρίου Ἰησοῦ Χριστοῦ δοῦλος·</incipit>
+      <explicit>σώσει ψυχὴν αὐτοῦ ἐκ θανάτου· καὶ καλύψει πλῆθος ἁμαρτιῶν·</explicit>
+      <finalRubric>ἰακώβου ἐπιστολή</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta083" n="6" xml:id="PTAMS00571_06">
+      <locus from="204r" to="222v">204r–222v</locus>
+      <rubric>πέτρου ἐπιστολή πρώτη</rubric>
+      <incipit>Πέτρος ἀπόστολος Ἰησοῦ Χριστοῦ ἐκλέκτοις</incipit>
+      <explicit>εἰρήνη ὑμῖν πᾶσι τοῖς ἐν χριστῶ ἰησοῦ. ἀμήν:-</explicit>
+      <finalRubric>πέτρου ἐπιστολὴ <num>α</num>. τέλος τῆς πρώτης ἐπιστολῆς καθολικῆς πέτρου.-</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta084" n="7" xml:id="PTAMS00571_07">
+      <locus from="223r" to="230r">223r–230r</locus>
+      <rubric>ἐπιστολή καθολικὴ πέτρου <num>β</num></rubric>
+      <incipit>Συμεὼν πέτρος· δοῦλος καὶ ἀπόστολος</incipit>
+      <explicit>αὐτῶ ἡ δόξα καὶ νῦν καὶ εἰς ἡμέραν αἰῶνος ἀμήν·</explicit>
+      <finalRubric>πέτρου ἐπιστολὴ καθολικὴ <num>β</num>:-</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta085" n="8" xml:id="PTAMS00571_08">
+      <locus from="230v" to="245v">230v–245v</locus>
+      <rubric>ἐπιστολή ἰωάννου καθολικὴ <num>α</num></rubric>
+      <incipit>ὁ ἦν ἀπαρχῆς· ὃ οὐκ ἀκηκόαμεν·</incipit>
+      <explicit>φυλάξατε ἑαυτοὺς ἀπὸ τῶν εἰδώλων· ἀμήν·</explicit>
+      <finalRubric/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta086" n="9" xml:id="PTAMS00571_09">
+      <locus from="246r" to="247r">246r–247r</locus>
+      <rubric>ἐπιστολὴ καθολικὴ ἰωάννου <num>β</num></rubric>
+      <incipit>ὁ πρεσβύτερος ἐκλεκτὴ κυρία καὶ τοῖς τέκνοις</incipit>
+      <explicit>ἀσπάζεται σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκκλησίας· ἀμήν·</explicit>
+      <finalRubric/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta087" n="10" xml:id="PTAMS00571_10">
+      <locus from="247r" to="248r">247r–248r</locus>
+      <rubric>ἰωάννου ἐπιστολὴ καθολικὴ <num>γ</num></rubric>
+      <incipit>ὁ πρεσβύτερος γαΐω τῶ ἀγαπητῶ ὃν ἐγὼ ἀγαπῶ ἐν ἀληθεία</incipit>
+      <explicit>ἀσπάζου τοὺς φίλους κατ’ ὄνομα· ἀμήν:-</explicit>
+      <finalRubric>ἰωάννου ἐπιστολὴ <num>γ</num></finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta088" n="11" xml:id="PTAMS00571_11">
+      <locus from="248v" to="254v">248v–254v</locus>
+      <rubric>ἰούδα ἐπιστολή<num>γ</num></rubric>
+      <incipit>ἰούδας ἰησοῦ χριστοῦ δοῦλος</incipit>
+      <explicit>κράτος καὶ ἐξουσία πρὸ παντὸς τοῦ αἰῶνος καὶ νῦν καὶ εἰς πάντας τοὺς αἰῶνας· ἀμήν:-</explicit>
+      <finalRubric>σὺν θεῶ τέλος τῶν καθολικῶν ἐπιστολῶν</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:C176" n="12" xml:id="PTAMS00571_12">
+      <locus from="191r" to="254v">191r–254v</locus>
+      <rubric><abbr>α</abbr> περὶ ὑπομονῆς καὶ πίστεως ἀδιακρίτου· καὶ περὶ ταπεινοφροσύνης πρὸς τοὺς πλουσίους ἑρμηνεία τῶν κατολικῶν ἐπιστολῶν:-+ ὑπόθεσις τῆς ἰακώβου ἐπιστολῆς:-</rubric>
+      <incipit>ἐπειδὴ αὐτὸς ἰάκωβος ταύτην γράφει τοῖς ἀπὸ τῶν δώδεκα φυλῶν</incipit>
+      <explicit>ἀνδρέου δὲ τοῦ ἐλεεινοῦ και ταπεινοῦ πρεσβυτέρου τοῦ συναγογόντος καὶ παραθεμένου τὰς ἐμφερομενας τῆ βίβλω ταύτη παραγραφὰς οἱ ἐντυγχάνοντες, ὑπερεύχεσθε. ἵνα ὁ θεὸς δωρήσηται αὐτῶ ἔλεος· ἐν τῆ φοβερᾶ καὶ ἀδεκάστς τῆς κρίσεςξ ἡμέρα: παρακαλῶ δὲ τοὺς γράφοντας ταύτην τήν βίβλον. καὶ τὴν προκειμένην εὐχὴν μετὰ τῆς παρακλήσεως τάσσετε:-</explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        10-11
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b11000126s" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/12148/btv1b11000126s/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

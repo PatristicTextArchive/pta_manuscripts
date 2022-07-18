@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Stockholm, Kungliga Biblioteket, fonds principal A. 792 b
+     Sankt-Peterburg, Rossijskaja Nacional'naja biblioteka (RNB), Ф. № 573. Sobr. Sankt-Peterburgskoj Duchovnoj Akademii, Aleksandro-Nevskaja Lavra 54
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Stockholm
+      Sankt-Peterburg
      </settlement>
      <repository>
-      Kungliga Biblioteket
+      Rossijskaja Nacional'naja biblioteka (RNB)
      </repository>
      <collection>
-      fonds principal
+      Ф. № 573. Sobr. Sankt-Peterburgskoj Duchovnoj Akademii, Aleksandro-Nevskaja Lavra
      </collection>
      <idno>
-      A. 792 b
+      54
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       62811
+       57963
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00401_01">
-      <locus from="129" to="129v, 085">
-       129–129v, 085–086v, 136–136v, 038–038v, 130–135v
+     <msItem corresp="urn:cts:pta:pta0001.pta028" n="1" xml:id="PTAMS00401_01">
+      <locus from="001" to="005">
+       001–005
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1800-12-31" notBefore-iso="1701-01-01">
+        s. 18
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://www.manuscripta.se/ms/100083" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

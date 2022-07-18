@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Roma, Biblioteca Angelica, gr. 81
+     Paris, Bibliothèque nationale de France (BNF), gr. 1613
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Roma
+      Paris
      </settlement>
      <repository>
-      Biblioteca Angelica
+      Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
       gr.
      </collection>
      <idno>
-      81
+      1613
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       55988
+       51235
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00375_01">
-      <locus from="117v" to="120">
-       117v–120
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00375_02">
-      <locus from="131" to="135v">
-       131–135v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00375_01">
+      <locus from="19v-25v">
+       19v-25v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate>
+        15
        </origDate>
       </p>
      </origin>
@@ -97,8 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000117058" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722791q" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722791q/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sinai, Monê tês Hagias Aikaterinês, gr. 491
+     Roma, Biblioteca Vallicelliana, fonds principal C 004
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sinai
+      Roma
      </settlement>
      <repository>
-      Monê tês Hagias Aikaterinês
+      Biblioteca Vallicelliana
      </repository>
      <collection>
-      gr.
+      fonds principal
      </collection>
      <idno>
-      491
+      C 004
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       58866
+       56282
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta028" n="1" xml:id="PTAMS00393_01">
-      <locus from="087v" to="103">
-       087v–103
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00393_01">
+      <locus from="234v" to="239v">
+       234v–239v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        8-9
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
@@ -89,10 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279382341-ms" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279382341-ms/manifest.json" type="manifesturl"/>
+        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ARM0281_Vall_C_4" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

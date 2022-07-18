@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 8
+     Torino, Biblioteca Nazionale Universitaria, fonds principal B. IV. 22 (Pasini 200)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Torino
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      Ottob. gr.
+      fonds principal
      </collection>
      <idno>
-      8
+      B. IV. 22 (Pasini 200)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65249
+       63728
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00426_01">
-      <locus from="278" to="292">
-       278–292
+     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00426_01">
+      <locus from="unbekannt">
+       unbekannt
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1201-01-01">
+        s. 13–14
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.8" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.8/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

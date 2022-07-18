@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Ibêrôn, fonds principal 0677 (Lambros 4797)
+     Hagion Oros, Monê Ibêrôn, fonds principal 0658 (Lambros 4778)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      0677 (Lambros 4797)
+      0658 (Lambros 4778)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       24272
+       24253
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00108_01">
-      <locus from="433" to="441">
-       433–441
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00108_01">
+      <locus from="124v" to="130">
+       124v–130
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 med.
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

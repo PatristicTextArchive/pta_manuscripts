@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal P 261 sup. (Martini-Bassi 653)
+     Milano, Biblioteca Ambrosiana, fonds principal F 108 sup. (Martini-Bassi 360)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,26 @@
       fonds principal
      </collection>
      <idno>
-      P 261 sup. (Martini-Bassi 653)
+      F 108 sup. (Martini-Bassi 360)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43130
+       42773
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00220_01">
-      <locus from="085" to="093v">
-       085–093v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00220_01">
+      <locus from="061v" to="065">
+       061v–065
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00220_02">
+      <locus from="069" to="071v">
+       069–071v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
-        s. 14–15
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11 in.
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:87641" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

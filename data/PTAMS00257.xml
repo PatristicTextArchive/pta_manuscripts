@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Napoli, Biblioteca nazionale Vittorio Emanuele III, fonds principal II B 30
+     Mutilene, Monê tou Leimônos, fonds principal 87
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Napoli
+      Mutilene
      </settlement>
      <repository>
-      Biblioteca nazionale Vittorio Emanuele III
+      Monê tou Leimônos
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      II B 30
+      87
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       46046
+       45410
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00257_01">
-      <locus from="302" to="314v">
-       302–314v
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00257_01">
+      <locus from="404v" to="412v">
+       404v–412v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15 ex.
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

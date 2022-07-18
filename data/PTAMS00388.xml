@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sankt-Peterburg, Rossijskaja Nacional'naja biblioteka (RNB), Ф. 728. Библиотека Новгородского Софийского собора 79
+     Roma, Biblioteca Angelica, gr. 28
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sankt-Peterburg
+      Roma
      </settlement>
      <repository>
-      Rossijskaja Nacional'naja biblioteka (RNB)
+      Biblioteca Angelica
      </repository>
      <collection>
-      Ф. 728. Библиотека Новгородского Софийского собора
+      gr.
      </collection>
      <idno>
-      79
+      28
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       58047
+       55935
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="1" xml:id="PTAMS00388_01">
-      <locus from="022" to="023v">
-       022–023v
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00388_01">
+      <locus from="059v" to="060">
+       059v–060
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000116643" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

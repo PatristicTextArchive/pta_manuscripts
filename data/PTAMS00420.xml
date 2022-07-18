@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Barberinus gr. 519
+     Thessalonikê, Monê Blatadôn, fonds principal 12
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Thessalonikê
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Monê Blatadôn
      </repository>
      <collection>
-      Barberinus gr.
+      fonds principal
      </collection>
      <idno>
-      519
+      12
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65062
+       63147
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00420_01">
-      <locus from="292" to="304v">
-       292–304v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00420_01">
+      <locus from="161-162v">
+       161-162v
       </locus>
       <rubric/>
       <incipit/>
@@ -80,23 +80,11 @@
      <origin>
       <p n="origDate">
        <origDate>
-        unbekannt
+        14
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.519" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.519/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

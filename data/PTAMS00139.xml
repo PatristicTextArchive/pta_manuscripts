@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Pantokratoros, fonds principal 099 (Lambros 1133)
+     Hagion Oros, Monê Pantokratoros, fonds principal 090 (Lambros 1124)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,26 @@
       fonds principal
      </collection>
      <idno>
-      099 (Lambros 1133)
+      090 (Lambros 1124)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       29118
+       29109
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00139_01">
-      <locus from="318" to="333">
-       318–333
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00139_01">
+      <locus from="107v" to="125">
+       107v–125
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="2" xml:id="PTAMS00139_02">
-      <locus from="Item 12">
-       Item 12
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="2" xml:id="PTAMS00139_02">
+      <locus from="236-241v">
+       236-241v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14 med.
        </origDate>
       </p>
      </origin>

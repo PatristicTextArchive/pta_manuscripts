@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Auct. E. 1. 13 (Misc. 027)
+     Napoli, Biblioteca Nazionale, fonds principal II B 05
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Oxford
+      Napoli
      </settlement>
      <repository>
-      Bodleian Library
+      Biblioteca Nazionale
      </repository>
      <collection>
-      Auct.
+      fonds principal
      </collection>
      <idno>
-      E. 1. 13 (Misc. 027)
+      II B 05
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       46993
+       46021
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00260_01">
-      <locus from="322" to="326">
-       322–326
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00260_02">
-      <locus from="326v" to="335">
-       326v–335
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00260_03">
-      <locus from="335" to="344">
-       335–344
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00260_01">
+      <locus from="221v" to="234v">
+       221v–234v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14 med.
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://www.nuovabibliotecamanoscritta.it/Generale/ricerca/AnteprimaManoscritto.html?codiceMan=50325&amp;tipoRicerca=A&amp;urlSearch=pagCorrente%3D3.0%26__checkbox_autografi%3Dtrue%26tipoRicerca%3DA%26__checkbox_datati%3Dtrue%26__checkbox_palinsesto%3Dtrue%26tipo_corpo_codice%3D%26tipo_parola%3DA%26data_da%3D%26responsabilita%3D%26__checkbox_immagini%3Dtrue%26data_a%3D%26linguaMan%3D0%26titolo%3D%26__checkbox_decorati%3Dtrue%26argomento%3D%26segnatura%3D%26anticasegnatura%3D%26incipit%3D%26__checkbox_musicali%3Dtrue%26__checkbox_carteggio%3Dtrue%26codBiblioteca%3D59%26__checkbox_restauro%3Dtrue%26explicit%3D%26__checkbox_astampa%3Dtrue%26nome%3D%26parola%3D%26__checkbox_composito%3Dtrue%26language%3Dit%26ordinaDatazione%3Dfalse%26ordineInverso%3Dfalse&amp;codice=&amp;codiceDigital=" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

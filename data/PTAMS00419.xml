@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Barb. gr. 455
+     Thessalonikê, Monê Blatadôn, fonds principal 5
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,62 +49,95 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Thessalonikê
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Monê Blatadôn
      </repository>
      <collection>
-      Barb. gr.
+      fonds principal
      </collection>
      <idno>
-      455
+      5
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       64998
+       63140
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Vl
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00419_01">
-      <locus from="123v" to="142">
-       123v–142
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00419_01">
+      <locus from="196" to="206">
+       196–206
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00419_02">
-      <locus from="148" to="148v">
-       148–148v
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00419_02">
+      <locus from="274" to="284">
+       274–284
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="3" xml:id="PTAMS00419_03">
+      <locus from="284" to="295v">
+       284–295v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="4" xml:id="PTAMS00419_04">
+      <locus from="313v" to="319v">
+       313v–319v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="5" xml:id="PTAMS00419_05">
+      <locus from="325" to="335v">
+       325–335v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="6" xml:id="PTAMS00419_06">
+      <locus from="335" to="349">
+       335–349
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="7" xml:id="PTAMS00419_07">
+      <locus from="349r" to="357v">
+       349r–357v
+      </locus>
+      <rubric>Τοῦ χρυσοστόμου λόγος περὶ πίστεως καὶ εἰς τὸν περὶ φύσεως νόμον· καὶ κατὰ αἱρετικῶν:- λθ’</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας,</incipit>
+      <explicit>αὕτη γάρ ἐστιν, ἡ ἄκτιστος φύσις· ἡ ἀληθινὴ ἀξία· ἡ ἀμέριστος βασιλεία· ἡ ἄσχιστος τιμὴ· ἡ ἀδιαίρετος ἐλπὶς· ἡ ἀκατάληπτος δόξα· τοῦ πρς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνς· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν·</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.455" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.455/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

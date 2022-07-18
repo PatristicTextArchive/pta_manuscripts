@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1082
+     Vaticano, Biblioteca Apostolica Vaticana, Reg. gr. Pio II 22
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,29 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Reg. gr. Pio II
      </collection>
      <idno>
-      1082
+      22
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67713
+       66381
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta021" n="1" xml:id="PTAMS00459_01">
-      <locus from="190v" to="191v">
-       190v–191v
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00459_01">
+      <locus from="035" to="041v">
+       035–041v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00459_02">
+      <locus from="075" to="079">
+       075–079
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate>
+        11 (1/4)
        </origDate>
       </p>
      </origin>

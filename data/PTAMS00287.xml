@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Cromwell 20
+     Oxford, Bodleian Library, Barocci 212
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,45 +55,61 @@
       Bodleian Library
      </repository>
      <collection>
-      Cromwell
+      Barocci
      </collection>
      <idno>
-      20
+      212
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47810
+       47500
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00287_01">
-      <locus from="406" to="411 (p.)">
-       406–411 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00287_01">
+      <locus from="162" to="171">
+       162–171
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00287_02">
-      <locus from="411" to="421 (p.)">
-       411–421 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00287_02">
+      <locus from="208v" to="223">
+       208v–223
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00287_03">
-      <locus from="421" to="430 (p.)">
-       421–430 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="3" xml:id="PTAMS00287_03">
+      <locus from="223" to="232v">
+       223–232v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="4" xml:id="PTAMS00287_04">
-      <locus from="771" to="772 (p.)">
-       771–772 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="4" xml:id="PTAMS00287_04">
+      <locus from="244" to="246v">
+       244–246v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="5" xml:id="PTAMS00287_05">
+      <locus from="265" to="267v">
+       265–267v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="6" xml:id="PTAMS00287_06">
+      <locus from="303v" to="309v">
+       303v–309v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,12 +119,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        10 ex
+       <origDate when-iso="1572">
+        a. 1572 post
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/29e41c2f-5a99-4576-95d8-1932e3f13397" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/29e41c2f-5a99-4576-95d8-1932e3f13397.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

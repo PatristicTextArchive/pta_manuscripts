@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sinai, Monê tês Hagias Aikaterinês, gr. 379
+     Roma, Biblioteca Angelica, gr. 110
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sinai
+      Roma
      </settlement>
      <repository>
-      Monê tês Hagias Aikaterinês
+      Biblioteca Angelica
      </repository>
      <collection>
       gr.
      </collection>
      <idno>
-      379
+      110
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       58754
+       56016
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00390_01">
-      <locus from="343" to="346v">
-       343–346v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00390_02">
-      <locus from="346v" to="354">
-       346v–354
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00390_03">
-      <locus from="354" to="358v">
-       354–358v
+     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00390_01">
+      <locus from="185v" to="188v">
+       185v–188v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
@@ -105,10 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279380253-ms" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279380253-ms/manifest.json" type="manifesturl"/>
+        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000151745" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

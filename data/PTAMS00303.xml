@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, New College, fonds principal 82
+     Oxford, Bodleian Library, Roe 28
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,40 +52,32 @@
       Oxford
      </settlement>
      <repository>
-      New College
+      Bodleian Library
      </repository>
      <collection>
-      fonds principal
+      Roe
      </collection>
      <idno>
-      82
+      28
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48730
+       48408
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00303_01">
-      <locus from="013v" to="020v">
-       013v–020v
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00303_01">
+      <locus from="010" to="021">
+       010–021
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00303_02">
-      <locus from="020v">
-       020v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="3" xml:id="PTAMS00303_03">
-      <locus from="059v" to="065">
-       059v–065
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00303_02">
+      <locus from="238v" to="254v">
+       238v–254v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Ohrid, Naroden Muzej, fonds principal 001 (Mošin 72)
+     Mutilene, Monê tou Leimônos, fonds principal 268
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,38 +49,43 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Ohrid
+      Mutilene
      </settlement>
      <repository>
-      Naroden Muzej
+      Monê tou Leimônos
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      001 (Mošin 72)
+      268
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       46735
+       45591
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ml
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00258_01">
-      <locus from="193" to="202 (p.)">
-       193–202 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00258_01">
+      <locus from="554" to="563">
+       554–563
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 (3/4)
+       <origDate when-iso="1552">
+        a. 1552
        </origDate>
       </p>
      </origin>

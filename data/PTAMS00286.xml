@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Clarke 50
+     Oxford, Bodleian Library, Barocci 199
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,37 @@
       Bodleian Library
      </repository>
      <collection>
-      Clarke
+      Barocci
      </collection>
      <idno>
-      50
+      199
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47787
+       47487
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00286_01">
-      <locus from="018" to="021v">
-       018–021v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00286_01">
+      <locus from="072v" to="076">
+       072v–076
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00286_02">
-      <locus from="046v" to="048">
-       046v–048
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00286_02">
+      <locus from="091v" to="094">
+       091v–094
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00286_03">
+      <locus from="194" to="203v">
+       194–203v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +95,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1101-01-01">
-        s. 12–13
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/3263f480-a2b6-4f93-aef4-b8487830e115" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/3263f480-a2b6-4f93-aef4-b8487830e115.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

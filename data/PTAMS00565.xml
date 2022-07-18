@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00543" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Reg. gr. Pio II 22
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-06-30" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana (BAV)
+     </repository>
+     <collection>
+      Reg. gr. Pio II
+     </collection>
+     <idno>
+      22
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       66381
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="" n="1" xml:id="PTAMS00543_01">
+      <locus from="001r" to="006r">
+       001r–006r
+      </locus>
+      <rubric>
+       <note>Apocrypha, Andreas apostolus (S.), Epistula presbyterorum et diaconorum Achaiae</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="2" xml:id="PTAMS00543_02">
+      <locus from="006v" to="007v">
+       006v-007v
+      </locus>
+      <rubric>
+       <note>Hagiographica, Barbara v. m. (cum Iuliana) Heliopoli (S.), Passio</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="3" xml:id="PTAMS00543_03">
+      <locus from="007v" to="013r">
+       007v-013r
+      </locus>
+      <rubric>
+       <note>Hagiographica, Nicolaus ep. Myrensis (S.), Acta seu praxis de stratelatis</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="4" xml:id="PTAMS00543_04">
+      <locus from="013r" to="018r">
+       013r-018r
+      </locus>
+      <rubric>
+       <note>Andreas Cretensis, In S. Nicolaum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="5" xml:id="PTAMS00543_05">
+      <locus from="018r" to="034v">
+       018r-034v
+      </locus>
+      <rubric>
+       <note>Hagiographica, Eustratius, Auxentius et soc. mm. in Armenia (SS.), Passio (a Metaphrasta in menologium inserta); Des. mut. (PG 116, 468-505)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem type="defective" corresp="urn:cts:pta:pta0001.pta049" n="6" xml:id="PTAMS00543_06">
+      <locus from="35r" to="41v">
+       35r-41v
+      </locus>
+      <rubric type="defective"/>
+      <incipit>
+       εἴδομεν διὰ τῆς μνήμης τὴν ἱστορίαν
+      </incipit>
+      <explicit>
+       ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta060" n="7" xml:id="PTAMS00543_07">
+      <locus from="41v" to="44r">
+       41v-44r
+      </locus>
+      <rubric>
+       Περὶ σωσάννης ὡς ἐλυτρώσατο αὐτὴν ὁ θεὸς ἐκ τοῦ μικροῦ θανάτου διὰ δανιὴλ τοῦ προφήτου
+      </rubric>
+      <incipit>
+       Καὶ ἦν ἀνὴρ οἰκῶν ἐν βαβυλῶνι· ὄνομα αὐτῷ ἰωακεὶμ
+      </incipit>
+      <explicit>
+       καὶ δανιὴλ γέγονεν μέγας ἐνώπιον τοῦ λαοῦ, ἀπὸ τῆς ἡμέρας ἐκείνης καὶ ἐπέκεινα
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta061" n="8" xml:id="PTAMS00543_08">
+      <locus from="44v" to="64r">
+       44v-64r
+      </locus>
+      <rubric>
+       Ὅρασις δανιὴλ πρώτη
+      </rubric>
+      <incipit>
+       Ἐν ἔτει τρίτω τῆς βασιλείας ἰωακεὶμ βασιλέως ἰοῦδα
+      </incipit>
+      <explicit>
+       εἰς τὸν καιρόν σου εἰς συντέλειαν ἡμερῶν
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta062" n="9" xml:id="PTAMS00543_09">
+      <locus from="64v" to="66r">
+       64v-66r
+      </locus>
+      <rubric>
+       Ὅρασις δωδεκάτη
+      </rubric>
+      <incipit>
+       Καὶ βασιλεὺς ἀστυάγης προσετέθη πρὸς τοὺς πατέρας αὐτοῦ
+      </incipit>
+      <explicit>
+       τῷ δὲ θεῷ ἡμῶν δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="10" xml:id="PTAMS00543_10">
+      <locus from="66v" to="68v">
+       66v-68v
+      </locus>
+      <rubric>
+       Σχόλια ἐκ τῶν ὁράσεων τοῦ προφήτου δανιὴλ ἐκ τῶν ἰδίων σχολίων τοῦ κύρου θεοδοσίου τοῦ γραμματικοῦ
+      </rubric>
+      <incipit>
+       Λέγει ὁ ἅγιος ἐπιφάνιος εἰς τὰ πανάρια
+      </incipit>
+      <explicit>
+       δεύτερα τοῦ δανιὴλ ἐν τῶι λάκκω τῶν λεόντων κάθοδος
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="11" xml:id="PTAMS00543_11">
+      <locus from="068v" to="069r">
+       068v-069r
+      </locus>
+      <rubric>
+       Ἀπὸ φωνῆς τοῦ Μάγνητος
+       <note>Magnes quidam, Ex ore Magnetis</note>
+      </rubric>
+      <incipit>
+       Πρὸς τὸν ἠλίαν
+      </incipit>
+      <explicit>
+       ἵνα τοὺς πάντας σώση
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="12" xml:id="PTAMS00543_12">
+      <locus from="069r" to="069r">
+       069r-069r
+      </locus>
+      <rubric>
+       <note>Anonymus, Interpretatio in Iohannis Damasceni canonem iambicum 2, vv. 86 seqq. (ed. Nauck 1894)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="13" xml:id="PTAMS00543_13">
+      <locus from="069r" to="069v">
+       069r-069v
+      </locus>
+      <rubric>
+       <note>Methodius Olympius, Scholia duo in Genesin</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta061" n="14" xml:id="PTAMS00543_14">
+      <locus from="69v" to="69v">
+       69v-69v
+      </locus>
+      <rubric>
+       <note>Excerptum: In. Gen 1, 26</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="15" xml:id="PTAMS00543_15">
+      <locus from="069v" to="069v">
+       069v-069v
+      </locus>
+      <rubric>
+       <note>Anonymus, Interpretatio in Iohannis Damasceni canonem iambicum 1, vv. 116 seqq. (ed. Nauck 1894)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="16" xml:id="PTAMS00543_16">
+      <locus from="070r" to="070v">
+       070r-070v
+      </locus>
+      <rubric>
+       Περὶ τῆς Τεσσαρακοστῆς
+       <note>Anonymus, De Quadragesima</note>
+      </rubric>
+      <incipit>
+       Γίνωσκε εἶναι τὴν ἀρχὴν τῆν τεσσαρακοστῆς
+      </incipit>
+      <explicit>
+       δεχόμεθα μετ’ εὐχαριστείας τὸ δῶρον
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="17" xml:id="PTAMS00543_17">
+      <locus from="070v" to="070v">
+       070v-070v
+      </locus>
+      <rubric>
+       <note>Concilium Nicaenum (a. 325); Excerpta de diebus festis et ieiuniis deque quadragesima</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="18" xml:id="PTAMS00543_18">
+      <locus from="071r" to="075r">
+       071r-075r
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, In decem uirgines</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="19" xml:id="PTAMS00543_19">
+      <locus from="075r" to="078v">
+       075r-078v
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, In meretricem et pharisaeum; Des. mut. (PG 59, 531-534, lin. 39)</note>
+      </rubric>
+      <incipit>
+       Πάντοτε μὲν ὡς θεὸς ὡς φινάνθρωπος καὶ ἀγαθὸς
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="20" xml:id="PTAMS00543_20">
+      <locus from="079r" to="084r">
+       079r-084r
+      </locus>
+      <rubric>
+       <note>Nestorius Cpl. ptr., Homiliae 3 in tentationes Christi; Hom. 1; Inc. mut. (PG 61, 684, lin. 8-688)</note>
+      </rubric>
+      <incipit>
+       ὑποπτεύ]σας σαλεύσαι· τὴν γὰρ θεοτήτος οὐκ εἴδει συνάφειαν
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="21" xml:id="PTAMS00543_21">
+      <locus from="084r" to="084v">
+       084r-084v
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, In illud: Simile est regnum caelorum patri familias (Mt. 20, 1 ss.); Des. mut. (PG 59, 577-579, lin. 10)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="22" xml:id="PTAMS00543_22">
+      <locus from="085r" to="092v">
+       085r-092v
+      </locus>
+      <rubric>
+       <note>Pantoleon CP. diaconus, Laudatio S. Michaelis archangeli; Inc. et des. mut.</note>
+      </rubric>
+      <incipit>
+       παρὰ τοῦ ἑνὸς ἑκάστου ἐθνάρχου ἀγγέλου
+      </incipit>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1025-12-31" notBefore-iso="1001-01-01">
+        s. 11 (1/4)
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

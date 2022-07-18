@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Metochion tou Panagiou Taphou 659
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Metochion tou Panagiou Taphou 244
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,42 +58,18 @@
       Metochion tou Panagiou Taphou
      </collection>
      <idno>
-      659
+      244
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       7056
+       6641
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="1" xml:id="PTAMS00038_01">
-      <locus from="287v" to="292">
-       287v–292
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00038_02">
-      <locus from="301v" to="308">
-       301v–308
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="3" xml:id="PTAMS00038_03">
-      <locus from="323v" to="331">
-       323v–331
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="4" xml:id="PTAMS00038_04">
-      <locus from="347" to="352v">
-       347–352v
+     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00038_01">
+      <locus from="065" to="072v">
+       065–072v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
-        s. 17
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>

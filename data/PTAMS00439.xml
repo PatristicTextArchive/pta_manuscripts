@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Reg. gr. 45
+     Vaticano, Biblioteca Apostolica Vaticana, Pal. gr. 245
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Reg. gr.
+      Pal. gr.
      </collection>
      <idno>
-      45
+      245
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       66215
+       65077
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00439_01">
-      <locus from="77">
-       77
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00439_01">
+      <locus from="158" to="169">
+       158–169
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 59
+     Oxford, Bodleian Library, Auct. E. 4. 02 (Misc. 051.18)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,77 @@
       Bodleian Library
      </repository>
      <collection>
-      Barocci
+      Auct.
      </collection>
      <idno>
-      59
+      E. 4. 02 (Misc. 051.18)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47345
+       47035
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00275_01">
-      <locus from="203v" to="205">
-       203v–205
+     <msItem corresp="urn:cts:pta:pta0001.pta044" n="1" xml:id="PTAMS00275_01">
+      <locus from="061" to="062, 051">
+       061–062, 051–060, 063–066 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="2" xml:id="PTAMS00275_02">
+      <locus from="141" to="152 (p.)">
+       141–152 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00275_03">
+      <locus from="153" to="186 (p.)">
+       153–186 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="4" xml:id="PTAMS00275_04">
+      <locus from="203" to="221 (p.)">
+       203–221 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="5" xml:id="PTAMS00275_05">
+      <locus from="279" to="296 (p.)">
+       279–296 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="6" xml:id="PTAMS00275_06">
+      <locus from="297" to="323 (p.)">
+       297–323 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="7" xml:id="PTAMS00275_07">
+      <locus from="324" to="347 (p.)">
+       324–347 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta013" n="8" xml:id="PTAMS00275_08">
+      <locus from="67" to="80 (p.)">
+       67–80 (p.)
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +135,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
-        s. 14–15
+       <origDate when-iso="1594">
+        a. 1594
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/6ebb5bd6-9e3a-45af-b1f6-bd8c54709b50" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/6ebb5bd6-9e3a-45af-b1f6-bd8c54709b50.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

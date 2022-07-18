@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1202
+     Paris, Bibliothèque nationale de France (BNF), gr. 806
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,45 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      grec
+      gr.
      </collection>
      <idno>
-      1202
+      806
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50807
+       50391
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00352_01">
-      <locus from="201" to="208">
-       201–208
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00352_01">
+      <locus from="287v-306v">
+       287v-306v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00352_02">
+      <locus from="287v" to="306v">
+       287v–306v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00352_03">
+      <locus from="287v" to="306v">
+       287v–306v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00352_04">
+      <locus from="287v" to="306v">
+       287v–306v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +103,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate>
+        12
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10721848t" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721848t/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

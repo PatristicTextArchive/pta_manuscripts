@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00566" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Firenze, Biblioteca Medicea Laurenziana (BML), Plut.04. 12
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-12-07" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Firenze
+     </settlement>
+     <repository>
+      Biblioteca Medicea Laurenziana (BML)
+     </repository>
+     <collection>
+      Plut.
+     </collection>
+     <idno>
+      04. 12
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       15928
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:2295" n="1" xml:id="PTAMS00566_01">
+      <note>
+       Athanasius Alexandrinus, Symbolum quicumque (CPG 2295)
+      </note>
+      <locus from="001-4v*">
+       001-4v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2804" n="2" xml:id="PTAMS00566_02">
+      <note>
+       Marcellus Ancyranus, Expositio Fidei (CPG 2804)
+      </note>
+      <locus from="006v-9*">
+       006v-9*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="3" xml:id="PTAMS00566_03">
+      <note>
+       Cesarinus Iulianus, De Additamento In Symbolum ()
+      </note>
+      <locus from="017-31*">
+       017-31*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="4" xml:id="PTAMS00566_04">
+      <note>
+       Thomas Aquinas, De Rationibus Fidei [tr. D. Cydones] ()
+      </note>
+      <locus from="044-73*">
+       044-73*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="5" xml:id="PTAMS00566_05">
+      <note>
+       Augustinus Aurelius, De Cognitione Uerae Uitae ()
+      </note>
+      <locus from="073-76*">
+       073-76*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="6" xml:id="PTAMS00566_06">
+      <note>
+       Hieronymus Stridonensis, Epistulae ()
+      </note>
+      <locus from="076r-v">
+       076r-v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6823" n="7" xml:id="PTAMS00566_07">
+      <note>
+       Leontius scholasticus, Liber De Sectis (CPG 6823)
+      </note>
+      <locus from="088-125">
+       088-125
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2900" n="8" xml:id="PTAMS00566_08">
+      <note>
+       Basilius Caesariensis, Epistulae (CPG 2900)
+      </note>
+      <locus from="123-196*">
+       123-196*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2900" n="9" xml:id="PTAMS00566_09">
+      <note>
+       Basilius Caesariensis, Ad episcopum Optimum (Εp. 260) (CPG 2900.260
+BHG 1956k-1956kc
+CPG 5380)
+      </note>
+      <locus from="171-176v">
+       171-176v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="10" xml:id="PTAMS00566_10">
+      <note>
+       Iohannes Beccus Cpl. ptr. XI, Epigraphae ()
+      </note>
+      <locus from="196-206*">
+       196-206*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="11" xml:id="PTAMS00566_11">
+      <note>
+       Iohannes Beccus Cpl. ptr. XI, Epigraphae ()
+      </note>
+      <locus from="206-246*">
+       206-246*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8049" n="12" xml:id="PTAMS00566_12">
+      <note>
+       Iohannes Damascenus, Epistula de hymno trisagio (CPG 8049)
+      </note>
+      <locus from="246-262*">
+       246-262*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8048" n="13" xml:id="PTAMS00566_13">
+      <note>
+       Iohannes Damascenus, Dialogus Contra Manichaeos (CPG 8048)
+      </note>
+      <locus from="262-308*">
+       262-308*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2886" n="14" xml:id="PTAMS00566_14">
+      <note>
+       Basilius Caesariensis, Prologus 8 (De fide) (CPG 2886)
+      </note>
+      <locus from="308-314*">
+       308-314*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2926" n="15" xml:id="PTAMS00566_15">
+      <note>
+       Basilius Caesariensis, De Spiritu Sancto a-b (Homilia) (CPG 2926
+BHG 1934m-n)
+      </note>
+      <locus from="314-318*">
+       314-318*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2094" n="16" xml:id="PTAMS00566_16">
+      <note>
+       Athanasius Alexandrinus, Epistulae ad Serapionem 1-4 (CPG 2094)
+      </note>
+      <locus from="318-347*">
+       318-347*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2241" n="17" xml:id="PTAMS00566_17">
+      <note>
+       Athanasius Alexandrinus, Epistula Catholica (CPG 2241)
+      </note>
+      <locus from="347-349*">
+       347-349*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="18" xml:id="PTAMS00566_18">
+      <note>
+       Cyrillus Alexandrinus, Epistulae (1-92) ()
+      </note>
+      <locus from="349-354*">
+       349-354*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate/>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.4.12" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

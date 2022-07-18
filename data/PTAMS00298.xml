@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Christ Church College, fonds principal 4
+     Oxford, Bodleian Library, Holkham gr. 043
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,40 +52,24 @@
       Oxford
      </settlement>
      <repository>
-      Christ Church College
+      Bodleian Library
      </repository>
      <collection>
-      fonds principal
+      Holkham
      </collection>
      <idno>
-      4
+      gr. 043
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48526
+       48111
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00298_01">
-      <locus from="197v" to="201v">
-       197v–201v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00298_02">
-      <locus from="201v" to="209v">
-       201v–209v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00298_03">
-      <locus from="209" to="218v">
-       209–218v
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="1" xml:id="PTAMS00298_01">
+      <locus from="209" to="213">
+       209–213
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>

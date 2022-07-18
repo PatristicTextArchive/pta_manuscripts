@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Roe 24
+     Oxford, Bodleian Library, Holkham gr. 030
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,37 @@
       Bodleian Library
      </repository>
      <collection>
-      Roe
+      Holkham
      </collection>
      <idno>
-      24
+      gr. 030
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48405
+       48098
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00296_01">
-      <locus from="037v" to="045">
-       037v–045
+      <locus from="189" to="194">
+       189–194
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00296_02">
-      <locus from="066" to="074v">
-       066–074v
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00296_02">
+      <locus from="205v" to="213v">
+       205v–213v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="3" xml:id="PTAMS00296_03">
+      <locus from="213v" to="218">
+       213v–218
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +95,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10 ex.
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32845" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

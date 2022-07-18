@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00556" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Roma, Biblioteca Angelica, gr. 76
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-05-03" who="#MB">Created TEI file</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Roma
+     </settlement>
+     <repository>
+      Biblioteca Angelica
+     </repository>
+     <collection>
+      gr.
+     </collection>
+     <idno>
+      76
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       55983
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       A
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00556_01">
+      <locus from="1r" to="106v">
+       1r–106v
+      </locus>
+      <rubric>
+       θεοδωρήτου ἐπισκόπου κύρου· ὑπόθεσις τῆς εἰς τὸν προφήτην ἰεζεκιὴλ ἑρμηνείας
+      </rubric>
+      <incipit>
+       Οἱ μὲν τοῦ σώματος ὀφθαλμοὶ
+      </incipit>
+      <explicit>
+       καὶ εἰς τοὺς ἀτελευτήτους αἰῶνας τῶν αἰώνων ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00556_02">
+      <locus from="106v" to="196v">
+       106v–196v
+      </locus>
+      <rubric>
+       θεοδωρίτου ἐπισκόπου κύρου ἑρμηνεία εἰς τὸν μακάριον προφήτην δανιήλ
+      </rubric>
+      <incipit>
+       πᾶσι ῥάδιον ἦν τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit>
+       νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000117047" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 211
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 210
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,61 +55,50 @@
       Ethnikê Bibliothêkê tês Hellados (EBE)
      </repository>
      <collection>
-      fonds principal
+      Fonds principal
      </collection>
      <idno>
-      211
+      210
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       2507
+       2506
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Aa
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00005_01">
-      <locus from="038" to="043v">
-       038–043v
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00005_01">
+      <locus from="061r" to="073r">
+       61r–73r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta031" n="2" xml:id="PTAMS00005_02">
-      <locus from="119" to="132v">
-       119–132v
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="2" xml:id="PTAMS00005_02">
+      <locus from="268v" to="275r">
+       268v–275r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="3" xml:id="PTAMS00005_03">
-      <locus from="310" to="314v">
-       310–314v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη. κε εὐ</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ μεθ’ οὗ τῶ πατρὶ συν ἁγίω πνεύματι, εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+      <finalRubric>εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη·</finalRubric>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0801-01-01">
-        s. 09–10
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3598" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

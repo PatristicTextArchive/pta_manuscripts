@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Bibliothêkê tou Prôtatou (Karues), fonds principal 085 (Polites 312)
+     Hagion Oros, Bibliothêkê tou Prôtatou (Karues), fonds principal 041 (Lambros 41)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      085 (Polites 312)
+      041 (Lambros 41)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       18114
+       18070
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00076_01">
-      <locus from="241" to="252v">
-       241–252v
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00076_01">
+      <locus from="unbekannt">
+       unbekannt
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1638–1639">
-        a. 1638–1639
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=31097" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

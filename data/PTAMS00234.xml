@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 136 (Vlad. 173)
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 129 (Vlad. 216)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,45 +58,58 @@
       Sinod. gr.
      </collection>
      <idno>
-      136 (Vlad. 173)
+      129 (Vlad. 216)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43761
+       43754
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Mx
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00234_01">
-      <locus from="316" to="336">
-       316–336
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00234_01">
+      <locus from="239" to="243v">
+       239–243v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00234_02">
-      <locus from="316" to="336">
-       316–336
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="2" xml:id="PTAMS00234_02">
+      <locus from="243v" to="252">
+       243v–252
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00234_03">
-      <locus from="316" to="336">
-       316–336
+     <msItem corresp="urn:cts:pta:pta0001.pta031" n="3" xml:id="PTAMS00234_03">
+      <locus from="276" to="296">
+       276–296
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="4" xml:id="PTAMS00234_04">
+      <locus from="320v" to="329">
+       320v–329
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία· εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβε ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος καὶ περὶ τῆς νυχθείσης πλευρᾶς:-</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθοὗ τῶ πατρὶ δόξα σὺν ἁγίς πνεύματι· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1345">
-        a. 1345
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>

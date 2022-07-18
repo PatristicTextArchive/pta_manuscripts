@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Thessalonikê, Monê Blatadôn, fonds principal 23
+     Sinai, Monê tês Hagias Aikaterinês, gr. 376
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Thessalonikê
+      Sinai
      </settlement>
      <repository>
-      Monê Blatadôn
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      23
+      376
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63158
+       58751
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta003" n="1" xml:id="PTAMS00404_01">
-      <locus from="202v" to="224">
-       202v–224
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00404_01">
+      <locus from="163v" to="174v">
+       163v–174v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 med.
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279380228-ms" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

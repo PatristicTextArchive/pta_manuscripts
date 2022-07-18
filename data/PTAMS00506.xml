@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 12
+     Venezia, Biblioteca Nazionale Marciana, gr. Z. 565 (coll. 0526)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Venezia
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      theol. gr.
+      gr. Z.
      </collection>
      <idno>
-      12
+      565 (coll. 0526)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       71679
+       70036
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00506_01">
-      <locus from="047" to="050">
-       047–050
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00506_01">
+      <locus from="045" to="056">
+       045–056
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta051" n="2" xml:id="PTAMS00506_02">
+      <locus from="108" to="114v">
+       108–114v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>

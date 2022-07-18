@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Chig. R. IV. 012 (gr. 12)
+     Torino, Biblioteca Nazionale Universitaria, fonds principal B. III. 31 (Pasini 116)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Torino
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      Chig.
+      fonds principal
      </collection>
      <idno>
-      R. IV. 012 (gr. 12)
+      B. III. 31 (Pasini 116)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65199
+       63700
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00425_01">
-      <locus from="46v">
-       46v
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00425_01">
+      <locus from="090" to="097v">
+       090–097v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
-        s. 14–15
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
+        s. 15–16
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Chig.R.IV.12" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Chig.R.IV.12/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00586" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 0754
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-02-07" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>Vaticano</settlement>
+     <repository>Biblioteca Apostolica Vaticana (BAV)</repository>
+     <collection>Vat. gr. 0754</collection>
+     <idno>754</idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       67385
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0003.pta020">
+      <idno>
+       V
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:" n="1" xml:id="PTAMS00586_01">
+      <note>
+       Iosippus, Libellus memorialis
+      </note>
+      <locusGrp>
+        <locus from="9r" to="9v">
+       9r–v
+        </locus>
+        <locus from="36r" to="36v">
+       36r-v
+        </locus>
+      </locusGrp>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:" n="2" xml:id="PTAMS00586_02">
+      <note>
+       Iosippus, Excerptum de Psalmis (ex Libello Memoriali) ()
+      </note>
+      <locus from="009, 28r-v">
+       009, 28r-v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:1425" n="3" xml:id="PTAMS00586_03">
+      <note>
+       Origenes, In Psalmos (CPG 1425 CPG 1427 CPG 1428 CPG 1429)
+      </note>
+      <locus from="9r" to="12v">
+       9r–12v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2097" n="4" xml:id="PTAMS00586_04">
+      <locus from="15v" to="25v">
+       15v-25v
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις πρς ἡμῶν ἀθανασίου ἀρχιεσπισκόπου ἀλεξανδρείας· πρὸς Μαρκελλίνον. προοίμιον εἰς τὴν ἑρμηνείαν τῶν ψαλμῶν·</rubric>
+      <incipit>Ἄγαμαί σε τῆς ἐν χω προαιρέσεως.</incipit>
+      <explicit>τοιοῦτον δὲ καὶ σὺ ζηλώσεις βίον. οἷον ἔσχον οἱ ταῦτα θεοφορούμενοι λαλήσαντες ἄνδρες ἅγιοι·</explicit>
+     </msItem>
+     <msItem defective="true" corresp="cpg:3155" n="5" xml:id="PTAMS00586_05">
+      <locusGrp>
+      <locus from="28v" to="34r">
+       28v-34r
+      </locus>
+      <locus from="36v" to="36v">
+       36v
+      </locus>
+      </locusGrp>
+      <rubric>Τοῦ ἁγίου γρηγορίου νύσης· ὅτι ἀνακολούθω τῆ ζωὴ τοῦ δαδ· ἡ τῶν ψαλμῶν ἀκολουθία·</rubric>
+      <incipit>Ἀλλὰ καὶ τοῦτο ἄν τις εἰκότως ἐπιζητήσειεν</incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:1426" n="6" xml:id="PTAMS00586_06">
+      <note>
+       Origenes, Hypomnema de Psalmis (CPG 1426)
+      </note>
+      <locus from="34" to="36">
+       34–36
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C32" n="7" xml:id="PTAMS00586_07">
+      <note>
+       Catena in Psalmos 1-151
+      </note>
+      <locus from="37r" to="356r">
+       37r–356r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C46" n="8" xml:id="PTAMS00586_08">
+      <note>
+       Catena in Odas
+      </note>
+      <locus from="356v" to="395v">
+       356v-395v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate>
+        10
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.754" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.754/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

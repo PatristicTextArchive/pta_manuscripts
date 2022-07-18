@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Meteôra, Monê Metamorphôseôs, fonds principal 549
+     Meteôra, Monê Hagiou Stephanou, fonds principal 2
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,32 +52,32 @@
       Meteôra
      </settlement>
      <repository>
-      Monê Metamorphôseôs
+      Monê Hagiou Stephanou
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      549
+      2
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       41959
+       41258
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta021" n="1" xml:id="PTAMS00209_01">
-      <locus from="278" to="279">
-       278–279
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00209_01">
+      <locus from="042v" to="055">
+       042v–055
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00209_02">
-      <locus from="279" to="288v">
-       279–288v
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00209_02">
+      <locus from="157v" to="170">
+       157v–170
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate when-iso="1346–1347">
+        a. 1346–1347
        </origDate>
       </p>
      </origin>

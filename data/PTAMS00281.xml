@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 212
+     Oxford, Bodleian Library, Barocci 59
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,58 +58,18 @@
       Barocci
      </collection>
      <idno>
-      212
+      59
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47500
+       47345
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00281_01">
-      <locus from="162" to="171">
-       162–171
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="2" xml:id="PTAMS00281_02">
-      <locus from="208v" to="223">
-       208v–223
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="3" xml:id="PTAMS00281_03">
-      <locus from="223" to="232v">
-       223–232v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="4" xml:id="PTAMS00281_04">
-      <locus from="244" to="246v">
-       244–246v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="5" xml:id="PTAMS00281_05">
-      <locus from="265" to="267v">
-       265–267v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="6" xml:id="PTAMS00281_06">
-      <locus from="303v" to="309v">
-       303v–309v
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00281_01">
+      <locus from="203v" to="205">
+       203v–205
       </locus>
       <rubric/>
       <incipit/>
@@ -119,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1572">
-        a. 1572 post
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
        </origDate>
       </p>
      </origin>
@@ -129,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/29e41c2f-5a99-4576-95d8-1932e3f13397" type="straighturl"/>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/6ebb5bd6-9e3a-45af-b1f6-bd8c54709b50" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/29e41c2f-5a99-4576-95d8-1932e3f13397.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/6ebb5bd6-9e3a-45af-b1f6-bd8c54709b50.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

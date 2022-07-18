@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1652
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 564
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,26 @@
       Vat. gr.
      </collection>
      <idno>
-      1652
+      564
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       68283
+       67195
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00472_01">
-      <locus from="018" to="021v">
-       018–021v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00472_01">
+      <locus from="038v" to="042">
+       038v–042
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00472_02">
-      <locus from="115v" to="122v">
-       115v–122v
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="2" xml:id="PTAMS00472_02">
+      <locus from="118" to="127">
+       118–127
       </locus>
       <rubric/>
       <incipit/>
@@ -93,18 +93,6 @@
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.1652" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.1652/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

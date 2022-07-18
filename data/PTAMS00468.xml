@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1633
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 559
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,34 +58,26 @@
       Vat. gr.
      </collection>
      <idno>
-      1633
+      559
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       68264
+       67190
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00468_01">
-      <locus from="014" to="017">
-       014–017
+     <msItem corresp="urn:cts:pta:pta0001.pta036" n="1" xml:id="PTAMS00468_01">
+      <locus from="051v" to="058v">
+       051v–058v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00468_02">
-      <locus from="158" to="160">
-       158–160
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="3" xml:id="PTAMS00468_03">
-      <locus from="219" to="221">
-       219–221
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="2" xml:id="PTAMS00468_02">
+      <locus from="266" to="269v">
+       266–269v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,24 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.1633" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.1633/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

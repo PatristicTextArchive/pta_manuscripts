@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Roe 28
+     Oxford, Bodleian Library, Holkham gr. 42
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,40 +55,53 @@
       Bodleian Library
      </repository>
      <collection>
-      Roe
+      Holkham
      </collection>
      <idno>
-      28
+      gr. 42
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48408
+       48110
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ho
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00297_01">
-      <locus from="010" to="021">
-       010–021
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00297_01">
+      <locus from="314" to="329v">
+       314–329v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00297_02">
-      <locus from="238v" to="254v">
-       238v–254v
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00297_02">
+      <locus from="330" to="340v">
+       330–340v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00297_03">
+      <locus from="340v" to="345r">
+       340v–345r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ εἰς τὸν περὶ φύσεων νόμον</rubric>
+      <incipit>πᾶσα γραφὴ, θεόπνευστος καὶ ὠφέλιμος. ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας,</incipit>
+      <explicit type="defective">τούτων δὲ οὕτως τελεσθέντων, οὐ μόνον ἐνταῦθα πρὸς παθῶς καὶ εἰρηνικῶς βιωσόμεθα, ἀλλὰ καὶ ἐν τῶ μέλλοντ(ι) αἰῶνι τῆς ἐκ δεξιῶν παραστάσεως τοῦ σωτῆρος χυ ἐπιτευξόμεθα· ὧ πρέπει δόξα καὶ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

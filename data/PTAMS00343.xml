@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), gr. 811
+     Paris, Bibliothèque nationale de France (BNF), grec 772
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,21 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      gr.
+      grec
      </collection>
      <idno>
-      811
+      772
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50396
+       50356
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00343_01">
-      <locus from="143" to="146">
-       143–146
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00343_02">
-      <locus from="146" to="152v">
-       146–152v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00343_03">
-      <locus from="152v" to="159v">
-       152v–159v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00343_01">
+      <locus from="284v" to="288v">
+       284v–288v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10721937b" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721937b/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

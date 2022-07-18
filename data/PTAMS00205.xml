@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Meteora, Monê Barlaam, fonds principal 138
+     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 89
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,59 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Meteora
+      Messina
      </settlement>
      <repository>
-      Monê Barlaam
+      Biblioteca Regionale Universitaria 'Giacomo Longo'
      </repository>
      <collection>
-      fonds principal
+      S. Salv.
      </collection>
      <idno>
-      138
+      89
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       41033
+       40750
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00205_01">
-      <locus from="016v" to="027v">
-       016v–027v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00205_02">
-      <locus from="153v" to="166v">
-       153v–166v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta021" n="3" xml:id="PTAMS00205_03">
-      <locus from="267" to="276v">
-       267–276v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="4" xml:id="PTAMS00205_04">
-      <locus from="276v" to="285v">
-       276v–285v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="5" xml:id="PTAMS00205_05">
-      <locus from="342v" to="347v">
-       342v–347v
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00205_01">
+      <locus from="036v" to="042">
+       036v–042
       </locus>
       <rubric/>
       <incipit/>
@@ -111,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate when-iso="1127">
+        a. 1127
        </origDate>
       </p>
      </origin>

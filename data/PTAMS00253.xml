@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Mutilene, Monê tou Leimônos, fonds principal 268
+     Mutilene, Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa), fonds principal 21
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,24 +52,24 @@
       Mutilene
      </settlement>
      <repository>
-      Monê tou Leimônos
+      Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa)
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      268
+      21
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       45591
+       45286
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00253_01">
-      <locus from="554" to="563">
-       554–563
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00253_01">
+      <locus from="296" to="302v">
+       296–302v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1552">
-        a. 1552
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

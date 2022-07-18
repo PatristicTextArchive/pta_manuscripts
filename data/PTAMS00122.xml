@@ -67,7 +67,15 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00122_01">
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00122_01">
+      <locus from="170-173v">
+       170-173v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="2" xml:id="PTAMS00122_02">
       <locus from="280" to="284v">
        280–284v
       </locus>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate>
+        10-11
        </origDate>
       </p>
      </origin>

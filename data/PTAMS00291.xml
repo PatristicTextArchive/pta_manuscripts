@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Holkham gr. 042
+     Oxford, Bodleian Library, Canon. gr. 100
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,29 @@
       Bodleian Library
      </repository>
      <collection>
-      Holkham
+      Canon. gr.
      </collection>
      <idno>
-      gr. 042
+      100
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48110
+       47650
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00291_01">
-      <locus from="314" to="329v">
-       314–329v
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00291_01">
+      <locus from="1-7">
+       1-7
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00291_02">
-      <locus from="330" to="340v">
-       330–340v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00291_03">
-      <locus from="340" to="345">
-       340–345
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="2" xml:id="PTAMS00291_02">
+      <locus from="12-21v">
+       12-21v
       </locus>
       <rubric/>
       <incipit/>

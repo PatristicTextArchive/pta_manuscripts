@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Xenophôntos, fonds principal 080 (Lambros 782)
+     Hagion Oros, Monê Stauronikêta, fonds principal 58 (Lambros 0923)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,24 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Xenophôntos
+      Monê Stauronikêta
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      080 (Lambros 782)
+      58 (Lambros 0923)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       30369
+       30119
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00147_01">
-      <locus from="165" to="174">
-       165–174
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00147_01">
+      <locus from="311" to="317v">
+       311–317v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

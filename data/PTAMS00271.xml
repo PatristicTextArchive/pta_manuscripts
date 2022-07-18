@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Auct. E. 4. 04 (Misc. 051.20)
+     Oxford, Bodleian Library, Auct. E. 3. 12 (Misc. 51.12)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,37 +58,58 @@
       Auct.
      </collection>
      <idno>
-      E. 4. 04 (Misc. 051.20)
+      E. 3. 12 (Misc. 51.12)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47037
+       47029
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ox
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00271_01">
-      <locus from="I. 105" to="155 (p.)">
-       I. 105–155 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="1" xml:id="PTAMS00271_01">
+      <locus from="302" to="317 (p.)">
+       302–317 (p.)
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00271_02">
-      <locus from="II. 542" to="555">
-       II. 542–555
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00271_02">
+      <locus from="410" to="425 (p.)">
+       410–425 (p.)
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="3" xml:id="PTAMS00271_03">
+      <locus from="425" to="447 (p.)">
+       425–447 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="4" xml:id="PTAMS00271_04">
+      <locus from="447" to="457">
+       p. 447–457
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ἁγίου Ἰωάννου τοῦ χρυσοστόμου· λόγος πανὺ ὠφέλιμος περὶ πίστεως καὶ εἰς τὸν περὶ φύσεως νόμον καὶ περὶ τοῦ ἁγίου πνεύματος</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος, καὶ ὠφέλιμος, ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας</incipit>
+      <explicit>αὕτη ἐστὶν ἡ ἄκτιστος φύσις, ἡ ἀληθινὴ ἀξία, ἡ ἀμέριστος βασιλεία, ἡ ἄσχιστος τιμὴ, ἡ ἀδιαίρετος ἐλπὶς, ἡ ἀκατάληπτος δόξα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος, ὧ πρέπει πᾶσα δόξα, τιμὴ καὶ προσκύνησις εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν·</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1604">
-        a. 1604
+       <origDate when-iso="1612">
+        a. 1612 ante
        </origDate>
       </p>
      </origin>

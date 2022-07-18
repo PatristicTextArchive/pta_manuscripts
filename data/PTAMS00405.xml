@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Toledo, Archivo y Biblioteca Capitular, fonds principal 009 - 20
+     Sinai, Monê tês Hagias Aikaterinês, gr. 379
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,51 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Toledo
+      Sinai
      </settlement>
      <repository>
-      Archivo y Biblioteca Capitular
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      009 - 20
+      379
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63477
+       58754
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00405_01">
-      <locus from="032" to="034">
-       032–034
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00405_01">
+      <locus from="338-343">
+       338-343
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00405_02">
-      <locus from="053" to="060">
-       053–060
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00405_02">
+      <locus from="343" to="346v">
+       343–346v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00405_03">
+      <locus from="346v" to="354">
+       346v–354
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00405_04">
+      <locus from="354" to="358v">
+       354–358v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +103,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate>
+        11-12
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279380253-ms" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Docheiariou, fonds principal 0115 (Lambros 2789)
+     Hagion Oros, Monê Docheiariou, fonds principal 0077 (Lambros 2751)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,26 @@
       fonds principal
      </collection>
      <idno>
-      0115 (Lambros 2789)
+      0077 (Lambros 2751)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       21288
+       21250
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00097_01">
-      <locus from="Item 3">
-       Item 3
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00097_01">
+      <locus from="175-182v">
+       175-182v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00097_02">
+      <locus from="no. 30">
+       no. 30
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate>
+        15
        </origDate>
       </p>
      </origin>

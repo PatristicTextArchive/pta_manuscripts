@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Laud gr. 64a
+     Oxford, Bodleian Library, Holkham gr. 027
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,21 @@
       Bodleian Library
      </repository>
      <collection>
-      Laud
+      Holkham
      </collection>
      <idno>
-      gr. 64a
+      gr. 027
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48285
+       48095
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00295_01">
-      <locus from="087" to="092 (p.)">
-       087–092 (p.)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="2" xml:id="PTAMS00295_02">
-      <locus from="p.401" to="413">
-       p.401–413
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00295_01">
+      <locus from="145v" to="155">
+       145v–155
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1501-01-01">
-        s. 16–17
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
        </origDate>
       </p>
      </origin>

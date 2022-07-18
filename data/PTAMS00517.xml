@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Zaborda, Monê tou hagiou Nikanoros, fonds principal 66
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 167 c (coll. 1110)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Zaborda
+      Venezia
      </settlement>
      <repository>
-      Monê tou hagiou Nikanoros
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      66
+      II. 167 c (coll. 1110)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       72348
+       70333
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00517_01">
-      <locus from="030" to="032v">
-       030–032v
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00517_01">
+      <locus from="371" to="377v">
+       371–377v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 (2/2)
+       <origDate when-iso="1481">
+        a. 1481
        </origDate>
       </p>
      </origin>

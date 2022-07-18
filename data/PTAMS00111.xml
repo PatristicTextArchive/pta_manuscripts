@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Ibêrôn, fonds principal 1462
+     Hagion Oros, Monê Ibêrôn, fonds principal 1401
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      1462
+      1401
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       25057
+       24996
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00111_01">
-      <locus from="141" to="149 (p.)">
-       141–149 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00111_01">
+      <locus from="240v" to="251v">
+       240v–251v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1800-12-31" notBefore-iso="1701-01-01">
-        s. 18 (3/4)
+       <origDate when-iso="1670">
+        a. 1670
        </origDate>
       </p>
      </origin>

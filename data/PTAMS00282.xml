@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 234
+     Oxford, Bodleian Library, Barocci 96
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Barocci
      </collection>
      <idno>
-      234
+      96
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47522
+       47383
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00282_01">
-      <locus from="335v" to="339">
-       335v–339
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00282_01">
+      <locus from="153,160,18,23,130, 135">
+       153,160,18,23,130, 135
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
@@ -89,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/3d40b698-15c0-4695-8826-fd9255bacf17" type="straighturl"/>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/0689e6b4-4eb8-4094-9888-f9e72159921e" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/3d40b698-15c0-4695-8826-fd9255bacf17.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/0689e6b4-4eb8-4094-9888-f9e72159921e.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Simônopetras, fonds principal 055 (Lambros 1323) [ms. détruit]
+     Hagion Oros, Monê Simônopetras, fonds principal 001 (Lambros 1269) [ms. détruit]
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      055 (Lambros 1323) [ms. détruit]
+      001 (Lambros 1269) [ms. détruit]
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       29671
+       29618
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00143_01">
-      <locus from="Item 32">
-       Item 32
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00143_01">
+      <locus from="n. 5">
+       n. 5
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>

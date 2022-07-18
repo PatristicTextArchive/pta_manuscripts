@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2048
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1082
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,18 @@
       Vat. gr.
      </collection>
      <idno>
-      2048
+      1082
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       68677
+       67713
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00478_01">
-      <locus from="048" to="051">
-       048–051
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00478_02">
-      <locus from="093v" to="095v">
-       093v–095v
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="1" xml:id="PTAMS00478_01">
+      <locus from="190v" to="191v">
+       190v–191v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.2048" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.2048/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

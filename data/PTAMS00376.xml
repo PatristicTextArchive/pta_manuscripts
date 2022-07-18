@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Roma, Biblioteca Angelica, gr. 110
+     Paris, Bibliothèque nationale de France (BNF), Supplément grec 1031
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Roma
+      Paris
      </settlement>
      <repository>
-      Biblioteca Angelica
+      Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      gr.
+      Supplément grec
      </collection>
      <idno>
-      110
+      1031
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       56016
+       53676
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00376_01">
-      <locus from="185v" to="188v">
-       185v–188v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00376_01">
+      <locus from="066" to="073">
+       066–073
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="2" xml:id="PTAMS00376_02">
+      <locus from="47-54v">
+       47-54v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
@@ -89,8 +97,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000151745" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b11004911j?rk=686698;4" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004911j?rk=686698;4/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

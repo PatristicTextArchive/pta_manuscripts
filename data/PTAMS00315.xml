@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 499
+     Paris, Bibliothèque nationale de France (BNF), Coisl. 193
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      grec
+      Coisl.
      </collection>
      <idno>
-      499
+      193
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50073
+       49332
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00315_01">
-      <locus from="136v" to="146v">
-       136v–146v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00315_01">
+      <locus from="101" to="105">
+       101–105
       </locus>
       <rubric/>
       <incipit/>
@@ -89,8 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107219575," type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b100379726?rk=321890;0" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100379726?rk=321890;0/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

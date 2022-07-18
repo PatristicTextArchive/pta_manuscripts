@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Rossijskaja Gosudarstvennaja Biblioteka (RGB), Φ. 270 (P. I. Sevast'janov) 58 (gr. 121)
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 284 (Vlad. 215)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,48 +52,45 @@
       Moskva
      </settlement>
      <repository>
-      Rossijskaja Gosudarstvennaja Biblioteka (RGB)
+      Gosudarstvennyj Istoričeskij Musej (GIM)
      </repository>
      <collection>
-      Φ. 270 (P. I. Sevast'janov)
+      Sinod. gr.
      </collection>
      <idno>
-      58 (gr. 121)
+      284 (Vlad. 215)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       44338
+       43909
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Mo
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00241_01">
-      <locus from="106" to="117v">
-       106–117v
+     <msItem corresp="urn:cts:pta:pta0001.pta028" n="1" xml:id="PTAMS00241_01">
+      <locus from="144r" to="147v">
+       144r–147v
+      </locus>
+      <rubric>+ σεβεριανοῦ ἐπισκόπου γαβάλων λόγος εἰς θεοφάνια:</rubric>
+      <incipit>ἀνυγέσθω σήμερον πᾶν στόμα πρὸς θεολογίαν</incipit>
+      <explicit>τοσοῦτον φῶς τοσοῦτον κάλλος περὶ ἀστράπτει τὴν ἐκκλησίαν· γένοιτο δὲ ἡμᾶς ἀδελφοὶ θεία χάριτι πάντοτε καταλαμπομένους τῶ παναγίω θω δόξαν ἀναπέμπειν· ᾧ πρέπει δόξα καὶ τιμῆ εἰς τοὺς αἰῶνας ἀμήν</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="2" xml:id="PTAMS00241_02">
+      <locus from="267" to="273">
+       267–273
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00241_02">
-      <locus from="183" to="186v">
-       183–186v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00241_03">
-      <locus from="186v" to="193v">
-       186v–193v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="4" xml:id="PTAMS00241_04">
-      <locus from="193v" to="200">
-       193v–200
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="3" xml:id="PTAMS00241_03">
+      <locus from="273" to="276v">
+       273–276v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,21 +100,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate>
+        9
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://lib-fond.ru/lib-rgb/270/f270-ia-58/" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

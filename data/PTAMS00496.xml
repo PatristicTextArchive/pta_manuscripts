@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 167 c (coll. 1110)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2013
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,43 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr.
+      Vat. gr.
      </collection>
      <idno>
-      II. 167 c (coll. 1110)
+      2013
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70333
+       68642
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00496_01">
-      <locus from="371" to="377v">
-       371–377v
+     <msItem corresp="urn:cts:pta:pta0001.pta056" n="1" xml:id="PTAMS00496_01">
+      <locus from="028v" to="031v">
+       028v–031v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00496_02">
+      <locus from="082v" to="084v">
+       082v–084v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="3" xml:id="PTAMS00496_03">
+      <locus from="090" to="092">
+       090–092
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +95,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1481">
-        a. 1481
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.2013" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.2013/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

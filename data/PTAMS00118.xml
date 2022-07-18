@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Koutloumousiou, fonds principal 030 (Lambros 3099)
+     Hagion Oros, Monê Koutloumousiou, fonds principal 011 (Lambros 3080)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,42 @@
       fonds principal
      </collection>
      <idno>
-      030 (Lambros 3099)
+      011 (Lambros 3080)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       26055
+       26036
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00118_01">
-      <locus from="217v" to="227v">
-       217v–227v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00118_01">
+      <locus from="178v" to="203v">
+       178v–203v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00118_02">
+      <locus from="203" to="222v">
+       203–222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="3" xml:id="PTAMS00118_03">
+      <locus from="279v-288">
+       279v-288
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="4" xml:id="PTAMS00118_04">
+      <locus from="312v" to="319">
+       312v–319
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +103,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>

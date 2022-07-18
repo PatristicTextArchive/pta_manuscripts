@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 422
+     Tyrnabos, Dêmotikê Bibliothêkê, fonds principal 19
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Tyrnabos
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Dêmotikê Bibliothêkê
      </repository>
      <collection>
-      Ottob. gr.
+      fonds principal
      </collection>
      <idno>
-      422
+      19
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65665
+       64368
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00434_01">
-      <locus from="315v">
-       315v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00434_01">
+      <locus from="236v" to="243">
+       236v–243
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate>
+        15 ex.-16 med.
        </origDate>
       </p>
      </origin>

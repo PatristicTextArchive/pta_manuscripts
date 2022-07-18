@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sankt-Peterburg, Rossijskaja Nacional'naja biblioteka (RNB), Ф. № 906 (Gr.) 076 (Granstrem 223)
+     Patmos, Monê tou Hagiou Iôannou tou Theologou, fonds principal 634
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sankt-Peterburg
+      Patmos
      </settlement>
      <repository>
-      Rossijskaja Nacional'naja biblioteka (RNB)
+      Monê tou Hagiou Iôannou tou Theologou
      </repository>
      <collection>
-      Ф. № 906 (Gr.)
+      fonds principal
      </collection>
      <idno>
-      076 (Granstrem 223)
+      634
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       57146
+       54875
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00384_01">
-      <locus from="015" to="020">
-       015–020
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00384_01">
+      <locus from="Item 19">
+       Item 19
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

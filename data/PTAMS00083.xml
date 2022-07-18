@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Batopediou, fonds principal 422
+     Hagion Oros, Monê Batopediou, fonds principal 318
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,29 +58,50 @@
       fonds principal
      </collection>
      <idno>
-      422
+      318
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       18566
+       18462
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Av
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00083_01">
-      <locus from="068v" to="070v">
-       068v–070v
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00083_01">
+      <locus from="261" to="276v">
+       261–276v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00083_02">
+      <locus from="276v" to="287">
+       276v–287
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00083_03">
+      <locus from="287r" to="292r">
+       287r–292r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ εἰς τὸν περὶ φύσεως νόμον</rubric>
+      <incipit>πᾶσα γραφὴ, θεόπνευστος καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας·</incipit>
+      <explicit type="defective">τοῦτων δὲ οὕτω τελεσθέντων, οὐ μόνον ἐνταῦθα ἀπροσπαθῶς καὶ εἰρηνικῶς βιωσόμεθα ἀλλὰ καὶ ἐν τῶ μέλλοντι αἰῶνι τῆς ἐκ δεξιῶν παραστάσεως τοῦ σωτῆρος ἐπιτευξόμεθα· ὧ πρέπει δόξα καὶ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>

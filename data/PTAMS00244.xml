@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     München, Bayerische Staatsbibliothek (BSB), Cod. graec. 256
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 466 (Vlad. 392)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      München
+      Moskva
      </settlement>
      <repository>
-      Bayerische Staatsbibliothek (BSB)
+      Gosudarstvennyj Istoričeskij Musej (GIM)
      </repository>
      <collection>
-      Cod. graec.
+      Sinod. gr.
      </collection>
      <idno>
-      256
+      466 (Vlad. 392)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       44703
+       44091
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00244_01">
-      <locus from="065v" to="067">
-       065v–067
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00244_02">
-      <locus from="310" to="336">
-       310–336
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00244_01">
+      <locus from="37-50v">
+       37-50v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        1445 ca.
+       <origDate>
+        16
        </origDate>
       </p>
      </origin>
@@ -97,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://daten.digitale-sammlungen.de/~db/0007/bsb00076424/images/index.html" type="straighturl"/>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=40056" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

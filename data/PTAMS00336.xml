@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 0777A
+     Paris, Bibliothèque nationale de France (BNF), grec 759
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,29 +58,106 @@
       grec
      </collection>
      <idno>
-      0777A
+      759
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50362
+       50342
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Pa
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00336_01">
-      <locus from="001" to="077v, 086v">
-       001–077v, 086v–095v, 098–111, 135–135v
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00336_01">
+      <locus from="048" to="060">
+       048–060
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00336_02">
+      <locus from="060" to="067">
+       060–067
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="3" xml:id="PTAMS00336_03">
+      <locus from="076" to="083">
+       076–083
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="4" xml:id="PTAMS00336_04">
+      <locus from="157" to="164v">
+       157–164v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="5" xml:id="PTAMS00336_05">
+      <locus from="165" to="172v">
+       165–172v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="6" xml:id="PTAMS00336_06">
+      <locus from="188" to="195v">
+       188–195v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="7" xml:id="PTAMS00336_07">
+      <locus from="209" to="217v">
+       209–217v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="8" xml:id="PTAMS00336_08">
+      <locus from="295v" to="302v">
+       295v–302v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="9" xml:id="PTAMS00336_09">
+      <locus from="318-328v">
+       318-328v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="10" xml:id="PTAMS00336_10">
+      <locus from="328v" to="334r">
+       328v–334r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ἁγίου Ἰωάννου τοῦ χρυσοστόμου· λόγος πάνυ ὠφέλιμος περὶ πίστεως· καὶ εἰς τὸν περὶ φύσεως νόμον ⟨καὶ περὶ τοῦ ἁγίου πνς:-⟩</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος. καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας.</incipit>
+      <explicit>αὕτη ἐστὶν ἡ ἄκτιστος φύσις. ἡ ἀληθινὴ ἀξία. ἡ ἀμέριστος βασιλεία. ἡ ἄσχιστος τιμή. ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάληπτος δόξα. τοῦ πρς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνς· ἧ πρέπει πᾶσα δόξα τιμὴ καὶ προσκύνησις. εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν· :–</explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        14 ex.-15 in.
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -89,8 +166,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107221042," type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722013n" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722013n/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

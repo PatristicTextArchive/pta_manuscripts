@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Skêtê Hagiou Dêmêtriou, fonds principal 72
+     Hagion Oros, Skêtê Hagias Annês, fonds principal Kyriakou 014 (Lambros 0095)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,24 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Skêtê Hagiou Dêmêtriou
+      Skêtê Hagias Annês
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      72
+      Kyriakou 014 (Lambros 0095)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       31730
+       31508
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00154_01">
-      <locus from="467" to="479">
-       467–479
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00154_01">
+      <locus from="147v" to="155">
+       147v–155
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1900-12-31" notBefore-iso="1801-01-01">
-        s. 19
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

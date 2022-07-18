@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Philadelphia, Free Library, Rare Book Department, Lewis Lewis E 156 (de Ricci 2)
+     Paris, Bibliothèque nationale de France (BNF), grec 1554A
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Philadelphia
+      Paris
      </settlement>
      <repository>
-      Free Library, Rare Book Department
+      Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      Lewis
+      grec
      </collection>
      <idno>
-      Lewis E 156 (de Ricci 2)
+      1554A
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       55434
+       51173
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00373_01">
-      <locus from="031" to="034">
-       031–034
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00373_01">
+      <locus from="168v" to="172">
+       168v–172
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
@@ -89,8 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://openn.library.upenn.edu/Data/0023/html/lewis_e_156.html,https://libwww.freelibrary.org/digital/item/21857" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b100840763" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100840763/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

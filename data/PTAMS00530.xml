@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00530" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 105
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2020-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Wien
+     </settlement>
+     <repository>
+      Österreichische Nationalbibliothek (ÖNB)
+     </repository>
+     <collection>
+      theol. gr.
+     </collection>
+     <idno>
+      105
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       71772
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Vt
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0001.pta059" n="1" xml:id="PTAMS00530_01">
+      <locus from="109v-119">
+       109v-119
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta060" n="2" xml:id="PTAMS00530_02">
+      <locus from="119v-133">
+       119v-133
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta061" n="3" xml:id="PTAMS00530_03">
+      <locus from="133v-145">
+       133v-145
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="4" xml:id="PTAMS00530_04">
+      <locus from="145r" to="150v">
+       145r–150v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ, μεθοὗ τῶ πατρὶ δόξα σὺν ἁγίω πνεύματι, εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="5" xml:id="PTAMS00530_05">
+      <locus from="151-166v">
+       151-166v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta057" n="6" xml:id="PTAMS00530_06">
+      <locus from="93-99v">
+       93-99v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta058" n="7" xml:id="PTAMS00530_07">
+      <locus from="99v-109v">
+       99v-109v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01" when-iso="16">
+        s. 16 (a. 1553?)
+       </origDate>
+      </p>
+     </origin>
+    </history>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

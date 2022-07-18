@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sankt-Peterburg, Rossijskaja Nacional'naja biblioteka (RNB), Ф. № 906 (Gr.) 094 (Granstrem 334)
+     Patras, Monê Hagiôn Pantôn, fonds principal 2
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sankt-Peterburg
+      Patras
      </settlement>
      <repository>
-      Rossijskaja Nacional'naja biblioteka (RNB)
+      Monê Hagiôn Pantôn
      </repository>
      <collection>
-      Ф. № 906 (Gr.)
+      fonds principal
      </collection>
      <idno>
-      094 (Granstrem 334)
+      2
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       57164
+       55288
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00385_01">
-      <locus from="113" to="116">
-       113–116
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00385_01">
+      <locus from="093" to="096v">
+       093–096v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="2" xml:id="PTAMS00385_02">
+      <locus from="102" to="107">
+       102–107
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

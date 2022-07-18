@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00542" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Istanbul, Patriarchikê Bibliothêkê, Panaghia 64
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-06-18" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Istanbul
+     </settlement>
+     <repository>
+      Patriarchikê Bibliothêkê
+     </repository>
+     <collection>
+      Panaghia
+     </collection>
+     <idno>
+      64
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       33709
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       T
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="" n="1" xml:id="PTAMS00542_001">
+      <locus from="1r" to="3r">
+       001r–003r
+      </locus>
+      <rubric>
+       <note>Gnomica, Varia</note>
+      </rubric>
+      <incipit/>
+      <explicit>
+       ΩΜΟΛΟΓΗΤΑΙ ΠΑΡΑ ΠΑΣΙΝ ΦΑΥΛΟΝ ΥΠΑΡΧΕΙΝ ΤΗΝ ΚΑΚΙΑΝ ΝΟΣΟΝ ΟΥΣΑΝ ΨΥΧΗΣ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="2" xml:id="PTAMS00542_002">
+      <locus from="3v" to="4v">
+       003v-004v
+      </locus>
+      <rubric>
+       <note>Ignatius diaconus sceuophylax, Tetrasticha 46</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="3" xml:id="PTAMS00542_003">
+      <locus from="4v" to="5r">
+       004v-005r
+      </locus>
+      <rubric>
+       ΠΕΡΙ ΔΙΚΑΙΟΣΥΝΗΣ ΚΑΙ ΠΕΡΙ ΝΟΜΟΥ
+       <note>Gnomica, Varia</note>
+      </rubric>
+      <incipit>
+       ΔΙΚΑΙΟΣΥΝΗ ΕΣΤΙ ΣΤΑΘΗΡΑ ΚΑΙ ΔΙΗΝΕΚΗΣ ΒΟΥΛΗΣΙΣ
+      </incipit>
+      <explicit>
+       ΚΑΙ ΤΙ ΠΟΙΗΣΟΥΣΙ ΤΗ ΗΜΕΡΑ ΤΗΣ ΕΠΙΣΚΟΠΗΣ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="4" xml:id="PTAMS00542_004">
+      <locus from="5r" to="5v">
+       005r-005v
+      </locus>
+      <rubric>
+       <note>Theologica, Aduersus Iudaeos; Dialogus Theodoti cum Iudaeo</note>
+      </rubric>
+      <incipit>
+       ΕΥΛΑΒΕΣΤΑΤΟΥ ΠΡΕΣΒΥΤΕΡΟΥ ΕΡΩΤΗΘΕΝΤΟΣ
+      </incipit>
+      <explicit>
+       ΘΕΟΔΟΤΟΣ ΠΡΕΣΒΥΤΕΡΟΣ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="5" xml:id="PTAMS00542_005">
+      <locus from="6r" to="14r">
+       006r-014r
+      </locus>
+      <rubric>
+       <note>Diogenianus paroemiographus, Prouerbia</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="6" xml:id="PTAMS00542_006">
+      <locus from="14v" to="15v">
+       014v-015v
+      </locus>
+      <rubric>
+       <note>Gnomica, Varia</note>
+      </rubric>
+      <msItem n="6.1">
+       <locus from="15r" to="15r">
+        015r-015r
+       </locus>
+       <rubric>
+        <note>Plutarchus, De liberis educandis; Excerptum</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+      <msItem n="6.2">
+       <locus from="15r" to="15r">
+        015r-015r
+       </locus>
+       <rubric>
+        <note>Iohannes Zonaras, Lexicon; Excerptum</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+     </msItem>
+     <msItem corresp="" n="7" xml:id="PTAMS00542_007">
+      <locus from="15v" to="15v">
+       015v-015v
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, In Matthaeum homiliae 1-90; Excerptum ex hom. 81</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="8" xml:id="PTAMS00542_008">
+      <locus from="16r" to="31v">
+       016r-031v
+      </locus>
+      <rubric>
+       AI ΠΕΡΙ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ ΜΑΡΤΥΡΙΑΙ
+       <note>Florilegia, Varia</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="9" xml:id="PTAMS00542_009">
+      <locus from="31v" to="34v">
+       031v-034v
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, Excerpta In catenis, florilegiis, etc.</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="10" xml:id="PTAMS00542_010">
+      <locus from="35r" to="41v">
+       035r-041v
+      </locus>
+      <rubric>
+       <note>Ius canonicum, Canones</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="11" xml:id="PTAMS00542_011">
+      <locus from="42r" to="42r">
+       042r-042r
+      </locus>
+      <rubric>
+       <note>Cyrillus Alexandrinus, De adoratione et cultu in spiritu et ueritate; Excerptum lib. 18</note>
+      </rubric>
+      <incipit>
+       ΜΕΘΕΞΙΝ Ο ΧΡΙΣΤΟΣ ΖΥΜΗΣ ΑΠΠΛΛΑΧΘΑΙ ΤΗΣ ΝΟΜΙΚΝΣ ΤΟΥΤΕΣΤΙ ΚΑΚΙΑΣ
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="12" xml:id="PTAMS00542_012">
+      <locus from="42r" to="42v">
+       042r-049v
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia</note>
+      </rubric>
+      <msItem n="12.1">
+       <locus from="42v" to="43v">
+        042v-043v
+       </locus>
+       <rubric>
+        <note>Michael Psellus, Theologica</note>
+       </rubric>
+       <incipit>
+        ΕΙ ΚΑΙ ΜΗ ΚΑΤΑΛΥΣΑΙ ΤΟΝ ΜΩΣΑΙΚΟΝ ΝΟΜΟΝ
+       </incipit>
+       <explicit>
+        ΑΔΗΛΟΝ ΕΧΟΝΤΩΝ ΤΟ ΤΕΛΟΣ
+       </explicit>
+      </msItem>
+     </msItem>
+     <msItem corresp="" n="13" xml:id="PTAMS00542_013">
+      <locus from="50r" to="57r">
+       050r-057r
+      </locus>
+      <rubric>
+       <note>Gelasius Cyzicenus, Historia Ecclesiastica; Excerpta lib. 2</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="14" xml:id="PTAMS00542_014">
+      <locus from="57r" to="60v">
+       057r-060v
+      </locus>
+      <rubric>
+       <note>Cyrillus Alexandrinus, Epistulae (1-92); Epistula 1 ad monachos Aegypti</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="15" xml:id="PTAMS00542_015">
+      <locus from="61r" to="68v">
+       061r-068v
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia</note>
+      </rubric>
+      <msItem n="15.1">
+       <locus from="67r" to="68v">
+        067r-068v
+       </locus>
+       <rubric>
+        <note>Manuel Comnenus I, Nouellae constitutiones; Edictum de controuersia</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+     </msItem>
+     <msItem corresp="" n="16" xml:id="PTAMS00542_016">
+      <locus from="68v" to="68v">
+       068v-068v
+      </locus>
+      <rubric>
+       <note>Isidorus Pelusiota, Epistulae; Ep. I, 422 cum scholium</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="17" xml:id="PTAMS00542_017">
+      <locus from="68v" to="68v">
+       068v-068v
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="18" xml:id="PTAMS00542_018">
+      <locus from="69r" to="71r">
+       069r-071r
+      </locus>
+      <rubric>
+       <note>Basilius Achridenus Thessalonicae mtr., Epistulae</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="19" xml:id="PTAMS00542_019">
+      <locus from="72r" to="72v">
+       072r-072v
+      </locus>
+      <rubric>
+       <note>Theologica, Aduersus Latinos</note>
+      </rubric>
+      <incipit>
+       ΔΙΑΒΑΛΛΟΥΣΙΝ ΗΜΑΣ ΟΙ ΑΛΑΖΟΝΕΣ ΛΑΤΙΝΟΙ
+      </incipit>
+      <explicit>
+       ΑΛΛΑ ΑΦΥΡΤΩΣ ΚΑΙ ΑΣΥΓΧΥΤΩΣ ΣΩΖΟΜΕΝΩΝ ΤΩΝ ΙΔΙΟΤΗΤΩΝ ΑΥΤΩΝ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="20" xml:id="PTAMS00542_020">
+      <locus from="73r" to="80v">
+       073r-080v
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia; Florilegium de processione sancti spriritus</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="21" xml:id="PTAMS00542_021">
+      <locus from="80v" to="99r">
+       080v-099r
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia; Florilegium de azymis et processione sancti spiritus</note>
+      </rubric>
+      <msItem n="21.1">
+       <locus from="80v" to="81r">
+        080v-081r
+       </locus>
+       <rubric>
+        <note>Photius CP ptr., Epistula encyclica ad sedes archiepiscopales Orientis (seu Epist. 2); Excerptum</note>
+       </rubric>
+       <incipit>
+        Τίς ὅλως ἀνάσχοιτο
+       </incipit>
+       <explicit>
+        Πνεύματος προβολή
+       </explicit>
+      </msItem>
+      <msItem n="21.2">
+       <locus from="81r" to="82r">
+        081r-082r
+       </locus>
+       <rubric>
+        <note>Photius CP ptr. (Auteur supposé (tradition manuscrite)), Contra ueteris Romae asseclas libellus (seu Epitome 1 Mystagogiae); Excerpta duo</note>
+       </rubric>
+       <incipit>
+        Εἰ ἁπλοῦν μὲν τὸ Πνεῦμα
+       </incipit>
+       <explicit/>
+      </msItem>
+      <msItem n="21.3">
+       <locus from="82r" to="84v">
+        082r-084v
+       </locus>
+       <rubric>
+        Νικολάου τοῦ ἁγιωτάτου ἐπισκόπου Μεθώνης λόγος Πρὸς Λατίνους περὶ τοῦ ἁγίου Πνεύματος, ὅτι ἐκ τοῦ Πατρός, οὐ μὴν ἐκ τοῦ Υἱοῦ ἐκπορεύεται. Εὐχὴ τάξιν ἔχουσα προοιμίου
+        <note>Nicolaus Methonae mtr., Aduersus Latinos de Spiritu sancto</note>
+       </rubric>
+       <incipit/>
+       <explicit>
+        ἀποστελῶ τὸν ἄγγελόν μου πρὸ προσώπου σου καὶ κατ' αὐτὸν
+       </explicit>
+      </msItem>
+      <msItem n="21.4">
+       <locus from="85r" to="90r">
+        085r-090r
+       </locus>
+       <rubric>
+        <note>Nicolaus Methonae mtr., Aduersus Latinos de azymis</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+      <msItem n="21.5">
+       <locus from="90r" to="90v">
+        090r-090v
+       </locus>
+       <rubric>
+        <note>Petrus chartophylax, Responsa Canonica</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+      <msItem n="21.6">
+       <locus from="91r" to="95v">
+        091r-095v
+       </locus>
+       <rubric>
+        <note>Eustratius Nicaeae mtr., Orationes de processione Spiritus sancti 1-3; Or. 1</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+      <msItem n="21.7">
+       <locus from="95v" to="98v">
+        095v-098v
+       </locus>
+       <rubric>
+        <note>Eustratius Nicaeae mtr., Orationes de processione Spiritus sancti 1-3; Or. 2</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+      <msItem n="21.8">
+       <locus from="99r" to="99r">
+        099r-099r
+       </locus>
+       <rubric>
+        <note>Eustratius Nicaeae mtr., Oratio alia de azymis</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+      <msItem n="21.9">
+       <locus from="99r" to="99r">
+        099r-099r
+       </locus>
+       <rubric>
+        <note>Eustratius Nicaeae mtr., Oratio ad Latinos de azymis; Excerptum</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+     </msItem>
+     <msItem corresp="" n="22" xml:id="PTAMS00542_022">
+      <locus from="99v" to="100v">
+       099v-100v
+      </locus>
+      <rubric>
+       <note>Georgius Hamartolus monachus, Chronicon; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="23" xml:id="PTAMS00542_023">
+      <locus from="100v" to="104v">
+       100v-104v
+      </locus>
+      <rubric>
+       <note>Dionysius Areopagita (Pseudo), De ecclesiastica hierarchia; Excerpta ualde diuersa ab editione ; cum lacuna</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="24" xml:id="PTAMS00542_024">
+      <locus from="104v" to="105v">
+       104v-105v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Opera; Excerpta diuersa</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="25" xml:id="PTAMS00542_025">
+      <locus from="106r" to="115v">
+       106r-115v
+      </locus>
+      <rubric>
+       <note>Iohannes Tzetzes , Historiarum uariarum chiliades; Ordo foliorum perturbatus sic restituendus: ff. 108-115v, 107r-v, 106r</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="26" xml:id="PTAMS00542_026">
+      <locus from="106r" to="106v">
+       106r-106v
+      </locus>
+      <rubric>
+       <note>Theodorus Prodromus, Versus in duodecim menses; Anonymus cod.; Ordo foliorum perturbatus (v. s.)</note>
+      </rubric>
+      <incipit/>
+      <explicit>
+       ἰοῦ γέμοντα φαρμακ>ουργοῦ τῆς ὕδρας
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="27" xml:id="PTAMS00542_027">
+      <locus from="116r" to="116r">
+       116r-116r
+      </locus>
+      <rubric>
+       <note>Germanus CP. ptr. II, Versus</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="28" xml:id="PTAMS00542_028">
+      <locus from="116r" to="116v">
+       116r-116v
+      </locus>
+      <rubric>
+       <note>Leo Sapiens VI, Canticum compunctionis</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="29" xml:id="PTAMS00542_029">
+      <locus from="116v" to="116v">
+       116v-116v
+      </locus>
+      <rubric>
+       <note>Symeon Metaphrastes, Versus alphabetici</note>
+      </rubric>
+      <incipit>
+       ΑΝΩ ΤΟ ΟΜΜΑ ΤΗΣ ΔΙΑΝΟΙΑΣ
+      </incipit>
+      <explicit>
+       ΩΣ ΣΥΜΠΑΘΗΣ ΚΑΙ ΔΕΣΠΟΤΗΣ ΠΡΙΝ ΕΙΣ ΤΕΛΟΣ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="30" xml:id="PTAMS00542_030">
+      <locus from="116v" to="116v">
+       116v-116v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Capita de caritate; Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="31" xml:id="PTAMS00542_031">
+      <locus from="117r" to="120v">
+       117r-120v
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, Synopsis Scripturae Sacrae</note>
+      </rubric>
+      <incipit>
+       Τὸ πᾶν σῶμα τῆς θεοπνεύστου Γραφῆς
+      </incipit>
+      <explicit>
+       εἱστίασε λαμπρῶς
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="32" xml:id="PTAMS00542_032">
+      <locus from="120v" to="124v">
+       120v-124v
+      </locus>
+      <rubric>
+       <note>Agapetus Diaconus, Capitula admonitoria</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="33" xml:id="PTAMS00542_033">
+      <locus from="124v" to="124v">
+       124v-124v
+      </locus>
+      <rubric>
+       <note>Iohannes Damascenus, Expositio fidei; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="34" xml:id="PTAMS00542_034">
+      <locus from="124v" to="124v">
+       124v-124v
+      </locus>
+      <rubric>
+       <note>Ius canonicum, Notitiae episcopatuum; Excerpta duo</note>
+      </rubric>
+      <incipit>
+       ΟΤΙ ΔΙΑ ΤΟ ΕΙΝΑΙ ΠΛΗΡΕΣΤΑΤΗΝ ΣΥΝΟΔΟΝ
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="35" xml:id="PTAMS00542_035">
+      <locus from="125r" to="132v">
+       125r-132v
+      </locus>
+      <rubric>
+       <note>Photius CP ptr., De Spiritus Sancti mystagogia</note>
+      </rubric>
+      <incipit/>
+      <explicit>
+       καὶ τοῦ Υἱοῦ καὶ τοῦ Θεοῦ καὶ τὰ ἄλ[λα
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="36" xml:id="PTAMS00542_036">
+      <locus from="133r" to="140v">
+       133r-140v
+      </locus>
+      <rubric>
+       <note>Anastasius Sinaita, Quaestiones et responsiones; Excerptum</note>
+      </rubric>
+      <incipit>
+       Ο ΓΑΡ ΠΑΤΕΡΑ
+      </incipit>
+      <explicit>
+       ΤΩΝ ΦΑΥΛΩΝ ΛΟΓΙΣΜΩΝ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="37" xml:id="PTAMS00542_037">
+      <locus from="141r" to="141r">
+       141r-141r
+      </locus>
+      <rubric>
+       <note>Septuaginta, Prouerbia; Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="38" xml:id="PTAMS00542_038">
+      <locus from="141r" to="146r">
+       141r-146r
+      </locus>
+      <rubric>
+       <note>Theodorus Balsamon , Responsa ad interrogationes Marci</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="39" xml:id="PTAMS00542_039">
+      <locus from="146v" to="146v">
+       146v-146v
+      </locus>
+      <rubric>
+       <note>Dionysius Halicarnassensis, Antiquitates Romanae; Excerpta minima e lib. VIII</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="40" xml:id="PTAMS00542_040">
+      <locus from="146v" to="147r">
+       146v-147r
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia</note>
+      </rubric>
+      <incipit>
+       ΑΠΟΜΝΗΜΟΝΕΥΜΑΤΑ ΕΚ ΔΙΑΦΟΡΩΝ ΠΟΙΗΤΩΝ ΤΕ ΚΑΙ ΡΗΤΟΡΩΝ
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="41" xml:id="PTAMS00542_041">
+      <locus from="147v" to="149v">
+       147v-149v
+      </locus>
+      <rubric>
+       <note>Isaac Angelus II, Epistulae; De haeresi Armeniorum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="42" xml:id="PTAMS00542_042">
+      <locus from="149v" to="150r">
+       149v-150r
+      </locus>
+      <rubric>
+       <note>Nicetas Choniates, Epistula XI ad Camaterum de haeresibus Armeniorum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="43" xml:id="PTAMS00542_043">
+      <locus from="150r" to="151r">
+       150r-151r
+      </locus>
+      <rubric>
+       <note>Nicetas Choniates, Opera; Prologus de haeresi Armeniorum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="44" xml:id="PTAMS00542_044">
+      <locus from="151r" to="153r">
+       151r-153r
+      </locus>
+      <rubric>
+       <note>Nicetas Choniates, Panoplia dogmatica; Excerptum de haeresi Armeniorum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="45" xml:id="PTAMS00542_045">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Cyrillus Hierosolymitanus, Catecheses ad illuminandos; Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="46" xml:id="PTAMS00542_046">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, In Iohannem Homiliae 1-88; Hom. 53 tantum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="47" xml:id="PTAMS00542_047">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Theophilus Antiochenus, In Cantica; Excerptum: In Cant. III, 9</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="48" xml:id="PTAMS00542_048">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Euagrius Ponticus, Institutiones ad monachos; Anonymus cod.; Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="49" xml:id="PTAMS00542_049">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Euagrius Ponticus, Kephalaia Gnostica; Anonymus cod.; Excerptum: cap. 27</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="50" xml:id="PTAMS00542_050">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, De cibo angelorum et Christi post resurrectionem</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="51" xml:id="PTAMS00542_051">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Quaestiones et dubia; Excerptum</note>
+      </rubric>
+      <incipit>
+       ΤΙ ΕΣΤΙ ΤΟ ΠΑΡΑ ΤΟΥ ΑΠΟΣΤΟΛΟΥ ΕΙΡΗΜΕΝΟΝ ΗΥΧΟΜΗΝ ΑΝΑΘΕΜΑ ΕΙΝΑΙ ΥΠΕΡ ΤΩΝ ΑΔΕΛΦΩΝ ΜΟΥ
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="52" xml:id="PTAMS00542_052">
+      <locus from="153v" to="153v">
+       153v-153v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Quaestiones et responsiones</note>
+      </rubric>
+      <incipit>
+       ΤΙ ΕΣΤΙ ΤΟ ΕΦΗΒΙΣΑΣΘΑΙ
+      </incipit>
+      <explicit>
+       Η ΘΡΙΞ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="53" xml:id="PTAMS00542_053">
+      <locus from="154r" to="154r">
+       154r-154r
+      </locus>
+      <rubric>
+       <note>Nicetas Choniates, Panoplia dogmatica; Excerptum de haeresi Armeniorum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="54" xml:id="PTAMS00542_054">
+      <locus from="154v" to="156v">
+       154v-156v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Capita de caritate; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="55" xml:id="PTAMS00542_055">
+      <locus from="154v" to="156v">
+       154v-156v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Quaestiones ad Thalassium; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="56" xml:id="PTAMS00542_056">
+      <locus from="157r" to="157v">
+       157r-157v
+      </locus>
+      <rubric>
+       <note>Michael Psellus, Theologica; Excerptum ex op. theol. 28</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="57" xml:id="PTAMS00542_057">
+      <locus from="157v" to="158v">
+       157v-158v
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, In Genesim Homiliae 1-67; Excerptum hom. 62</note>
+      </rubric>
+      <incipit>
+       Ἰούδας ὁ υἱὸς Ἰακὼβ
+      </incipit>
+      <explicit>
+       τὴν ὠφέλειαν καρπωσόμεθα
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="58" xml:id="PTAMS00542_058">
+      <locus from="158v" to="161v">
+       158v-161v
+      </locus>
+      <rubric>
+       <note>Michael Psellus, De Operatione Daemonum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="59" xml:id="PTAMS00542_059">
+      <locus from="161v" to="162v">
+       161v-162v
+      </locus>
+      <rubric>
+       <note>Michael Psellus, Oratoria Minora; Oratio 27 (Littlewood)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="60" xml:id="PTAMS00542_060">
+      <locus from="162v" to="164r">
+       162v-164r
+      </locus>
+      <rubric>
+       <note>Michael Psellus, Theologica; Oratio 37 (Westerink-Duffy)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="61" xml:id="PTAMS00542_061">
+      <locus from="164r" to="164v">
+       164r-164v
+      </locus>
+      <rubric>
+       <note>Michael Psellus, Poemata; Poema 18 (Westerink) ad Comnenum de kalendis</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="62" xml:id="PTAMS00542_062">
+      <locus from="164v" to="164v">
+       164v-164v
+      </locus>
+      <rubric>
+       <note>Michael Psellus, Epistulae (ep. 1-542); Epistulae duo</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="63" xml:id="PTAMS00542_063">
+      <locus from="165r" to="165r">
+       165r-165r
+      </locus>
+      <rubric>
+       <note>Cyrillus Alexandrinus, De Sancta Trinitate dialogi VII; Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="64" xml:id="PTAMS00542_064">
+      <locus from="165r" to="166v">
+       165r-166v
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia; Citantur Cyrillus Alexandrinus, Sophronivs Hierosolymitanus ; Basilius Caesariensis</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="65" xml:id="PTAMS00542_065">
+      <locus from="167r" to="171r">
+       167r-171r
+      </locus>
+      <rubric>
+       <note>Lexica, Varia; Excerpta quattuor</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="66" xml:id="PTAMS00542_066">
+      <locus from="171r" to="178r">
+       171r-178r
+      </locus>
+      <rubric>
+       <note>Basilius Caesariensis, Sermo 15 (De uita monastica)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="67" xml:id="PTAMS00542_067">
+      <locus from="178v" to="180v">
+       178v-180v
+      </locus>
+      <rubric>
+       <note>Iohannes Chrysostomus, Prooemia in Psalmos 1-2</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="68" xml:id="PTAMS00542_068">
+      <locus from="180v" to="181v">
+       180v-181v
+      </locus>
+      <rubric>
+       <note>Athanasius Alexandrinus, Ep Ad Marcellinum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="69" xml:id="PTAMS00542_069">
+      <locus from="182r" to="184r">
+       182r-184r
+      </locus>
+      <rubric>
+       <note>Leo papa I, Ep Ad Flauianum Cpl</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="70" xml:id="PTAMS00542_070">
+      <locus from="184v" to="202v">
+       184v-202v
+      </locus>
+      <rubric>
+       <note>Michael Attaleiates , Synopsis iuris; Ordo foliorum perturbatus sic restituendus: ff. 184v-191v, 193r-v, 192r-v, 195r-v, 194r-v, 196r-202v</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="71" xml:id="PTAMS00542_071">
+      <locus from="203r" to="204r">
+       203r-204r
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, Opera; Ordo foliorum perturbatus sic restituendus: f. 204r-v, 203r</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="72" xml:id="PTAMS00542_072">
+      <locus from="203v" to="208v">
+       203v-208v
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia; in ff. 203v, 205r-208v tantum; Ordo foliorum perturbatus (v. s.)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="73" xml:id="PTAMS00542_073">
+      <locus from="209r" to="211v">
+       209r-211v
+      </locus>
+      <rubric>
+       <note>Athanasius Alexandrinus, Quaestiones ad Antiochum ducem</note>
+      </rubric>
+      <incipit/>
+      <explicit>
+       ΤΗΝ ΑΚΤΙΝΑ ΑΥΤΟΥ ΚΑΘΥΒΡΙΣΗΣ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="74" xml:id="PTAMS00542_074">
+      <locus from="212r" to="212r">
+       212r-212r
+      </locus>
+      <rubric>
+       <note>Hagiographica, Patricius ep. Prusae et soc. (SS.), Synaxarium</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="75" xml:id="PTAMS00542_075">
+      <locus from="212r" to="212v">
+       212r-212v
+      </locus>
+      <rubric>
+       <note>Ius ciuile, Varia; Falcidia lex</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="76" xml:id="PTAMS00542_076">
+      <locus from="213r" to="213r">
+       213r-213r
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, Epistulae; Excerpta epistularum 6, 40 et 58</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="77" xml:id="PTAMS00542_077">
+      <locus from="213r" to="213v">
+       213r-213v
+      </locus>
+      <rubric>
+       <note>Heraclius imperator, Nouellae Constitutiones</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="78" xml:id="PTAMS00542_078">
+      <locus from="213v" to="216v">
+       213v-216v
+      </locus>
+      <rubric>
+       <note>Iohannes Damascenus, Expositio fidei; Capp. 1-8; In ff. 213v-214v, 216r-v; Ordo foliorum perturpatus</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="79" xml:id="PTAMS00542_079">
+      <locus from="215r" to="218v">
+       215r-218v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Opera; Excerpta; In ff. 216v, 215r-v, 218r-v; Ordo foliorum perturpatus</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="80" xml:id="PTAMS00542_080">
+      <locus from="217r" to="218v">
+       217r-218v
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia; Florilegium paruum de Eucharistia; In ff. 218v, 217r; Ordo foliorum perturpatus</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="81" xml:id="PTAMS00542_081">
+      <locus from="217v" to="222r">
+       217v-222r
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Opera; Excerpta; In ff. 217v, 219r-222r; Ordo foliorum perturpatus</note>
+      </rubric>
+      <incipit>
+       Ο ΚΑΤΑ ΤΗΝ ΠΑΡΟΥΣΑΝ ΖΩΗΝ
+      </incipit>
+      <explicit>
+       ΔΙΔΟΝΤΑΙ ΔΕ ΤΟΙΣ ΑΞΙΩΣ ΑΥΤΩΝ ΑΓΩΝΙΖΟΜΕΝΟΙΣ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="82" xml:id="PTAMS00542_82">
+      <locus from="222r" to="223v">
+       222r-223v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Capita theologica et oeconomica; Excerptum</note>
+      </rubric>
+      <incipit>
+       ΕΙΣ ΘΕΟΣ ΟΤΙ ΜΙΑ ΘΕΟΤΗΣ
+      </incipit>
+      <explicit>
+       ΕΜΦΕΡΕΙΑ ΠΡΟΣ ΤΑ ΑΙΤΙΑΤΑ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="83" xml:id="PTAMS00542_83">
+      <locus from="224r" to="225v">
+       224r-225v
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, Apologetica uel De fuga (or. 2); Excerpta duo</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="84" xml:id="PTAMS00542_84">
+      <locus from="224r" to="225v">
+       224r-225v
+      </locus>
+      <rubric>
+       <note>Athanasius Alexandrinus, Quaestiones ad Antiochum ducem</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="85" xml:id="PTAMS00542_85">
+      <locus from="224r" to="225v">
+       224r-225v
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, Theologica 4: De Filio 2 (or. 30); Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="86" xml:id="PTAMS00542_86">
+      <locus from="225v" to="226v">
+       225v-226v
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, Epistulae; Excerpta ex epistulis 51, 54, 193, 194, 232, 231, 144</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="87" xml:id="PTAMS00542_87">
+      <locus from="227r" to="227v">
+       227r-227v
+      </locus>
+      <rubric>
+       <note>Plutarchus, Vitae parallelae; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="88" xml:id="PTAMS00542_88">
+      <locus from="227v" to="229v">
+       227v-229v
+      </locus>
+      <rubric>
+       <note>Symeon Seth, Stephanites et Ichnelates; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="89" xml:id="PTAMS00542_89">
+      <locus from="229v" to="230r">
+       229v-230r
+      </locus>
+      <rubric>
+       <note>Gnomica, Varia</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="90" xml:id="PTAMS00542_90">
+      <locus from="230r" to="230v">
+       230r-230v
+      </locus>
+      <rubric>
+       <note>Philo Iudaeus, De uita Mosis; Excerpta; inseruntur excerpta diuersa</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="91" xml:id="PTAMS00542_91">
+      <locus from="231r" to="232v">
+       231r-232v
+      </locus>
+      <rubric>
+       <note>Gnomica, Varia</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="92" xml:id="PTAMS00542_92">
+      <locus from="233r" to="282v">
+       233r-282v
+      </locus>
+      <rubric>
+       <note>Gregentius (Pseudo), Disputatio cum Herbano Iudaeo; Valde differt ab editis</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="93" xml:id="PTAMS00542_93">
+      <locus from="282v" to="291r">
+       282v-291r
+      </locus>
+      <rubric>
+       <note>Anastasius Sinaita, Quaestiones et responsiones; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="94" xml:id="PTAMS00542_94">
+      <locus from="292r" to="292r">
+       292r-292r
+      </locus>
+      <rubric>
+       <note>Eusebius Caesariensis, Vita Constantini; Excerptum ex II 71, 8</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="95" xml:id="PTAMS00542_95">
+      <locus from="292r" to="292r">
+       292r-292r
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, In sancta Lumina (or. 39); Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="96" xml:id="PTAMS00542_96">
+      <locus from="292v" to="293r">
+       292v-293r
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="97" xml:id="PTAMS00542_97">
+      <locus from="293r" to="294r">
+       293r-294r
+      </locus>
+      <rubric>
+       <note>Xenophon historicus, Cyropaedia; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="98" xml:id="PTAMS00542_98">
+      <locus from="294v" to="296v">
+       294v-296v
+      </locus>
+      <rubric>
+       <note>Anastasius Sinaita, Quaestiones et responsiones; Quaestiones 59, 142, 57 (initium)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="99" xml:id="PTAMS00542_99">
+      <locus from="296v" to="297v">
+       296v-297v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Opera; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="100" xml:id="PTAMS00542_100">
+      <locus from="297v" to="298v">
+       297v-298v
+      </locus>
+      <rubric>
+       <note>Anastasius Sinaita, Quaestiones et responsiones; Quaestiones 41, 43, 46 (initium), 48 (finis)</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="101" xml:id="PTAMS00542_101">
+      <locus from="298v" to="299r">
+       298v-299r
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="102" xml:id="PTAMS00542_102">
+      <locus from="299r" to="299v">
+       299r-299v
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, In Basilium (or. 43); Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="103" xml:id="PTAMS00542_103">
+      <locus from="299v" to="299v">
+       299v-299v
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, In Athanasium (or. 21); Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="104" xml:id="PTAMS00542_104">
+      <locus from="299v" to="299v">
+       299v-299v
+      </locus>
+      <rubric>
+       <note>Maximus confessor, Opera; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="105" xml:id="PTAMS00542_105">
+      <locus from="300r" to="308r">
+       300r-308r
+      </locus>
+      <rubric>
+       <note>Georgius Hamartolus monachus, Chronicon; Excerpta; Ordo foliorum perturbatus sic restituendus: ff. 304v-305v, 300r-v, 306r-308r</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="106" xml:id="PTAMS00542_106">
+      <locus from="301r" to="303r">
+       301r-303r
+      </locus>
+      <rubric>
+       <note>Gnomica, Varia; Photius CP ptr.</note>
+      </rubric>
+      <incipit>
+       ΜΝΗΜΗ ΓΑΡ ΤΩΝ ΑΝΙΑΡΩΝ
+      </incipit>
+      <explicit>
+       ΑΛΛ ΕΞ ΩΝ ΠΝΟΕΙΣΙΝ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="107" xml:id="PTAMS00542_107">
+      <locus from="303r" to="303v">
+       303r-303v
+      </locus>
+      <rubric>
+       <note>Iohannes Climacus, Scala paradisi; Excerpta cum scholiis</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="108" xml:id="PTAMS00542_108">
+      <locus from="304r" to="304r">
+       304r-304r
+      </locus>
+      <rubric>
+       <note>Iohannes Zonaras, Epitome historiarum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="109" xml:id="PTAMS00542_109">
+      <locus from="304r" to="304r">
+       304r-304r
+      </locus>
+      <rubric>
+       <note>Nilus Ancyranus, Narrationes; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="110" xml:id="PTAMS00542_110">
+      <locus from="308v" to="309r">
+       308v-309r
+      </locus>
+      <rubric>
+       <note>Theologica, Aduersus Armenios</note>
+      </rubric>
+      <incipit>
+       ΕΝΑΝΤΙΑΝ ΚΑΙ ΠΟΝΗΡΑΝ ΑΙΡΕΣΙΝ
+      </incipit>
+      <explicit>
+       ΤΑ ΔΟΓΜΑΤΑ ΤΩΝ ΟΡΘΟΔΟΞΩΝ ΡΩΜΑΙΩΝ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="111" xml:id="PTAMS00542_111">
+      <locus from="309r" to="309v">
+       309r-309v
+      </locus>
+      <rubric>
+       <note>Theologica, Aduersus Armenios; Quomodo recipiendi sunt Armenii haeretici</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="112" xml:id="PTAMS00542_112">
+      <locus from="309v" to="310v">
+       309v-310v
+      </locus>
+      <rubric>
+       <note>Theologica, De Haeresibus; Quomodo recipiendi sunt Manichaei</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="113" xml:id="PTAMS00542_113">
+      <locus from="310v" to="311r">
+       310v-311r
+      </locus>
+      <rubric>
+       <note>Theologica, De Haeresibus; Quomodo recipiendi sunt homines qui haeretici erant</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="114" xml:id="PTAMS00542_114">
+      <locus from="311r" to="311v">
+       311r-311v
+      </locus>
+      <rubric>
+       <note>Theologica, Aduersus Iudaeos; Quomodo recipiendi sunt Iudaei</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="115" xml:id="PTAMS00542_115">
+      <locus from="311v" to="312v">
+       311v-312v
+      </locus>
+      <rubric>
+       <note>Theologica, Aduersus Iudaeos; Quomodo recipiendi sunt Iudaei: formula longior</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="116" xml:id="PTAMS00542_116">
+      <locus from="312v" to="312v">
+       312v-312v
+      </locus>
+      <rubric>
+       <note>Astrologica, astronomica, Paschalium</note>
+      </rubric>
+      <incipit>
+       ΙΣΤΕΟΝ ΟΤΙ ΠΡΟ ΤΗΣ ΠΡΩΤΗΣ ΣΥΝΟΔΟΥ
+      </incipit>
+      <explicit>
+       ΝΟΜΙΚΟΝ ΠΑΣΧΑ ΜΑΡΤΙΩ ΚΔ' ΗΜΕΡΑ Ζ' ΧΡΙΣΤΟΥ ΠΑΣΧΑ ΜΑΡΤΙΩ ΚΕ'
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="117" xml:id="PTAMS00542_117">
+      <locus from="313r" to="331v">
+       313r-331v
+      </locus>
+      <rubric>
+       <note>Michael Glycas, Chronicon</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="118" xml:id="PTAMS00542_118">
+      <locus from="332r" to="332r">
+       332r-332r
+      </locus>
+      <rubric>
+       <note>Theologica, Quaedam; Definitiones</note>
+      </rubric>
+      <incipit>
+       ΔΙΑ ΤΩΝ ΤΕΣΣΑΡΩΝ ΣΤΟΙΧΕΙΩΝ
+      </incipit>
+      <explicit>
+       ΟΜΟΟΥΣΙΟΣ ΠΑΤΡΙ ΚΑΙ ΥΙΩ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="119" xml:id="PTAMS00542_119">
+      <locus from="332r" to="332r">
+       332r-332r
+      </locus>
+      <rubric>
+       <note>Anastasius Sinaita, Quaestiones et responsiones; Excerpta e qu. 66</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="120" xml:id="PTAMS00542_120">
+      <locus from="332r" to="332r">
+       332r-332r
+      </locus>
+      <rubric>
+       <note>Gregorius Nazianzenus, In Athanasium (or. 21); Excerptum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="121" xml:id="PTAMS00542_121">
+      <locus from="333r" to="333r">
+       333r-333r
+      </locus>
+      <rubric>
+       <note>Theologica, Quaedam; De uocabulis "imago Dei"</note>
+      </rubric>
+      <incipit>
+       ΕΙΚΩΝ ΛΕΓΕΤΑΙ ΚΑΤΑ ΤΟ ΤΗΣ ΨΥΧΗΣ ΑΟΡΑΤΟΝ
+      </incipit>
+      <explicit>
+       ΕΙΚΟΝΟΣ ΤΟΥ ΘΕΟΥ ΚΑΙ ΠΑΤΡΟΣ ΚΑΘΩΣ ΦΗΣΙΝ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="122" xml:id="PTAMS00542_122">
+      <locus from="333r" to="333r">
+       333r-333r
+      </locus>
+      <rubric>
+       <note>Dionysius Halicarnassensis, Antiquitates Romanae; Excerpta duo e lib. 11</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="123" xml:id="PTAMS00542_123">
+      <locus from="333v" to="333v">
+       333v-333v
+      </locus>
+      <rubric>
+       <note>Alphabeta, Varia; Alphabeta Graecum, Latinum et hieroglyphicum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="124" xml:id="PTAMS00542_124">
+      <locus from="333v" to="333v">
+       333v-333v
+      </locus>
+      <rubric>
+       <note>Michael Xenolatus, Epistula Ad Theodorum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="125" xml:id="PTAMS00542_125">
+      <locus from="333v" to="333v">
+       333v-333v
+      </locus>
+      <rubric>
+       <note>Dionysius Halicarnassensis, Antiquitates Romanae; Excerpta duo e lib. 10</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="126" xml:id="PTAMS00542_126">
+      <locus from="334r" to="334r">
+       334r-334r
+      </locus>
+      <rubric>
+       <note>Iohannes Laurentius Lydus, De mensibus; Excerptum: lib. 4, 47</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="127" xml:id="PTAMS00542_127">
+      <locus from="334v" to="334v">
+       334v-334v
+      </locus>
+      <rubric>
+       <note>Septuaginta, Daniel; Excerptum: 10, 1-4</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="128" xml:id="PTAMS00542_128">
+      <locus from="334v" to="334v">
+       334v-334v
+      </locus>
+      <rubric>
+       <note>Commentarius in Dn 10, 1-4</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="129" xml:id="PTAMS00542_129">
+      <locus from="335r" to="335r">
+       335r-335r
+      </locus>
+      <rubric>
+       <note>Lexica, Varia; Lexicon Hebraicum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="130" xml:id="PTAMS00542_130">
+      <locus from="335r" to="335v">
+       335r-335v
+      </locus>
+      <rubric>
+       <note>Iohannes Zonaras, Epitome historiarum; Excerpta tria</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="131" xml:id="PTAMS00542_131">
+      <locus from="336v" to="336v">
+       336v-336v
+      </locus>
+      <rubric>
+       <note>Iohannes Damascenus, Qua ratione homo imago Dei</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="132" xml:id="PTAMS00542_132">
+      <locus from="336v" to="336v">
+       336v-336v
+      </locus>
+      <rubric>
+       <note>Philosophica, Notulae de anima et uirtutibus</note>
+      </rubric>
+      <incipit>
+       ΑΡΕΤΑΙ ΤΗΣ ΨΥΧΗΣ ΕΙΣΙ Δ'
+      </incipit>
+      <explicit>
+       ΠΕΡΙΕΧΕΙ ΔΕ Η ΨΥΧΗ ΤΟ ΣΩΜΑ ΩΣ ΤΟ ΠΥΡ ΤΟΝ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="133" xml:id="PTAMS00542_133">
+      <locus from="336v" to="336v">
+       336v-336v
+      </locus>
+      <rubric>
+       <note>Iohannes Stobaeus, Anthologium (Ioh. Stobaei); Excerptum: 3, 7, 63</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="134" xml:id="PTAMS00542_134">
+      <locus from="336v" to="336v">
+       336v-336v
+      </locus>
+      <rubric>
+       <note>Anthologia Graeca, Anthologia Graeca; Excerpta duo: 7, 43 et 10, 58</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="135" xml:id="PTAMS00542_135">
+      <locus from="336v" to="336v">
+       336v-336v
+      </locus>
+      <rubric>
+       <note>Democritus philosophus, Fragmenta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="136" xml:id="PTAMS00542_136">
+      <locus from="337r" to="338v">
+       337r-338v
+      </locus>
+      <rubric>
+       <note>Ius canonicum, Canones; Canones Apostolorum et Conciliorum</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="137" xml:id="PTAMS00542_137">
+      <locus from="339r" to="343v">
+       339r-343v
+      </locus>
+      <rubric>
+       <note>Euthymius monachus peribleptenus, Inuectiuae Contra Armenios</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="138" xml:id="PTAMS00542_138">
+      <locus from="344r" to="344r">
+       344r-344r
+      </locus>
+      <rubric>
+       <note>Athanasius Alexandrinus, Testimonia e scriptura (De communi essentia Patris et Filii et Spiritus Sancti); Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="139" xml:id="PTAMS00542_139">
+      <locus from="344r" to="348r">
+       344r-348r
+      </locus>
+      <rubric>
+       <note>Florilegia, Varia; De processione Spiritus Sancti</note>
+      </rubric>
+       <msItem n="139.1">
+       <locus from="344r" to="344v">
+        344r-344v
+       </locus>
+       <rubric>
+        <note>Athanasius Alexandrinus, Epistulae ad Serapionem 1-4; Excerpta ex ep. 1</note>
+       </rubric>
+       <incipit/>
+       <explicit/>
+      </msItem>
+     </msItem>
+     <msItem corresp="" n="140" xml:id="PTAMS00542_140">
+      <locus from="348v" to="349v">
+       348v-349v
+      </locus>
+      <rubric>
+       <note>Sozomenus, Historia Ecclesiastica; Excerpta</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="141" xml:id="PTAMS00542_141">
+      <locus from="349v" to="351r">
+       349v-351r
+      </locus>
+      <rubric>
+       <note>Euagrius scholasticus, Historia Ecclesiastica</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="142" xml:id="PTAMS00542_142">
+      <locus from="351r" to="351r">
+       351r-351r
+      </locus>
+      <rubric>
+       <note>Cyrillus Alexandrinus, Oratio Ad Theodosium Imp. De Recta Fide</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

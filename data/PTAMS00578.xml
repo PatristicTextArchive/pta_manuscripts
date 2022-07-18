@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00578" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paris, Bibliothèque nationale de France (BNF), grec 1476
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref> as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-03-30" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Paris
+     </settlement>
+     <repository>
+      Bibliothèque nationale de France (BNF)
+     </repository>
+     <collection>
+      grec
+     </collection>
+     <idno>
+      1476
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       51093
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem defective="true" corresp="bhg:1209" n="1" xml:id="PTAMS00578_01">
+      <locus from="1r" to="2r">
+       1r-2
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">ἐν τῶ κοσμίω θεάτρω ἠγωνιζόμην</incipit>
+      <explicit>ποθήσαντες γὰρ τὸν δεστότην χν. παρρησίαν ἔχετε τοῦ πρεσβεύειν ὅπως τύχωμεν τῆς αἰωνίου ζωῆς ἐν χω ιυ τῶ κω ἡμῶν, ὧ ἡ δόξα καὶ τὸ κράτος. νῦν καὶ ἀεὶ καὶ εἰς τοὺς ἀτελευτήτους αἰώνας τῶν αἰώνων· ἀμήν.</explicit>
+      <finalRubric>μαρτύριον τῶν ἁγίων μβ</finalRubric>
+     </msItem>
+     <msItem corresp="bhg:1201" n="2" xml:id="PTAMS00578_02">
+      <locus from="2r" to="6r">
+       2r-6r
+      </locus>
+      <rubric>Μαρτύριον τῶν ἁγίων μ ὧν τὰ ὀνόματα εἰσι ταῦτα· ...</rubric>
+      <incipit>Κατὰ τοὺς καιροὺς λικινίου τοῦ βασιλέως</incipit>
+      <explicit>ἐπι σρι απάντων τῶν πιστευόντων εἰς πρα καὶ υν καὶ ἅγιον πνα· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν</explicit>
+      <finalRubric>Μαρτύριον τῶν ἁγίων μ</finalRubric>
+     </msItem>
+     <msItem defective="true" corresp="cpg:2863" n="3" xml:id="PTAMS00578_03">
+      <locus from="6r" to="6v">
+       6r-v
+      </locus>
+      <rubric>Τοῦ ἁγίου Βασιλείου ἀερχεπισκόπου Καισαρείας Καππαδοκίας ἐγκώμιον εἰς τοὺς ἀγίου μ μαρτύρας</rubric>
+      <incipit>Μαρτύρων δὲ μνήμης· τίς ἂν γένοιτο κόρος τῶ φιλομάρτυρι·</incipit>
+      <explicit type="defective">κοινὸς γὰρ αὐτῶν πηρ ὁ θς· καὶ ἀδελφοὶ πάντες</explicit>
+     </msItem>
+     <msItem defective="true" corresp="cpg:8174" n="4" xml:id="PTAMS00578_04">
+      <locus from="7r" to="7r">
+       7r
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective"/>
+      <explicit>καὶ ἀναγαγὼν συνεκάθισεν ἐν τοῖς ἐπουρανίοις ὑπεράνω πάσης ἀρχῆς καὶ ἐξουσίας καὶ δυνάμεως καὶ παντὸς ὀνόματος ὀνομαζομένου. ἔν τε τῶ παρόντι αἰῶνι καὶ τῶ μέλλοντι· ὧ ἡ δόξα καὶ τὸ κράτος ἅμα τῶ ἀνάρχω πρι καὶ τῶ ἁγίω καὶ ζωοποῶ πνι. νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+      <finalRubric>ἀνδ κρητ εἰς τὸν εὐαγγελισμόν</finalRubric>
+      <note>ὑπέρβα τοὺς δύο λόγους τῶν νηστείων τῆς τε α κυριακῆς καὶ τῆς β κυριακῆς εὑρήσεις ἕτερον τοῦ εὐαγγελισμὸν λόγον θαυ...</note>
+     </msItem>
+     <msItem corresp="cpg:4425" n="5" xml:id="PTAMS00578_05">
+      <locus from="7r" to="9r">
+       7r–9r
+      </locus>
+      <rubric>κ Τοῦ ἐν ἁγίοις πρς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ χρυσοστόμου λόγος ἐκ τῆς ἑρμηνείας τοῦ κατὰ Ἰωάννην εὐαγγελίου εἰς τὴν α κυριακὴν τῶν νηστειῶν</rubric>
+      <incipit>Τῇ ἐπαύριον ἠθέλησεν ἐξελθεῖν εἰς τὴν Γαλιλαίαν</incipit>
+      <explicit>ὅταν ἐπὶ τοῦ πρς ὁμολογῆ τοὺς ἀξίους· ἐν χω ιυ τῶ κω ἡμῶν. δι’ οὗ καὶ μεθ’ οὗ τῶ πρι ἡ δόξα. ἅμα τῶ ἁγίω πνι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν</explicit>
+      <finalRubric>ἐπλήσθη ὁ τοῦ χρυσοστόμου λόγος τῆς α κυριακῆς τῶν ἁγίων νηστειῶν· ἐκ τῆς ἑρμηνείας τοῦ κατὰ Ἰωάννην εὐαγγελίου</finalRubric>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4424" n="6" xml:id="PTAMS00578_06">
+      <locus from="9r" to="11v">
+       9r–11v
+      </locus>
+      <rubric>κϛ Τοῦ αὐτοῦ ἐκ τῆς ἑρμηνείας τοῦ κατὰ Ματθαῖον εὐαγγελίου εἰς τὸν παράλυτον ἤτοι εἰς τὴν β κυριακὴν τῶν ἁγίων νηστειῶν <note>hom. 29</note></rubric>
+      <incipit>Καὶ ἐμβὰς ὁ κς εἰς τὸ πλοῖον διεπέρασεν καὶ ἦλθεν εἰς τὴν ἰδίαν πόλιν·</incipit>
+      <explicit type="defective">βίον ἐπιδεικνύμενος ἄριστον· τὸν λόγον παρεχόμενος ἀκατάγνωστον· προστασίαν</explicit>
+     </msItem>
+     <msItem defective="true" n="7" xml:id="PTAMS00578_07">
+     <note>to be identified</note>
+      <locus from="12r" to="17v">
+       12r–17v
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">ψεύδους ἐπίκριμνον συμβουλὴν ἀποστήσασθαι</incipit>
+      <explicit type="defective">ἐπειδὴ γὰρ πάντα ὡς οἶόν τε ἦν εὐθέως ἀπαγγείλας ὅλον τὸ τελούμενον. χαρᾶς καὶ δόξης τῆς ἀνωτάτω</explicit>
+     </msItem>
+     <msItem defective="true" n="8" xml:id="PTAMS00578_08">
+     <note>to be identified</note>
+      <locus from="18r" to="18v">
+       18r–18v
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">οίμια δέχεται. καὶ ἀρχὴν λαμβάνει θεώσεως·</incipit>
+      <explicit type="defective">τὴν ἀδοξησασαν ἐν ἄδαμ φύσιν· καὶ ἀλήθειαν τὴν τοῦ πρς τοῦ</explicit>
+     </msItem>
+     <msItem defective="true" corresp="cpg:1775" n="9" xml:id="PTAMS00578_09">
+      <locus from="19r" to="20v">
+       19r-20v
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">τὸ δῶρον ἐκαρτέρησεν ὑποδέξασθαι. πρὶν ἂν μάθh τίς ὁ πέμπων</incipit>
+      <explicit>θρόνος ἀληθῶς καὶ οὗτος χερουβικός· θρόνος βασιλικὸς· ἅγιος ἁγίων μόνος ἐπὶ γῆς ἐν ὧ ἀνεπαύσατο χς ὁ θς ἡμῶν· ὅτι αὐτῶ πρέπει πᾶσα δόξα σὺν τῶ πρι καὶ τῶ ἁγίω πνι εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν·</explicit>
+      <finalRubric>Τοῦ ἁγίου Γρηγορίου ἐπισκόπου Νεοκαισαρείας λὀγος εἰς τὸν εὐαγγελισμόν τῆς ἁγίας θεοτόκου</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0002.pta001" n="10" xml:id="PTAMS00578_10">
+      <locus from="20v" to="21r">
+       20v-21r
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις πρς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ χρυσοστόμου λόγος εἰς τὸν παράλυτον ἤτοι εἰς τὴν β κυριακὴν τῶν νηστειῶν</rubric>
+      <incipit>ἄνωθεν μὲν ὁ προφήτης εὐαγγελιζόμενος ἡμῖν τὴν τῶν προκειμένων θαυμάτων ἀπόδειξιν ἔγραφεν·</incipit>
+      <explicit>θαυμάζομεν θεραπεύοντα· δοξολογοῦμεν εὐεργετοῦντα· ὅτι αὐτῶ ἡ δόξα καὶ τὸ κράτος νῦν καὶ ἀεὶ καὶ εἰς τοὺς ἁπάντας αἰῶνας τῶν αἰῶνων ἀμήν</explicit>
+      <finalRubric>τοῦ χρυσοστόμου εἰς τὸν παράλυτον ἤγουν εἰς τὴν β κυριακὴν τῶν ἁγίων νηστείων</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:4424" n="11" xml:id="PTAMS00578_11">
+      <locus from="21v" to="25r">
+       21v–25r
+      </locus>
+      <rubric>κατὰ Ματθαῖον εὐαγγελίου εἰς τὴν γ κυριακὴν τῶν ἁγίων νηστειῶν <note>hom. 55</note></rubric>
+      <incipit>Τότε ὁ ις εἶπεν τοῖς μαθηταῖς αὐτοῦ· εἴ τις θέλει ὀπίσω μου ἐλθεῖν.</incipit>
+      <explicit>καὶ σωφροσύνης καὶ τῶν ἄλλων ἐπιμελώμεθα· καὶ τὴν ἐν ταῖς ἐρημίαις φιλοσοφίαν εἰς τὰς πόλεις εἰσαγάγωμεν. ἵνα καὶ τῶν μελλόντων ἐπιτύχωμεν ἀγαθῶν, χάριτι καὶ φιλανθρωπία τοῦ κυ ἡμῶν ιυ χυ· δι’ οὗ καὶ μεθ’ οὗ τῶ πρι δόξα ἅμα τῶ ἁγίω πνι εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+      <finalRubric>τοῦ ἁγίου ἰωάννου τοῦ χρυσοστόμου εἰς τὴν γ κυριακὴν τῶν νηστείων</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:4424" n="12" xml:id="PTAMS00578_12">
+      <locus from="25v" to="28v">
+       25v–28v
+      </locus>
+      <rubric>λ Τοῦ ὁσίου πρς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ χρυσοστόμου ἐκ τῆς ἑρμηνείας τῆς κατὰ Ματθαῖον εὐαγγελίου λόγος εἰς τὴν δ κυριακὴν τῶν ἁγίων νηστειῶν <note>hom. 57 partim</note></rubric>
+      <incipit>ἐλθόντι δὲ τῶ ιυ σὺν τοῖς μαθηταῖς αὐτοῦ πρὸς τὸν ὄχλον. προσῆλθεν αὐτῶ ανος γονυπετῶν αὐτὸν καὶ λέγων· κε ἐλέησόν μου τὸν υν ὅτι σεληνιάζεται καὶ κακῶς πάσχει· πολλάκις γὰρ πίπτει εἰς τὸ πῦρ καὶ πολλάκις εἰς τὸ ὕδωρ· καὶ προσήνεγκα αὐτὸν τοῖς μαθηταῖς σου. καὶ οὐκ ἴσχυσαν αὐτὸν θεραπεῦσαι· τοῦτον τὸν ἄνθρωπον σφόδρα ἀσθενοῦντα κατὰ πίστιν δείκνυσιν ἡ γραφή·</incipit>
+      <explicit>οὐκ ἔστιν οὐδεμία· φύγωμεν τοίνυν τὸ νόσημα. ἵνα καὶ τῶν ἐνταῦθα καὶ τῶν μελλόντων ἐπιτύχωμεν ἀγαθῶν. χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ. ὧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν·</explicit>
+      <finalRubric>τοῦ ἁγίου ἰωάννου τοῦ χρυσοστόμου λόγος εἰς τὴν γ κυριακὴν τῶν ἁγίων νηστείων</finalRubric>
+     </msItem>
+
+     <!--- marker -->
+     <msItem corresp="cpg:4681" n="13" xml:id="PTAMS00578_13">
+      <note>
+       Iohannes Chrysostomus, In Lazarum, homilia 2 (CPG 4681
+BHG 2231-2231c
+Aldama 567)
+      </note>
+      <locus from="37v" to="39v">
+       37v-39v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:8177" n="14" xml:id="PTAMS00578_14">
+      <note>
+       Andreas Cretensis, In Lazarum quatriduanum (CPG 8177
+BHG 2218)
+      </note>
+      <locus from="039v" to="47r">
+       39v-47r
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:7898" n="15" xml:id="PTAMS00578_15">
+      <note>
+       Leontius CP. presbyter, Hom. 3 in ramos palmarum (CPG 7898
+BHG 2216-2216c)
+      </note>
+      <locus from="47" to="49">
+       47-49
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:8178" n="16" xml:id="PTAMS00578_16">
+      <note>
+       Andreas Cretensis, In ramos palmarum (CPG 8178)
+      </note>
+      <locus from="49v" to="59">
+       49v-59
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4566" n="17" xml:id="PTAMS00578_17">
+      <note>
+       Iohannes Chrysostomus, De Ioseph et de castitate (CPG 4566
+BHG 2200z-2201
+Aldama 293)
+      </note>
+      <locus from="59" to="61v">
+       59-61v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:8058" n="18" xml:id="PTAMS00578_18">
+      <note>
+       Iohannes Damascenus, In Ficum Arefactam (CPG 8058)
+      </note>
+      <locus from="62" to="64v">
+       62-64v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4641" n="19" xml:id="PTAMS00578_19">
+      <note>
+       Iohannes Chrysostomus, In meretricem et in pharisaeum (CPG 4641
+BHG 1162i
+Aldama 458)
+      </note>
+      <locus from="72" to="73">
+       72-73
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:3234" n="20" xml:id="PTAMS00578_20">
+      <note>
+       Amphilochius Iconiensis, In mulierem peccatricem (CPG 3234
+BHG 1162h
+Aldama 196)
+      </note>
+      <locus from="73" to="79">
+       73-79
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4635" n="21" xml:id="PTAMS00578_21">
+      <note>
+       Iohannes Chrysostomus, In proditionem Iudae (CPG 4635
+BHG 0444k-0444kb
+Aldama 465)
+      </note>
+      <locus from="81v" to="82v">
+       81v-82v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:2247" n="22" xml:id="PTAMS00578_22">
+      <note>
+       Athanasius Alexandrinus, De Passione et Cruce Domini (CPG 2247
+BHG 0446g, 0449h)
+      </note>
+      <locus from="91" to="92">
+       91-92
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:6662" n="23" xml:id="PTAMS00578_23">
+      <note>
+       Basilius Seleuciensis, Homilia in Passionem Domini (CPG 6662
+BHG 0422p
+CPG 2276)
+      </note>
+      <locus from="91" to="92v">
+       91-92v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:3768" n="24" xml:id="PTAMS00578_24">
+      <note>
+       Epiphanius Constantiensis, In diuini corporis sepulturam (CPG 3768
+BHG 0808e)
+      </note>
+      <locus from="93" to="100v">
+       093-100v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:7384" n="25" xml:id="PTAMS00578_25">
+      <note>
+       Gregorius Antiochenus, In mulieres unguentiferas (CPG 7384
+Aldama 116)
+      </note>
+      <locus from="100v" to="102">
+       100v-102
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="0900-12-31" notBefore-iso="0801-01-01">
+        s. 9
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107238383" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b107238383" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1587
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 450
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Vat. gr.
      </collection>
      <idno>
-      1587
+      450
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       68218
+       67081
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00465_01">
-      <locus from="265" to="269v">
-       265–269v
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00465_01">
+      <locus from="242" to="256">
+       242–256
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1389">
-        a. 1389
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>
@@ -89,10 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.1587.pt.2" type="straighturl"/>
-       </bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.450" type="straighturl"/>
+        </bibl>
        <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.1587.pt.2/manifest.json" type="manifesturl"/>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.450/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

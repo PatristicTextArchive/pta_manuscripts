@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Mutilene, Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa), fonds principal 57
+     München, Bayerische Staatsbibliothek, Cod. graec. 366
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Mutilene
+      München
      </settlement>
      <repository>
-      Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa)
+      Bayerische Staatsbibliothek
      </repository>
      <collection>
-      fonds principal
+      Cod. graec.
      </collection>
      <idno>
-      57
+      366
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       45321
+       44814
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00249_01">
-      <locus from="165" to="167">
-       165–167
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00249_01">
+      <locus from="52-56v">
+       52-56v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1604">
-        a. 1604
+       <origDate>
+        10
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://daten.digitale-sammlungen.de/~db/0010/bsb00109052/images/index.html" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

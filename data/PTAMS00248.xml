@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Mutilene, Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa), fonds principal 21
+     München, Bayerische Staatsbibliothek (BSB), Cod. graec. 256
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,41 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Mutilene
+      München
      </settlement>
      <repository>
-      Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa)
+      Bayerische Staatsbibliothek (BSB)
      </repository>
      <collection>
-      fonds principal
+      Cod. graec.
      </collection>
      <idno>
-      21
+      256
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       45286
+       44703
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Mc
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00248_01">
-      <locus from="296" to="302v">
-       296–302v
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00248_01">
+      <locus from="065v" to="067r">
+       65v–67r
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ Χρυσοστόμου· ἐκ τοῦ πῶς ἔλαβεν ὁ Ἀδὰμ τὴν ψυχὴν ὅτε ἐπλάσθη:</rubric>
+      <incipit>Πολλοὶ ἐνόμισαν ὅτι τὸ ἐμφύσημα, αὐτὸ ἦν ἡ ψυχή·</incipit>
+      <explicit>Οὐ γὰρ δυνάμεθα ἐπιγράφειν τὸν πατέρα μὲν δημιουργοῦντα τὴν γηίνην εἰκόνα, τὸ δὲ πνεῦμα τὴν οὐράνιον·</explicit>
+      <note>Exzerpt</note>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00248_02">
+      <locus from="310r" to="336r">
+       310r–336r
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +93,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate when-iso="ca.">
+        1445 ca.
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://daten.digitale-sammlungen.de/~db/0007/bsb00076424/images/index.html" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00076424/manifest" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

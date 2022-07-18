@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), gr. 806
+     Paris, Bibliothèque nationale de France (BNF), gr. 769
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,34 +58,26 @@
       gr.
      </collection>
      <idno>
-      806
+      769
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50391
+       50353
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00342_01">
-      <locus from="287v" to="306v">
-       287v–306v
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="1" xml:id="PTAMS00342_01">
+      <locus from="001" to="005v">
+       001–005v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00342_02">
-      <locus from="287v" to="306v">
-       287v–306v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00342_03">
-      <locus from="287v" to="306v">
-       287v–306v
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="2" xml:id="PTAMS00342_02">
+      <locus from="006" to="017v">
+       006–017v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,12 +87,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10723790m" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723790m/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sofija, Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev», fonds principal D. gr. 206
+     Sankt-Peterburg, Rossijskaja Nacional'naja biblioteka (RNB), Ф. № 906 (Gr.) 514 (Granstrem 221)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sofija
+      Sankt-Peterburg
      </settlement>
      <repository>
-      Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev»
+      Rossijskaja Nacional'naja biblioteka (RNB)
      </repository>
      <collection>
-      fonds principal
+      Ф. № 906 (Gr.)
      </collection>
      <idno>
-      D. gr. 206
+      514 (Granstrem 221)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       62460
+       57586
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00400_01">
-      <locus from="Item 1">
-       Item 1
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00400_01">
+      <locus from="141v" to="152">
+       141v–152
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="2" xml:id="PTAMS00400_02">
+      <locus from="164" to="172v">
+       164–172v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>

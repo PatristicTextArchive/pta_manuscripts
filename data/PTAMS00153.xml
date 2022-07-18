@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Skêtê Hagias Annês, fonds principal Kyriakou 014 (Lambros 0095)
+     Hagion Oros, Monê Xêropotamou, fonds principal 2544 (211)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,24 +52,32 @@
       Hagion Oros
      </settlement>
      <repository>
-      Skêtê Hagias Annês
+      Monê Xêropotamou
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      Kyriakou 014 (Lambros 0095)
+      2544 (211)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       31508
+       30764
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00153_01">
-      <locus from="147v" to="155">
-       147v–155
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00153_01">
+      <locus from="201v" to="213">
+       201v–213
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00153_02">
+      <locus from="222v" to="250">
+       222v–250
       </locus>
       <rubric/>
       <incipit/>

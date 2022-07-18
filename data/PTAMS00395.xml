@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sinai, Monê tês Hagias Aikaterinês, gr. 493
+     Roma, Collegio Greco, fonds principal 6
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sinai
+      Roma
      </settlement>
      <repository>
-      Monê tês Hagias Aikaterinês
+      Collegio Greco
      </repository>
      <collection>
-      gr.
+      fonds principal
      </collection>
      <idno>
-      493
+      6
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       58868
+       56401
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00395_01">
-      <locus from="075v" to="081">
-       075v–081
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00395_01">
+      <locus from="001" to="015v">
+       001–015v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00395_02">
-      <locus from="081" to="083">
-       081–083
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="3" xml:id="PTAMS00395_03">
-      <locus from="095" to="097">
-       095–097
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="2" xml:id="PTAMS00395_02">
+      <locus from="37v-56">
+       37v-56
       </locus>
       <rubric/>
       <incipit/>
@@ -95,24 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="0900-12-31" notBefore-iso="0701-01-01">
-        s. 08–09
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1201-01-01">
+        s. 13–14
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://www.loc.gov/item/0027938183A-ms" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://www.loc.gov/item/0027938183A-ms/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00538" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Venezia, Biblioteca Nazionale Marciana, gr. I. 33 (coll. 977)
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-05-10" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Venezia
+     </settlement>
+     <repository>
+      Biblioteca Nazionale Marciana
+     </repository>
+     <collection>
+      gr. I.
+     </collection>
+     <idno>
+      033 (coll. 0977)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       70129
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       N
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6200" n="1" xml:id="PTAMS00538_01">
+      <locus from="3r" to="58v">
+       3r–58v
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6201" n="2" xml:id="PTAMS00538_02">
+      <locus from="59r" to="100r">
+       59r–100r
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00538_03">
+      <locus from="101r" to="156v">
+       101r–156v
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6208" n="4" xml:id="PTAMS00538_04">
+      <locus from="156v" to="214v">
+       156v–214v
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2911" n="5" xml:id="PTAMS00538_05">
+      <locus from="215r" to="339v">
+       215r–339v
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

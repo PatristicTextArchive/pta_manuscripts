@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Holkham gr. 030
+     Oxford, Bodleian Library, Canon. gr. 99
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,66 @@
       Bodleian Library
      </repository>
      <collection>
-      Holkham
+      Canon. gr.
      </collection>
      <idno>
-      gr. 030
+      99
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48098
+       47649
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Od
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00290_01">
-      <locus from="189" to="194">
-       189–194
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00290_01">
+      <locus from="110r" to="114v">
+       110r–114v
+      </locus>
+      <rubric>+ τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντίνου πόλεως τοῦ χρυσοστόμου· ὁμηλία εἰς τὸ ἐν ἀρχὴ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θυ:–</rubric>
+      <incipit>Χθὲς ἡμῖν ὁ λόγος, εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit><!-- letzte Seite in Digitalisat fehlt--></explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00290_02">
+      <locus from="114v" to="129">
+       114v–129
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="2" xml:id="PTAMS00290_02">
-      <locus from="205v" to="213v">
-       205v–213v
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00290_03">
+      <locus from="137" to="145">
+       137–145
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="3" xml:id="PTAMS00290_03">
-      <locus from="213v" to="218">
-       213v–218
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="4" xml:id="PTAMS00290_04">
+      <locus from="169v" to="177v">
+       169v–177v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="5" xml:id="PTAMS00290_05">
+      <locus from="178" to="188">
+       178–188
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="6" xml:id="PTAMS00290_06">
+      <locus from="188" to="197v">
+       188–197v
       </locus>
       <rubric/>
       <incipit/>
@@ -101,15 +130,6 @@
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32845," type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

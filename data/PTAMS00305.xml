@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque de la Sorbonne, fonds principal 190
+     Oxford, Lincoln College, fonds principal gr. 001
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Paris
+      Oxford
      </settlement>
      <repository>
-      Bibliothèque de la Sorbonne
+      Lincoln College
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      190
+      gr. 001
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       49112
+       48655
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00305_01">
-      <locus from="228" to="233v">
-       228–233v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00305_01">
+      <locus from="127" to="138">
+       127–138
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1424">
-        a. 1424
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1216
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 335
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Vat. gr.
      </collection>
      <idno>
-      1216
+      335
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67847
+       66966
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00462_01">
-      <locus from="058" to="061">
-       058–061
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00462_01">
+      <locus from="261" to="281">
+       261–281
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>

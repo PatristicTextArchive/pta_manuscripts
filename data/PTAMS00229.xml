@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 127 (Vlad. 161)
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 110 (Vlad. 160)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,42 +58,66 @@
       Sinod. gr.
      </collection>
      <idno>
-      127 (Vlad. 161)
+      110 (Vlad. 160)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43752
+       43735
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00229_01">
-      <locus from="202" to="209v">
-       202–209v
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00229_01">
+      <locus from="001v" to="017">
+       001v–017
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="2" xml:id="PTAMS00229_02">
-      <locus from="209v" to="230v">
-       209v–230v
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00229_02">
+      <locus from="022v" to="033">
+       022v–033
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00229_03">
-      <locus from="249" to="254v">
-       249–254v
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00229_03">
+      <locus from="037" to="045">
+       037–045
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="4" xml:id="PTAMS00229_04">
-      <locus from="327" to="347v">
-       327–347v
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="4" xml:id="PTAMS00229_04">
+      <locus from="077" to="088v">
+       077–088v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="5" xml:id="PTAMS00229_05">
+      <locus from="111" to="120v">
+       111–120v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="6" xml:id="PTAMS00229_06">
+      <locus from="167v" to="179">
+       167v–179
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta003" n="7" xml:id="PTAMS00229_07">
+      <locus from="232" to="255">
+       232–255
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +127,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0801-01-01">
+        s. 09–10
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 555
+     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 101
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,36 +55,69 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Ottob. gr.
      </collection>
      <idno>
-      555
+      101
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67186
+       65342
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Vo
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00448_01">
-      <locus from="255" to="268">
-       255–268
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00448_01">
+      <locus from="329" to="342v">
+       329–342v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00448_02">
+      <locus from="342v" to="352">
+       342v–352
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00448_03">
+      <locus from="352r" to="356r">
+       352r–356
+      </locus>
+      <rubric type="defective"/>
+      <incipit>πᾶσα γραφὴ θεόπνευστος, καὶ ὠφέλημος. ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας·</incipit>
+      <explicit type="defective"></explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.101" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.101/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

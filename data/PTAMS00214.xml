@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal C 181 inf. (Martini-Bassi 875)
+     Milano, Biblioteca Ambrosiana, fonds principal A 116 sup. (Martini-Bassi 41)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,29 +58,82 @@
       fonds principal
      </collection>
      <idno>
-      C 181 inf. (Martini-Bassi 875)
+      A 116 sup. (Martini-Bassi 41)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       42474
+       42223
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Am
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00214_01">
-      <locus from="091v" to="103v">
-       091v–103v
+     <msItem corresp="urn:cts:pta:pta0001.pta057" n="1" xml:id="PTAMS00214_01">
+      <locus from="01" to="07v">
+       1-7v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta058" n="2" xml:id="PTAMS00214_02">
+      <locus from="008r" to="018r">
+       8-18
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν δευτέραν ἡμέραν τῆς κοσμοποιΐας, καὶ πρὸς τὸν εἰπόντα αὐτῷ· Οὐκ ἔδει ἡμᾶς τοὺς Χριστιανοὺς λέγειν ἐπὶ τοῦ ἁγίου βαπτίσματος· Κύριος Σαβαώθ.</rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta059" n="3" xml:id="PTAMS00214_03">
+      <locus from="018v" to="031r">
+       18v-31r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν τρίτην ἡμέραν τῆς κοσμοποιΐας</rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta060" n="4" xml:id="PTAMS00214_04">
+      <locus from="031r" to="048r">
+       31r-48r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν τετάρτην ἡμέραν.</rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta061" n="5" xml:id="PTAMS00214_05">
+      <locus from="048v" to="062r">
+       48v-62r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ εἰς τὴν πέμπτην ἡμέραν τῆς κοσμοποιΐας.</rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="6" xml:id="PTAMS00214_06">
+      <locus from="063r" to="070r">
+       63r-70r
+      </locus>
+      <rubric>τοῦ αὐτοῦ ὁμιλία ...</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθοὗ τῶι πατρὶ δόξα συν ἁγίωι πνεύματι, εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="7" xml:id="PTAMS00214_07">
+      <locus from="070r" to="085v">
+       70r-85v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν ἑβδόμην ἡμέραν τῆς κοσμοποιΐας, καὶ εἰς τοὺς πρωτοπλάστους, καὶ εἰς τὸν ὄφιν, καὶ εἰς τὸ ξύλον τῆς γνώσεως, καὶ εἰς τὴν ἐν τῷ παραδείσῳ διατριβὴν καὶ προσομιλίαν τοῦ Θεοῦ μετὰ τοῦ Ἀδάμ. (in mg.: ἀναγινώσκεται τῇ κυριακῇ τῆς τυροφάγου)</rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Phillipps 1438 (034)
+     Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Phillipps 1406 (002)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,106 +58,42 @@
       Phillipps
      </collection>
      <idno>
-      1438 (034)
+      1406 (002)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       9341
+       9309
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00045_01">
-      <locus from="006" to="010">
-       006–010
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00045_01">
+      <locus from="123-127v">
+       123-127v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00045_02">
-      <locus from="010" to="017v">
-       010–017v
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00045_02">
+      <locus from="128" to="131v">
+       128–131v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00045_03">
-      <locus from="018" to="026v">
-       018–026v
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00045_03">
+      <locus from="132" to="139">
+       132–139
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="4" xml:id="PTAMS00045_04">
-      <locus from="027" to="031v">
-       027–031v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="5" xml:id="PTAMS00045_05">
-      <locus from="035" to="039v">
-       035–039v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="6" xml:id="PTAMS00045_06">
-      <locus from="045" to="057v">
-       045–057v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="7" xml:id="PTAMS00045_07">
-      <locus from="069" to="082">
-       069–082
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="8" xml:id="PTAMS00045_08">
-      <locus from="089" to="096v">
-       089–096v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="9" xml:id="PTAMS00045_09">
-      <locus from="103" to="111v">
-       103–111v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta031" n="10" xml:id="PTAMS00045_10">
-      <locus from="115" to="122v">
-       115–122v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="11" xml:id="PTAMS00045_11">
-      <locus from="123" to="132v">
-       123–132v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="12" xml:id="PTAMS00045_12">
-      <locus from="132v" to="141v">
-       132v–141v
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00045_04">
+      <locus from="139v" to="146">
+       139v–146
       </locus>
       <rubric/>
       <incipit/>
@@ -167,21 +103,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
-        s. 17
+       <origDate>
+        1542
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://bvmm.irht.cnrs.fr/consult/consult.php?COMPOSITION_ID=15979&amp;corpus=manuscrit" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

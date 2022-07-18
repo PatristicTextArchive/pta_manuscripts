@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Batopediou, fonds principal 0318
+     Hagion Oros, Monê Batopediou, fonds principal 229
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,34 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      0318
+      229
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       18462
+       18373
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00082_01">
-      <locus from="261" to="276v">
-       261–276v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00082_02">
-      <locus from="276v" to="287">
-       276v–287
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00082_03">
-      <locus from="287" to="292">
-       287–292
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00082_01">
+      <locus from="034v" to="041v">
+       034v–041v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
-        s. 17
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>

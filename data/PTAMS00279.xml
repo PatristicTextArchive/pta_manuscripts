@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 189
+     Oxford, Bodleian Library, Auct. T. 3. 4 (Misc. 221)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,50 @@
       Bodleian Library
      </repository>
      <collection>
-      Barocci
+      Auct.
      </collection>
      <idno>
-      189
+      T. 3. 4 (Misc. 221)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47476
+       47169
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ob
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00279_01">
-      <locus from="103" to="112v">
-       103–112v
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="1" xml:id="PTAMS00279_01">
+      <locus from="269" to="280v">
+       269–280v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00279_02">
-      <locus from="137" to="142v">
-       137–142v
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="2" xml:id="PTAMS00279_02">
+      <locus from="285" to="289v">
+       285–289v
+      </locus>
+      <rubric>+ ἐν ἁγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντίνου πόλεως τοῦ χρυσοστόμου· ὁμιλία εἰς τὸ ἐν ἀρχὴ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θυ:—</rubric>
+      <incipit>χθὲς ἡμῖν ὁ λόγος, εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit>ἀπο... καὶ μάρτυσι ἐν ὀρθοδόξω πίστει συναυλίζεσθαι ἐν χῶ ἰυ· ὦ ἡ δόξα ... αἰῶνας τῶν αἰώνων ἀμήν:—</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00279_03">
+      <locus from="289v" to="302">
+       289v–302
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00279_03">
-      <locus from="146v" to="148v">
-       146v–148v
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="4" xml:id="PTAMS00279_04">
+      <locus from="309v" to="316v">
+       309v–316v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,24 +108,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1598">
-        a. 1598
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/4d8fd54c-c3af-4ff3-a141-964b275cc5bc" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/4d8fd54c-c3af-4ff3-a141-964b275cc5bc.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

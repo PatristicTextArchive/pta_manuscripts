@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Skêtê Kausokalubiôn, fonds principal Kyriakou 157
+     Hagion Oros, Skêtê Kausokalubiôn, fonds principal Kyriakou 6
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      Kyriakou 157
+      Kyriakou 6
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       32064
+       31913
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00157_01">
-      <locus from="098" to="103">
-       098–103
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00157_01">
+      <locus from="185v" to="192">
+       185v–192
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        unbekannt
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

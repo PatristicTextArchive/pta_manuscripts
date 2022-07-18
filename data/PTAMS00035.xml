@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Metochion tou Panagiou Taphou 113
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Metochion tou Panagiou Taphou 48
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,26 @@
       Metochion tou Panagiou Taphou
      </collection>
      <idno>
-      113
+      48
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       6510
+       6445
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00035_01">
-      <locus from="021v" to="044">
-       021v–044
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00035_01">
+      <locus from="364v" to="375">
+       364v–375
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="2" xml:id="PTAMS00035_02">
-      <locus from="044v" to="053">
-       044v–053
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00035_02">
+      <locus from="422v" to="426">
+       422v–426
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

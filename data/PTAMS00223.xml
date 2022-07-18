@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 005 (Vlad. 412)
+     Milano, Biblioteca Ambrosiana, fonds principal P 261 sup. (Martini-Bassi 653)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Moskva
+      Milano
      </settlement>
      <repository>
-      Gosudarstvennyj Istoričeskij Musej (GIM)
+      Biblioteca Ambrosiana
      </repository>
      <collection>
-      Sinod. gr.
+      fonds principal
      </collection>
      <idno>
-      005 (Vlad. 412)
+      P 261 sup. (Martini-Bassi 653)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43630
+       43130
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00223_01">
-      <locus from="252" to="262">
-       252–262
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00223_01">
+      <locus from="085" to="093v">
+       085–093v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1445">
-        a. 1445
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=30102" type="straighturl"/>
+        <ref target="https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:87641" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

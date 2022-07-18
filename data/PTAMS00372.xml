@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Peiraias, Dêmotikê Bibl., fonds principal 23031 (Libadaras 5)
+     Paris, Bibliothèque nationale de France (BNF), gr. 1534
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Peiraias
+      Paris
      </settlement>
      <repository>
-      Dêmotikê Bibl.
+      Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      23031 (Libadaras 5)
+      1534
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       55361
+       51152
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00372_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00372_01">
+      <locus from="216-222v">
+       216-222v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate>
+        12
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10724055w" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10724055w/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

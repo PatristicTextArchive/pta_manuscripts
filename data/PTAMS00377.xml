@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Roma, Biblioteca Angelica, gr. 125
+     Paris, Bibliothèque nationale de France (BNF), Supplément grec 1275
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,59 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Roma
+      Paris
      </settlement>
      <repository>
-      Biblioteca Angelica
+      Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      gr.
+      Supplément grec
      </collection>
      <idno>
-      125
+      1275
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       56031
+       53939
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00377_01">
-      <locus from="031" to="045">
-       031–045
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00377_02">
-      <locus from="131" to="135v">
-       131–135v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00377_03">
-      <locus from="141" to="149">
-       141–149
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="4" xml:id="PTAMS00377_04">
-      <locus from="149" to="158">
-       149–158
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta003" n="5" xml:id="PTAMS00377_05">
-      <locus from="301" to="306v">
-       301–306v
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00377_01">
+      <locus from="103" to="104">
+       103–104
       </locus>
       <rubric/>
       <incipit/>
@@ -111,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>
@@ -121,8 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000117031" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110041337?rk=879832;4" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110041337?rk=879832;4/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

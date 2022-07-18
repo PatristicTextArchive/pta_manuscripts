@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 585
+     Vaticano, Biblioteca Apostolica Vaticana, Reg. gr. 6
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Reg. gr.
      </collection>
      <idno>
-      585
+      6
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67216
+       66176
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00457_01">
-      <locus from="54">
-       54
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00457_01">
+      <locus from="336v">
+       336v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=30886" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

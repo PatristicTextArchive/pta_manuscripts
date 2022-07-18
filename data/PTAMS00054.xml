@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Dublin, Chester Beatty Library, Manuscripts W.131
+     Cambridge, Trinity College, fonds principal O.08.33 (1408)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Dublin
+      Cambridge
      </settlement>
      <repository>
-      Chester Beatty Library
+      Trinity College
      </repository>
      <collection>
-      Manuscripts
+      fonds principal
      </collection>
      <idno>
-      W.131
+      O.08.33 (1408)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       13563
+       12022
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00054_01">
-      <locus from="016" to="028">
-       016–028
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00054_01">
+      <locus from="376" to="386">
+       376–386
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

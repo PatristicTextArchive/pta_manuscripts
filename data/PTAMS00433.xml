@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 411
+     Tübingen, Universitätsbibliothek, fonds principal Mb 12
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Tübingen
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Universitätsbibliothek
      </repository>
      <collection>
-      Ottob. gr.
+      fonds principal
      </collection>
      <idno>
-      411
+      Mb 12
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65654
+       64309
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00433_01">
-      <locus from="105" to="108">
-       105–108
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00433_01">
+      <locus from="259" to="264 (p.)">
+       259–264 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="2" xml:id="PTAMS00433_02">
+      <locus from="p. 60-65">
+       p. 60-65
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
-        s. 14–15
+       <origDate when-iso="1578">
+        a. 1578
        </origDate>
       </p>
      </origin>
@@ -89,7 +97,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.411.pt.1,http://digi.vatlib.it/view/MSS_Ott.gr.411.pt.2" type="straighturl"/>
+        <ref target="http://www.inka.uni-tuebingen.de/hand.php" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

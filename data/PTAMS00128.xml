@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Megistês Lauras, fonds principal Κ 098 (Eustratiades 1385)
+     Hagion Oros, Monê Megistês Lauras, fonds principal Δ 084 (Eustratiades 0460)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      Κ 098 (Eustratiades 1385)
+      Δ 084 (Eustratiades 0460)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       27588
+       27395
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00128_01">
-      <locus from="275" to="291v">
-       275–291v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00128_02">
-      <locus from="303v" to="307v">
-       303v–307v
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00128_01">
+      <locus from="260v" to="265">
+       260v–265
       </locus>
       <rubric/>
       <incipit/>
@@ -97,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00271051451-ma/" type="straighturl"/>
+        <ref target="https://www.loc.gov/item/00271051840-ma/" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

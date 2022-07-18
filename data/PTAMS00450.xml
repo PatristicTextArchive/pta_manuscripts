@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 560
+     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 264
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,45 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Ottob. gr.
      </collection>
      <idno>
-      560
+      264
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67191
+       65507
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00450_01">
-      <locus from="080v" to="129v">
-       080v–129v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00450_02">
-      <locus from="324v" to="328v">
-       324v–328v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00450_03">
-      <locus from="328v" to="336v">
-       328v–336v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="4" xml:id="PTAMS00450_04">
-      <locus from="345" to="350">
-       345–350
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00450_01">
+      <locus from="209" to="216v">
+       209–216v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.264" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.264/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

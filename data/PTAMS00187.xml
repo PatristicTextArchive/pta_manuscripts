@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     L'viv, Bibl. Zakladu Narodowego im. Ossolinskich, Polska Akademia Nauk, fonds principal 827
+     København, Det Kongelige Bibliotek, E don. var. 12 2°
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,42 +49,73 @@
     <msIdentifier>
      <country/>
      <settlement>
-      L'viv
+      København
      </settlement>
      <repository>
-      Bibl. Zakladu Narodowego im. Ossolinskich, Polska Akademia Nauk
+      Det Kongelige Bibliotek
      </repository>
      <collection>
-      fonds principal
+      E don. var.
      </collection>
      <idno>
-      827
+      12 2°
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       37444
+       37094
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ha
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00187_01">
-      <locus from="301v" to="302v">
-       301v–302v
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="1" xml:id="PTAMS00187_01">
+      <locus from="14r" to="22r">
+       14r–22r
+      </locus>
+      <rubric>+ τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου καὶ οἰκουμενικοῦ μεγάλου φωστῆρος· λόγος περὶ πίστεως· καὶ εἰς τὸν περὶ φύσεως νόμον· καὶ περὶ τοῦ ἁγίου πνεύματος + πάτερ εὐλόγησον +</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος, καὶ ὠφέλιμος. ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας.</incipit>
+      <explicit> αὕτη ἐστὶν ἡ ἄκτιστος φύσις· ἡ ἀληθινὴ ἀξία· ἡ ἀμέριστος βασιλεία· ἡ ἄσχιστος τιμή· ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάληπτος δόξα τοῦ πατρὸς καὶ τοῦ υἱοῦ· καὶ τοῦ ἁγίου πνεύματος· ἧ πρέπει πᾶσα δόξα τιμὴ καὶ προσκύνησις, εἰς τοὺς αἰῶνας τῶν αἰώνων· + ἀμήν +</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00187_02">
+      <locus from="022v" to="034v">
+       022v–034v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="3" xml:id="PTAMS00187_03">
+      <locus from="035r" to="037v">
+       35r–37v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ λόγος περὶ τοῦ πνεύματος τοῦ ἁγίου:</rubric>
+      <incipit>ἔλαβε χοῦν καὶ ἔπλασε· τὸ μὲν πόθεν ἔλαβεν</incipit>
+      <explicit>εὑρεθήσεται ὁ μὲν πατὴρ καὶ υἱὸς, κτίζων τὸν γήινον ἄνθρωπον· τὸ δὲ πνεῦμα, τὸν οὐράνιον· ἐνεφύσησε γὰρ εἰς τὸ πρόσωπον αὐτοῦ· καὶ ἐγένετο εἰς ψυχὴν ζῶσαν.</explicit>
+      <note>Exzerptum</note>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
-        s. 17
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14 (1/2)
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://www5.kb.dk/manus/vmanus/2011/dec/ha/object70061/en/" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

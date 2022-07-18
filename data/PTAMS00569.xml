@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00569" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 190
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-12-07" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Wien
+     </settlement>
+     <repository>
+      Österreichische Nationalbibliothek (ÖNB)
+     </repository>
+     <collection>
+      theol. gr.
+     </collection>
+     <idno>
+      190
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       71857
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6823" n="1" xml:id="PTAMS00569_01">
+      <note>
+       Leontius scholasticus, Liber De Sectis (CPG 6823)
+      </note>
+      <locus from="001-10v, 79-108">
+       001-10v, 79-108
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8048" n="2" xml:id="PTAMS00569_02">
+      <note>
+       Iohannes Damascenus, Dialogus Contra Manichaeos (CPG 8048)
+      </note>
+      <locus from="011-47">
+       011-47
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2094" n="3" xml:id="PTAMS00569_03">
+      <note>
+       Athanasius Alexandrinus, Epistulae ad Serapionem 1-4 (CPG 2094)
+      </note>
+      <locus from="047v-76">
+       047v-76
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7697" n="4" xml:id="PTAMS00569_04">
+      <note>
+       Maximus confessor, Opuscula theologica et polemica (CPG 7697)
+      </note>
+      <locus from="076-78v">
+       076-78v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3243" n="5" xml:id="PTAMS00569_05">
+      <note>
+       Amphilochius Iconiensis, Epistula Synodalis (CPG 3243)
+      </note>
+      <locus from="108v--139">
+       108v--139
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2900" n="6" xml:id="PTAMS00569_06">
+      <note>
+       Basilius Caesariensis, Epistulae (CPG 2900)
+      </note>
+      <locus from="108v--139">
+       108v--139
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2901" n="7" xml:id="PTAMS00569_07">
+      <note>
+       Basilius Caesariensis, Canones 01-85 (Epp. 188, 199, 217) (CPG 2901.01-85)
+      </note>
+      <locus from="108v--139">
+       108v--139
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2914" n="8" xml:id="PTAMS00569_08">
+      <note>
+       Basilius Caesariensis, Aduersus eos qui per calumniam dicunt dici a nobis deos tres (Homilia) (CPG 2914)
+      </note>
+      <locus from="139-142v">
+       139-142v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2900" n="9" xml:id="PTAMS00569_09">
+      <note>
+       Basilius Caesariensis, Epistulae (CPG 2900)
+      </note>
+      <locus from="142v-145">
+       142v-145
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2900" n="10" xml:id="PTAMS00569_10">
+      <note>
+       Basilius Caesariensis, Epistulae (CPG 2900)
+      </note>
+      <locus from="145-183v">
+       145-183v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2926" n="11" xml:id="PTAMS00569_11">
+      <note>
+       Basilius Caesariensis, De Spiritu Sancto a-b (Homilia) (CPG 2926
+BHG 1934m-n)
+      </note>
+      <locus from="184-186v">
+       184-186v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5216" n="12" xml:id="PTAMS00569_12">
+      <note>
+       Cyrillus Alexandrinus, De Sancta Trinitate dialogi VII (CPG 5216)
+      </note>
+      <locus from="186v-195">
+       186v-195
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="13" xml:id="PTAMS00569_13">
+      <note>
+       Hilarius Pictauiensis, Sermo In Festo Trinitatis ()
+      </note>
+      <locus from="195--222v">
+       195--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="14" xml:id="PTAMS00569_14">
+      <note>
+       Damasus papa I, Anathemata (confessio fidei ad Paulinum) ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="15" xml:id="PTAMS00569_15">
+      <note>
+       Leo papa I, Ep Ad Turribium Asturicensem Episc. ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="16" xml:id="PTAMS00569_16">
+      <note>
+       Hieronymus Stridonensis, Epistulae ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="17" xml:id="PTAMS00569_17">
+      <note>
+       Hormisdas papa, Epistulae ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="18" xml:id="PTAMS00569_18">
+      <note>
+       Augustinus Aurelius, De Cognitione Uerae Uitae ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="19" xml:id="PTAMS00569_19">
+      <note>
+       Isidorus Hispalensis, Etymologiae ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="20" xml:id="PTAMS00569_20">
+      <note>
+       Gregorius papa I, Opera ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="21" xml:id="PTAMS00569_21">
+      <note>
+       Gregorius papa I, Opera ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="22" xml:id="PTAMS00569_22">
+      <note>
+       Augustinus Aurelius, De Fide Ad Petrum ()
+      </note>
+      <locus from="197--222v">
+       197--222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="23" xml:id="PTAMS00569_23">
+      <note>
+       Florilegia, Theologica ()
+      </note>
+      <locus from="197-222v">
+       197-222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="24" xml:id="PTAMS00569_24">
+      <note>
+       Ambrosius Mediolanensis, De Fide ()
+      </note>
+      <locus from="199">
+       199
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="25" xml:id="PTAMS00569_25">
+      <note>
+       Boethius Anicius Manlius, De Trinitate ()
+      </note>
+      <locus from="210">
+       210
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="26" xml:id="PTAMS00569_26">
+      <note>
+       Damasus papa I, Opera ()
+      </note>
+      <locus from="210v">
+       210v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="27" xml:id="PTAMS00569_27">
+      <note>
+       Isidorus Hispalensis, Etymologiae ()
+      </note>
+      <locus from="210v">
+       210v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="28" xml:id="PTAMS00569_28">
+      <note>
+       Hieronymus Stridonensis, De Fide ()
+      </note>
+      <locus from="211">
+       211
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="29" xml:id="PTAMS00569_29">
+      <note>
+       Gregorius papa I, Opera ()
+      </note>
+      <locus from="211v">
+       211v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="30" xml:id="PTAMS00569_30">
+      <note>
+       Ius canonicum, Concilia ()
+      </note>
+      <locus from="211v-218*">
+       211v-218*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="31" xml:id="PTAMS00569_31">
+      <note>
+       Palamas Gregorius, Contra Iohannem Beccum (TB II Gregory Palamas 2)
+      </note>
+      <locus from="223--301v">
+       223--301v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="32" xml:id="PTAMS00569_32">
+      <note>
+       Bessarion cardinalis, Apologia Iinscriptionum Becci ()
+      </note>
+      <locus from="223--301v">
+       223--301v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="33" xml:id="PTAMS00569_33">
+      <note>
+       Iohannes Beccus Cpl. ptr. XI, Florilegium patristicum de processione Spiritus Sancti ()
+      </note>
+      <locus from="223-301v">
+       223-301v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="34" xml:id="PTAMS00569_34">
+      <note>
+       Iohannes Beccus Cpl. ptr. XI, Epigraphae ()
+      </note>
+      <locus from="223-301v">
+       223-301v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2295" n="35" xml:id="PTAMS00569_35">
+      <note>
+       Athanasius Alexandrinus, Symbolum quicumque (CPG 2295)
+      </note>
+      <locus from="303-304">
+       303-304
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="36" xml:id="PTAMS00569_36">
+      <note>
+       Ambrosius Mediolanensis, Hymnus: Te Deum ()
+      </note>
+      <locus from="304r-v">
+       304r-v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2804" n="37" xml:id="PTAMS00569_37">
+      <note>
+       Marcellus Ancyranus, Expositio Fidei (CPG 2804)
+      </note>
+      <locus from="306-308">
+       306-308
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="38" xml:id="PTAMS00569_38">
+      <note>
+       Cesarinus Iulianus, De Additamento In Symbolum ()
+      </note>
+      <locus from="318-319">
+       318-319
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="39" xml:id="PTAMS00569_39">
+      <note>
+       Thomas Aquinas, De Potentia [tr. P. Cydones] ()
+      </note>
+      <locus from="319v-332v">
+       319v-332v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="40" xml:id="PTAMS00569_40">
+      <note>
+       Thomas Aquinas, Opera ()
+      </note>
+      <locus from="326v-*">
+       326v-*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="41" xml:id="PTAMS00569_41">
+      <note>
+       Heraclitus philosophus, Uersus De Uitae Humanae Miseriis ()
+      </note>
+      <locus from="333">
+       333
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8041" n="42" xml:id="PTAMS00569_42">
+      <note>
+       Iohannes Damascenus, Dialectica (CPG 8041)
+      </note>
+      <locus from="333r-v">
+       333r-v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="001401-01-01">
+        s. 15 ex.
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://data.onb.ac.at/rec/AL00147759" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

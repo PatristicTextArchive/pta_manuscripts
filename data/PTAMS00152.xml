@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Xêropotamou, fonds principal 2544 (211)
+     Hagion Oros, Monê Xêropotamou, fonds principal 308 (Lambros 2641)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,26 @@
       fonds principal
      </collection>
      <idno>
-      2544 (211)
+      308 (Lambros 2641)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       30764
+       30729
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00152_01">
-      <locus from="201v" to="213">
-       201v–213
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00152_01">
+      <locus from="015" to="024 (p.)">
+       015–024 (p.)
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00152_02">
-      <locus from="222v" to="250">
-       222v–250
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="2" xml:id="PTAMS00152_02">
+      <locus from="497" to="525">
+       497–525
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>

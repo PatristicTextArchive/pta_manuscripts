@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Tübingen, Universitätsbibliothek, fonds principal Mb 12
+     Sofija, Cărkovno-istoričeski i archiven institut (CIAI), fonds principal 805
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Tübingen
+      Sofija
      </settlement>
      <repository>
-      Universitätsbibliothek
+      Cărkovno-istoričeski i archiven institut (CIAI)
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      Mb 12
+      805
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       64309
+       61977
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00415_01">
-      <locus from="259" to="264 (p.)">
-       259–264 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00415_01">
+      <locus from="315v-318">
+       315v-318
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1578">
-        a. 1578
+       <origDate>
+        1345
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://www.inka.uni-tuebingen.de/hand.php" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

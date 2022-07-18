@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 026 (coll. 0997)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1639
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,51 +49,51 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr.
+      Vat. gr.
      </collection>
      <idno>
-      II. 026 (coll. 0997)
+      1639
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70188
+       68270
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00489_01">
-      <locus from="064v" to="077v">
-       064v–077v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00489_01">
+      <locus from="155-159v">
+       155-159v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00489_02">
-      <locus from="120" to="124v">
-       120–124v
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00489_02">
+      <locus from="159v" to="163">
+       159v–163
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00489_03">
-      <locus from="124v" to="133">
-       124v–133
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00489_03">
+      <locus from="163" to="169v">
+       163–169v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="4" xml:id="PTAMS00489_04">
-      <locus from="133v" to="142v">
-       133v–142v
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00489_04">
+      <locus from="169v" to="176v">
+       169v–176v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +103,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate>
+        11
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Xêropotamou, fonds principal 146 (Lambros 2479)
+     Hagion Oros, Monê Xêropotamou, fonds principal 138 (Lambros 2471)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      146 (Lambros 2479)
+      138 (Lambros 2471)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       30699
+       30691
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00150_01">
-      <locus from="004" to="007">
-       004–007
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="1" xml:id="PTAMS00150_01">
+      <locus from="284v" to="286">
+       284v–286
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>

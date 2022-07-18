@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 425
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 422
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,26 @@
       Fonds principal
      </collection>
      <idno>
-      425
+      422
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       2721
+       2718
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00021_01">
-      <locus from="143" to="171 (p.)">
-       143–171 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00021_01">
+      <locus from="134-139">
+       134-139
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00021_02">
+      <locus from="139" to="143v">
+       139–143v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +87,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate>
+        1546
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/en/browse/2997" type="straighturl"/>
+        </bibl>
+       <bibl>        
+<ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/en/iiifmetadata/2997" type="manifesturl"/>
+      </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

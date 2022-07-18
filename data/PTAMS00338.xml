@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 781
+     Paris, Bibliothèque nationale de France (BNF), grec 764
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,45 +58,90 @@
       grec
      </collection>
      <idno>
-      781
+      764
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50366
+       50347
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Pc
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00338_01">
-      <locus from="230" to="235">
-       230–235
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00338_01">
+      <locus from="001" to="016v">
+       001–016v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00338_02">
-      <locus from="250v" to="260">
-       250v–260
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00338_02">
+      <locus from="041v" to="049v">
+       041v–049v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="3" xml:id="PTAMS00338_03">
-      <locus from="266v" to="280">
-       266v–280
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00338_03">
+      <locus from="050" to="060v">
+       050–060v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="4" xml:id="PTAMS00338_04">
+      <locus from="085v" to="101v">
+       085v–101v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="5" xml:id="PTAMS00338_05">
+      <locus from="102" to="125">
+       102–125
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="6" xml:id="PTAMS00338_06">
+      <locus from="137v" to="153">
+       137v–153
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="7" xml:id="PTAMS00338_07">
+      <locus from="153v" to="174v">
+       153v–174v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="8" xml:id="PTAMS00338_08">
+      <locus from="187r" to="198r">
+       187r–198r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν περὶ φύσεως νόμον</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας.</incipit>
+      <explicit>αὕτη ἐστὶν ἡ ἄκτιστος φύσις. ἡ ἀληθινὴ ἀξία. ἡ ἀμέριστος βασιλεία. ἡ ἄσχιστος τιμή. ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάλειπτος δόξα. τοῦ πρς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνς· ὧ ἡ δόξα καὶ τὸ κράτος· νῦν καὶ ἀεὶ καὶ εἰς τοὺς ἀτελευτήτους αἰῶνας τῶν αἰώνων ἀμήν:-</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="939">
-        a. 939
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
@@ -105,11 +150,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b85143990" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722588p" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b85143990/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722588p/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

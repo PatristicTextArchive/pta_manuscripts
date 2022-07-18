@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1218
+     Paris, Bibliothèque nationale de France (BNF), gr. 811
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,45 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      grec
+      gr.
      </collection>
      <idno>
-      1218
+      811
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50823
+       50396
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00353_01">
-      <locus from="205v" to="222">
-       205v–222
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00353_01">
+      <locus from="139-143">
+       139-143
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00353_02">
+      <locus from="143" to="146">
+       143–146
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00353_03">
+      <locus from="146" to="152v">
+       146–152v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00353_04">
+      <locus from="152v" to="159v">
+       152v–159v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +103,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate>
+        11
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107228735,http://archivesetmanuscrits.bnf.fr/ark:/12148/cc21282z," type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

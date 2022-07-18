@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 14
+     Torino, Biblioteca Nazionale Universitaria, fonds principal B. V. 38 (Pasini 182)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,67 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Torino
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      Ottob. gr.
+      fonds principal
      </collection>
      <idno>
-      14
+      B. V. 38 (Pasini 182)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65255
+       63766
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00428_01">
-      <locus from="010" to="016v">
-       010–016v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00428_02">
-      <locus from="027" to="031">
-       027–031
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00428_03">
-      <locus from="149" to="150">
-       149–150
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="4" xml:id="PTAMS00428_04">
-      <locus from="177" to="180">
-       177–180
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="5" xml:id="PTAMS00428_05">
-      <locus from="203v" to="208v">
-       203v–208v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta003" n="6" xml:id="PTAMS00428_06">
-      <locus from="259v" to="272">
-       259v–272
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00428_01">
+      <locus from="001" to="020v">
+       001–020v
       </locus>
       <rubric/>
       <incipit/>
@@ -119,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.14.pt.2,https://digi.vatlib.it/view/MSS_Ott.gr.14.pt.1" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

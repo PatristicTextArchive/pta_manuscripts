@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Napoli, Biblioteca nazionale Vittorio Emanuele III, fonds principal II B 18
+     Mutilene, Monê tou Leimônos, fonds principal 64
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Napoli
+      Mutilene
      </settlement>
      <repository>
-      Biblioteca nazionale Vittorio Emanuele III
+      Monê tou Leimônos
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      II B 18
+      64
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       46034
+       45386
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00256_01">
-      <locus from="074v" to="075v">
-       074v–075v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00256_01">
+      <locus from="131v" to="133v">
+       131v–133v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://84.205.233.134/library/view_more_en.php?id=194&amp;status=3&amp;type=manuscript" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

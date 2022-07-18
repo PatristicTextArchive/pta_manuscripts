@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 13
+     Torino, Biblioteca Nazionale Universitaria, fonds principal B. V. 17 (Pasini 290)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,70 +49,47 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Torino
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      Ottob. gr.
+      fonds principal
      </collection>
      <idno>
-      13
+      B. V. 17 (Pasini 290)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65254
+       63752
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Tu
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00427_01">
-      <locus from="025v" to="039">
-       025v–039
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta001" n="1" xml:id="PTAMS00427_01">
+      <locus from="13v" to="17v">
+       13v–17v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00427_02">
-      <locus from="195v" to="206v">
-       195v–206v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00427_03">
-      <locus from="219" to="234v">
-       219–234v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric type="defective"/>
+      <incipit>πᾶσα γραφὴ θεόπνευστος· καὶ ὠφέλιμος· χουσα καὶ πηγὴν τῆς εὐσεβείας</incipit>
+      <explicit type="defective"></explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.13" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.13/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

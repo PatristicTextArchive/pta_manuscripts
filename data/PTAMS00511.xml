@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 205
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 050 (coll. 1307)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Venezia
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      theol. gr.
+      gr.
      </collection>
      <idno>
-      205
+      II. 050 (coll. 1307)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       71872
+       70212
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00511_01">
-      <locus from="186v" to="198v">
-       186v–198v
+     <msItem corresp="urn:cts:pta:pta0001.pta055" n="1" xml:id="PTAMS00511_01">
+      <locus from="025" to="029v">
+       025–029v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

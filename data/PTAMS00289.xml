@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Holkham gr. 027
+     Oxford, Bodleian Library, Barocci 241
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,36 +55,746 @@
       Bodleian Library
      </repository>
      <collection>
-      Holkham
+      Barocci
      </collection>
      <idno>
-      gr. 027
+      241
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48095
+       47529
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Oa
       </idno>
      </altIdentifier>
     </msIdentifier>
-    <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00289_01">
-      <locus from="145v" to="155">
-       145v–155
+    <msContents>     
+    <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00289_01">
+      <locus from="3" to="7">
+       3-7
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-    </msContents>
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00289_02">
+      <locus from="7" to="10">
+       7–10
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00289_03">
+      <locus from="10" to="15v">
+       10–15v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4566
+BHG 2200z-2201
+Aldama 293" n="4" xml:id="PTAMS00289_04">
+      <note>
+       Iohannes Chrysostomus, De Ioseph et de castitate (CPG 4566
+BHG 2200z-2201
+Aldama 293)
+      </note>
+      <locus from="015v-18v">
+       015v-18v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4567
+BHG 2406
+Aldama 176" n="5" xml:id="PTAMS00289_05">
+      <note>
+       Iohannes Chrysostomus, De Susanna sermo (CPG 4567
+BHG 2406
+Aldama 176)
+      </note>
+      <locus from="019-22v">
+       019-22v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4415" n="6" xml:id="PTAMS00289_06">
+      <note>
+       Iohannes Chrysostomus, In Psalmum 145 (CPG 4415)
+      </note>
+      <locus from="022v-28">
+       022v-28
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4588
+Aldama 372" n="7" xml:id="PTAMS00289_07">
+      <note>
+       Iohannes Chrysostomus, In parabolam de ficu (CPG 4588
+Aldama 372)
+      </note>
+      <locus from="028v-31v">
+       028v-31v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4333" n="8" xml:id="PTAMS00289_08">
+      <note>
+       Iohannes Chrysostomus, De paenitentia homiliae 1-9 (CPG 4333)
+      </note>
+      <locus from="031v-37">
+       031v-37
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4580
+Aldama 341" n="9" xml:id="PTAMS00289_09">
+      <note>
+       Iohannes Chrysostomus, In decem uirgines (CPG 4580
+Aldama 341)
+      </note>
+      <locus from="037-40">
+       037-40
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4640" n="10" xml:id="PTAMS00289_10">
+      <note>
+       Iohannes Chrysostomus, In illud : Exeuntes Pharisaei (CPG 4640)
+      </note>
+      <locus from="040-43v">
+       040-43v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>     
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="11" xml:id="PTAMS00289_11">
+      <locus from="043v" to="046v">
+       043v–046v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3952
+BHG 1162d
+Aldama 433" n="12" xml:id="PTAMS00289_12">
+      <note>
+       Ephraem Graecus, In mulierem peccatricem (CPG 3952
+BHG 1162d
+Aldama 433)
+      </note>
+      <locus from="046v-52*">
+       046v-52*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4579
+Aldama 113" n="13" xml:id="PTAMS00289_13">
+      <note>
+       Iohannes Chrysostomus, In Illud : Collegerunt Iudaei (CPG 4579
+Aldama 113)
+      </note>
+      <locus from="052-53v">
+       052-53v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4336
+BHG 0415t, 0418u, 0426d-e
+Aldama 313" n="14" xml:id="PTAMS00289_14">
+      <note>
+       Iohannes Chrysostomus, De proditione Iudae, 1-2 (CPG 4336
+BHG 0415t, 0418u, 0426d-e
+Aldama 313)
+      </note>
+      <locus from="053v-66v">
+       053v-66v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4654
+BHG 0427v
+Aldama 355" n="15" xml:id="PTAMS00289_15">
+      <note>
+       Iohannes Chrysostomus, In illud : Pater si possibile est (CPG 4654
+BHG 0427v
+Aldama 355)
+      </note>
+      <locus from="066v-69v">
+       066v-69v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>     
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="16" xml:id="PTAMS00289_16">
+      <locus from="069v" to="071">
+       069v–071
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    <msItem corresp="cpg:4424" n="17" xml:id="PTAMS00289_17">
+      <note>
+       Iohannes Chrysostomus, In Matthaeum homiliae 1-90 (CPG 4424)
+      </note>
+      <locus from="071-79v">
+       071-79v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4338
+BHG 0438m" n="18" xml:id="PTAMS00289_18">
+      <note>
+       Iohannes Chrysostomus, De cruce et latrone homilia 1 (CPG 4338
+BHG 0438m)
+      </note>
+      <locus from="079v-85">
+       079v-85
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:BHG 1139" n="19" xml:id="PTAMS00289_19">
+      <note>
+       Georgius Nicomediensis mtr., In S. Mariam assistentem Cruci (BHG 1139)
+      </note>
+      <locus from="085-98*">
+       085-98*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3768
+BHG 0808e" n="20" xml:id="PTAMS00289_20">
+      <note>
+       Epiphanius Constantiensis, In diuini corporis sepulturam (CPG 3768
+BHG 0808e)
+      </note>
+      <locus from="098-105v">
+       098-105v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7384
+Aldama 116" n="21" xml:id="PTAMS00289_21">
+      <note>
+       Gregorius Antiochenus, In mulieres unguentiferas (CPG 7384
+Aldama 116)
+      </note>
+      <locus from="105v-111*">
+       105v-111*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4719
+Aldama 093" n="22" xml:id="PTAMS00289_22">
+      <note>
+       Iohannes Chrysostomus, In uiuificam sepulturam et triduanam resurrectionem Christi (CPG 4719
+Aldama 093)
+      </note>
+      <locus from="111-115v">
+       111-115v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8031" n="23" xml:id="PTAMS00289_23">
+      <note>
+       Germanus CP. ptr. II, Hom. In Domini corporis sepulturam (CPG 8031)
+      </note>
+      <locus from="115v-129v*">
+       115v-129v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3010.01
+3010.45" n="24" xml:id="PTAMS00289_24">
+      <note>
+       Gregorius Nazianzenus, In sanctum Pascha 1-2 (or. 1 et 45) (CPG 3010.01
+CPG 3010.45)
+      </note>
+      <locus from="129v--150v*">
+       129v--150v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3010.01" n="25" xml:id="PTAMS00289_25">
+      <note>
+       Gregorius Nazianzenus, In sanctum Pascha et in tarditatem (or. 1) (CPG 3010.01)
+      </note>
+      <locus from="129v--150v*">
+       129v--150v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4605
+Aldama 089" n="26" xml:id="PTAMS00289_26">
+      <note>
+       Iohannes Chrysostomus, Sermo catecheticus in Pascha (CPG 4605
+Aldama 089)
+      </note>
+      <locus from="140v-141">
+       140v-141
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5527
+BHG 0635u-0635uc
+Aldama 028" n="27" xml:id="PTAMS00289_27">
+      <note>
+       Eusebius Alexandrinus (pseudo), Sermo 18 : De Domini resurrectione (CPG 5527
+BHG 0635u-0635uc
+Aldama 028)
+      </note>
+      <locus from="141v-144">
+       141v-144
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4341" n="28" xml:id="PTAMS00289_28">
+      <note>
+       Iohannes Chrysostomus, De resurrectione D. N. Iesu Christi (CPG 4341)
+      </note>
+      <locus from="144-150">
+       144-150
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4957" n="29" xml:id="PTAMS00289_29">
+      <note>
+       Iohannes Chrysostomus, In Sanctum Pascha (CPG 4957)
+      </note>
+      <locus from="150v-152">
+       150v-152
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>     
+     <msItem corresp="urn:cts:pta:pta0001.pta013" n="30" xml:id="PTAMS00289_30">
+      <locus from="147, col. 2, li 11-39">
+       147, col. 2, li 11-39
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="31" xml:id="PTAMS00289_31">
+      <locus from="141r" to="145v">
+       141r–145v (alte Nummerierung 152r–156v)
+      </locus>
+      <rubric>+ τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου· λόγος εἰς τὸ ἐν ἀρχῇ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ καὶ τὰ βάθη τοῦ θυ:—</rubric>
+      <incipit>χθὲς ἡμῖν ὁ λόγος, εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit>γένοιτο δὲ πάντας ἡμᾶς εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ διδασκάλου, ἀποστόλοις ἡμᾶς καὶ μάρτυσϊν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι· ἐν χω ἰυ τῶ κω ἡμῶν· μεθ οὗ τῶ πρὶ ἡ δόξα ἅμα τῶ ἁγίω καὶ ἀγαθῶ καὶ ζωοποιῶ πνι· νῦν καὶ εἰς τοὺς ἀτελευτήτους αἰῶνας τῶν αἰώνων· ἀμήν:—</explicit>
+     </msItem>
+ <msItem corresp="cpg:4930" n="32" xml:id="PTAMS00289_32">
+      <note>
+       Iohannes Chrysostomus, In S. Pascha (seu In Resurrectionem Domini) (CPG 4930)
+      </note>
+      <locus from="156v-158">
+       156v-158
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3010.44
+BHG 1021" n="33" xml:id="PTAMS00289_33">
+      <note>
+       Gregorius Nazianzenus, In nouam Dominicam (or. 44) (CPG 3010.44
+BHG 1021)
+      </note>
+      <locus from="158-161*">
+       158-161*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4408" n="34" xml:id="PTAMS00289_34">
+      <note>
+       Iohannes Chrysostomus, Homilia in Sanctum Pascha (CPG 4408)
+      </note>
+      <locus from="161-165">
+       161-165
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6658
+BHG 1837a" n="35" xml:id="PTAMS00289_35">
+      <note>
+       Basilius Seleuciensis, Homilia in S. Pascha et in recens illuminatos (CPG 6658
+BHG 1837a)
+      </note>
+      <locus from="165-167v*, 175-178*">
+       165-167v*, 175-178*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7035" n="36" xml:id="PTAMS00289_36">
+      <note>
+       Seuerus Antiochenus, In Christi Resurrectionem (hom. cathedralis 77) (CPG 7035)
+      </note>
+      <locus from="167v-175*">
+       167v-175*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5832
+BHG 1839-1841
+Aldama 181" n="37" xml:id="PTAMS00289_37">
+      <note>
+       Proclus Constantinopolitanus, Hom 33 : In S. Thomam ap. (CPG 5832
+BHG 1839-1841
+Aldama 181)
+      </note>
+      <locus from="178-182">
+       178-182
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4325" n="38" xml:id="PTAMS00289_38">
+      <note>
+       Iohannes Chrysostomus, De Christi diuinitate (Contra Anomoeos homilia 12) (CPG 4325)
+      </note>
+      <locus from="182-188">
+       182-188
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4630
+Aldama 566" n="39" xml:id="PTAMS00289_39">
+      <note>
+       Iohannes Chrysostomus, De non iudicando proximo (CPG 4630
+Aldama 566)
+      </note>
+      <locus from="188v-190v">
+       188v-190v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4652" n="40" xml:id="PTAMS00289_40">
+      <note>
+       Iohannes Chrysostomus, In Mediam Pentecosten (CPG 4652)
+      </note>
+      <locus from="190v-192">
+       190v-192
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7888
+BHG 1488e" n="41" xml:id="PTAMS00289_41">
+      <note>
+       Leontius CP. presbyter, Hom. 10 in mediam Pentecosten (CPG 7888
+BHG 1488e)
+      </note>
+      <locus from="192-197">
+       192-197
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7912
+4581
+Aldama 457" n="42" xml:id="PTAMS00289_42">
+      <note>
+       Leontius Hierosolymitanus presbyter, Homilia in Samaritanam (CPG 7912
+CPG 4581
+Aldama 457)
+      </note>
+      <locus from="197-202v">
+       197-202v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>    
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="43" xml:id="PTAMS00289_43">
+      <locus from="202v" to="211">
+       202v–211
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+<msItem corresp="cpg:6659
+2280" n="44" xml:id="PTAMS00289_44">
+      <note>
+       Basilius Seleuciensis (Auteur supposé (critique)), Homilia in Assumptionem Domini (CPG 6659
+CPG 2280)
+      </note>
+      <locus from="211-214*">
+       211-214*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4534" n="45" xml:id="PTAMS00289_45">
+      <note>
+       Iohannes Chrysostomus, In Ascensionem, Sermo 4 (CPG 4534)
+      </note>
+      <locus from="214-216">
+       214-216
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4739
+Aldama 186" n="46" xml:id="PTAMS00289_46">
+      <note>
+       Iohannes Chrysostomus, In Assumptionem Domini (CPG 4739
+Aldama 186)
+      </note>
+      <locus from="217-218">
+       217-218
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5528
+BHG 0635t
+Aldama 126" n="47" xml:id="PTAMS00289_47">
+      <note>
+       Eusebius Alexandrinus (pseudo), Sermo 19: De Domini Ascensione (CPG 5528
+BHG 0635t
+Aldama 126)
+      </note>
+      <locus from="218v-221">
+       218v-221
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4342
+BHG 1191n
+Aldama 206" n="48" xml:id="PTAMS00289_48">
+      <note>
+       Iohannes Chrysostomus, In Ascensionem D. N. Iesu Christi (CPG 4342
+BHG 1191n
+Aldama 206)
+      </note>
+      <locus from="221-227">
+       221-227
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:BHG 1280" n="49" xml:id="PTAMS00289_49">
+      <note>
+       Hagiographica, Alexander et Metrophanes epp. CP. (S.), Epitome (BHG 1280)
+      </note>
+      <locus from="227-232v">
+       227-232v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4620
+BHG 2103x
+Aldama 536" n="50" xml:id="PTAMS00289_50">
+      <note>
+       Iohannes Chrysostomus, De patientia sermo 1 (CPG 4620
+BHG 2103x
+Aldama 536)
+      </note>
+      <locus from="232v-238v">
+       232v-238v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4536
+Aldama 363" n="51" xml:id="PTAMS00289_51">
+      <note>
+       Iohannes Chrysostomus, In Pentecosten, sermo 1 (CPG 4536
+Aldama 363)
+      </note>
+      <locus from="238v-242">
+       238v-242
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4343.2" n="52" xml:id="PTAMS00289_52">
+      <note>
+       Iohannes Chrysostomus, De sancta Pentecoste homilia 2 (CPG 4343.2)
+      </note>
+      <locus from="242-245v">
+       242-245v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4343.1" n="53" xml:id="PTAMS00289_53">
+      <note>
+       Iohannes Chrysostomus, De sancta Pentecoste homilia 1 (CPG 4343.1)
+      </note>
+      <locus from="245v-253">
+       245v-253
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4365
+BHG 1188-1188aa" n="54" xml:id="PTAMS00289_54">
+      <note>
+       Iohannes Chrysostomus, De sanctis martyribus (CPG 4365
+BHG 1188-1188aa)
+      </note>
+      <locus from="253-257">
+       253-257
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3953
+BHG 1183
+Aldama 524" n="55" xml:id="PTAMS00289_55">
+      <note>
+       Ephraem Graecus, Encomium in gloriosos martyres (CPG 3953
+BHG 1183
+Aldama 524)
+      </note>
+      <locus from="257-261*">
+       257-261*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>     
+     <msItem corresp="urn:cts:pta:pta0001.pta017" n="56" xml:id="PTAMS00289_56">
+      <locus from="261" to="269">
+       261–269
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta003" n="57" xml:id="PTAMS00289_57">
+      <locus from="269" to="285v">
+       269–285v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+ <msItem corresp="cpg:3010.41" n="58" xml:id="PTAMS00289_58">
+      <note>
+       Gregorius Nazianzenus, In Pentecosten (or. 41) (CPG 3010.41)
+      </note>
+      <locus from="285v-292*">
+       285v-292*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4529" n="59" xml:id="PTAMS00289_59">
+      <note>
+       Iohannes Chrysostomus, De Chananaea (CPG 4529)
+      </note>
+      <locus from="292r-v">
+       292r-v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>  
+     </msContents>  
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
-        s. 14–15
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/78ba30ef-a13a-4bd0-a8f1-84660fc58b2b" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/78ba30ef-a13a-4bd0-a8f1-84660fc58b2b.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

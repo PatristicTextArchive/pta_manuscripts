@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 758
+     Paris, Bibliothèque nationale de France (BNF), grec 700
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,30 +58,27 @@
       grec
      </collection>
      <idno>
-      758
+      700
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50341
+       50281
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Pc
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00327_01">
-      <locus from="001" to="045">
-       001–045
+      <locus from="239" to="243v">
+       239r–243v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta040" n="2" xml:id="PTAMS00327_02">
-      <locus from="045" to="052v">
-       045–052v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος ἠμῶν ἑρμηνεία· καὶ περἱ τῆς νυχθήσης πλευρὰς·</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθοὗ τῶ πατρὶ δόξα σὺν ἁγίω πνεύματι· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>
@@ -97,8 +94,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107234122," type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110002767" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110002767/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

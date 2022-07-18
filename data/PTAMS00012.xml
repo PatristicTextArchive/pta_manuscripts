@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 273
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 264
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,29 +58,38 @@
       fonds principal
      </collection>
      <idno>
-      273
+      264
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       2569
+       2560
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00012_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0002.pta001" n="1" xml:id="PTAMS00012_01">
+      <locus from="62v" to="64r">
+       62v–64r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου ἀπὸ τῆς ἑρμηνείας τοῦ κατὰ Ματθαῖον εὐαγγελίου εἰς τὴν β κυριακὴν τῶν νηστειῶν</rubric>
+      <incipit>ἄνωθεν ‹μὲν› ὁ προφήτης εὐαγγελιζόμενος ἡμῖν τὴν τῶν προκειμένων θαυμάτων ἀπόδειξιν ἔγραφεν·</incipit>
+      <explicit>θαυμάζομεν θεραπεύοντα δοξολογοῦμεν εὐεργετοῦντα. ὅτι αὐτῶ ἡ δόξα καὶ τὸ κράτος νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰῶνων</explicit>
+      <finalRubric>τοῦ χρυσοστόμου εἰς τὸν παράλυτον ἤγουν εἰς τὴν β κυριακὴν τῶν ἁγίων νηστείων</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00012_02">
+      <locus from="126" to="131v">
+       126–131v
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίους πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου εἰς τὴν πόρνην καὶ εἰς τὸ μύρον· τῆ ἁγία καὶ μεγάλη δ.</rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate when-iso="1364">
+        a. 1364
        </origDate>
       </p>
      </origin>

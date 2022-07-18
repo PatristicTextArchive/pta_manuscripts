@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 55
+     Oxford, Bodleian Library, Auct. E. 3. 16 (Misc. 051.16)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,53 @@
       Bodleian Library
      </repository>
      <collection>
-      Barocci
+      Auct.
      </collection>
      <idno>
-      55
+      E. 3. 16 (Misc. 051.16)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47341
+       47033
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00274_01">
-      <locus from="234v" to="240">
-       234v–240
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00274_01">
+      <locus from="076" to="090 (p.)">
+       076–090 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00274_02">
+      <locus from="158" to="177 (p.)">
+       158–177 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="3" xml:id="PTAMS00274_03">
+      <locus from="262" to="278 (p.)">
+       262–278 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta022" n="4" xml:id="PTAMS00274_04">
+      <locus from="527" to="535 (p.)">
+       527–535 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="5" xml:id="PTAMS00274_05">
+      <locus from="565" to="573 (p.)">
+       565–573 (p.)
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +111,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate when-iso="1612">
+        a. 1612 ante
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/3a4f26f8-45fd-482a-9f03-2567333f1597," type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

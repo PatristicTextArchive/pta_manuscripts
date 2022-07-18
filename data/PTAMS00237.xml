@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 234 (Vlad. 217)
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 136 (Vlad. 173)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,42 @@
       Sinod. gr.
      </collection>
      <idno>
-      234 (Vlad. 217)
+      136 (Vlad. 173)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43859
+       43761
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00237_01">
-      <locus from="145v" to="154">
-       145v–154
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00237_01">
+      <locus from="316-336">
+       316-336
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00237_02">
-      <locus from="287v" to="295v">
-       287v–295v
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00237_02">
+      <locus from="316" to="336">
+       316–336
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00237_03">
+      <locus from="316" to="336">
+       316–336
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00237_04">
+      <locus from="316" to="336">
+       316–336
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +103,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate>
+        1345
        </origDate>
       </p>
      </origin>

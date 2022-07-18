@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Jerusalem, Patriarchikê bibliothêkê, Timiou Staurou 41
+     Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 135
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Patriarchikê bibliothêkê
      </repository>
      <collection>
-      Timiou Staurou
+      Panaghiou Taphou
      </collection>
      <idno>
-      41
+      135
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       35937
+       35372
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00182_01">
-      <locus from="229v" to="248">
-       229v–248
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00182_01">
+      <locus from="062v" to="067v">
+       062v–067v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
@@ -89,10 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279395621-jo" type="straighturl"/>
-       </bibl>
+         <ref target="https://www.loc.gov/item/00279392048-jo" type="straighturl"/>
+        </bibl>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279395621-jo/manifest.json" type="manifesturl"/>
+        <ref target="https://www.loc.gov/item/00279392048-jo/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

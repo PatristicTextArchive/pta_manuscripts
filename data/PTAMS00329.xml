@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 764
+     Paris, Bibliothèque nationale de France (BNF), grec 748
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,78 +58,59 @@
       grec
      </collection>
      <idno>
-      764
+      748
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50347
+       50331
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Pb
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00329_01">
-      <locus from="001" to="016v">
-       001–016v
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00329_01">
+      <locus from="011v" to="023">
+       011v–023
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00329_02">
-      <locus from="041v" to="049v">
-       041v–049v
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00329_02">
+      <locus from="041v" to="057">
+       041v–057
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00329_03">
-      <locus from="050" to="060v">
-       050–060v
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00329_03">
+      <locus from="61v" to="69v">
+       61v–69v
+      </locus>
+      <rubric>+ τοῦ αὐτοῦ εἰς τὸν περὶ φύσεων νόμον. λόγος πάνυ ὠφέλιμος +</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος. ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας.</incipit>
+      <explicit>αὕτη ἐστὶν ἡ ἄκτιστος φύσις. ἡ ἀληθινὴ ἀξία. ἡ ἀμέριστος βασιλεία· ἡ ἄσχιστος τιμή· ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάληπτος δόξα· τοῦ πρς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνς· ἧ πρέπει πᾶσα δόξα τιμὴ καὶ προσκύνησις εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν :- +</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="4" xml:id="PTAMS00329_04">
+      <locus from="203" to="214">
+       203–214
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="4" xml:id="PTAMS00329_04">
-      <locus from="085v" to="101v">
-       085v–101v
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="5" xml:id="PTAMS00329_05">
+      <locus from="274r" to="280r">
+       274r–280r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="5" xml:id="PTAMS00329_05">
-      <locus from="102" to="125">
-       102–125
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="6" xml:id="PTAMS00329_06">
-      <locus from="137v" to="153">
-       137v–153
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="7" xml:id="PTAMS00329_07">
-      <locus from="153v" to="174v">
-       153v–174v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="8" xml:id="PTAMS00329_08">
-      <locus from="187" to="198">
-       187–198
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος ἑρμηνεία·</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθ’οὗ τῶι πατρὶ δόξα σὺν ἁγίω πνεύματι· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>
@@ -145,11 +126,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722588p" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10721893n" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722588p/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721893n/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

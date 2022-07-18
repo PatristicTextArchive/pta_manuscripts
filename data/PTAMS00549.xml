@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00527" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hagion Oros, Monê Ibêrôn, fonds principal 1316 (Lambros 5436)
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
+   <change when-iso="2021-04-12" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Hagion Oros
+     </settlement>
+     <repository>
+      Monê Ibêrôn
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+      1316 (Lambros 5436)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       24911
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       I
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="" n="1" xml:id="PTAMS00527_01">
+      <locus from="1r" to="2r">
+       1r–2r
+      </locus>
+      <rubric>
+       περὶ τοῦ αὐτοῦ μακαρίου θεοδωρήτου, ἐκ τῆς μυριοβίβλου φωτίου
+      </rubric>
+      <incipit>
+       Ἀνεγνώσθη τοῦ μακαρίου θεοδωρήτου ἐπισκόπου κύρου, ἐρμηνεία εἰς τὸν δανιήλ
+      </incipit>
+      <explicit>
+       ἐν τῇ αὐτῇ τῶν λόγων καλλονῇ καὶ τῆς διανοίας διεσκευασμένον βιβλίον
+      </explicit>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00527_02">
+      <locus from="2v" to="53v">
+       2v–53v
+      </locus>
+      <msItem n="2.1">
+       <locus from="2v" to="35v">
+        2v-35v
+       </locus>
+       <rubric>
+        τοῦ μακαρίου θεοδωρίτου ἐπισκόπου κύρου, ὑπομνημα εἰς τὰς ὀράσεις τοῦ προφήτου δανιήλ
+       </rubric>
+       <incipit>
+        Εἰ πᾶσι ῥάδιον ἦν τὰ τῶν θείων προφητῶν
+       </incipit>
+       <explicit defective="true">
+        σὺν τῷ ἁγίῳ πνεύματι, εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν
+       </explicit>
+      </msItem>
+      <msItem n="2.2">
+       <locus from="36r" to="53v">
+        36r-53v
+       </locus>
+       <rubric>
+        τόμος ζ̅ κεφάλαιον ζ̅
+       </rubric>
+       <incipit>
+        Ἐν τῷ πρώτῳ ἔτει βαλθάσαρ τοῦ βασιλέως χαλδαίων
+       </incipit>
+       <explicit defective="true">
+        ἓν ἰσχυρόν ἀντίοχον λέγει τὸν ἐπιφανῆ, ὃς ἀντιόχου
+       </explicit>
+      </msItem>
+     </msItem>
+     <msItem corresp="cpg:6200" n="3" xml:id="PTAMS00527_03">
+      <locus from="54r" to="164v">
+       54r–164v
+      </locus>
+      <rubric>
+       Τοῦ μακαρίου θεοδωρίτου ἐπισκόπου κύρου ἐρμηνεία εἰς τὰ ἄπορα τῆς θείας γραφῆς κατ’ ἐκλογήν· κατ’ ἐρώτησίν τε καὶ ἀπόκρισιν
+       <!-- Excerptum; Desinit in quaestione 82 in Genesin -->
+      </rubric>
+      <incipit>
+       Τί δήποτε μὴ προτέταχε τῆς τῶν ὅλων δημιουργίας
+      </incipit>
+      <explicit>
+       τῆς εὐσεβείας λυμαίνεται, κἄν τε τοῦτο, κἄν τε ἐκεῖνο δεξώμεθα
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="4" xml:id="PTAMS00527_04">
+      <locus from="165r" to="167v">
+       165r–167v
+      </locus>
+      <rubric>
+       μερικοί τινὲς κανόνες τῶν ἁγίων πατέρων
+      </rubric>
+      <incipit>
+       Ἐπειδή τινές εἰσὶν ἐν τῇ κυριακῇ γόνυ κλίνοντες
+      </incipit>
+      <explicit>
+       κληρικοὺς μὲν ὄντας καθαιρεῖ, λαϊκοὺς δὲ ἀφωρίζει
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="5" xml:id="PTAMS00527_05">
+      <locus from="167v" to="172r">
+       167v–172r
+      </locus>
+      <rubric>
+       περὶ τοῦ μακαρίου θεοδωρίτου ἐπισκόπου κύρου πράξις ὀγδόη τῆς ἐν χαλκοδόνι ἁγίας συνόδου
+      </rubric>
+      <incipit>
+       Τῆς ἐν χαλκηδόνι ἁγίας καὶ οἰκουμενικῆς τετάρτης συνόδου συναθροισθήσης
+      </incipit>
+      <explicit>
+       σεβῆρον ὑπεδείκνυ γεναίως τοῖς λόγοις καταβαλλόμενον ... λείπει
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="6" xml:id="PTAMS00527_06">
+      <locus from="172r" to="202r">
+       172r–202r
+      </locus>
+      <rubric>
+       <!-- Photios, Bibliotheca; Excerptum -->
+      </rubric>
+      <incipit>
+       Ἀνεγνώσθησαν κυρίλλου οἱ θησαυροί
+      </incipit>
+      <explicit>
+       συνηνέχθη, ὡς ἐν ἐπιστολῆς εἴδη ἐξιστορεῖ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="7" xml:id="PTAMS00527_07">
+      <locus from="202r" to="203v">
+       202r–203v
+      </locus>
+      <rubric>
+       περὶ τῆς νηστείας τῶν ἀρμενίων
+      </rubric>
+      <incipit>
+       Ἐρωτώμενοι παρ’ ἡμῶν οἱ ἀρμένιοι τίς ἐστὶν ἡ νηστεία
+      </incipit>
+      <explicit>
+       καὶ τὴν νηστείαν ταύτην ἀρτζιβόρτζην ὠνόμασεν
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:8048" n="8" xml:id="PTAMS00527_08">
+      <locus from="203v" to="217r">
+       203v–217r
+      </locus>
+      <rubric>
+       Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου τοῦ δαμασκηνοῦ, ἐκ τοῦ κατὰ μανιχαίων αὐτοῦ λόγου τινά
+      </rubric>
+      <incipit>
+       λέγει ὁ ὀρθόδοξος· ἀγαθὸς ὢν ὁ θεὸς καὶ ἴδιος
+      </incipit>
+      <explicit>
+       νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:8045" n="9" xml:id="PTAMS00527_09">
+      <locus from="217r" to="228v">
+       217r–228v
+      </locus>
+      <rubric>
+       Τοῦ αὐτοῦ ἁγίωτάτου πατρὸς ἡμῶν ἰωάννου τοῦ δαμασκηνοῦ ἐκ τῶν περὶ τῶν ἁγίων εἰκόνων λόγων αὐτοῦ τινά
+      </rubric>
+      <incipit>
+       πιστεύω εἰς ἕνα θεόν, μίαν τῶν πάντων ἀρχήν
+      </incipit>
+      <explicit>
+       τοὺς φίλους· καὶ πρὸ τούτων, τὴν μητέρα τὴν θεοτόκον
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1800-12-31" notBefore-iso="1701-01-01">
+        s. 18
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

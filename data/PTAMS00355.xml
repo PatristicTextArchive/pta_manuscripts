@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1267
+     Paris, Bibliothèque nationale de France (BNF), grec 986
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       grec
      </collection>
      <idno>
-      1267
+      986
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50876
+       50577
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00355_01">
-      <locus from="190" to="206">
-       190–206
+     <msItem corresp="urn:cts:pta:pta0001.pta053" n="1" xml:id="PTAMS00355_01">
+      <locus from="446" to="464v">
+       446–464v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
@@ -89,8 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b10723326w," type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107219323" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107219323/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

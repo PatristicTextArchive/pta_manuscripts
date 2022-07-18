@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), Coisl. 304
+     Paris, Bibliothèque nationale de France (BNF), Coisl. 46
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Coisl.
      </collection>
      <idno>
-      304
+      46
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       49445
+       49188
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00312_01">
-      <locus from="242" to="246v">
-       242–246v
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00312_01">
+      <locus from="468rv">
+       468rv
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -89,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110049533" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b100376294" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110049533/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100376294/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

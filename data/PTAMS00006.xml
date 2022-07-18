@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 0212
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 211
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,85 +55,37 @@
       Ethnikê Bibliothêkê tês Hellados (EBE)
      </repository>
      <collection>
-      Fonds principal
+      fonds principal
      </collection>
      <idno>
-      0212
+      211
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       2508
+       2507
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00006_01">
-      <locus from="011" to="015">
-       011–015
+     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00006_01">
+      <locus from="038" to="043v">
+       038–043v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="2" xml:id="PTAMS00006_02">
-      <locus from="014" to="027">
-       014–027
+     <msItem corresp="urn:cts:pta:pta0001.pta031" n="2" xml:id="PTAMS00006_02">
+      <locus from="119" to="132v">
+       119–132v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00006_03">
-      <locus from="043v" to="050">
-       043v–050
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="4" xml:id="PTAMS00006_04">
-      <locus from="054" to="060v">
-       054–060v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="5" xml:id="PTAMS00006_05">
-      <locus from="140" to="150v">
-       140–150v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="6" xml:id="PTAMS00006_06">
-      <locus from="154" to="162">
-       154–162
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="7" xml:id="PTAMS00006_07">
-      <locus from="162" to="170v">
-       162–170v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="8" xml:id="PTAMS00006_08">
-      <locus from="171" to="178">
-       171–178
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="9" xml:id="PTAMS00006_09">
-      <locus from="190v" to="202">
-       190v–202
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="3" xml:id="PTAMS00006_03">
+      <locus from="310" to="314v">
+       310–314v
       </locus>
       <rubric/>
       <incipit/>
@@ -143,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0801-01-01">
+        s. 09–10
        </origDate>
       </p>
      </origin>
@@ -153,7 +105,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3611" type="straighturl"/>
+        <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3598" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

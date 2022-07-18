@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Υ. II. 04 (Andrés 259)
+     Escorial (El-), Real Biblioteca, fonds principal Υ. II. 03 (Andrés 258)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      Υ. II. 04 (Andrés 259)
+      Υ. II. 03 (Andrés 258)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       15472
+       15471
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00063_01">
-      <locus from="292" to="297v">
-       292–297v
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00063_01">
+      <locus from="080" to="092v">
+       080–092v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>

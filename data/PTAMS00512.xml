@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 247
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 051 (coll. 1148)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,75 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Venezia
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      theol. gr.
+      gr.
      </collection>
      <idno>
-      247
+      II. 051 (coll. 1148)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       71914
+       70213
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00512_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00512_01">
+      <locus from="022" to="024v">
+       022–024v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="2" xml:id="PTAMS00512_02">
+      <locus from="186" to="197v">
+       186–197v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="3" xml:id="PTAMS00512_03">
+      <locus from="18v-22">
+       18v-22
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="4" xml:id="PTAMS00512_04">
+      <locus from="197v" to="205">
+       197v–205
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="5" xml:id="PTAMS00512_05">
+      <locus from="209v" to="216v">
+       209v–216v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="6" xml:id="PTAMS00512_06">
+      <locus from="221" to="229v">
+       221–229v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="7" xml:id="PTAMS00512_07">
+      <locus from="262v" to="269v">
+       262v–269v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +127,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        unbekannt
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal B. IV. 22 (Pasini 200)
+     Sinai, Monê tês Hagias Aikaterinês, gr. 492
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Torino
+      Sinai
      </settlement>
      <repository>
-      Biblioteca Nazionale Universitaria
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      B. IV. 22 (Pasini 200)
+      492
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63728
+       58867
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta068" n="1" xml:id="PTAMS00409_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00409_01">
+      <locus from="044" to="044v">
+       044–044v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1201-01-01">
-        s. 13–14
+       <origDate notAfter-iso="0900-12-31" notBefore-iso="0701-01-01">
+        s. 08–09
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279381841-ms" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

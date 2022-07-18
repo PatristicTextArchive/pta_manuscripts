@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00576" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Venezia, Biblioteca Nazionale Marciana, gr. Z. 496 (coll. 0843)
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-03-06" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Venezia
+     </settlement>
+     <repository>
+      Biblioteca Nazionale Marciana
+     </repository>
+     <collection>
+       gr. Z. 
+     </collection>
+     <idno>
+      496
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       69967
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:3144" n="1" xml:id="PTAMS00576_01">
+      <note>
+       Gregorius Nyssenus, Antirrheticus aduersus Apollinarium
+      </note>
+      <locus from="1r" to="29v">
+       1r–29v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3477" n="2" xml:id="PTAMS00576_02">
+      <note>
+       Eusebius Caesariensis, Contra Marcellum
+      </note>
+      <locus from="29v" to="48r">
+       29v–48r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0003.pta009" n="3" xml:id="PTAMS00576_03">
+      <note>
+       Eusebius Caesariensis, De ecclesiastica theologia
+      </note>
+      <locus from="48r" to="92r">
+       48r–92r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:1726" n="4" xml:id="PTAMS00576_04">
+      <note>
+       Adamantius, De recta in Deum fide
+      </note>
+      <locus from="92r" to="125v">
+       92r–125v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6996" n="5" xml:id="PTAMS00576_05">
+      <note>
+       Zacharias Mytilenaeus ep., Ammonius siue de mundi opificio disputatio
+      </note>
+      <locus from="125v" to="142v">
+       125v–142v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="tlg:4001.001" n="6" xml:id="PTAMS00576_06">
+      <note>
+       Aeneas Gazaeus, Theophrastus
+      </note>
+      <locus from="146r" to="160v">
+       146r–160v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:1107" n="7" xml:id="PTAMS00576_07">
+      <note>
+       Theophilus Antiochenus, Ad Autolycum
+      </note>
+      <locus from="160v" to="185r">
+       160v–185r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate" notBefore="1080" notAfter="1101">
+       <origDate>
+        s. 11 ex
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates/>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

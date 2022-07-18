@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 32
+     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 27
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,53 +58,74 @@
       Hagiou Saba
      </collection>
      <idno>
-      32
+      27
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       34289
+       34284
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Hs
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00170_01">
-      <locus from="085" to="122v">
-       085–122v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00170_01">
+      <locus from="001" to="014v">
+       001–014v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00170_02">
-      <locus from="122" to="130">
-       122–130
+     <msItem corresp="urn:cts:pta:pta0001.pta042" n="2" xml:id="PTAMS00170_02">
+      <locus from="006" to="019 (inc. mut.)">
+       006–019 (inc. mut.)
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta030" n="3" xml:id="PTAMS00170_03">
-      <locus from="130" to="135v">
-       130–135v
+     <msItem corresp="urn:cts:pta:pta0001.pta050" n="3" xml:id="PTAMS00170_03">
+      <locus from="078v" to="093v">
+       078v–093v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="4" xml:id="PTAMS00170_04">
-      <locus from="262v" to="277">
-       262v–277
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="4" xml:id="PTAMS00170_04">
+      <locus from="108-113">
+       108-113
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta037" n="5" xml:id="PTAMS00170_05">
+      <locus from="152" to="162v">
+       152–162v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="6" xml:id="PTAMS00170_06">
+      <locus from="174v" to="180r">
+       174v–180r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ· εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος ἑρμηνεία καὶ περὶ τῆς νυχθήσης πλευράς· εὐο</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθοὗ τῶ πατρὶ δόξα· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
@@ -113,10 +134,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279393752-jo" type="straighturl"/>
-       </bibl>
+         <ref target="https://www.loc.gov/item/00279393673-jo" type="straighturl"/>
+        </bibl>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279393752-jo/manifest.json" type="manifesturl"/>
+        <ref target="https://www.loc.gov/item/00279393673-jo/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

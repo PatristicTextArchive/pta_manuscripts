@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.09
+     Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 08. 25
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,34 @@
       Plut.
      </collection>
      <idno>
-      11.09
+      08. 25
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       16163
+       16083
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00070_01">
-      <locus from="295" to="300v">
-       295–300v
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00070_01">
+      <locus from="112v" to="127v">
+       112v–127v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="2" xml:id="PTAMS00070_02">
+      <locus from="197v" to="217">
+       197v–217
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="3" xml:id="PTAMS00070_03">
+      <locus from="231" to="244">
+       231–244
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1020–1021">
-        a. 1020–1021
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
@@ -89,7 +105,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.9" type="straighturl"/>
+        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.8.25" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

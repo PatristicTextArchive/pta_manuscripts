@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal B. III. 28 (Pasini 115)
+     Sinai, Monê tês Hagias Aikaterinês, gr. 461
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Torino
+      Sinai
      </settlement>
      <repository>
-      Biblioteca Nazionale Universitaria
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      B. III. 28 (Pasini 115)
+      461
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63697
+       58836
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00407_01">
-      <locus from="120v" to="129v">
-       120v–129v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00407_01">
+      <locus from="048" to="050">
+       048–050
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate when-iso="ca.">
+        1425 ca.
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279381622-ms" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

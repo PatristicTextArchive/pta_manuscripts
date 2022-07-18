@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Reg. gr. Pio II 23
+     Vaticano, Biblioteca Apostolica Vaticana, Barb. gr. 555
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Reg. gr. Pio II
+      Barb. gr.
      </collection>
      <idno>
-      23
+      555
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       66382
+       65098
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00441_01">
-      <locus from="005" to="027v">
-       005–027v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00441_02">
-      <locus from="045" to="049v">
-       045–049v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="3" xml:id="PTAMS00441_03">
-      <locus from="049v" to="052v">
-       049v–052v
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00441_01">
+      <locus from="058" to="061v">
+       058–061v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.555" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.555/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

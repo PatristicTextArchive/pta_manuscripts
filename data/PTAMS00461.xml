@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 1190
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr.  227
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Vat. gr.
      </collection>
      <idno>
-      1190
+      227
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67821
+       66858
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00461_01">
-      <locus from="993" to="1003">
-       993–1003
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00461_01">
+      <locus from="IVr">
+       IVr
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32061,http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32839,http://digi.vatlib.it/view/MSS_Vat.gr.1190.pt.1,http://digi.vatlib.it/view/MSS_Vat.gr.1190.pt.2,http://digi.vatlib.it/view/MSS_Vat.gr.1190.pt.3" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

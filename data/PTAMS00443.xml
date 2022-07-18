@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 335
+     Vaticano, Biblioteca Apostolica Vaticana, Chig. R. IV. 012 (gr. 12)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Chig.
      </collection>
      <idno>
-      335
+      R. IV. 012 (gr. 12)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       66966
+       65199
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00443_01">
-      <locus from="261" to="281">
-       261–281
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00443_01">
+      <locus from="46v">
+       46v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Chig.R.IV.12" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Chig.R.IV.12/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

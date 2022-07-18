@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Kozane, Kobentareios Dêmotikê Bibliothêkê, fonds principal 83
+     Jerusalem, Patriarchikê bibliothêkê, Timiou Staurou 41
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Kozane
+      Jerusalem
      </settlement>
      <repository>
-      Kobentareios Dêmotikê Bibliothêkê
+      Patriarchikê bibliothêkê
      </repository>
      <collection>
-      fonds principal
+      Timiou Staurou
      </collection>
      <idno>
-      83
+      41
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       36989
+       35937
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="1" xml:id="PTAMS00184_01">
-      <locus from="001" to="013v">
-       001–013v
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="1" xml:id="PTAMS00184_01">
+      <locus from="229v" to="248">
+       229v–248
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1800-12-31" notBefore-iso="1701-01-01">
-        s. 18
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://www.loc.gov/item/00279395621-jo" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279395621-jo/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

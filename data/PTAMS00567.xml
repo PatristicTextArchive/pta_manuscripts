@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00567" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paris, Bibliothèque nationale de France (BNF), Grec1327
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-12-07" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Paris
+     </settlement>
+     <repository>
+      Bibliothèque nationale de France (BNF)
+     </repository>
+     <collection>
+      Grec
+     </collection>
+     <idno>
+      1327
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       50936
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="" n="1" xml:id="PTAMS00567_01">
+      <note>
+       Iohannes Zonaras, Comm. in ss. canones et epistulas canonicas ()
+      </note>
+      <locus from="001-151, 161-185, 303v-362*">
+       001-151, 161-185, 303v-362*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="2" xml:id="PTAMS00567_02">
+      <note>
+       Theodorus Balsamon , De Matrimoniis ()
+      </note>
+      <locus from="180-191*">
+       180-191*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6210.1" n="3" xml:id="PTAMS00567_03">
+      <note>
+       Theodoretus Cyrensis, Hom De Materia Et Mundo (graecarum Affectionum Curatio, Cap. Iu) (CPG 6210.1)
+      </note>
+      <locus from="197-208v*">
+       197-208v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="4" xml:id="PTAMS00567_04">
+      <note>
+       Hippocrates medicus, Epistulae ()
+      </note>
+      <locus from="208v-209*">
+       208v-209*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="5" xml:id="PTAMS00567_05">
+      <note>
+       Bryennius Ioseph, De lumine in monte Thabor ()
+      </note>
+      <locus from="209-210v*">
+       209-210v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="6" xml:id="PTAMS00567_06">
+      <note>
+       Bryennius Ioseph, Opera ()
+      </note>
+      <locus from="210v-212*">
+       210v-212*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="7" xml:id="PTAMS00567_07">
+      <note>
+       Bryennius Ioseph, Capita septies septena ()
+      </note>
+      <locus from="212-214*">
+       212-214*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="8" xml:id="PTAMS00567_08">
+      <note>
+       Bryennius Ioseph, De processione Spiritus Sancti ()
+      </note>
+      <locus from="214-219v">
+       214-219v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="9" xml:id="PTAMS00567_09">
+      <note>
+       Bryennius Ioseph, De processione Spiritus Sancti ()
+      </note>
+      <locus from="219-222v">
+       219-222v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="bhg:444n" n="10" xml:id="PTAMS00567_10">
+      <note>
+       Bryennius Ioseph, De cruce (IV) (BHG 0444n)
+      </note>
+      <locus from="222v-223*">
+       222v-223*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="11" xml:id="PTAMS00567_11">
+      <note>
+       Bryennius Ioseph, Capita septies septena ()
+      </note>
+      <locus from="223-223v*">
+       223-223v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5215" n="12" xml:id="PTAMS00567_12">
+      <note>
+       Cyrillus Alexandrinus, Thesaurus de sancta et consubstantiali Trinitate (CPG 5215)
+      </note>
+      <locus from="223v-234v*">
+       223v-234v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:TB II Gregory Palamas 1" n="13" xml:id="PTAMS00567_13">
+      <note>
+       Palamas Gregorius, Aduersus Latinos (TB II Gregory Palamas 1)
+      </note>
+      <locus from="234v-238v*">
+       234v-238v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="14" xml:id="PTAMS00567_14">
+      <note>
+       Georgius Amirutzes, Precatio ()
+      </note>
+      <locus from="239v-241v*">
+       239v-241v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="15" xml:id="PTAMS00567_15">
+      <note>
+       Marcus Eugenicus, Epistula encyclica contra Graeco-Latinos et decretum synodi Florentinae (TB II Mark Eugenikos 25)
+      </note>
+      <locus from="241v-244v*">
+       241v-244v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="16" xml:id="PTAMS00567_16">
+      <note>
+       Marcus Eugenicus, Epistula ad Georgium Methonensem (TB II Mark Eugenikos 26)
+      </note>
+      <locus from="244v-246v*">
+       244v-246v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="17" xml:id="PTAMS00567_17">
+      <note>
+       Marcus Eugenicus, Epistula ad Georgium Scholarium (TB II Mark Eugenikos 36)
+      </note>
+      <locus from="246v-248*">
+       246v-248*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="18" xml:id="PTAMS00567_18">
+      <note>
+       Marcus Eugenicus, Confessio Fidei (TB II Mark Eugenikos 10)
+      </note>
+      <locus from="248-251*">
+       248-251*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="19" xml:id="PTAMS00567_19">
+      <note>
+       Marcus Eugenicus, De igne purgatorio, oratio I (TB II Mark Eugenikos 1)
+      </note>
+      <locus from="251-260*">
+       251-260*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2250" n="20" xml:id="PTAMS00567_20">
+      <note>
+       Athanasius Alexandrinus, Disputatio Contra Arium (CPG 2250)
+      </note>
+      <locus from="260-281v*">
+       260-281v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2094" n="21" xml:id="PTAMS00567_21">
+      <note>
+       Athanasius Alexandrinus, Epistulae ad Serapionem 1-4 (CPG 2094)
+      </note>
+      <locus from="281v-303v*">
+       281v-303v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2106" n="22" xml:id="PTAMS00567_22">
+      <note>
+       Athanasius Alexandrinus, Ep Ad Amun (CPG 2106)
+      </note>
+      <locus from="303v--308v*">
+       303v--308v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2102.2" n="23" xml:id="PTAMS00567_23">
+      <note>
+       Athanasius Alexandrinus, Ep Festalis 39 (CPG 2102.2)
+      </note>
+      <locus from="308v-310v*">
+       308v-310v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2107" n="24" xml:id="PTAMS00567_24">
+      <note>
+       Athanasius Alexandrinus, Ep Ad Rufinianum (CPG 2107)
+      </note>
+      <locus from="310v-313*">
+       310v-313*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2901" n="25" xml:id="PTAMS00567_25">
+      <note>
+       Basilius Caesariensis, Canones 01-85 (Epp. 188, 199, 217) (CPG 2901.01-85)
+      </note>
+      <locus from="313--362*">
+       313--362*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2901" n="26" xml:id="PTAMS00567_26">
+      <note>
+       Basilius Caesariensis, Canon 86 (ad Amphilochium Ep. 236.4) (CPG 2901.86)
+      </note>
+      <locus from="362r-v*">
+       362r-v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2901" n="27" xml:id="PTAMS00567_27">
+      <note>
+       Basilius Caesariensis, Canones 86-90 (Epp. 236.4, 160, 55, 54, 53) (CPG 2901.86-90)
+      </note>
+      <locus from="362v-373v*">
+       362v-373v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2839" n="28" xml:id="PTAMS00567_28">
+      <note>
+       Basilius Caesariensis, De Spiritu Sancto (CPG 2839)
+      </note>
+      <locus from="373-378*">
+       373-378*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2839" n="29" xml:id="PTAMS00567_29">
+      <note>
+       Basilius Caesariensis, De Spiritu Sancto (CPG 2839)
+      </note>
+      <locus from="378-444v*">
+       378-444v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2295" n="30" xml:id="PTAMS00567_30">
+      <note>
+       Athanasius Alexandrinus, Symbolum quicumque (CPG 2295)
+      </note>
+      <locus from="444v-445v*">
+       444v-445v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2234" n="31" xml:id="PTAMS00567_31">
+      <note>
+       Athanasius Alexandrinus, Interpretatio In Symbolum (CPG 2234)
+      </note>
+      <locus from="445v-446*">
+       445v-446*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2804" n="32" xml:id="PTAMS00567_32">
+      <note>
+       Marcellus Ancyranus, Expositio Fidei (CPG 2804)
+      </note>
+      <locus from="446-448v*">
+       446-448v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8048" n="33" xml:id="PTAMS00567_33">
+      <note>
+       Iohannes Damascenus, Dialogus Contra Manichaeos (CPG 8048)
+      </note>
+      <locus from="448v-478*">
+       448v-478*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate when-iso="1562">
+        a. 1562
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107218960" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

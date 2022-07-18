@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Cambridge, University Library, Fonds ancien Nn. I. 22 (2551)
+     Venezia, Biblioteca Nazionale Marciana, gr. VII. 031 (coll. 1018)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Cambridge
+      Venezia
      </settlement>
      <repository>
-      University Library
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      Fonds ancien
+      gr.
      </collection>
      <idno>
-      Nn. I. 22 (2551)
+      VII. 031 (coll. 1018)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       76566
+       70548
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00521_01">
-      <locus from="II. 073" to="087v">
-       II. 073–087v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00521_01">
+      <locus from="278" to="281v">
+       278–281v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>

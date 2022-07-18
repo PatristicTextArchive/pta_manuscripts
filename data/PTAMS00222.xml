@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Modena, Biblioteca Estense universitaria, fonds principal α. W. 2. 05 (Puntoni 70)
+     Milano, Biblioteca Ambrosiana, fonds principal I 260 inf. (Martini-Bassi 1073)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Modena
+      Milano
      </settlement>
      <repository>
-      Biblioteca Estense universitaria
+      Biblioteca Ambrosiana
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      α. W. 2. 05 (Puntoni 70)
+      I 260 inf. (Martini-Bassi 1073)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43527
+       42940
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00222_01">
-      <locus from="282v" to="284v">
-       282v–284v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00222_01">
+      <locus from="186" to="194">
+       186–194
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16 (3/4)
        </origDate>
       </p>
      </origin>

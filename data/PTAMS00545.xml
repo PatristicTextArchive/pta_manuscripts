@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00523" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Budapest, Országos Széchényi Könyvtár, fonds principal 1° Gr. 6 (Kubinyi 6)
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
+   <change when-iso="2021-04-10" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Budapest
+     </settlement>
+     <repository>
+      Országos Széchényi Könyvtár
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+      1° Gr. 6 (Kubinyi 6)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       11729
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       K
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00523_01">
+      <locus from="1r" to="54v">
+       1r–54v
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4447" n="2" xml:id="PTAMS00523_02">
+      <locus from="54v" to="55v">
+       54v–55v
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00523_03">
+      <locus from="55v" to="86v">
+       55v–86v
+      </locus>
+      <rubric>
+       τοῦ μακαρίου θεοδωρήτου ἐπισκόπου κύρου ἑρμηνεία εἰς τὸν προφήτην δανιήλ
+      </rubric>
+      <incipit>
+       Εἰ πάσι ῥάδιον ἦν τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit>
+       ᾧ ἡ δόξα σὺν τῷ πατρὶ καὶ τῷ ἁγίῳ πνεύματι εἰς τοὺς αἰῶνας ἀμήν
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

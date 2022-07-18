@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Koutloumousiou, fonds principal 011 (Lambros 3080)
+     Hagion Oros, Moñe Konstamonitou, fonds principal 29 (Lambros 465)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,40 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Koutloumousiou
+      Moñe Konstamonitou
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      011 (Lambros 3080)
+      29 (Lambros 465)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       26036
+       25943
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00117_01">
-      <locus from="178v" to="203v">
-       178v–203v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00117_02">
-      <locus from="203" to="222v">
-       203–222v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="3" xml:id="PTAMS00117_03">
-      <locus from="312v" to="319">
-       312v–319
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00117_01">
+      <locus from="354" to="366v">
+       354–366v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32078" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

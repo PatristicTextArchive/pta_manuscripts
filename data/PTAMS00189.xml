@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Leiden, Bibliotheek der Rijksuniversiteit, Voss. gr. Q° 54
+     Lviv, Bibl. Zakladu Narodowego im. Ossolinskich, Polska Akademia Nauk, fonds principal 827
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Leiden
+      L'viv
      </settlement>
      <repository>
-      Bibliotheek der Rijksuniversiteit
+      Bibl. Zakladu Narodowego im. Ossolinskich, Polska Akademia Nauk
      </repository>
      <collection>
-      Voss.
+      fonds principal
      </collection>
      <idno>
-      gr. Q° 54
+      827
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       38161
+       37444
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00189_01">
-      <locus from="132">
-       132
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00189_02">
-      <locus from="460v" to="461">
-       460v–461
+     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00189_01">
+      <locus from="301v" to="302v">
+       301v–302v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
-        s. 15–16
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>

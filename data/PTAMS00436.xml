@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Pal. gr. 327
+     Vaticano, Biblioteca Apostolica Vaticana, Barb. gr. 332
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,32 +55,32 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Pal. gr.
+      Barb. gr.
      </collection>
      <idno>
-      327
+      332
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       66059
+       64875
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00436_01">
-      <locus from="137v">
-       137v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00436_01">
+      <locus from="73r" to="84v">
+       73r–84v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>περὶ μετανοίας</rubric>
+      <incipit>Πάντοτε μὲν ὁ θεῖος ἀπόστολος θεία καὶ οὐνίω κέχρηται γλώσση</incipit>
+      <explicit>ἡ γὰρ ὑπομονὴ τῶν πενήτων οὐκ ἀπολεῖται εἰς τὸν αἰῶνα· ἐν χω ιυ τῶ κω ἡμῶν· ὧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας.</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate when-iso="1327">
+        a. 1327
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_327" type="straighturl"/>
+         <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.332" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.332/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

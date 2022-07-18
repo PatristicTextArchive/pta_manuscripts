@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 030
+     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 25
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,26 @@
       Hagiou Saba
      </collection>
      <idno>
-      030
+      25
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       34287
+       34282
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00169_01">
-      <locus from="374v" to="377">
-       374v–377
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00169_01">
+      <locus from="109" to="119">
+       109–119
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00169_02">
-      <locus from="377" to="380">
-       377–380
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="2" xml:id="PTAMS00169_02">
+      <locus from="274" to="287">
+       274–287
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -97,10 +97,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279393739-jo" type="straighturl"/>
-       </bibl>
+         <ref target="https://www.loc.gov/item/00279393697-jo" type="straighturl"/>
+        </bibl>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279393739-jo/manifest.json" type="manifesturl"/>
+        <ref target="https://www.loc.gov/item/00279393697-jo/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

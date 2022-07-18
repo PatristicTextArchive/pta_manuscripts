@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Grottaferrata, Biblioteca Statale del Monumento Nazionale, fonds principal Α. δ. 011.06 (gr. 079)
+     Grottaferrata, Biblioteca Statale del Monumento Nazionale, fonds principal Β. α. 023.11 (gr. 098)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      Α. δ. 011.06 (gr. 079)
+      Β. α. 023.11 (gr. 098)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       17905
+       17574
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00074_01">
-      <locus from="028" to="028v s.i.">
-       028–028v s.i.
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00074_02">
-      <locus from="079r, 078v">
-       079r, 078v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00074_01">
+      <locus from="001v" to="004">
+       001v–004
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        unbekannt
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 1
+     Istanbul, Patriarchikê Bibliothêkê, Theologikê scholê 32
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Jerusalem
+      Istanbul
      </settlement>
      <repository>
-      Patriarchikê bibliothêkê
+      Patriarchikê Bibliothêkê
      </repository>
      <collection>
-      Hagiou Saba
+      Theologikê scholê
      </collection>
      <idno>
-      1
+      32
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       34258
+       33876
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00166_01">
-      <locus from="081v" to="084">
-       081v–084
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00166_02">
-      <locus from="098" to="100">
-       098–100
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00166_03">
-      <locus from="112v" to="114">
-       112v–114
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00166_01">
+      <locus from="Item 53">
+       Item 53
       </locus>
       <rubric/>
       <incipit/>
@@ -95,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate when-iso="1561">
+        a. 1561
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279393430-jo," type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

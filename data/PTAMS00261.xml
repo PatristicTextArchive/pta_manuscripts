@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Auct. E. 2. 06 (Misc. 034)
+     Napoli, Biblioteca nazionale Vittorio Emanuele III, fonds principal II B 18
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Oxford
+      Napoli
      </settlement>
      <repository>
-      Bodleian Library
+      Biblioteca nazionale Vittorio Emanuele III
      </repository>
      <collection>
-      Auct.
+      fonds principal
      </collection>
      <idno>
-      E. 2. 06 (Misc. 034)
+      II B 18
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47001
+       46034
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00261_01">
-      <locus from="274v" to="279">
-       274v–279
+     <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00261_01">
+      <locus from="074v" to="075v">
+       074v–075v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11 (2/2)
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>

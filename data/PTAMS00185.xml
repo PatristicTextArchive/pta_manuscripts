@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     København, Det Kongelige Bibliotek, E don. var. 12 2°
+     Kalabruta, Monê Megalou Spêlaiou, fonds principal 164 [ms. détruit]
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      København
+      Kalabruta
      </settlement>
      <repository>
-      Det Kongelige Bibliotek
+      Monê Megalou Spêlaiou
      </repository>
      <collection>
-      E don. var.
+      fonds principal
      </collection>
      <idno>
-      12 2°
+      164 [ms. détruit]
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       37094
+       36349
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="1" xml:id="PTAMS00185_01">
-      <locus from="014" to="022">
-       014–022
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00185_02">
-      <locus from="022v" to="034v">
-       022v–034v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00185_03">
-      <locus from="035" to="037v">
-       035–037v
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00185_01">
+      <locus from="unbekannt">
+       unbekannt
       </locus>
       <rubric/>
       <incipit/>
@@ -96,20 +80,11 @@
      <origin>
       <p n="origDate">
        <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 (1/2)
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://www5.kb.dk/manus/vmanus/2011/dec/ha/object70061/en/" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

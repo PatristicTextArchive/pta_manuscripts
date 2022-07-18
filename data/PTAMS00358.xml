@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1458
+     Paris, Bibliothèque nationale de France (BNF), grec 1173
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,34 +58,18 @@
       grec
      </collection>
      <idno>
-      1458
+      1173
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       51075
+       50774
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00358_01">
-      <locus from="206" to="212">
-       206–212
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00358_02">
-      <locus from="216v" to="224">
-       216v–224
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00358_03">
-      <locus from="224" to="230v">
-       224–230v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00358_01">
+      <locus from="190v" to="192">
+       190v–192
       </locus>
       <rubric/>
       <incipit/>
@@ -105,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722849m" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107224921" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722849m/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107224921/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

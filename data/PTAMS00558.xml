@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00558" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 675
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-05-03" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana (BAV)
+     </repository>
+     <collection>
+      Vat. gr.
+     </collection>
+     <idno>
+      675
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       67306
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       V
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:7522" n="1" xml:id="PTAMS00558_01">
+      <locus from="1r" to="37v">
+       1r–37v
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00558_02">
+      <locus from="37v" to="119v">
+       37v–119v
+      </locus>
+      <rubric>
+       Θεοδωρήτου ἐπισκόπου κύρου τῆς πόλεως ὑπόμνημα εἱς τὰς ὁράσις τοῦ προφήτου δανιήλ
+      </rubric>
+      <incipit>
+       Εἰ πᾶσι ῥάδιον ἦν τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit>
+       νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν·
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:C75" n="3" xml:id="PTAMS00558_03">
+      <locus from="37v" to="119v">
+       37v–119v in margine
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C65" n="4" xml:id="PTAMS00558_04">
+      <locus from="122r" to="139r">
+       122r–139r
+      </locus>
+      <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6205" n="5" xml:id="PTAMS00558_05">
+      <locus from="139v" to="198r">
+       139v–198r
+      </locus>
+      <rubric>
+       <!-- In Ieremiam -->
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6205" n="6" xml:id="PTAMS00558_06">
+      <locus from="198r" to="202v">
+       198r–202v
+      </locus>
+      <rubric>
+       <!-- In Baruch -->
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6205" n="7" xml:id="PTAMS00558_07">
+      <locus from="202v" to="208r">
+       202v–208r
+      </locus>
+      <rubric>
+       <!-- In Lamentationes -->
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
+        s. 11-12
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

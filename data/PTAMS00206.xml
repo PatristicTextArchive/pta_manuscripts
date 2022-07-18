@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Meteôra, Monê Hagiou Stephanou, fonds principal 2
+     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 92
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Meteôra
+      Messina
      </settlement>
      <repository>
-      Monê Hagiou Stephanou
+      Biblioteca Regionale Universitaria 'Giacomo Longo'
      </repository>
      <collection>
-      fonds principal
+      S. Salv.
      </collection>
      <idno>
-      2
+      92
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       41258
+       40753
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00206_01">
-      <locus from="042v" to="055">
-       042v–055
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00206_01">
+      <locus from="095v" to="101">
+       095v–101
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00206_02">
-      <locus from="157v" to="170">
-       157v–170
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00206_02">
+      <locus from="101" to="104v">
+       101–104v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1346–1347">
-        a. 1346–1347
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>

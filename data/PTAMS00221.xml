@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal S 023 sup. (Martini-Bassi 732)
+     Milano, Biblioteca Ambrosiana, fonds principal H 257 inf. (Martini-Bassi 1041)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      S 023 sup. (Martini-Bassi 732)
+      H 257 inf. (Martini-Bassi 1041)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43209
+       42885
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00221_01">
-      <locus from="168v" to="169v">
-       168v–169v
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00221_01">
+      <locus from="142" to="142v">
+       142–142v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=30346" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

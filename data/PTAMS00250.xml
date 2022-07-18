@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Mutilene, Monê tou Leimônos, fonds principal 42
+     München, Bayerische Staatsbibliothek, Cod. graec. 377
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,46 +49,43 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Mutilene
+      München
      </settlement>
      <repository>
-      Monê tou Leimônos
+      Bayerische Staatsbibliothek
      </repository>
      <collection>
-      fonds principal
+      Cod. graec.
      </collection>
      <idno>
-      42
+      377
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       45364
+       44825
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ma
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00250_01">
-      <locus from="004" to="023v">
-       004–023v
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="1" xml:id="PTAMS00250_01">
+      <locus from="267r" to="271r">
+       267r–271r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="2" xml:id="PTAMS00250_02">
-      <locus from="023v" to="033">
-       023v–033
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου περὶ φυσικῶν νόμων:-</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς ἀληθείας, τὸ πνεῦμα τῆς εὐσεβείας·</incipit>
+      <explicit>αὕτη ἐστὶν ἡ ἄκτιστος φύσις· ἡ ἀληθινὴ ἀξία· ἡ ἀμέριστος βασιλεία· ἡ ἄσχιστος τιμή· ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάληπτος δόξα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος· αὐτῶ ἡ δόξα εἰς τοὺς αἰῶνας: - ἀμήν:-</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
@@ -97,7 +94,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://84.205.233.134/library/view_more_en.php?id=177&amp;status=3&amp;type=manuscript" type="straighturl"/>
+        <ref target="http://daten.digitale-sammlungen.de/~db/0010/bsb00108687/images/index.html" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

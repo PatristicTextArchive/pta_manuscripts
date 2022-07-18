@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Φ. III. 20 (Andrés 239)
+     Escorial (El-), Real Biblioteca, fonds principal Ω. III. 02 (Andrés 535)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,34 +58,42 @@
       fonds principal
      </collection>
      <idno>
-      Φ. III. 20 (Andrés 239)
+      Ω. III. 02 (Andrés 535)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       15193
+       15084
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta028" n="1" xml:id="PTAMS00060_01">
-      <locus from="152v" to="160">
-       152v–160
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00060_01">
+      <locus from="101v" to="104">
+       101v–104
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00060_02">
-      <locus from="241" to="247">
-       241–247
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="2" xml:id="PTAMS00060_02">
+      <locus from="104" to="110">
+       104–110
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00060_03">
-      <locus from="292" to="296">
-       292–296
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="3" xml:id="PTAMS00060_03">
+      <locus from="110" to="116">
+       110–116
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="4" xml:id="PTAMS00060_04">
+      <locus from="98-101v">
+       98-101v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +103,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        9
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

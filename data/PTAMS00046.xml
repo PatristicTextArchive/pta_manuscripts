@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Phillipps 1439 (035)
+     Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Phillipps 1438 (34)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,120 @@
       Phillipps
      </collection>
      <idno>
-      1439 (035)
+      1438 (034)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       9342
+       9341
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Be
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00046_01">
-      <locus from="086v" to="098">
-       086v–098
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00046_01">
+      <locus from="001-005v">
+       001-005v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00046_02">
-      <locus from="117v" to="127v">
-       117v–127v
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00046_02">
+      <locus from="006" to="010">
+       006–010
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00046_03">
+      <locus from="010" to="017v">
+       010–017v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00046_04">
+      <locus from="018" to="026v">
+       018–026v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="5" xml:id="PTAMS00046_05">
+      <locus from="27r" to="31v">
+       27r–31v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ἁγίου ἰωάννου τοῦ χρυσοστόμου. λόγος πάνυ ὠφέλιμος περὶ πίστεως. καὶ εἰς τὸν περὶ φύσεως νόμον, καὶ περὶ τοῦ ἁγίου πνος:-</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος ἀρχὴν ἔχουσα καὶ πηγὴν τῆς  εὐσεβείας</incipit>
+      <explicit>αὕτη ἐστὶν ἡ ἄκτιστος φύσις· ἡ ἀληθινὴ ἀξία. ἡ ἀμέριστος βασιλεία. ἡ ἄσχιστος τιμὴ, ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάληπτος δόξα. τοῦ πρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνος. ᾗ πρέπει πᾶσα δόξα τιμὴ καὶ προσκύνησις εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="6" xml:id="PTAMS00046_06">
+      <locus from="35r" to="39v">
+       35–39v
+      </locus>
+      <rubric>τοῦ αὐτοῦ χροσοστόμου εἰς τὸ ἐν ἀρχῇ ἦν ὁ λόγος <lb/> 
+καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θεοῦ.</rubric>
+      <incipit>χθὲς ἡμῖν ὁ λόγος εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν ἔληξεν.</incipit>
+      <explicit>γένοιτο δὲ εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πατρὸς καὶ διδασκάλου ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξῳ πίστει συναυλίζεσθαι. ἐν χριστῷ ἰησοῦ τῷ κυρίω ἡμῶν. μεθ’ οὗ τῷ πατρὶ ἡ δόξα ἅμα τῷ ἁγίῳ πνεύματι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν:—</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="7" xml:id="PTAMS00046_07">
+      <locus from="045" to="057v">
+       045–057v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="8" xml:id="PTAMS00046_08">
+      <locus from="069" to="082">
+       069–082
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="9" xml:id="PTAMS00046_09">
+      <locus from="089" to="096v">
+       089–096v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="10" xml:id="PTAMS00046_10">
+      <locus from="103" to="111v">
+       103–111v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta031" n="11" xml:id="PTAMS00046_11">
+      <locus from="115" to="122v">
+       115–122v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="12" xml:id="PTAMS00046_12">
+      <locus from="123" to="132v">
+       123–132v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="13" xml:id="PTAMS00046_13">
+      <locus from="132v" to="141v">
+       132v–141v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +181,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate>
+        17
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://bvmm.irht.cnrs.fr/consult/consult.php?COMPOSITION_ID=15979&amp;corpus=manuscrit" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

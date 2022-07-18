@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Auct. E. 3. 16 (Misc. 051.16)
+     Oxford, Bodleian Library, Auct. E. 3. 10 (Misc. 051.10)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,50 +58,18 @@
       Auct.
      </collection>
      <idno>
-      E. 3. 16 (Misc. 051.16)
+      E. 3. 10 (Misc. 051.10)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47033
+       47027
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00269_01">
-      <locus from="076" to="090 (p.)">
-       076–090 (p.)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00269_02">
-      <locus from="158" to="177 (p.)">
-       158–177 (p.)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00269_03">
-      <locus from="262" to="278 (p.)">
-       262–278 (p.)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta022" n="4" xml:id="PTAMS00269_04">
-      <locus from="527" to="535 (p.)">
-       527–535 (p.)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="5" xml:id="PTAMS00269_05">
-      <locus from="565" to="573 (p.)">
-       565–573 (p.)
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00269_01">
+      <locus from="700" to="718 (p.)">
+       700–718 (p.)
       </locus>
       <rubric/>
       <incipit/>

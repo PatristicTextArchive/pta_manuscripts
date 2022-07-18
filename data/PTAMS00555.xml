@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00533" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paris, Bibliothèque nationale de France (BNF), grec 1049
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
+   <change when-iso="2021-05-03" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Paris
+     </settlement>
+     <repository>
+      Bibliothèque nationale de France (BNF)
+     </repository>
+     <collection>
+      grec
+     </collection>
+     <idno>
+      1049
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       50643
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       P
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6208" n="1" xml:id="PTAMS00533_01">
+      <locus from="1r" to="13r">
+       1r–13r
+      </locus>
+      <rubric>
+       <!-- In Malachiam -->
+      </rubric>
+      <incipit>
+       Μωϋσῆς μὲν ὁ μέγας
+      </incipit>
+      <explicit>
+       ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:6208" n="2" xml:id="PTAMS00533_02">
+      <locus from="14r" to="202v">
+       14r–202v
+      </locus>
+      <rubric>
+       Θεοδωρίτου ἐπισκόπου κύρου εἰς τοὺς προφῆτας τοὺς ι̅β̅ ἑρμηνεία εἰς τὸν ὠσηὲ προοίμιον
+      </rubric>
+      <incipit>
+       Ἴσως μέν τινες· περιττόν τι ποιεῖν
+      </incipit>
+      <explicit>
+       ΕΠΛΗΡΩΘΗ Η ΠΡΟΦΗΤΕΙΑ ΖΑΧΑΡΙΟΥ
+      </explicit>
+     </msItem>
+     <msItem defective="true" corresp="" n="3" xml:id="PTAMS00533_03">
+      <locus from="203r" to="203v">
+       203r–203v
+      </locus>
+      <rubric type="mutile"/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="4" xml:id="PTAMS00533_04">
+      <locus from="204r" to="256v">
+       203r–256v
+      </locus>
+      <rubric>
+       Τοῦ μακαρίου θεοδωρήτου ἐπισκόπου κύρου ἐρμηνεία εἰς τὸν προφήτου δανιήλ
+      </rubric>
+      <incipit>
+       Εἰ πάσιν ῥάδιον ἦν τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit type="defective">
+       και οὗτος ἀπὸ θαλάσσης μιας τέτταρα
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="900-12-31" notBefore-iso="801-01-01">
+        s. 9
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10721668w" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

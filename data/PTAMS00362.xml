@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), Supplément grec 1031
+     Paris, Bibliothèque nationale de France (BNF), gr. 1186
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,98 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      Supplément grec
+      gr.
      </collection>
      <idno>
-      1031
+      1186
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       53676
+       50791
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Gc
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00362_01">
-      <locus from="066" to="073">
-       066–073
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00362_01">
+      <locus from="008" to="011">
+       008–011
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="2" xml:id="PTAMS00362_02">
+      <locus from="011" to="016v">
+       011–016v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="3" xml:id="PTAMS00362_03">
+      <locus from="044v" to="048">
+       044v–048
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="4" xml:id="PTAMS00362_04">
+      <locus from="069v" to="070v">
+       069v–070v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta013" n="5" xml:id="PTAMS00362_05">
+      <locus from="141v, col. 2, lin. 011" to="142, col. 1, lin. 18">
+       141v, col. 2, lin. 011–142, col. 1, lin. 18
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="6" xml:id="PTAMS00362_06">
+      <locus from="160r" to="164r">
+       160r–164r
+      </locus>
+      <rubric>+ τοῦ ἐν ἁγιοις πρς ἡμῶν ἰωάννου τοῦ χρυσοστόμου λόγος εἰς τὸ ἐν ἀρχῆ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ καὶ τὰ βάθη τοῦ θυ· ὁ δὲ λόγος ἀναγινώσκεται τῆ δευτέρα τῆς διακαινησΐμου +</rubric>
+      <incipit>Xθὲς ἡμῖν ὁ λόγος εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit>γένοιτο δὲ πάντας ἡμᾶς εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ δϊδασκάλου, ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει σϋναυλίζεσθαι· ἐν χω ἰυ τῶ κω ἡμῶν· μεθ’ οὗ τῶ πρὶ ἡ δόξα ἅμα τῶ ἁγίω καὶ ἀγαθῶ καὶ ζωοποιῶ πνι· νῦν καὶ εἰς τοὺς ἀτελευτήτους αἰῶνας ἀμήν +</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="7" xml:id="PTAMS00362_07">
+      <locus from="191" to="197v">
+       191–197v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta017" n="8" xml:id="PTAMS00362_08">
+      <locus from="238" to="245">
+       238–245
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta003" n="9" xml:id="PTAMS00362_09">
+      <locus from="245" to="259">
+       245–259
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="10" xml:id="PTAMS00362_10">
+      <locus from="4v-8">
+       4v-8
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +156,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate when-iso="1306">
+        a. 1306
        </origDate>
       </p>
      </origin>
@@ -89,11 +166,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b11004911j" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722182g" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004911j/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722182g/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

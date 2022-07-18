@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1505
+     Paris, Bibliothèque nationale de France (BNF), grec 1176
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       grec
      </collection>
      <idno>
-      1505
+      1176
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       51123
+       50778
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00360_01">
-      <locus from="147" to="152">
-       147–152
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00360_01">
+      <locus from="286" to="292v">
+       286–292v
       </locus>
       <rubric/>
       <incipit/>
@@ -89,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722265c" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722833h" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722265c/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722833h/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

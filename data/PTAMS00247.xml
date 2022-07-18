@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     München, Bayerische Staatsbibliothek (BSB), Cod.graec. 551
+     München, Bayerische Staatsbibliothek, Cod. graec. 190
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,24 +52,32 @@
       München
      </settlement>
      <repository>
-      Bayerische Staatsbibliothek (BSB)
+      Bayerische Staatsbibliothek
      </repository>
      <collection>
-      Cod.graec.
+      Cod. graec.
      </collection>
      <idno>
-      551
+      190
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       44999
+       44636
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00247_01">
-      <locus from="064v" to="065">
-       064v–065
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00247_01">
+      <locus from="263-265v">
+       263-265v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="2" xml:id="PTAMS00247_02">
+      <locus from="265v" to="268v">
+       265v–268v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate when-iso="ca.">
+        1530 ca.
        </origDate>
       </p>
      </origin>
@@ -89,7 +97,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://daten.digitale-sammlungen.de/~db/0007/bsb00077176/images/index.html," type="straighturl"/>
+         <ref target="http://daten.digitale-sammlungen.de/~db/0007/bsb00072399/images/index.html" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00072399/manifest" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

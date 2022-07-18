@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Iraklio, Archaiologiko Mouseio, fonds principal 7
+     Hagion Oros, Skêtê Kausokalubiôn, fonds principal Kyriakou 157
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Iraklio
+      Hagion Oros
      </settlement>
      <repository>
-      Archaiologiko Mouseio
+      Skêtê Kausokalubiôn
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      7
+      Kyriakou 157
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       32835
+       32064
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00158_01">
-      <locus from="369" to="389">
-       369–389
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00158_01">
+      <locus from="098" to="103">
+       098–103
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
-        s. 17
+       <origDate>
+        unbekannt
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 123
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 046 (coll. 1014)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,83 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Venezia
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      theol. gr.
+      gr.
      </collection>
      <idno>
-      123
+      II. 046 (coll. 1014)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       71790
+       70208
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00510_01">
-      <locus from="104" to="108">
-       104–108
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00510_01">
+      <locus from="001" to="011v">
+       001–011v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta021" n="2" xml:id="PTAMS00510_02">
-      <locus from="108" to="113v">
-       108–113v
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="2" xml:id="PTAMS00510_02">
+      <locus from="019v" to="026v">
+       019v–026v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00510_03">
+      <locus from="106" to="117">
+       106–117
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="4" xml:id="PTAMS00510_04">
+      <locus from="117" to="125">
+       117–125
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="5" xml:id="PTAMS00510_05">
+      <locus from="125" to="133v">
+       125–133v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="6" xml:id="PTAMS00510_06">
+      <locus from="167v" to="170">
+       167v–170
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="7" xml:id="PTAMS00510_07">
+      <locus from="187" to="189v">
+       187–189v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="8" xml:id="PTAMS00510_08">
+      <locus from="268v" to="278">
+       268v–278
       </locus>
       <rubric/>
       <incipit/>

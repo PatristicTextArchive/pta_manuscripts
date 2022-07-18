@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Roma, Biblioteca Vallicelliana, Allacci 82
+     Paris, Bibliothèque nationale de France (BNF), Supplément grec 1278
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,42 +49,59 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Roma
+      Paris
      </settlement>
      <repository>
-      Biblioteca Vallicelliana
+      Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      Allacci
+      Supplément grec
      </collection>
      <idno>
-      82
+      1278
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       56207
+       53942
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Pf
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00378_01">
-      <locus from="034" to="038">
-       034–038
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00378_01">
+      <locus from="013v" to="022v">
+       13v-22v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν, Ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ Χρυσοστόμου, λόγος εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν, ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος. ἑρμηνεία, καὶ περὶ τῆς νυχθήσης πλευρᾶς, δέσποτα εὐλόγ:</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκκλήθημεν, διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθ’οὗ τῶ πατρὶ δόξα· σὺν τῶ παναγίω καὶ ζωοποιῶ πνεύματι· εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:+</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
-        s. 17
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b11004867x" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004867x/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

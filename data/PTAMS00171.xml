@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 60
+     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 30
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,26 @@
       Hagiou Saba
      </collection>
      <idno>
-      60
+      30
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       34317
+       34287
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00171_01">
-      <locus from="259v" to="263v">
-       259v–263v
+      <locus from="374v" to="377">
+       374v–377
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="2" xml:id="PTAMS00171_02">
+      <locus from="377" to="380">
+       377–380
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>
@@ -89,7 +97,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279394653-jo," type="straighturl"/>
+         <ref target="https://www.loc.gov/item/00279393739-jo" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279393739-jo/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

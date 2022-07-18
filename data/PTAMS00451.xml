@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 562
+     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 411
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Ottob. gr.
      </collection>
      <idno>
-      562
+      411
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67193
+       65654
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00451_01">
-      <locus from="191v" to="196">
-       191v–196
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00451_01">
+      <locus from="105" to="108">
+       105–108
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.562.pt.1,http://digi.vatlib.it/view/MSS_Vat.gr.562.pt.2" type="straighturl"/>
+         <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.411.pt.1" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.411.pt.1/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

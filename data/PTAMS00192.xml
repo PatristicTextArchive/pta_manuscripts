@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     London, British Library, Add. 36589
+     London, British Library, Add. 14066
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       Add.
      </collection>
      <idno>
-      36589
+      14066
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       39123
+       38892
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00192_01">
-      <locus from="185" to="193">
-       185–193
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00192_01">
+      <locus from="214v" to="220">
+       214v–220
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1101-01-01">
+        s. 12–13
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_36589" type="straighturl"/>
+        <ref target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14066" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

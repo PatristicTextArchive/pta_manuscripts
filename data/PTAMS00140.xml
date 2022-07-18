@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Pantokratoros, fonds principal 101 (Lambros 1135)
+     Hagion Oros, Monê Pantokratoros, fonds principal 099 (Lambros 1133)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,26 @@
       fonds principal
      </collection>
      <idno>
-      101 (Lambros 1135)
+      099 (Lambros 1133)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       29120
+       29118
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta003" n="1" xml:id="PTAMS00140_01">
-      <locus from="251v" to="272v">
-       251v–272v
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00140_01">
+      <locus from="318" to="333">
+       318–333
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00140_02">
+      <locus from="Item 12">
+       Item 12
       </locus>
       <rubric/>
       <incipit/>

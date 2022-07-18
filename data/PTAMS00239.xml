@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 293 (Vlad. 394)
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 214 (Vlad. 393)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,34 +58,18 @@
       Sinod. gr.
      </collection>
      <idno>
-      293 (Vlad. 394)
+      214 (Vlad. 393)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43918
+       43839
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00239_01">
-      <locus from="083" to="119v">
-       083–119v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00239_02">
-      <locus from="243v" to="253v">
-       243v–253v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="3" xml:id="PTAMS00239_03">
-      <locus from="276v" to="280">
-       276v–280
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00239_01">
+      <locus from="184-185">
+       184-185
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1401-01-01">
+        s. 15–17
        </origDate>
       </p>
      </origin>

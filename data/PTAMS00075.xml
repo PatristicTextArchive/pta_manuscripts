@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Bibliothêkê tou Prôtatou (Karues), fonds principal 041 (Lambros 41)
+     Grottaferrata, Biblioteca Statale del Monumento Nazionale, fonds principal Α. δ. 011.06 (gr. 079)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Hagion Oros
+      Grottaferrata
      </settlement>
      <repository>
-      Bibliothêkê tou Prôtatou (Karues)
+      Biblioteca Statale del Monumento Nazionale
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      041 (Lambros 41)
+      Α. δ. 011.06 (gr. 079)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       18070
+       17905
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00075_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta038" n="1" xml:id="PTAMS00075_01">
+      <locus from="028" to="028v s.i.">
+       028–028v s.i.
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00075_02">
+      <locus from="079r, 078v">
+       079r, 078v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate>
+        unbekannt
        </origDate>
       </p>
      </origin>
@@ -89,7 +97,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=31097" type="straighturl"/>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=40495" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

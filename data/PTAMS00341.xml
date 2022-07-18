@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), gr. 801
+     Paris, Bibliothèque nationale de France (BNF), grec 768
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,21 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      gr.
+      grec
      </collection>
      <idno>
-      801
+      768
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50386
+       50352
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00341_01">
-      <locus from="147v" to="152">
-       147v–152
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00341_02">
-      <locus from="152" to="161">
-       152–161
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00341_03">
-      <locus from="161" to="170">
-       161–170
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00341_01">
+      <locus from="187v" to="199v">
+       187v–199v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
@@ -105,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107231319" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10723659m" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107231319/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723659m/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

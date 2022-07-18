@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Skêtê Kausokalubiôn, fonds principal Kyriakou 003
+     Hagion Oros, Skêtê Hagiou Dêmêtriou, fonds principal 72
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,32 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Skêtê Kausokalubiôn
+      Skêtê Hagiou Dêmêtriou
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      Kyriakou 003
+      72
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       31910
+       31730
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00155_01">
-      <locus from="001" to="012">
-       001–012
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00155_02">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00155_01">
+      <locus from="467" to="479">
+       467–479
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1900-12-31" notBefore-iso="1801-01-01">
+        s. 19
        </origDate>
       </p>
      </origin>

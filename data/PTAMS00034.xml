@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Metochion tou Panagiou Taphou 48
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Megalê tou Genous Scholê 62
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,37 @@
       Ethnikê Bibliothêkê tês Hellados (EBE)
      </repository>
      <collection>
-      Metochion tou Panagiou Taphou
+      Megalê tou Genous Scholê
      </collection>
      <idno>
-      48
+      62
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       6445
+       6395
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00034_01">
-      <locus from="364v" to="375">
-       364v–375
+      <locus from="370v-378">
+       370v-378
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00034_02">
-      <locus from="422v" to="426">
-       422v–426
+      <locus from="433" to="435v">
+       433–435v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="3" xml:id="PTAMS00034_03">
+      <locus from="517v" to="525v">
+       517v–525v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate when-iso="1373">
+        a. 1373
        </origDate>
       </p>
      </origin>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 25
+     Istanbul, Patriarchikê Bibliothêkê, Theologikê scholê 42
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,43 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Jerusalem
+      Istanbul
      </settlement>
      <repository>
-      Patriarchikê bibliothêkê
+      Patriarchikê Bibliothêkê
      </repository>
      <collection>
-      Hagiou Saba
+      Theologikê scholê
      </collection>
      <idno>
-      25
+      42
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       34282
+       33886
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00167_01">
-      <locus from="109" to="119">
-       109–119
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00167_01">
+      <locus from="131" to="139v">
+       131–139v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="2" xml:id="PTAMS00167_02">
-      <locus from="274" to="287">
-       274–287
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00167_02">
+      <locus from="140" to="149v">
+       140–149v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="3" xml:id="PTAMS00167_03">
+      <locus from="165v" to="176v">
+       165v–176v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,24 +95,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate>
+        unbekannt
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279393697-jo" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279393697-jo/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

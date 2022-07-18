@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 64
+     Venezia, Biblioteca Nazionale Marciana, gr. Z. 568 (coll. 0304)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,51 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Venezia
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      theol. gr.
+      gr. Z.
      </collection>
      <idno>
-      64
+      568 (coll. 0304)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       71731
+       70039
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta023" n="1" xml:id="PTAMS00507_01">
-      <locus from="078v" to="097v">
-       078v–097v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta024" n="2" xml:id="PTAMS00507_02">
-      <locus from="098" to="113">
-       098–113
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00507_03">
-      <locus from="249" to="262">
-       249–262
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="4" xml:id="PTAMS00507_04">
-      <locus from="289" to="297v">
-       289–297v
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00507_01">
+      <locus from="162" to="173v">
+       162–173v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 (2/2)
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12 ex.
        </origDate>
       </p>
      </origin>

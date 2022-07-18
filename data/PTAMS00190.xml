@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     London, British Library, Add. 14066
+     Leiden, Bibliotheek der Rijksuniversiteit, Voss. gr. F° 48
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      London
+      Leiden
      </settlement>
      <repository>
-      British Library
+      Bibliotheek der Rijksuniversiteit
      </repository>
      <collection>
-      Add.
+      Voss.
      </collection>
      <idno>
-      14066
+      gr. F° 48
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       38892
+       38058
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00190_01">
-      <locus from="214v" to="220">
-       214v–220
+     <msItem corresp="urn:cts:pta:pta0001.pta062" n="1" xml:id="PTAMS00190_01">
+      <locus from="64-77">
+       64-77
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1101-01-01">
-        s. 12–13
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14066" type="straighturl"/>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32083" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

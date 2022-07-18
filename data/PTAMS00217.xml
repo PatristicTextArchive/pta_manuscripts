@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal F 108 sup. (Martini-Bassi 360)
+     Milano, Biblioteca Ambrosiana, fonds principal C 181 inf. (Martini-Bassi 875)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,26 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      F 108 sup. (Martini-Bassi 360)
+      C 181 inf. (Martini-Bassi 875)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       42773
+       42474
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00217_01">
-      <locus from="061v" to="065">
-       061v–065
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00217_02">
-      <locus from="069" to="071v">
-       069–071v
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00217_01">
+      <locus from="091v" to="103v">
+       091v–103v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11 in.
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

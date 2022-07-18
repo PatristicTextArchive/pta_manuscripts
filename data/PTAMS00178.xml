@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 29
+     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 372
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Patriarchikê bibliothêkê
      </repository>
      <collection>
-      Panaghiou Taphou
+      Hagiou Saba
      </collection>
      <idno>
-      29
+      372
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       35266
+       34628
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00178_01">
-      <locus from="329" to="333v">
-       329–333v
+     <msItem corresp="urn:cts:pta:pta0001.pta055" n="1" xml:id="PTAMS00178_01">
+      <locus from="250" to="259v">
+       250–259v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279389463-jo," type="straighturl"/>
+        <ref target="https://www.loc.gov/item/0027939608A-jo" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

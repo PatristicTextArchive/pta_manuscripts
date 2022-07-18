@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sinai, Monê tês Hagias Aikaterinês, gr. 461
+     Roma, Biblioteca Vallicelliana, Allacci 82
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sinai
+      Roma
      </settlement>
      <repository>
-      Monê tês Hagias Aikaterinês
+      Biblioteca Vallicelliana
      </repository>
      <collection>
-      gr.
+      Allacci
      </collection>
      <idno>
-      461
+      82
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       58836
+       56207
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00392_01">
-      <locus from="048" to="050">
-       048–050
+     <msItem corresp="urn:cts:pta:pta0001.pta055" n="1" xml:id="PTAMS00392_01">
+      <locus from="034" to="038">
+       034–038
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        1425 ca.
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279381622-ms" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279381622-ms/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

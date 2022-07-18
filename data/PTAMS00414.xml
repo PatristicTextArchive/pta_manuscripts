@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal C. IV. 04 (Pasini 135)
+     Sinai, Monê tês Hagias Aikaterinês, gr. 1976
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Torino
+      Sinai
      </settlement>
      <repository>
-      Biblioteca Nazionale Universitaria
+      Monê tês Hagias Aikaterinês
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      C. IV. 04 (Pasini 135)
+      1976
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       63875
+       60351
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00414_01">
-      <locus from="zerstört">
-       zerstört
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00414_01">
+      <locus from="Item 19">
+       Item 19
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00414_02">
+      <locus from="Item 3">
+       Item 3
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +87,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate when-iso="1655">
+        a. 1655
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.nli.org.il/en/manuscripts/NNL_ALEPH003890932/NLI" type="straighturl"/>
+       </bibl>
+       <bibl>
+       <ref target="http://iiif.nli.org.il/IIIFv21/990038909320205171/manifest" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

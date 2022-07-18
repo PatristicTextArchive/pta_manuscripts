@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Pantokratoros, fonds principal 006 (Lambros 1040)
+     Hagion Oros, Monê Pantokratoros, fonds principal 003 (Lambros 1037)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      006 (Lambros 1040)
+      003 (Lambros 1037)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       29025
+       29022
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00134_01">
-      <locus from="075v" to="079v">
-       075v–079v
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00134_01">
+      <locus from="008v" to="012v">
+       008v–012v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1301–1325">
-        a. 1301–1325
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/0027105256A-ma/" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

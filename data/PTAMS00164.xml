@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Istanbul, Patriarchikê Bibliothêkê, Theologikê scholê 32
+     Istanbul, Patriarchikê Bibliothêkê, Panaghia 52
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,29 @@
       Patriarchikê Bibliothêkê
      </repository>
      <collection>
-      Theologikê scholê
+      Panaghia
      </collection>
      <idno>
-      32
+      52
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       33876
+       33697
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00164_01">
-      <locus from="Item 53">
-       Item 53
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00164_01">
+      <locus from="102" to="109v">
+       102–109v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00164_02">
+      <locus from="161" to="169v">
+       161–169v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1561">
-        a. 1561
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>

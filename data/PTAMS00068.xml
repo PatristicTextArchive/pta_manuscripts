@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Firenze, Biblioteca Medicea Laurenziana, Plut. 08. 10
+     Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 07. 26
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,24 +52,24 @@
       Firenze
      </settlement>
      <repository>
-      Biblioteca Medicea Laurenziana
+      Biblioteca Medicea Laurenziana (BML)
      </repository>
      <collection>
       Plut.
      </collection>
      <idno>
-      08. 10
+      07. 26
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       16068
+       16049
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="1" xml:id="PTAMS00068_01">
-      <locus from="151" to="165v">
-       151–165v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00068_01">
+      <locus from="294" to="298v">
+       294–298v
       </locus>
       <rubric/>
       <incipit/>
@@ -89,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.8.10" type="straighturl"/>
+        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.7.26" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

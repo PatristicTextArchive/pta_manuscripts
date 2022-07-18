@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 569
+     Vaticano, Biblioteca Apostolica Vaticana, Pal. gr. 327
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Pal. gr.
      </collection>
      <idno>
-      569
+      327
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67200
+       66059
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00455_01">
-      <locus from="236" to="250">
-       236–250
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00455_01">
+      <locus from="137v">
+       137v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1350">
-        a. 1350
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_327" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

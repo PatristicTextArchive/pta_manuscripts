@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr.  227
+     Vaticano, Biblioteca Apostolica Vaticana, Barb. gr. 583
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,29 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Barb. gr.
      </collection>
      <idno>
-      227
+      583
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       66858
+       65123
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00442_01">
-      <locus from="IVr">
-       IVr
+     <msItem corresp="urn:cts:pta:pta0001.pta055" n="1" xml:id="PTAMS00442_01">
+      <locus from="147" to="152 (p.)">
+       147–152 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="2" xml:id="PTAMS00442_02">
+      <locus from="871" to="876 (p.)">
+       871–876 (p.)
       </locus>
       <rubric/>
       <incipit/>
@@ -80,11 +88,23 @@
      <origin>
       <p n="origDate">
        <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+        s. 14 (3/4)
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.583" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.583/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

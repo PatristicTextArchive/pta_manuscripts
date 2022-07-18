@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00524" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!-- Auf Folionummer 163 folgt 165 (Fehler in der Foliierung); nach Folio 170 springt Foliierung zurück auf Nummer 162; Folionummer 225 doppelt vergeben -->
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Eurutania, Monê Prousou, fonds principal 01
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
+   <change when-iso="2021-04-10" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Eurutania
+     </settlement>
+     <repository>
+      Monê Prousou
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+      01
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       15590
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:6285" n="1" xml:id="PTAMS00524_01">
+      <locus from="1r" to="9v">
+       1r–9v
+      </locus>
+      <rubric>
+       Τοῦ ἁγίου καὶ ἐνδόξου ἰουστίνου τοῦ φιλοσόφου καὶ μάρτυρος, ἐρωταποκρίσις πρὸς τοὺς ὀρθοδόξους, περί τινων ἀναγκαίων ζητημάτων
+      </rubric>
+      <incipit>
+       Εἰ ἐψευσμένον τυγχάνει καὶ μάταιον τὸ ὑπὸ τῶν αἱρετικῶν διδόμενον βάπτισμα
+      </incipit>
+      <explicit>
+       καὶ ᾧ ἂν βούληται ὁ υἱὸς ἀποκαλύψαι
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="2" xml:id="PTAMS00524_02">
+      <locus from="9v" to="29r">
+       9v–29r
+      </locus>
+      <rubric>
+       Μερικὰ τινὰ ἀπὸ τῆς ἐξηγήσεως διαφόρων πατέρων εἰς τὰ τοῦ ἰώβ
+      </rubric>
+      <incipit>
+       Καὶ ἐγένετο ὡς ἡμέρα αὕτη, καὶ ἰδοὺ ἦλθον
+      </incipit>
+      <explicit>
+       οὕτως οὐδὲ τῆς φρονήσεως αὐτοῦ ἔστιν εὑρεσις
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:2249" n="3" xml:id="PTAMS00524_03">
+      <locus from="29r" to="70v">
+       29r–70v
+      </locus>
+      <rubric>
+       Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἀθανασίου τοῦ μεγάλου ἀρχιεπισκόπου ἀλεξανδρείας, σύνοψις ἐπίτομος τῆς θείας γραφῆς παλαιᾶς καὶ νέας διαθήκης
+      </rubric>
+      <incipit>
+       Πᾶσα γραφὴ ἡμῶν τῶν χριστιανῶν, θεόπνευστός ἐστιν
+      </incipit>
+      <explicit>
+       καὶ εὑρήσει ταῦτα πλατύτερον εἰς τὸν δεύτερον τόμον τοῦ ἁγίου
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:2257" n="4" xml:id="PTAMS00524_04">
+      <locus from="71r" to="110v">
+       71r–110v
+      </locus>
+      <rubric>
+       Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἀθανασίου τοῦ μεγάλου πατριάρχου ἀλεξανδρείας, πρὸς ἀντίοχου ἄρχοντα, περὶ πλείστων καὶ ἀναγκαίων ζητημάτων τῶν ἐν ταῖς θείαις γραφαῖς ἀπορουμένων, καὶ παρὰ πᾶσι χριστιανοῖς γινώσκεσθαι ὀφειλομένων
+      </rubric>
+      <incipit>
+       ἐρώτησις· Τοῦ θεοῦ διὰ τῶν προφητῶν ἐπιτρέποντος
+      </incipit>
+      <explicit>
+       καὶ ἐξ ἴσου ἀπολάβωσι πάντες οἱ ἅγιοι τὰ ἀγαθὰ τοῦ θεοῦ
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:7747" n="5" xml:id="PTAMS00524_05">
+      <locus from="110v" to="120v">
+       110v–120v
+      </locus>
+      <rubric>
+       κατ’ εἰκόνα θεοῦ καθ’ ὁμοίωσιν
+      </rubric>
+      <incipit>
+       Οἱ τὴν ἑαυτῶν ἀπλανῶς τοῦ προσώπου θεόκτιστον ὡραιότητα
+      </incipit>
+      <explicit>
+       τῆς εἰκόνος θεοῦ γέγονε μεταδοτικὸς τῆς ἑαυτοῦ εἰκόνος τῷ θεῷ
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="6" xml:id="PTAMS00524_06">
+      <locus from="121r" to="122r">
+       121r–122r
+      </locus>
+      <rubric>
+       Περὶ τοῦ αὐτοῦ μακαρίου θεοδωρήτου, ἐκ τῆς μυριοβίβλου φωτίου
+       <!--Photius, Bibliotheca 203-205-->
+      </rubric>
+      <incipit>
+       Ἀνεγνώσθη τοῦ μακαρίου θεοδωρήτου ἐπισκόπου κύρου, ἐρμηνεία εἰς τὸν δανιήλ
+      </incipit>
+      <explicit>
+       ἐν τῇ αὐτῇ τῶν λόγων καλλονῇ καὶ τῆς διανοίας διεσκευασμένον βιβλίον
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="7" xml:id="PTAMS00524_07">
+      <locus from="122r" to="161v">
+       122r–161v
+      </locus>
+      <rubric>
+       Τοῦ μακαρίου θεοδωρήτου ἐπισκόπου κύρου, ὑπόμνημα εἰς τὰς ὁράσεις τοῦ προφήτου δανιήλ
+       <!-- Prologus et libri 1-7 tantum -->
+      </rubric>
+      <incipit>
+       Εἰ πᾶσι ῥάδιον ἦν τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit>
+       ὁ μὲν οὖν μακάριος δανιὴλ ταῦτα ἡμᾶς ἐδίδαξεν
+      </explicit>
+     </msItem>
+     <msItem corresp="cpg:6200" n="8" xml:id="PTAMS00524_08">
+      <locus from="161v" to="172r">
+       161v–172r
+      </locus>
+      <rubric>
+       Τοῦ μακαρίου θεωδορήτου ἐπισκόπου κύρου ἑρμηνεία εἰς τὰ ἄπορα τῆς θείας γραφῆς κατ’ ἐκλογὴν· κατ’ ἐρώτησίν τε καὶ ἀπόκρισιν
+       <!-- Excerptum; Desinit in quaestione 82 in Genesin -->
+      </rubric>
+      <incipit>
+       ἐρώτησις· Τί δήποτε μὴ προτέταχε τῆς τῶν ὅλων δημιουργίας
+      </incipit>
+      <explicit>
+       ἀληθεύων τοιγαροῦν ἑαυτὸν ἀπεκάλει πρωτότοκον
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="9" xml:id="PTAMS00524_09">
+      <locus from="176r" to="205r">
+       176r–205r
+      </locus>
+      <rubric>
+       Ἰωσὴφ τοῦ βρυενίου λόγος πρῶτος περὶ τῆς μελλούσης κρίσεως καὶ τῆς ἀϊδίου μακαριότητος· εἴρωται δὲ ἐν τοῖς ἁγίοις ἀποστόλοις ἐν κωνσταντινουπόλει τῇ κυριακῇ τῆς ἀποκρύφου συνελθόντων πολλῶν
+      </rubric>
+      <incipit>
+       Ἔοικεν ὁ διδάσκαλος ἐπ’ ἐκκλησίας ἱστάμενος καὶ τοῦς τοῦ θεοῦ λόγους λαλῶν
+      </incipit>
+      <explicit>
+       ᾧ ἡ δόξα σὺν τῷ πατρὶ αὐτοῦ καὶ τῷ πνεύματι ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="10" xml:id="PTAMS00524_10">
+      <locus from="205r" to="213v">
+       205r–213v
+      </locus>
+      <rubric>
+       Τοῦ αὐτοῦ ἰωσὴφ μοναχοῦ τοῦ βρυενίου λόγος ἑτερος περὶ συντελείας, ῥηθεὶς ἐπὶ συνελεύσει τῆς πόλεως ἐν τῷ τῶν ἁγίων ἀποστόλων ναῷ· καὶ τοῦ ἑνὸς τῶν βασιλέων αὐτόθι παρόντος, διαλαμβάνων φιλοτιμότατα περὶ τοῦ ἑπτὰ ἀριθμοῦ
+      </rubric>
+      <incipit>
+       Μακάριος ἐγὼ σήμερον κατὰ τοῦτο, ὅτι τοσούτων καὶ τοιούτων εὐμοιρῶ τῶν ἀκροατῶν
+      </incipit>
+      <explicit>
+       ᾧ ἡ δόξα σὺν τῷ πατρὶ αὐτοῦ καὶ τῷ πνεύματι, καὶ ἀμήν γένοιτο
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="11" xml:id="PTAMS00524_11">
+      <locus from="214r" to="225bisr">
+       214r–225bisr
+      </locus>
+      <rubric>
+       Τοῦ αὐτοῦ ἰωσὴφ τοῦ βρυενίου περὶ συντελείας λόγος ἑτερος, λαληθεὶς ἐν τῷ παλατίῳ ἐπὶ παρουσίᾳ πολλῶν ἀρχιερέων, τὰς τῶν πολλῶν περὶ ταύτης δόξας ἀποκρουόμενος, καὶ συμπεραίνων ὅτι εἰ μὴ τὸ ἐκπεσὸν ἐκείνο τάγμα ταῖς τῶν ἁγίων ψυχαῖς τέλεον ἀναπληρωθῇ συντέλεια οὐ γενήσεται
+      </rubric>
+      <incipit>
+       Θεὸς· τοῖς πᾶσι φοβερὸν καὶ παντέφορον ὄμμα
+      </incipit>
+      <explicit>
+       ὅτι σοὶ πρέπει δόξα, κράτος, προσκύνησις, εἰς τοὺς αἰῶνας, ἀμήν
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="12" xml:id="PTAMS00524_12">
+      <locus from="225(2)r" to="227r">
+       225(2)r–227r
+      </locus>
+      <rubric>
+       Τοῦ αὐτοῦ ἰωσὴφ τοῦ βρυενίου, ἐκ τοῦ ιη αὐτοῦ λόγου, τὸ ἠθικόν
+      </rubric>
+      <incipit>
+       Ἐπεὶ δὲ καιρὸς μετανοίας ὁ νῦν, ἄγε δὴ περὶ μετανοίας ἀκούσωμεν
+      </incipit>
+      <explicit>
+       ἐν χριστῷ τῷ θεῷ, ᾧ ἡ δόξα πρέπει εἰς τοὺς αἰῶνας, ἀμήν
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1800-12-31" notBefore-iso="1701-01-01">
+        s. 18
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional/>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

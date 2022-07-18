@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1175
+     Paris, Bibliothèque nationale de France (BNF), grec 781
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,34 @@
       grec
      </collection>
      <idno>
-      1175
+      781
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50777
+       50366
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00348_01">
-      <locus from="152" to="158v">
-       152–158v
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00348_01">
+      <locus from="230" to="235">
+       230–235
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00348_02">
+      <locus from="250v" to="260">
+       250v–260
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="3" xml:id="PTAMS00348_03">
+      <locus from="266v" to="280">
+       266v–280
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate when-iso="939">
+        a. 939
        </origDate>
       </p>
      </origin>
@@ -89,8 +105,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b10721766c," type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b85143990" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b85143990/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

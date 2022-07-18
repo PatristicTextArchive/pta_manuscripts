@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00525" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     Andros, Monê Hagias (Zôodochou Pêgês), fonds principal 43
+     Wien, Österreichische Nationalbibliothek (ÖNB), phil. gr. 178
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Andros
+      Wien
      </settlement>
      <repository>
-      Monê Hagias (Zôodochou Pêgês)
+      Österreichische Nationalbibliothek (ÖNB)
      </repository>
      <collection>
-      fonds principal
+      phil. gr.
      </collection>
      <idno>
-      43
+      178
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       287
+       71292
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00001_01">
-      <locus from="044" to="045">
-       044–045
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="1" xml:id="PTAMS00525_01">
+      <locus from="287" to="293">
+       287–293
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate when-iso="1429–1430">
+        a. 1429–1430
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32648," type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

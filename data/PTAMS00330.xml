@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), gr. 765
+     Paris, Bibliothèque nationale de France (BNF), grec 750
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,66 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      gr.
+      grec
      </collection>
      <idno>
-      765
+      750
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       50348
+       50333
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ga
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00330_01">
-      <locus from="215" to="220v">
-       215–220v
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00330_01">
+      <locus from="099v" to="114v">
+       099v–114v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00330_02">
-      <locus from="221" to="224v">
-       221–224v
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="2" xml:id="PTAMS00330_02">
+      <locus from="124r" to="129r">
+       124r–129r
+      </locus>
+      <rubric><num>ιϛ</num> τοῦ αὐτοῦ εἰς τὸ ἐν ἀρχὴ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ + βάθη τοῦ θυ +</rubric>
+      <incipit>Χθὲς ἡμῖν ὁ λόγος εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit>γένοιτο δὲ εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ διδασκάλου. ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι· ἐν χω ιυ τῶ κω ἡμῶν· μεθ’ οὗ τῶ πρι ἡ δόξα ἅμα τῶ ἁγίω πνι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰώνας τῶν αἰώνων· ἀμήν +</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="3" xml:id="PTAMS00330_03">
+      <locus from="129" to="139">
+       129–139
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00330_03">
-      <locus from="224v" to="236v">
-       224v–236v
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="4" xml:id="PTAMS00330_04">
+      <locus from="139" to="153">
+       139–153
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="5" xml:id="PTAMS00330_05">
+      <locus from="197v" to="207">
+       197v–207
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta050" n="6" xml:id="PTAMS00330_06">
+      <locus from="207" to="217v">
+       207–217v
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +124,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -105,11 +134,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b11000266t" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10722092h" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000266t/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722092h/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

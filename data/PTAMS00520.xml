@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Istanbul, Patriarchikê Bibliothêkê, Theologikê scholê Fonds non catalogué 26
+     Venezia, Biblioteca Nazionale Marciana, gr. III. 012 (coll. 1267)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Istanbul
+      Venezia
      </settlement>
      <repository>
-      Patriarchikê Bibliothêkê
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      Theologikê scholê
+      gr.
      </collection>
      <idno>
-      Fonds non catalogué 26
+      III. 012 (coll. 1267)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       76366
+       70380
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00520_01">
-      <locus from="216" to="223v">
-       216–223v
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00520_01">
+      <locus from="300v">
+       300v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

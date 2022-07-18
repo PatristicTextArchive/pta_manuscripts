@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Roma, Biblioteca Vallicelliana, fonds principal C 004
+     Paros, Monê tês Zoodochou Pêgês Loggobardas, fonds principal 28 (725)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Roma
+      Paros
      </settlement>
      <repository>
-      Biblioteca Vallicelliana
+      Monê tês Zoodochou Pêgês Loggobardas
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      C 004
+      28 (725)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       56282
+       54214
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00379_01">
-      <locus from="234v" to="239v">
-       234v–239v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00379_01">
+      <locus from="049" to="057">
+       049–057
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="2" xml:id="PTAMS00379_02">
+      <locus from="38v-49">
+       38v-49
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
+        s. 15–16
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ARM0281_Vall_C_4" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

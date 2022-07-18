@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Stauronikêta, fonds principal 006 (Lambros 0871)
+     Hagion Oros, Monê Simônopetras, fonds principal 055 (Lambros 1323) [ms. détruit]
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,40 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Stauronikêta
+      Monê Simônopetras
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      006 (Lambros 0871)
+      055 (Lambros 1323) [ms. détruit]
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       30067
+       29671
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00144_01">
-      <locus from="412v" to="423v">
-       412v–423v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00144_02">
-      <locus from="423v" to="442v">
-       423v–442v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00144_03">
-      <locus from="442v" to="448v">
-       442v–448v
+     <msItem corresp="urn:cts:pta:pta0001.pta050" n="1" xml:id="PTAMS00144_01">
+      <locus from="Item 32">
+       Item 32
       </locus>
       <rubric/>
       <incipit/>
@@ -95,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=42357," type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

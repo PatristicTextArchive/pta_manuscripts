@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     München, Bayerische Staatsbibliothek, Cod. graec. 190
+     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 321 (Vlad. 221)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      München
+      Moskva
      </settlement>
      <repository>
-      Bayerische Staatsbibliothek
+      Gosudarstvennyj Istoričeskij Musej (GIM)
      </repository>
      <collection>
-      Cod. graec.
+      Sinod. gr.
      </collection>
      <idno>
-      190
+      321 (Vlad. 221)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       44636
+       43946
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00243_01">
-      <locus from="265v" to="268v">
-       265v–268v
+     <msItem corresp="urn:cts:pta:pta0001.pta057" n="1" xml:id="PTAMS00243_01">
+      <locus from="331" to="335v">
+       331–335v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1530">
-        a. 1530
+       <origDate when-iso="1654">
+        a. 1654
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://daten.digitale-sammlungen.de/~db/0007/bsb00072399/images/index.html" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

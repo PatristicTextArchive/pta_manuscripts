@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Hagiou Panteleêmonos, fonds principal 0058 (Lambros 5564)
+     Hagion Oros, Monê Docheiariou, fonds principal 0134 (Lambros 2808)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,48 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Hagiou Panteleêmonos
+      Monê Docheiariou
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      0058 (Lambros 5564)
+      0134 (Lambros 2808)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       22195
+       21307
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="1" xml:id="PTAMS00099_01">
-      <locus from="144" to="153v">
-       144–153v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00099_02">
-      <locus from="153v" to="163">
-       153v–163
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="3" xml:id="PTAMS00099_03">
-      <locus from="228" to="236">
-       228–236
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="4" xml:id="PTAMS00099_04">
-      <locus from="388v" to="397v">
-       388v–397v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00099_01">
+      <locus from="46-55v">
+       46-55v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate>
+        15
        </origDate>
       </p>
      </origin>

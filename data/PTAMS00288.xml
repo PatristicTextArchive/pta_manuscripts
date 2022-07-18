@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Holkham gr. 022
+     Oxford, Bodleian Library, Barocci 234
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,21 @@
       Bodleian Library
      </repository>
      <collection>
-      Holkham
+      Barocci
      </collection>
      <idno>
-      gr. 022
+      234
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48090
+       47522
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00288_01">
-      <locus from="094" to="098v">
-       094–098v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="2" xml:id="PTAMS00288_02">
-      <locus from="465">
-       465
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00288_01">
+      <locus from="335v" to="339">
+       335v–339
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1401-01-01">
-        s. 15–16
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/3d40b698-15c0-4695-8826-fd9255bacf17" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/3d40b698-15c0-4695-8826-fd9255bacf17.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

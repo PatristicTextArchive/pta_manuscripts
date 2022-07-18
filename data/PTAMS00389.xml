@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sinai, Monê tês Hagias Aikaterinês, gr. 376
+     Roma, Biblioteca Angelica, gr. 81
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sinai
+      Roma
      </settlement>
      <repository>
-      Monê tês Hagias Aikaterinês
+      Biblioteca Angelica
      </repository>
      <collection>
       gr.
      </collection>
      <idno>
-      376
+      81
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       58751
+       55988
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00389_01">
-      <locus from="163v" to="174v">
-       163v–174v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00389_01">
+      <locus from="117v" to="120">
+       117v–120
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta055" n="2" xml:id="PTAMS00389_02">
+      <locus from="131" to="135v">
+       131–135v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>
@@ -89,10 +97,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://www.loc.gov/item/00279380228-ms" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00279380228-ms/manifest.json" type="manifesturl"/>
+        <ref target="http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?case=&amp;id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000117058" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

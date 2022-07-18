@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), Supplément grec 1278
+     Paris, Bibliothèque nationale de France (BNF), grec 1218
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      Supplément grec
+      grec
      </collection>
      <idno>
-      1278
+      1218
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       53942
+       50823
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00364_01">
-      <locus from="014" to="022v">
-       014–022v
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00364_01">
+      <locus from="205v" to="222">
+       205v–222
       </locus>
       <rubric/>
       <incipit/>
@@ -89,11 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b11004867x" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107228735" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004867x/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107228735/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

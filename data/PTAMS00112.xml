@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Karakallou, fonds principal 005 (Lambros 1518), Mon. 148
+     Hagion Oros, Monê Ibêrôn, fonds principal 1462
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,112 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Karakallou
+      Monê Ibêrôn
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      005 (Lambros 1518), Mon. 148
+      1462
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       25574
+       25057
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00112_01">
-      <locus from="018" to="024v">
-       018–024v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="2" xml:id="PTAMS00112_02">
-      <locus from="033v" to="038">
-       033v–038
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="3" xml:id="PTAMS00112_03">
-      <locus from="094v" to="101">
-       094v–101
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="4" xml:id="PTAMS00112_04">
-      <locus from="105" to="110">
-       105–110
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="5" xml:id="PTAMS00112_05">
-      <locus from="110v" to="116v">
-       110v–116v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="6" xml:id="PTAMS00112_06">
-      <locus from="189v" to="191v">
-       189v–191v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="7" xml:id="PTAMS00112_07">
-      <locus from="218" to="220v">
-       218–220v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="8" xml:id="PTAMS00112_08">
-      <locus from="238" to="241v">
-       238–241v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta017" n="9" xml:id="PTAMS00112_09">
-      <locus from="275" to="281v">
-       275–281v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="10" xml:id="PTAMS00112_10">
-      <locus from="287v" to="294">
-       287v–294
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta003" n="11" xml:id="PTAMS00112_11">
-      <locus from="311" to="322v">
-       311–322v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="12" xml:id="PTAMS00112_12">
-      <locus from="347v" to="351v">
-       347v–351v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00112_01">
+      <locus from="141" to="149 (p.)">
+       141–149 (p.)
       </locus>
       <rubric/>
       <incipit/>
@@ -167,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1800-12-31" notBefore-iso="1701-01-01">
+        s. 18 (3/4)
        </origDate>
       </p>
      </origin>

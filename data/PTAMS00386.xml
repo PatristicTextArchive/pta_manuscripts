@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sankt-Peterburg, Rossijskaja Nacional'naja biblioteka (RNB), Ф. № 906 (Gr.) 514 (Granstrem 221)
+     Peiraias, Dêmotikê Bibl., fonds principal 23031 (Libadaras 5)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sankt-Peterburg
+      Peiraias
      </settlement>
      <repository>
-      Rossijskaja Nacional'naja biblioteka (RNB)
+      Dêmotikê Bibl.
      </repository>
      <collection>
-      Ф. № 906 (Gr.)
+      fonds principal
      </collection>
      <idno>
-      514 (Granstrem 221)
+      23031 (Libadaras 5)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       57586
+       55361
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00386_01">
-      <locus from="141v" to="152">
-       141v–152
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="2" xml:id="PTAMS00386_02">
-      <locus from="164" to="172v">
-       164–172v
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00386_01">
+      <locus from="unbekannt">
+       unbekannt
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
        </origDate>
       </p>
      </origin>

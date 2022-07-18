@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Pal. gr. 325
+     Tyrnabos, Dêmotikê Bibliothêkê, fonds principal 33
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Tyrnabos
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Dêmotikê Bibliothêkê
      </repository>
      <collection>
-      Pal. gr.
+      fonds principal
      </collection>
      <idno>
-      325
+      33
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       66057
+       64382
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00435_01">
-      <locus from="119" to="125v">
-       119–125v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00435_01">
+      <locus from="131" to="136v">
+       131–136v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="2" xml:id="PTAMS00435_02">
+      <locus from="144v" to="152">
+       144v–152
       </locus>
       <rubric/>
       <incipit/>
@@ -79,21 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate when-iso="1561–1562">
+        a. 1561–1562
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_325" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

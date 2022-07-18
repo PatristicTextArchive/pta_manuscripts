@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Cambridge, Trinity College, fonds principal B.08.11 (195)
+     Cambridge, Trinity College, fonds principal B.08.08 (192)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      B.08.11 (195)
+      B.08.08 (192)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       11925
+       11922
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00052_01">
-      <locus from="001" to="015v">
-       001–015v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00052_01">
+      <locus from="001" to="014v">
+       001–014v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
@@ -89,10 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.11" type="straighturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.8" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.11/manifest.json" type="manifesturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.8/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

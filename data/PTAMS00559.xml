@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00537" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 1887
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-05-10" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana (BAV)
+     </repository>
+     <collection>
+      Vat. gr.
+     </collection>
+     <idno>
+      1887
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       68516
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       C
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="1" xml:id="PTAMS00537_01">
+      <locus from="1r" to="84r">
+       1r–84r
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective"/>
+      <explicit>
+       νῦν καὶ ἀεὶ εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν:—
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta062" n="2" xml:id="PTAMS00537_02">
+      <locus from="84r" to="85v">
+       84r–85v
+      </locus>
+      <rubric>θεοδωρήτου ἐπισκόπου κύρρου. ἑρμηνεία εἰς τὸν προφήτην Δανιήλ:– +ὅρασις <num>ιγ</num>:–
+      </rubric>
+      <incipit>καὶ ὁ βασιλεὺς ἀστυάγης προστέθειται πρὸς τοὺς πατέρας αὐτοῦ·</incipit>
+      <explicit>ἐνέβαλεν εἰς τὸν λάκκον τῶν λεόντων· καὶ κατεβρώθησαν παραχρῆμα ἐνώπιον αὐτοῦ:–</explicit>
+     </msItem>
+     <msItem type="defective" corresp="cpg:8041" n="3" xml:id="PTAMS00537_03">
+      <msItem n="3.1">
+      <locus from="86r" to="105v">
+       86r–105v
+      </locus>
+      <rubric>τῷ ὁσιωτάτῳ καὶ θεοτιμήτῳ Κοσμᾶ· ἁγιωτάτῳ ἐπισκόπῳ τοῦ μαιουμᾶ· ἰωάννης μοναχός:–</rubric>
+      <incipit>Τὸ μέν στενὸν τῆς διανοίας,</incipit>
+      <explicit>καὶ τὸ ἀνυπόστατον, ποτὲ μὲν τὸ ἀνύπαρκτον δηλοῖ· ποτὲ δὲ, τὸ συμβεβηκός:–</explicit>
+      </msItem>
+      <msItem defective="true" corresp="" n="3.2">
+        <locus from="188r" to="191v">
+         188r–191v
+        </locus>
+        <rubric type="defective"/>
+        <incipit type="defective">καὶ φυσικαὶ μὲν ὡς ἡ θερμότης ἐν τοῖς θερμενομένοις· ψυχικαὶ δὲ, ὡς ἐπιστήμη·</incipit>
+        <explicit type="defective">αἵρεσίς ἐστι δόξα πλειόνων ἀνθρώπων· πρὸς ἀλλήλους μὲν, συμφωνούντων· πρὸς ἄλλους δὲ διαφωνούντων:–</explicit>
+       </msItem>
+     </msItem>
+     <msItem corresp="cpg:8043" n="4" xml:id="PTAMS00537_04">
+      <locus from="105v" to="185r">
+       105v–185r
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάννου πρεσβύτερος τοῦ δαμασκηνοῦ· ὅτι ἀκατἁληπτον τὸ θεῖον καὶ ὅτι οὐ δεῖ περιεργάζεσθαι καὶ ζητεῖν τὰ μὴ παραδιδόμενα ἡμῖν ὑπὸ τῶν προφητῶν καὶ ἀποστόλων</rubric>
+      <incipit>θεὸν οὐδεὶς ἑώρακε πώποτε</incipit>
+      <explicit>διαιρεῖται ἡ κατὰ χν φιλοσοφία εἰς τρία:– εἰς πρακτικὸν τούτου· ἐν τοῖς γνωστικοῖς τούτου· εἰς θεολογικὸν τούτου:</explicit>
+     </msItem>
+     <msItem defective="true" corresp="" n="5" xml:id="PTAMS00537_05">
+      <locus from="185v" to="187v">
+       185v–187v
+      </locus>
+      <rubric>Περὶ τῶν Φραγγῶν καὶ λοιπῶν Λατίνων</rubric>
+      <incipit>Ὁ πάπας Ῥώμης καὶ ὅσοι τοῦ μέρους τὴς δύσεως χριστιανοὶ ἔξωθεν τοῦ ἰωνείου κόλπου</incipit>
+      <explicit type="defective"/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://digi.vatlib.it/view/MSS_Vat.gr.1887/" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.1887/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Kalabruta, Monê Megalou Spêlaiou, fonds principal 164 [ms. détruit]
+     Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 136
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Kalabruta
+      Jerusalem
      </settlement>
      <repository>
-      Monê Megalou Spêlaiou
+      Patriarchikê bibliothêkê
      </repository>
      <collection>
-      fonds principal
+      Panaghiou Taphou
      </collection>
      <idno>
-      164 [ms. détruit]
+      136
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       36349
+       35373
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00183_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00183_01">
+      <locus from="143v" to="147">
+       143v–147
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00183_02">
+      <locus from="151v" to="153v">
+       151v–153v
       </locus>
       <rubric/>
       <incipit/>
@@ -85,6 +93,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://www.loc.gov/item/00279392036-jo" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00279392036-jo/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

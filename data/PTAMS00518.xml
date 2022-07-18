@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Zaborda, Monê tou hagiou Nikanoros, fonds principal 89
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 168 a (coll. 1111)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Zaborda
+      Venezia
      </settlement>
      <repository>
-      Monê tou hagiou Nikanoros
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      fonds principal
+      gr.
      </collection>
      <idno>
-      89
+      II. 168 a (coll. 1111)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       72371
+       70334
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00518_01">
-      <locus from="166v" to="171">
-       166v–171
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00518_02">
-      <locus from="178" to="183">
-       178–183
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00518_01">
+      <locus from="241" to="253">
+       241–253
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 (2/2)
+       <origDate when-iso="1481">
+        a. 1481
        </origDate>
       </p>
      </origin>

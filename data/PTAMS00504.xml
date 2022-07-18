@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Wien, Österreichische Nationalbibliothek (ÖNB), phil. gr. 178
+     Venezia, Biblioteca Nazionale Marciana, gr. Z. 109 (coll. 0467)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,43 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Wien
+      Venezia
      </settlement>
      <repository>
-      Österreichische Nationalbibliothek (ÖNB)
+      Biblioteca Nazionale Marciana
      </repository>
      <collection>
-      phil. gr.
+      gr. Z.
      </collection>
      <idno>
-      178
+      109 (coll. 0467)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       71292
+       69580
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta021" n="1" xml:id="PTAMS00504_01">
-      <locus from="287" to="293">
-       287–293
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00504_01">
+      <locus from="130v" to="135v">
+       130v–135v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="2" xml:id="PTAMS00504_02">
+      <locus from="135v" to="145">
+       135v–145
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="3" xml:id="PTAMS00504_03">
+      <locus from="145" to="154">
+       145–154
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1429–1430">
-        a. 1429–1430
+       <origDate>
+        11 ex, 13
        </origDate>
       </p>
      </origin>

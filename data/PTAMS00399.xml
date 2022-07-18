@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sinai, Monê tês Hagias Aikaterinês, gr. 1976
+     Sankt-Peterburg, Rossijskaja Nacional'naja biblioteka (RNB), Ф. № 906 (Gr.) 094 (Granstrem 334)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,35 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sinai
+      Sankt-Peterburg
      </settlement>
      <repository>
-      Monê tês Hagias Aikaterinês
+      Rossijskaja Nacional'naja biblioteka (RNB)
      </repository>
      <collection>
-      gr.
+      Ф. № 906 (Gr.)
      </collection>
      <idno>
-      1976
+      094 (Granstrem 334)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       60351
+       57164
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00399_01">
-      <locus from="Item 19">
-       Item 19
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta012" n="2" xml:id="PTAMS00399_02">
-      <locus from="Item 3">
-       Item 3
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00399_01">
+      <locus from="113" to="116">
+       113–116
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1655">
-        a. 1655
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>

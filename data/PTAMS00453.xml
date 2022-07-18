@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 564
+     Vaticano, Biblioteca Apostolica Vaticana, Pal. gr. 27
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Pal. gr.
      </collection>
      <idno>
-      564
+      27
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67195
+       65760
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00453_01">
-      <locus from="038v" to="042">
-       038v–042
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00453_02">
-      <locus from="118" to="127">
-       118–127
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00453_01">
+      <locus from="61v-65">
+       61v-65
       </locus>
       <rubric/>
       <incipit/>
@@ -87,12 +79,24 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate>
+        11
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Pal.gr.27" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Pal.gr.27/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

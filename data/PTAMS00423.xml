@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Barb. gr. 555
+     Torino, Biblioteca Nazionale Univeristaria, fonds principal B. II. 21 (Pasini 099)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,51 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Vaticano
+      Torino
      </settlement>
      <repository>
-      Biblioteca Apostolica Vaticana
+      Biblioteca Nazionale Univeristaria
      </repository>
      <collection>
-      Barb. gr.
+      fonds principal
      </collection>
      <idno>
-      555
+      B. II. 21 (Pasini 099)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       65098
+       63664
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00423_01">
-      <locus from="058" to="061v">
-       058–061v
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00423_01">
+      <locus from="189" to="206">
+       189–206
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="2" xml:id="PTAMS00423_02">
+      <locus from="227v" to="240v">
+       227v–240v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00423_03">
+      <locus from="269v" to="285">
+       269v–285
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="4" xml:id="PTAMS00423_04">
+      <locus from="285" to="311">
+       285–311
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +103,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.555" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.555/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

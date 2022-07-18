@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Tyrnabos, Dêmotikê Bibliothêkê, fonds principal 19
+     Sofija, Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev», fonds principal D. gr. 206
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Tyrnabos
+      Sofija
      </settlement>
      <repository>
-      Dêmotikê Bibliothêkê
+      Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev»
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      19
+      D. gr. 206
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       64368
+       62460
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00416_01">
-      <locus from="236v" to="243">
-       236v–243
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00416_01">
+      <locus from="Item 1">
+       Item 1
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        15 ex.-16 med.
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>

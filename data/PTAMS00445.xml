@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 438
+     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 13
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,32 +55,53 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Ottob. gr.
      </collection>
      <idno>
-      438
+      13
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67069
+       65254
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Vo
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00445_01">
-      <locus from="104" to="107v">
-       104–107v
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00445_01">
+      <locus from="025v" to="039">
+       025v–039
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta037" n="2" xml:id="PTAMS00445_02">
+      <locus from="195v" to="206v">
+       195v–206v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="3" xml:id="PTAMS00445_03">
+      <locus from="219r" to="224v">
+       219r–234v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ εἰς τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος ἑρμηνεία καὶ περὶ τῆς νυχθήσης πλευρᾶς</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθ’οὗ τῶ πατρὶ ἡ δόξα· ἅμα τῶ παναγίω καὶ ἀγαθῶ καὶ ζωοποιῶ πνεύματι· νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:-</explicit>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
+        s. 13
        </origDate>
       </p>
      </origin>
@@ -89,10 +110,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.438" type="straighturl"/>
-       </bibl>
+         <ref target="http://digi.vatlib.it/view/MSS_Ott.gr.13" type="straighturl"/>
+        </bibl>
        <bibl>
-        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.438/manifest.json" type="manifesturl"/>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Ott.gr.13/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

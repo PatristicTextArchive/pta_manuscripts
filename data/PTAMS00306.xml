@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), Coisl. 46
+     Oxford, Merton College, fonds principal 28
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Paris
+      Oxford
      </settlement>
      <repository>
-      Bibliothèque nationale de France (BNF)
+      Merton College
      </repository>
      <collection>
-      Coisl.
+      fonds principal
      </collection>
      <idno>
-      46
+      28
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       49188
+       48710
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00306_01">
-      <locus from="468rv">
-       468rv
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="1" xml:id="PTAMS00306_01">
+      <locus from="306v" to="320v">
+       306v–320v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +79,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b100376294" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100376294/manifest.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

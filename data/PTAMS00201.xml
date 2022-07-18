@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 63
+     Messina, Biblioteca Regionale Universitaria 'Giacomo Longo', S. Salv. 2
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       S. Salv.
      </collection>
      <idno>
-      63
+      2
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       40724
+       40663
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00201_01">
-      <locus from="089" to="096v">
-       089–096v
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00201_01">
+      <locus from="157" to="162v">
+       157–162v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1300-12-31" notBefore-iso="1201-01-01">
-        s. 13
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
+        s. 12
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://manus.iccu.sbn.it/opac_SchedaScheda.php?ID=229072" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

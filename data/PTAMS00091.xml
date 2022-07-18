@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Dionusiou, fonds principal 0071 (Lambros 3605)
+     Hagion Oros, Monê Batopediou, fonds principal 739
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,32 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Dionusiou
+      Monê Batopediou
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      0071 (Lambros 3605)
+      739
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       20039
+       18883
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00091_01">
-      <locus from="unbekannt">
-       unbekannt
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00091_02">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem corresp="urn:cts:pta:pta0001.pta021" n="1" xml:id="PTAMS00091_01">
+      <locus from="040" to="062">
+       040–062
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1900-12-31" notBefore-iso="1801-01-01">
+        s. 19
        </origDate>
       </p>
      </origin>
@@ -97,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=20050,https://www.loc.gov/item/00271050069-ma/" type="straighturl"/>
+        <ref target="http://hdl.handle.net/20.500.11957/128541" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

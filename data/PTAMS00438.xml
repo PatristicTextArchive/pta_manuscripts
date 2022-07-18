@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Reg. gr. 6
+     Vaticano, Biblioteca Apostolica Vaticana, Barberinus gr. 519
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Reg. gr.
+      Barberinus gr.
      </collection>
      <idno>
-      6
+      519
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       66176
+       65062
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00438_01">
-      <locus from="336v">
-       336v
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00438_01">
+      <locus from="292" to="304v">
+       292–304v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate>
+        unbekannt
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=30886" type="straighturl"/>
+         <ref target="http://digi.vatlib.it/view/MSS_Barb.gr.519" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.519/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

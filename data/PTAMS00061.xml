@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal R. I. 18 (Revilla 018)
+     Escorial (El-), Real Biblioteca, fonds principal Φ. III. 20 (Andrés 239)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,39 @@
       fonds principal
      </collection>
      <idno>
-      R. I. 18 (Revilla 018)
+      Φ. III. 20 (Andrés 239)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       15290
+       15193
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Sc
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00061_01">
-      <locus from="099" to="101v">
-       099–101v
+     <msItem corresp="urn:cts:pta:pta0001.pta028" n="1" xml:id="PTAMS00061_01">
+      <locus from="152v" to="160">
+       152v–160
+      </locus>
+      <rubric>τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννου τοῦ χρυσοστόμου λόγος εἰς τὰ ἅγια θεοφανια·</rubric>
+      <incipit>ἀνυγέσθω σήμερον πᾶν στόμα πρὸς θεολογίαν</incipit>
+      <explicit>τί δὴ τὸ παρέστη· ϊνα ἀληθεύσει παῦλος λέγων· παρέστησεν ἑαυτῶ ἐνδόξον την ἐκκλησίαν· μὴ ἔχουσαν σπῆλον ἠρυτίδα· ἠ τί τῶν τοιούτων· γένοιτο δὲ ἡμᾶς ἄδειν ἀδελφοὶ πάντοτε καταλαμπομένους τῶ παναγίῳ θω καὶ πρι υω καὶ ἁγίω πνι· δόξα εἰς τοὺς αἰώνας τῶν αἰώνων· ἀμήν·</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00061_02">
+      <locus from="241" to="247">
+       241–247
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00061_03">
+      <locus from="292" to="296">
+       292–296
       </locus>
       <rubric/>
       <incipit/>
@@ -80,7 +101,7 @@
      <origin>
       <p n="origDate">
        <origDate>
-        11, 12, 13
+        9
        </origDate>
       </p>
      </origin>

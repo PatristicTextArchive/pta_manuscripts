@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 038 (Vlad. 138)
+     Milano, Biblioteca Ambrosiana, fonds principal S 023 sup. (Martini-Bassi 732)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Moskva
+      Milano
      </settlement>
      <repository>
-      Gosudarstvennyj Istoričeskij Musej (GIM)
+      Biblioteca Ambrosiana
      </repository>
      <collection>
-      Sinod. gr.
+      fonds principal
      </collection>
      <idno>
-      038 (Vlad. 138)
+      S 023 sup. (Martini-Bassi 732)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43663
+       43209
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00224_01">
-      <locus from="193" to="195v">
-       193–195v
+     <msItem corresp="urn:cts:pta:pta0001.pta038" n="1" xml:id="PTAMS00224_01">
+      <locus from="168v" to="169v">
+       168v–169v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
-        s. 12
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=30346" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

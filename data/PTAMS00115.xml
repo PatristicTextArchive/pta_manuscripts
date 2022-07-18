@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Konstamonitou, fonds principal 014 (Lambros 450)
+     Hagion Oros, Monê Karakallou, fonds principal 169 (Lambros 1682), Mon. 311
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,32 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Konstamonitou
+      Monê Karakallou
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      014 (Lambros 450)
+      169 (Lambros 1682), Mon. 311
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       25928
+       25738
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00115_01">
-      <locus from="338" to="357 (p.)">
-       338–357 (p.)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta021" n="2" xml:id="PTAMS00115_02">
-      <locus from="Item 13">
-       Item 13
+      <locus from="Item 2">
+       Item 2
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>

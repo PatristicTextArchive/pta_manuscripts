@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Koutloumousiou, fonds principal 038 (Lambros 3107)
+     Hagion Oros, Monê Koutloumousiou, fonds principal 035 (Lambros 3104)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,26 @@
       fonds principal
      </collection>
      <idno>
-      038 (Lambros 3107)
+      035 (Lambros 3104)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       26063
+       26060
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00120_01">
-      <locus from="206" to="210">
-       206–210
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00120_01">
+      <locus from="144-162">
+       144-162
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta054" n="2" xml:id="PTAMS00120_02">
+      <locus from="250v" to="258v">
+       250v–258v
       </locus>
       <rubric/>
       <incipit/>
@@ -80,7 +88,7 @@
      <origin>
       <p n="origDate">
        <origDate>
-        9,10
+        13
        </origDate>
       </p>
      </origin>

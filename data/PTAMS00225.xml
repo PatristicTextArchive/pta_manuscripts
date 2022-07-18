@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 109 (Vlad. 171)
+     Modena, Biblioteca Estense universitaria, fonds principal α. W. 2. 05 (Puntoni 70)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,118 +49,51 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Moskva
+      Modena
      </settlement>
      <repository>
-      Gosudarstvennyj Istoričeskij Musej (GIM)
+      Biblioteca Estense universitaria
      </repository>
      <collection>
-      Sinod. gr.
+      fonds principal
      </collection>
      <idno>
-      109 (Vlad. 171)
+      α. W. 2. 05 (Puntoni 70)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       43734
+       43527
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Md
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00225_01">
-      <locus from="031v" to="042v">
-       031v–042v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00225_01">
+      <locus from="193v-196">
+       193v-196
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00225_02">
-      <locus from="071" to="085">
-       071–085
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="2" xml:id="PTAMS00225_02">
+      <locus from="282v" to="284v">
+       282v–284v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00225_03">
-      <locus from="085v" to="096">
-       085v–096
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="4" xml:id="PTAMS00225_04">
-      <locus from="115v" to="128">
-       115v–128
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="5" xml:id="PTAMS00225_05">
-      <locus from="128" to="146v">
-       128–146v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="6" xml:id="PTAMS00225_06">
-      <locus from="164v" to="176">
-       164v–176
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="7" xml:id="PTAMS00225_07">
-      <locus from="176" to="191v">
-       176–191v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="8" xml:id="PTAMS00225_08">
-      <locus from="200-208v (209)">
-       200-208v (209)
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="9" xml:id="PTAMS00225_09">
-      <locus from="290" to="302">
-       290–302
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="10" xml:id="PTAMS00225_10">
-      <locus from="310" to="318v">
-       310–318v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="11" xml:id="PTAMS00225_11">
-      <locus from="370v" to="379">
-       370v–379
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ περὶ τοῦ πῶς Ἀδὰμ ψυχὴν ἔλαβεν ὅτε ἐπλάσθη καὶ εἰς τὸ πάθος τοῦ σωτῆρος ἑρμηνεία καὶ περὶ τῆς νυχθήσης πλευράς· κύριε εὐλό</rubric>
+      <incipit>Καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθοὗ τῶ πατρὶ δόξα σὺν ἁγίω πνεύματι· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
-        s. 11–12
+       <origDate>
+        15
        </origDate>
       </p>
      </origin>

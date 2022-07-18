@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Pantokratoros, fonds principal 001 (Lambros 1035)
+     Hagion Oros, Monê Megistês Lauras, Fonds principal Λ 135 (Eustratiades 1626)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,56 +52,24 @@
       Hagion Oros
      </settlement>
      <repository>
-      Monê Pantokratoros
+      Monê Megistês Lauras
      </repository>
      <collection>
-      fonds principal
+      Fonds principal
      </collection>
      <idno>
-      001 (Lambros 1035)
+      Λ 135 (Eustratiades 1626)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       29020
+       28647
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00132_01">
-      <locus from="001" to="018">
-       001–018
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00132_02">
-      <locus from="035" to="041v">
-       035–041v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta030" n="3" xml:id="PTAMS00132_03">
-      <locus from="050v" to="055v">
-       050v–055v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="4" xml:id="PTAMS00132_04">
-      <locus from="159v" to="170v">
-       159v–170v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="5" xml:id="PTAMS00132_05">
-      <locus from="180" to="190v">
-       180–190v
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00132_01">
+      <locus from="069" to="071">
+       069–071
       </locus>
       <rubric/>
       <incipit/>
@@ -111,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
        </origDate>
       </p>
      </origin>

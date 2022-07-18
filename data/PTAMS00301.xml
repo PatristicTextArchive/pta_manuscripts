@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, New College, fonds principal 80
+     Oxford, Bodleian Library, Laud gr. 64a
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,48 +52,32 @@
       Oxford
      </settlement>
      <repository>
-      New College
+      Bodleian Library
      </repository>
      <collection>
-      fonds principal
+      Laud
      </collection>
      <idno>
-      80
+      gr. 64a
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48728
+       48285
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00301_01">
-      <locus from="143" to="152v">
-       143–152v
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00301_01">
+      <locus from="087" to="092 (p.)">
+       087–092 (p.)
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00301_02">
-      <locus from="152v" to="164">
-       152v–164
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="3" xml:id="PTAMS00301_03">
-      <locus from="187" to="203">
-       187–203
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="4" xml:id="PTAMS00301_04">
-      <locus from="284" to="296v">
-       284–296v
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="2" xml:id="PTAMS00301_02">
+      <locus from="p.401" to="413">
+       p.401–413
       </locus>
       <rubric/>
       <incipit/>
@@ -103,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
-        s. 10–11
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1501-01-01">
+        s. 16–17
        </origDate>
       </p>
      </origin>

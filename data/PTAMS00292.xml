@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Holkham gr. 043
+     Oxford, Bodleian Library, Clarke 50
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,29 @@
       Bodleian Library
      </repository>
      <collection>
-      Holkham
+      Clarke
      </collection>
      <idno>
-      gr. 043
+      50
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       48111
+       47787
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00292_01">
-      <locus from="209" to="213">
-       209–213
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00292_01">
+      <locus from="018" to="021v">
+       018–021v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta037" n="2" xml:id="PTAMS00292_02">
+      <locus from="046v" to="048">
+       046v–048
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1101-01-01">
+        s. 12–13
        </origDate>
       </p>
      </origin>

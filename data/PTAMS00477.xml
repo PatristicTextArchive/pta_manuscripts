@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2035
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 824
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,42 @@
       Vat. gr.
      </collection>
      <idno>
-      2035
+      824
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       68664
+       67455
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00477_01">
-      <locus from="150" to="161v">
-       150–161v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00477_01">
+      <locus from="366-372">
+       366-372
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00477_02">
+      <locus from="372" to="376v">
+       372–376v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00477_03">
+      <locus from="376v" to="386">
+       376v–386
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00477_04">
+      <locus from="386" to="389v">
+       386–389v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +103,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate>
+        11
        </origDate>
       </p>
      </origin>

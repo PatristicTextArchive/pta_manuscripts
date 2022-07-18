@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 1447
+     Paris, Bibliothèque nationale de France (BNF), gr. 1164
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,21 @@
       Bibliothèque nationale de France (BNF)
      </repository>
      <collection>
-      grec
+      gr.
      </collection>
      <idno>
-      1447
+      1164
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       51064
+       50765
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta003" n="1" xml:id="PTAMS00356_01">
-      <locus from="165" to="183v">
-       165–183v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00356_01">
+      <locus from="233-238">
+       233-238
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
-        s. 10
+       <origDate>
+        14-15
        </origDate>
       </p>
      </origin>
@@ -89,7 +89,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://gallica.bnf.fr/ark:/12148/btv1b10723089k," type="straighturl"/>
+        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32848" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

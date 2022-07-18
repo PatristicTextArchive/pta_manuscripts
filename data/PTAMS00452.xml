@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 563
+     Vaticano, Biblioteca Apostolica Vaticana, Ottob. gr. 422
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,29 +55,21 @@
       Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Vat. gr.
+      Ottob. gr.
      </collection>
      <idno>
-      563
+      422
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       67194
+       65665
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00452_01">
-      <locus from="022v" to="027v">
-       022v–027v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00452_02">
-      <locus from="122" to="132">
-       122–132
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00452_01">
+      <locus from="315v">
+       315v
       </locus>
       <rubric/>
       <incipit/>
@@ -87,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
        </origDate>
       </p>
      </origin>

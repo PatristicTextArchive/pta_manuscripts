@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 96
+     Oxford, Bodleian Library, Auct. E. 4. 04 (Misc. 051.20)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,21 +55,29 @@
       Bodleian Library
      </repository>
      <collection>
-      Barocci
+      Auct.
      </collection>
      <idno>
-      96
+      E. 4. 04 (Misc. 051.20)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47383
+       47037
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00276_01">
-      <locus from="153, 160, 018, 023, 130, 135">
-       153, 160, 018, 023, 130, 135
+     <msItem corresp="urn:cts:pta:pta0001.pta050" n="1" xml:id="PTAMS00276_01">
+      <locus from="I. 105" to="155 (p.)">
+       I. 105–155 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta049" n="2" xml:id="PTAMS00276_02">
+      <locus from="II. 542" to="555">
+       II. 542–555
       </locus>
       <rubric/>
       <incipit/>
@@ -79,24 +87,12 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate when-iso="1604">
+        a. 1604
        </origDate>
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/0689e6b4-4eb8-4094-9888-f9e72159921e" type="straighturl"/>
-       </bibl>
-       <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/0689e6b4-4eb8-4094-9888-f9e72159921e.json" type="manifesturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

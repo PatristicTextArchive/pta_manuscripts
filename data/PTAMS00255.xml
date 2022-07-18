@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Napoli, Biblioteca Nazionale, fonds principal II B 05
+     Mutilene, Monê tou Leimônos, fonds principal 42
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,38 +49,51 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Napoli
+      Mutilene
      </settlement>
      <repository>
-      Biblioteca Nazionale
+      Monê tou Leimônos
      </repository>
      <collection>
       fonds principal
      </collection>
      <idno>
-      II B 05
+      42
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       46021
+       45364
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       My
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00255_01">
-      <locus from="221v" to="234v">
-       221v–234v
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00255_01">
+      <locus from="4r" to="23v">
+       4r–23v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν ἐνανθρώπησιν τοῦ κυρίου ἡμῶν ιυ χυ· καὶ εἰς τὸ ἑκάστω κλίματι ἐφεστήκασιν ἄγγελοι:</rubric>
+      <incipit>ὄντως ἐπεφάνη ἡμῖν ἡ τοῦ χυ χάρις.</incipit>
+      <explicit>Ἐπὶ τούτοις πᾶσι. δοξάσωμεν τὸν φανέντα· προσκυνήσωμεν τὸν ἐλθόντα· ὑμνήσωμεν τὸν ἀνακαινίσαντα· τὸν ζωοποιήσαντα· τὸν ἐγείραντα· τὸν τειχίσαντα· τὸν φωτίσαντα· τὸν πάντων ἡμῖν τὴν ἀφθονίαν τῶν ἀγαθῶν χαρισάμενον χν ιν· ὧ ἡ δόξα σὺν τῶ πρι καὶ τῶ ἁγίω πνι. εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν ⁛</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="2" xml:id="PTAMS00255_02">
+      <locus from="23v" to="33r">
+       23v–33r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν περὶ φύσεως νόμον ⁛</rubric>
+      <incipit>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας.</incipit>
+      <explicit>αὕτη ἐστὶν ἡ ἄκτιστος φύσις· ἡ ἀληθινὴ ἀξία. ἡ ἀμέριστος βασιλεία· ἡ ἄσχιστος τιμή· ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάλειπτος δόξα· τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος. ὧ ἡ δόξα καὶ τὸ κράτος. νῦν καὶ ἀεὶ καὶ εἰς τοὺς ἀτελευτήτους αἰῶνας τῶν αἰώνων ἀμήν:-</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 med.
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+        s. 10–11
        </origDate>
       </p>
      </origin>
@@ -89,7 +102,7 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://www.nuovabibliotecamanoscritta.it/Generale/ricerca/AnteprimaManoscritto.html?codiceMan=50325&amp;tipoRicerca=A&amp;urlSearch=pagCorrente%3D3.0%26__checkbox_autografi%3Dtrue%26tipoRicerca%3DA%26__checkbox_datati%3Dtrue%26__checkbox_palinsesto%3Dtrue%26tipo_corpo_codice%3D%26tipo_parola%3DA%26data_da%3D%26responsabilita%3D%26__checkbox_immagini%3Dtrue%26data_a%3D%26linguaMan%3D0%26titolo%3D%26__checkbox_decorati%3Dtrue%26argomento%3D%26segnatura%3D%26anticasegnatura%3D%26incipit%3D%26__checkbox_musicali%3Dtrue%26__checkbox_carteggio%3Dtrue%26codBiblioteca%3D59%26__checkbox_restauro%3Dtrue%26explicit%3D%26__checkbox_astampa%3Dtrue%26nome%3D%26parola%3D%26__checkbox_composito%3Dtrue%26language%3Dit%26ordinaDatazione%3Dfalse%26ordineInverso%3Dfalse&amp;codice=&amp;codiceDigital=" type="straighturl"/>
+        <ref target="http://84.205.233.134/library/view_more_en.php?id=177&amp;status=3&amp;type=manuscript" type="straighturl"/>
        </bibl>
       </p>
      </surrogates>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Phillipps 1406 (002)
+     Kraków, Biblioteka Jagiellońska, Berlin, graec. 1°.45.VIII (281)
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,43 +49,35 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Berlin
+      Kraków
      </settlement>
      <repository>
-      Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)
+      Biblioteka Jagiellońska
      </repository>
      <collection>
-      Phillipps
+      Berlin, graec.
      </collection>
      <idno>
-      1406 (002)
+      1°.45.VIII (281)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       9309
+       9129
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="1" xml:id="PTAMS00044_01">
-      <locus from="128" to="131v">
-       128–131v
+     <msItem corresp="urn:cts:pta:pta0001.pta050" n="1" xml:id="PTAMS00044_01">
+      <locus from="001" to="008v, item 09">
+       001–008v, item 09
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00044_02">
-      <locus from="132" to="139">
-       132–139
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00044_03">
-      <locus from="139v" to="146">
-       139v–146
+     <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00044_02">
+      <locus from="001" to="008v, item 12">
+       001–008v, item 12
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1542">
-        a. 1542
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>

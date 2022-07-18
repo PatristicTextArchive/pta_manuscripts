@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 2319
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 1913
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,18 +58,18 @@
       fonds principal
      </collection>
      <idno>
-      2319
+      1913
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       4351
+       3946
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00029_01">
-      <locus from="150" to="156v">
-       150–156v
+     <msItem corresp="urn:cts:pta:pta0001.pta055" n="1" xml:id="PTAMS00029_01">
+      <locus from="244" to="252">
+       244–252
       </locus>
       <rubric/>
       <incipit/>
@@ -79,12 +79,21 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
-        s. 15
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3313" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00539" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 36
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-05-11" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Wien
+     </settlement>
+     <repository>
+      Österreichische Nationalbibliothek (ÖNB)
+     </repository>
+     <collection>
+      theol. gr.
+     </collection>
+     <idno>
+      036
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       71703
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       W
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:C66" n="1" xml:id="PTAMS00539_01">
+      <locus from="1r" to="3r">
+       1r–3r
+      </locus>
+      <rubric>Τοῦ ἁγίου ιωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως εἰς τὸν ἱερεμίαν:–
+      </rubric>
+      <incipit>
+       Λεκτέον τίς ἡ προφητεία
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C65" n="2" xml:id="PTAMS00539_02">
+      <locus from="4r" to="25r">
+       4r–25r
+      </locus>
+      <rubric>Ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου. ἑρμενεία εἰς τὸν προφήτην ἱερεμίαν:–
+      </rubric>
+      <incipit>
+       Τὸν μὲν οὖν χρόνον
+      </incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6205" n="3" xml:id="PTAMS00539_03">
+      <msItem n="3.1">
+       <locus from="25r" to="101r">
+        25r–101r
+       </locus>
+       <rubric>
+        <note>Theodoretus Cyrensis, Interpretatio In Ieremiam; In Jr 5 usque ad finem</note>
+       </rubric>
+       <incipit/>
+       <explicit>
+        νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
+       </explicit>
+      </msItem>
+      <msItem n="3.2">
+       <locus from="101r" to="108r">
+        101r–108r
+       </locus>
+       <rubric>
+        Τόμος ι̅α̅
+        <note>Theodoretus Cyrensis, Interpretatio In Baruch</note>
+       </rubric>
+       <incipit>
+        Ὁ θαυμάσϊος βαροὺχ· συναπῆρεν μὲν εἰς αἴγυπτον
+       </incipit>
+       <explicit>
+        νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
+       </explicit>
+      </msItem>
+      <msItem n="3.3">
+       <locus from="108r" to="116v">
+        108r–116v
+       </locus>
+       <rubric>
+         ΤΟΜΟΣ Ι̅Β̅
+         <note>Theodoretus Cyrensis, Interpretatio In Lamentationes</note>
+       </rubric>
+       <incipit>
+        Ὁ μὲν θρῆνος, σϋμπαθείας καὶ φϊλοστοργΐας σημεῖον
+       </incipit>
+       <explicit>
+        νῦν καὶ πάντοτε καὶ ἀεὶ καὶ εἰς τοὺς σύμπαντας αἰῶνας τῶν αἰώνων ἀμήν
+       </explicit>
+      </msItem>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="4" xml:id="PTAMS00539_04">
+      <locus from="117r" to="227v">
+       117r–227v
+      </locus>
+      <rubric>
+       Τοῦ μακαρΐου θεοδωρήτου ἐπϊσκόπου κύρου ἑρμηνεία εἰς τὸν προφήτην δανιήλ
+      </rubric>
+      <incipit>
+       Εἰ πᾶσϊ ῥάδιον ἦν τὰ τῶν θείων προφητῶν
+      </incipit>
+      <explicit>
+       τέλος δεδωκὼς εὐχαρϊστῶ κϋρΐῳ
+      </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1551-01-01">
+        s. 16 (2/2)
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://data.onb.ac.at/rec/AL00226889" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

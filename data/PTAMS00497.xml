@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 168 a (coll. 1111)
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 2035
     </title>
    </titleStmt>
    <editionStmt>
@@ -49,27 +49,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Venezia
+      Vaticano
      </settlement>
      <repository>
-      Biblioteca Nazionale Marciana
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      gr.
+      Vat. gr.
      </collection>
      <idno>
-      II. 168 a (coll. 1111)
+      2035
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       70334
+       68664
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00497_01">
-      <locus from="241" to="253">
-       241–253
+     <msItem corresp="urn:cts:pta:pta0001.pta061" n="1" xml:id="PTAMS00497_01">
+      <locus from="150" to="161v">
+       150–161v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1481">
-        a. 1481
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11 (1 / 4)
        </origDate>
       </p>
      </origin>

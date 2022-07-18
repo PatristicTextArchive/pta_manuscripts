@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 252
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 242
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,37 +55,21 @@
       Ethnikê Bibliothêkê tês Hellados (EBE)
      </repository>
      <collection>
-      Fonds principal
+      fonds principal
      </collection>
      <idno>
-      252
+      242
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       2548
+       2538
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00009_01">
-      <locus from="087v" to="091">
-       087v–091
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="2" xml:id="PTAMS00009_02">
-      <locus from="182" to="183v">
-       182–183v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0002.pta002" n="3" xml:id="PTAMS00009_03">
-      <locus from="186" to="189">
-       186–189
+     <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00009_01">
+      <locus from="164" to="170">
+       164–170
       </locus>
       <rubric/>
       <incipit/>
@@ -95,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
-        s. 14 med.
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1101-01-01">
+        s. 12–13
        </origDate>
       </p>
      </origin>

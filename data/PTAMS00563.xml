@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00563" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hagion Oros, Monê Batopediou, fonds principal 600
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="MB">Mathias Berger</persName>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-01-13" who="#AvS">corrections</change>
+   <change when-iso="2021-06-05" who="#MB">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Hagion Oros
+     </settlement>
+     <repository>
+      Monê Batopediou
+     </repository>
+     <collection>
+      Fonds principal
+     </collection>
+     <idno>
+      600
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       18744
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0004.pta001">
+      <idno>
+       U
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta9999" n="1" xml:id="PTAMS00563_01">
+      <locus from="1r" to="236v">
+       1r–236v
+      </locus>
+      <rubric>
+       Ἀρχὴ σὺν Θεῷ τῆς παλαιᾶς
+       <note>Oktateuch</note>
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00563_02">
+      <locus from="237r" to="354v">
+       237r–354v
+      </locus>
+      <rubric>
+       Τῆς ἑρμηνείας ὁ πρόλογος τοῦ ἁγίου προφήτου δανιὴλ
+       <note>Excerpta; Foliation nicht korrekt, 238 wird gefolgt von 339-360</note>
+      </rubric>
+      <incipit>
+       Περὶ τῆς ἀναισχυντίας τῶν ἰουδαίων· ὡς τοῦ χοροῦ τῶν προφητῶν ἀποσχοινίζειν
+      </incipit>
+      <explicit>
+       οὐ γὰρ τὰ μέλλοντα μόνον προφητεύων
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta060" n="3" xml:id="PTAMS00563_03">
+      <locus from="355r" to="355v">
+       355r–355v
+      </locus>
+      <rubric>
+       Ὅρασις πρώτη τοῦ προφήτου δανιὴλ· περὶ σουσάννης
+      </rubric>
+      <incipit>
+       Καὶ ἦν ἀνὴρ ἐν βαβυλώνι· καὶ ὄνομα αὐτοῦ ἰωακείμ
+      </incipit>
+      <explicit>
+       καὶ δανιὴλ ἐγένετο μέγας ἐνώπιον τοῦ λαοῦ· ἀπὸ τῆς ἡμέρας ἐκείνης καὶ ἐπέκεινα
+      </explicit>
+     </msItem>
+     <msItem corresp="cavt:105" n="4" xml:id="PTAMS00563_04">
+      <locus from="356r" to="360r">
+       356r–360r
+      </locus>
+      <rubric>
+       Ἱστορία ἀσενέθ
+      </rubric>
+      <incipit>
+       Ἐγένετο ἐν τῶ πρώτω ἔτη
+      </incipit>
+      <explicit>
+       καὶ ἦν ἰωσὴφ ὡς τοῦ υἱοῦ φαραῶ τῶ νεοτέρω ἐπὶ γῆς αἱγύπτου
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta062" n="5" xml:id="PTAMS00563_05">
+      <locus from="360r" to="360r">
+       360r–360r
+      </locus>
+      <rubric>
+       ὅρασις τοῦ δανιὴλ ι̅β̅· περὶ τοῦ βήλ
+      </rubric>
+      <incipit>
+       Καὶ ὁ βασιλεὺς ἀστυάγης προσετέθη πρὸς τοὺς πατέρας αὐτοῦ
+      </incipit>
+      <explicit>
+       καὶ κατέστρεψεν αὐτὸν· καὶ τὸν ναὸν αὐτοῦ
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta061" n="6" xml:id="PTAMS00563_06">
+      <locus from="360r" to="360v">
+       360r–360v
+      </locus>
+      <rubric>
+       περὶ τῆς ἰερουσαλὴμ· καὶ τοῦ γαβριήλ· ὅρασις ι̅η̅
+       <note>Cap. 9</note>
+      </rubric>
+      <incipit>
+       Ἐν τῶ πρότω ἔτη δαρείου τοῦ υἱοῦ σουγήρ
+      </incipit>
+      <explicit>
+       καὶ ἕως συντελείας καὶ καιροῦ συντελεία δοϑήσεται ἐπὶ τὴν ἐρήμωσιν αὐτῶν
+      </explicit>
+     </msItem>
+     <msItem corresp="" n="7" xml:id="PTAMS00563_07">
+      <locus from="361r" to="361v">
+       361r–361v
+      </locus>
+      <rubric>
+       περὶ ναβουχοδονόσορ· καὶ ἀρφαξαδ τῶν βασιλέων· καὶ περὶ ἰουδήθ· καὶ ὁλοφέρνου
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="8" xml:id="PTAMS00563_08">
+      <locus from="361v" to="361v">
+       361v
+      </locus>
+      <rubric>
+       περὶ μαρδοχαίου καὶ ἐσθὴρ καὶ ἐμμάν
+      </rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       f. 1–236 <origDate notAfter-iso="1021-12-31" notBefore-iso="1021-01-01">
+        a. 1021
+       </origDate>, f. 237–End <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00271052017-ma/" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00271052017-ma/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
