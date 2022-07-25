@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00526" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00548" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -67,7 +67,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00526_01">
+     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00548_01">
       <locus from="1r" to="135r">
        1r–135r
       </locus>
@@ -76,7 +76,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00526_02">
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00548_02">
       <locus from="135r" to="135r">
        135r–135r
       </locus>

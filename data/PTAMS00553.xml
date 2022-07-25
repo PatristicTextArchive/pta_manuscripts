@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00531" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00553" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -76,7 +76,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:6205.3" n="1" xml:id="PTAMS00531_01">
+     <msItem corresp="cpg:6205.3" n="1" xml:id="PTAMS00553_01">
       <locus from="1r" to="288r">
        1r–288r
       </locus>
@@ -86,7 +86,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:6200" n="2" xml:id="PTAMS00531_02">
+     <msItem corresp="cpg:6200" n="2" xml:id="PTAMS00553_02">
       <locus from="1r" to="288r">
        1r–288r
       </locus>
@@ -95,7 +95,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:6205" n="3" xml:id="PTAMS00531_03">
+     <msItem corresp="cpg:6205" n="3" xml:id="PTAMS00553_03">
       <locus from="1r" to="288r">
        1r–288r
       </locus>
@@ -105,7 +105,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0004.pta001" n="4" xml:id="PTAMS00531_04">
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="4" xml:id="PTAMS00553_04">
       <locus from="1r" to="288r">
        1r–288r
       </locus>
@@ -114,7 +114,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:6201" n="5" xml:id="PTAMS00531_05">
+     <msItem corresp="cpg:6201" n="5" xml:id="PTAMS00553_05">
       <locus from="1r" to="288r">
        1r–288r
       </locus>
@@ -123,7 +123,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:6205" n="6" xml:id="PTAMS00531_06">
+     <msItem corresp="cpg:6205" n="6" xml:id="PTAMS00553_06">
       <locus from="001r" to="288r">
        001r–288r
       </locus>

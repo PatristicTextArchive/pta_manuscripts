@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00525" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00547" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -76,7 +76,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00525_01">
+     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00547_01">
       <locus from="2r" to="136r">
        2r–136r
       </locus>
@@ -90,7 +90,7 @@
        νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
       </explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta9999.pta060" n="2" xml:id="PTAMS00525_02">
+     <msItem corresp="urn:cts:pta:pta9999.pta060" n="2" xml:id="PTAMS00547_02">
       <locus from="138r" to="139v">
        138r–139v
       </locus>
@@ -104,9 +104,9 @@
        ἀπὸ τῆς ἡμέρας ἐκείνης καὶ ἐπέκεινα
       </explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00525_03">
-      <locus from="139v" to="224v">
-       139v–224v
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00547_03">
+      <locus from="139v" to="223v">
+       139v–223v
       </locus>
       <rubric>
        τοῦ μακαρίου θεοδωίτου ἐπισκόπου κύρρου ἑρμηνεία εἰς τὸν προφήτην δανιήλ
@@ -115,10 +115,23 @@
        Εἰ πᾶσι ῥᾴδιον ἦν τὰ τῶν θείων προφητῶν
       </incipit>
       <explicit>
+        ἵνα μὴ αἰσχύνην αἰώνιον· ἀλλ’ εἰς ζωὴν ἀναστῶμεν αἰώνιον· ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· χάριτι καὶ φιλανία τοῦ κυ ἡμῶν ἰυ χυ· ὧ ἡ δόξα εἰς τοὺς αἰῶνας, ἀμήν:
+      </explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta062" n="4" xml:id="PTAMS00547_04">
+      <locus from="223v" to="224v">
+       223v–224v
+      </locus>
+      <rubric>
+        ⁘ ὅρασις <num>ιγ</num> :
+      </rubric>
+      <incipit>ὁ δὲ βασιλεὺς ἀστυάγης προσετέθη πρὸς τοὺς πρας αὐτοῦ·
+      </incipit>
+      <explicit>
        καὶ κατεβρώθησαν παραχρῆμα ἐνώπιον αὐτοῦ
       </explicit>
      </msItem>
-     <msItem defective="true" corresp="cpg:3778" n="4" xml:id="PTAMS00525_04">
+     <msItem defective="true" corresp="cpg:3778" n="5" xml:id="PTAMS00547_05">
       <locus from="225r" to="225r">
        225r–225r
       </locus>
@@ -132,7 +145,7 @@
        ἀλλὰ πάντα τὸν χρόνον τῆς ἀλλοιώσεως αὐτοῦ
       </explicit>
      </msItem>
-     <msItem corresp="cpg:6210" n="5" xml:id="PTAMS00525_05">
+     <msItem corresp="cpg:6210" n="6" xml:id="PTAMS00547_06">
       <locus from="229r" to="304r">
        229r–304r
       </locus>

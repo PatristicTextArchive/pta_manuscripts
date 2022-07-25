@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00533" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00555" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -76,7 +76,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:6208" n="1" xml:id="PTAMS00533_01">
+     <msItem corresp="cpg:6208" n="1" xml:id="PTAMS00555_01">
       <locus from="1r" to="13r">
        1r–13r
       </locus>
@@ -90,7 +90,7 @@
        ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν
       </explicit>
      </msItem>
-     <msItem corresp="cpg:6208" n="2" xml:id="PTAMS00533_02">
+     <msItem corresp="cpg:6208" n="2" xml:id="PTAMS00555_02">
       <locus from="14r" to="202v">
        14r–202v
       </locus>
@@ -104,7 +104,7 @@
        ΕΠΛΗΡΩΘΗ Η ΠΡΟΦΗΤΕΙΑ ΖΑΧΑΡΙΟΥ
       </explicit>
      </msItem>
-     <msItem defective="true" corresp="" n="3" xml:id="PTAMS00533_03">
+     <msItem defective="true" corresp="" n="3" xml:id="PTAMS00555_03">
       <locus from="203r" to="203v">
        203r–203v
       </locus>
@@ -112,7 +112,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="4" xml:id="PTAMS00533_04">
+     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="4" xml:id="PTAMS00555_04">
       <locus from="204r" to="256v">
        203r–256v
       </locus>

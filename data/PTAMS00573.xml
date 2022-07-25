@@ -6,6 +6,10 @@
     <title>
      Oxford, New College, fonds principal 58
     </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
    </titleStmt>
    <editionStmt>
     <edition>
@@ -67,14 +71,81 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:3642
-BHG 1453-1459a" n="1" xml:id="PTAMS00573_01">
-      <note>
-       Euthalius Diaconus, Paulus ap., Editio Epistularum Pauli (CPG 3642
-BHG 1453-1459a)
-      </note>
-      <locus from="001--178*">
-       001--178*
+     <msItem corresp="urn:cts:pta:pta9999.pta067" n="1" xml:id="PTAMS00573_01">
+      <locus from="1r" to="177r">
+       1r–177r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C150" n="2" xml:id="PTAMS00573_02">
+      <locus from="1r (mg)" to="177r (mg)">
+       1r–177r mg.
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C176" n="3" xml:id="PTAMS00573_03">
+      <locus from="178r (mg)" to="245v (mg)">
+       178r–245v mg.
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta082" n="4" xml:id="PTAMS00573_04">
+      <locus from="178r" to="194r">
+       178r–194r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta083" n="5" xml:id="PTAMS00573_05">
+      <locus from="195r" to="212v">
+       195r–212v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta084" n="6" xml:id="PTAMS00573_06">
+      <locus from="213r" to="221r">
+       213r–221r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta085" n="7" xml:id="PTAMS00573_07">
+      <locus from="222r" to="236r">
+       222r–236r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta086" n="8" xml:id="PTAMS00573_08">
+      <locus from="236r" to="237r">
+       236r–237r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta087" n="9" xml:id="PTAMS00573_09">
+      <locus from="237v" to="238v">
+       237v–238v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta088" n="10" xml:id="PTAMS00573_10">
+      <locus from="239r" to="245r">
+       239r–245r
       </locus>
       <rubric/>
       <incipit/>
