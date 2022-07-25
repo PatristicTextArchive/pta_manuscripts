@@ -33,7 +33,7 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
@@ -67,12 +67,57 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:0" n="1" xml:id="PTAMS00574_01">
-      <note>
-       0, 0 (0)
-      </note>
-      <locus from="0">
-       0
+      <msItem corresp="cpg:C150" n="1" xml:id="PTAMS00574_01">
+       <locus from="1r" to="143v (mg)">
+        1r–2v, 3r–143v (mg)
+       </locus>
+       <rubric/>
+       <incipit/>
+       <explicit/>
+      </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta067" n="2" xml:id="PTAMS00574_02">
+      <locus from="3r" to="143v">
+       3r–143v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:C177" n="3" xml:id="PTAMS00574_03">
+      <locus from="144r (mg)" to="177r (mg)">
+       144r–177r (mg)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta9999.pta082" n="4" xml:id="PTAMS00574_04">
+      <locus from="144r" to="154v">
+       144r–154v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit type="defective">κἂν ἁμαρτίας ἦ πεποιηκώς</explicit>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta9999.pta083" n="5" xml:id="PTAMS00574_05">
+      <locus from="155r" to="166v">
+       155r–166v
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">εἰς ἔπαινον καὶ δόξαν καὶ τιμὴν ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ</incipit>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta9999.pta084" n="6" xml:id="PTAMS00574_06">
+      <locus from="165v" to="166v">
+       165v–166v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit type="defective">εἰδὼς ὅτι ταχινή ἐστιν</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta085" n="7" xml:id="PTAMS00574_07">
+      <locus from="167r" to="177v">
+       167r–177v
       </locus>
       <rubric/>
       <incipit/>
