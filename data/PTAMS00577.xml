@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00577" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     München, Bayerische Staatsbibliothek (BSB), Cod.graec. 314
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2021-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      München
+     </settlement>
+     <repository>
+      Bayerische Staatsbibliothek (BSB)
+     </repository>
+     <collection>
+      Cod.graec.
+     </collection>
+     <idno>
+      314
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       44762
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0007.pta012" n="1" xml:id="PTAMS00577_01">
+      <locus from="1r" to="371r">
+       1r–371r
+      </locus>
+      <rubric>Ἑρμηνεία τοῦ εὐαγγελίου, τῶν ἀποστόλων καὶ τοῦ ψαλτηρίου</rubric>
+      <incipit>Εἰς τὸν ιεʹ ψαλμὸν ὁμιλία αʹ. Ἔστι τινὰ γράμματα ἐν στήλαις ἐμψύχοις γραφόμενα</incipit>
+      <explicit>Διὸ καὶ ἡμεῖς παρακαλέσωμεν τὸν θεόν, εἴπωμεν εἰ καὶ πεπτώκαμεν, εἴπωμεν εἰ καὶ τεθνήκαμεν· ἀνάστα, ὁ θεός, κρῖνον τὴν γῆν, ὅτι σὺ κατακληρονομήσεις ἐν πᾶσι τοῖς ἔθνεσιν, διὰ Ἰησοῦ Χριστοῦ ᾧ ἐστιν ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+        <p n="origDate">
+         <origDate notAfter-iso="1120-12-31" notBefore-iso="1101-01-01">
+          s. 12 in.
+         </origDate>
+        </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.digitale-sammlungen.de/de/view/bsb00050972" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00050972/manifest" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
