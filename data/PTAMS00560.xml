@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00538" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00560" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -77,7 +77,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:6200" n="1" xml:id="PTAMS00538_01">
+     <msItem corresp="cpg:6200" n="1" xml:id="PTAMS00560_01">
       <locus from="3r" to="58v">
        3r–58v
       </locus>
@@ -86,7 +86,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:6201" n="2" xml:id="PTAMS00538_02">
+     <msItem corresp="cpg:6201" n="2" xml:id="PTAMS00560_02">
       <locus from="59r" to="100r">
        59r–100r
       </locus>
@@ -95,7 +95,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00538_03">
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00560_03">
       <locus from="101r" to="156v">
        101r–156v
       </locus>
@@ -104,7 +104,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:6208" n="4" xml:id="PTAMS00538_04">
+     <msItem corresp="cpg:6208" n="4" xml:id="PTAMS00560_04">
       <locus from="156v" to="214v">
        156v–214v
       </locus>
@@ -113,7 +113,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2911" n="5" xml:id="PTAMS00538_05">
+     <msItem corresp="cpg:2911" n="5" xml:id="PTAMS00560_05">
       <locus from="215r" to="339v">
        215r–339v
       </locus>

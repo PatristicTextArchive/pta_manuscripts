@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00542" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00564" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -72,7 +72,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="" n="1" xml:id="PTAMS00542_001">
+     <msItem corresp="" n="1" xml:id="PTAMS00564_001">
       <locus from="1r" to="3r">
        001r–003r
       </locus>
@@ -84,7 +84,7 @@
        ΩΜΟΛΟΓΗΤΑΙ ΠΑΡΑ ΠΑΣΙΝ ΦΑΥΛΟΝ ΥΠΑΡΧΕΙΝ ΤΗΝ ΚΑΚΙΑΝ ΝΟΣΟΝ ΟΥΣΑΝ ΨΥΧΗΣ
       </explicit>
      </msItem>
-     <msItem corresp="" n="2" xml:id="PTAMS00542_002">
+     <msItem corresp="" n="2" xml:id="PTAMS00564_002">
       <locus from="3v" to="4v">
        003v-004v
       </locus>
@@ -94,7 +94,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="3" xml:id="PTAMS00542_003">
+     <msItem corresp="" n="3" xml:id="PTAMS00564_003">
       <locus from="4v" to="5r">
        004v-005r
       </locus>
@@ -109,7 +109,7 @@
        ΚΑΙ ΤΙ ΠΟΙΗΣΟΥΣΙ ΤΗ ΗΜΕΡΑ ΤΗΣ ΕΠΙΣΚΟΠΗΣ
       </explicit>
      </msItem>
-     <msItem corresp="" n="4" xml:id="PTAMS00542_004">
+     <msItem corresp="" n="4" xml:id="PTAMS00564_004">
       <locus from="5r" to="5v">
        005r-005v
       </locus>
@@ -123,7 +123,7 @@
        ΘΕΟΔΟΤΟΣ ΠΡΕΣΒΥΤΕΡΟΣ
       </explicit>
      </msItem>
-     <msItem corresp="" n="5" xml:id="PTAMS00542_005">
+     <msItem corresp="" n="5" xml:id="PTAMS00564_005">
       <locus from="6r" to="14r">
        006r-014r
       </locus>
@@ -133,7 +133,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="6" xml:id="PTAMS00542_006">
+     <msItem corresp="" n="6" xml:id="PTAMS00564_006">
       <locus from="14v" to="15v">
        014v-015v
       </locus>
@@ -161,7 +161,7 @@
        <explicit/>
       </msItem>
      </msItem>
-     <msItem corresp="" n="7" xml:id="PTAMS00542_007">
+     <msItem corresp="" n="7" xml:id="PTAMS00564_007">
       <locus from="15v" to="15v">
        015v-015v
       </locus>
@@ -171,7 +171,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="8" xml:id="PTAMS00542_008">
+     <msItem corresp="" n="8" xml:id="PTAMS00564_008">
       <locus from="16r" to="31v">
        016r-031v
       </locus>
@@ -182,7 +182,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="9" xml:id="PTAMS00542_009">
+     <msItem corresp="" n="9" xml:id="PTAMS00564_009">
       <locus from="31v" to="34v">
        031v-034v
       </locus>
@@ -192,7 +192,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="10" xml:id="PTAMS00542_010">
+     <msItem corresp="" n="10" xml:id="PTAMS00564_010">
       <locus from="35r" to="41v">
        035r-041v
       </locus>
@@ -202,7 +202,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="11" xml:id="PTAMS00542_011">
+     <msItem corresp="" n="11" xml:id="PTAMS00564_011">
       <locus from="42r" to="42r">
        042r-042r
       </locus>
@@ -214,7 +214,7 @@
       </incipit>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="12" xml:id="PTAMS00542_012">
+     <msItem corresp="" n="12" xml:id="PTAMS00564_012">
       <locus from="42r" to="42v">
        042r-049v
       </locus>
@@ -236,7 +236,7 @@
        </explicit>
       </msItem>
      </msItem>
-     <msItem corresp="" n="13" xml:id="PTAMS00542_013">
+     <msItem corresp="" n="13" xml:id="PTAMS00564_013">
       <locus from="50r" to="57r">
        050r-057r
       </locus>
@@ -246,7 +246,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="14" xml:id="PTAMS00542_014">
+     <msItem corresp="" n="14" xml:id="PTAMS00564_014">
       <locus from="57r" to="60v">
        057r-060v
       </locus>
@@ -256,7 +256,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="15" xml:id="PTAMS00542_015">
+     <msItem corresp="" n="15" xml:id="PTAMS00564_015">
       <locus from="61r" to="68v">
        061r-068v
       </locus>
@@ -274,7 +274,7 @@
        <explicit/>
       </msItem>
      </msItem>
-     <msItem corresp="" n="16" xml:id="PTAMS00542_016">
+     <msItem corresp="" n="16" xml:id="PTAMS00564_016">
       <locus from="68v" to="68v">
        068v-068v
       </locus>
@@ -284,7 +284,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="17" xml:id="PTAMS00542_017">
+     <msItem corresp="" n="17" xml:id="PTAMS00564_017">
       <locus from="68v" to="68v">
        068v-068v
       </locus>
@@ -294,7 +294,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="18" xml:id="PTAMS00542_018">
+     <msItem corresp="" n="18" xml:id="PTAMS00564_018">
       <locus from="69r" to="71r">
        069r-071r
       </locus>
@@ -304,7 +304,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="19" xml:id="PTAMS00542_019">
+     <msItem corresp="" n="19" xml:id="PTAMS00564_019">
       <locus from="72r" to="72v">
        072r-072v
       </locus>
@@ -318,7 +318,7 @@
        ΑΛΛΑ ΑΦΥΡΤΩΣ ΚΑΙ ΑΣΥΓΧΥΤΩΣ ΣΩΖΟΜΕΝΩΝ ΤΩΝ ΙΔΙΟΤΗΤΩΝ ΑΥΤΩΝ
       </explicit>
      </msItem>
-     <msItem corresp="" n="20" xml:id="PTAMS00542_020">
+     <msItem corresp="" n="20" xml:id="PTAMS00564_020">
       <locus from="73r" to="80v">
        073r-080v
       </locus>
@@ -328,7 +328,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="21" xml:id="PTAMS00542_021">
+     <msItem corresp="" n="21" xml:id="PTAMS00564_021">
       <locus from="80v" to="99r">
        080v-099r
       </locus>
@@ -435,7 +435,7 @@
        <explicit/>
       </msItem>
      </msItem>
-     <msItem corresp="" n="22" xml:id="PTAMS00542_022">
+     <msItem corresp="" n="22" xml:id="PTAMS00564_022">
       <locus from="99v" to="100v">
        099v-100v
       </locus>
@@ -445,7 +445,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="23" xml:id="PTAMS00542_023">
+     <msItem corresp="" n="23" xml:id="PTAMS00564_023">
       <locus from="100v" to="104v">
        100v-104v
       </locus>
@@ -455,7 +455,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="24" xml:id="PTAMS00542_024">
+     <msItem corresp="" n="24" xml:id="PTAMS00564_024">
       <locus from="104v" to="105v">
        104v-105v
       </locus>
@@ -465,7 +465,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="25" xml:id="PTAMS00542_025">
+     <msItem corresp="" n="25" xml:id="PTAMS00564_025">
       <locus from="106r" to="115v">
        106r-115v
       </locus>
@@ -475,7 +475,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="26" xml:id="PTAMS00542_026">
+     <msItem corresp="" n="26" xml:id="PTAMS00564_026">
       <locus from="106r" to="106v">
        106r-106v
       </locus>
@@ -487,7 +487,7 @@
        ἰοῦ γέμοντα φαρμακ>ουργοῦ τῆς ὕδρας
       </explicit>
      </msItem>
-     <msItem corresp="" n="27" xml:id="PTAMS00542_027">
+     <msItem corresp="" n="27" xml:id="PTAMS00564_027">
       <locus from="116r" to="116r">
        116r-116r
       </locus>
@@ -497,7 +497,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="28" xml:id="PTAMS00542_028">
+     <msItem corresp="" n="28" xml:id="PTAMS00564_028">
       <locus from="116r" to="116v">
        116r-116v
       </locus>
@@ -507,7 +507,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="29" xml:id="PTAMS00542_029">
+     <msItem corresp="" n="29" xml:id="PTAMS00564_029">
       <locus from="116v" to="116v">
        116v-116v
       </locus>
@@ -521,7 +521,7 @@
        ΩΣ ΣΥΜΠΑΘΗΣ ΚΑΙ ΔΕΣΠΟΤΗΣ ΠΡΙΝ ΕΙΣ ΤΕΛΟΣ
       </explicit>
      </msItem>
-     <msItem corresp="" n="30" xml:id="PTAMS00542_030">
+     <msItem corresp="" n="30" xml:id="PTAMS00564_030">
       <locus from="116v" to="116v">
        116v-116v
       </locus>
@@ -531,7 +531,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="31" xml:id="PTAMS00542_031">
+     <msItem corresp="" n="31" xml:id="PTAMS00564_031">
       <locus from="117r" to="120v">
        117r-120v
       </locus>
@@ -545,7 +545,7 @@
        εἱστίασε λαμπρῶς
       </explicit>
      </msItem>
-     <msItem corresp="" n="32" xml:id="PTAMS00542_032">
+     <msItem corresp="" n="32" xml:id="PTAMS00564_032">
       <locus from="120v" to="124v">
        120v-124v
       </locus>
@@ -555,7 +555,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="33" xml:id="PTAMS00542_033">
+     <msItem corresp="" n="33" xml:id="PTAMS00564_033">
       <locus from="124v" to="124v">
        124v-124v
       </locus>
@@ -565,7 +565,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="34" xml:id="PTAMS00542_034">
+     <msItem corresp="" n="34" xml:id="PTAMS00564_034">
       <locus from="124v" to="124v">
        124v-124v
       </locus>
@@ -577,7 +577,7 @@
       </incipit>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="35" xml:id="PTAMS00542_035">
+     <msItem corresp="" n="35" xml:id="PTAMS00564_035">
       <locus from="125r" to="132v">
        125r-132v
       </locus>
@@ -589,7 +589,7 @@
        καὶ τοῦ Υἱοῦ καὶ τοῦ Θεοῦ καὶ τὰ ἄλ[λα
       </explicit>
      </msItem>
-     <msItem corresp="" n="36" xml:id="PTAMS00542_036">
+     <msItem corresp="" n="36" xml:id="PTAMS00564_036">
       <locus from="133r" to="140v">
        133r-140v
       </locus>
@@ -603,7 +603,7 @@
        ΤΩΝ ΦΑΥΛΩΝ ΛΟΓΙΣΜΩΝ
       </explicit>
      </msItem>
-     <msItem corresp="" n="37" xml:id="PTAMS00542_037">
+     <msItem corresp="" n="37" xml:id="PTAMS00564_037">
       <locus from="141r" to="141r">
        141r-141r
       </locus>
@@ -613,7 +613,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="38" xml:id="PTAMS00542_038">
+     <msItem corresp="" n="38" xml:id="PTAMS00564_038">
       <locus from="141r" to="146r">
        141r-146r
       </locus>
@@ -623,7 +623,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="39" xml:id="PTAMS00542_039">
+     <msItem corresp="" n="39" xml:id="PTAMS00564_039">
       <locus from="146v" to="146v">
        146v-146v
       </locus>
@@ -633,7 +633,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="40" xml:id="PTAMS00542_040">
+     <msItem corresp="" n="40" xml:id="PTAMS00564_040">
       <locus from="146v" to="147r">
        146v-147r
       </locus>
@@ -645,7 +645,7 @@
       </incipit>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="41" xml:id="PTAMS00542_041">
+     <msItem corresp="" n="41" xml:id="PTAMS00564_041">
       <locus from="147v" to="149v">
        147v-149v
       </locus>
@@ -655,7 +655,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="42" xml:id="PTAMS00542_042">
+     <msItem corresp="" n="42" xml:id="PTAMS00564_042">
       <locus from="149v" to="150r">
        149v-150r
       </locus>
@@ -665,7 +665,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="43" xml:id="PTAMS00542_043">
+     <msItem corresp="" n="43" xml:id="PTAMS00564_043">
       <locus from="150r" to="151r">
        150r-151r
       </locus>
@@ -675,7 +675,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="44" xml:id="PTAMS00542_044">
+     <msItem corresp="" n="44" xml:id="PTAMS00564_044">
       <locus from="151r" to="153r">
        151r-153r
       </locus>
@@ -685,7 +685,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="45" xml:id="PTAMS00542_045">
+     <msItem corresp="" n="45" xml:id="PTAMS00564_045">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -695,7 +695,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="46" xml:id="PTAMS00542_046">
+     <msItem corresp="" n="46" xml:id="PTAMS00564_046">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -705,7 +705,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="47" xml:id="PTAMS00542_047">
+     <msItem corresp="" n="47" xml:id="PTAMS00564_047">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -715,7 +715,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="48" xml:id="PTAMS00542_048">
+     <msItem corresp="" n="48" xml:id="PTAMS00564_048">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -725,7 +725,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="49" xml:id="PTAMS00542_049">
+     <msItem corresp="" n="49" xml:id="PTAMS00564_049">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -735,7 +735,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="50" xml:id="PTAMS00542_050">
+     <msItem corresp="" n="50" xml:id="PTAMS00564_050">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -745,7 +745,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="51" xml:id="PTAMS00542_051">
+     <msItem corresp="" n="51" xml:id="PTAMS00564_051">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -757,7 +757,7 @@
       </incipit>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="52" xml:id="PTAMS00542_052">
+     <msItem corresp="" n="52" xml:id="PTAMS00564_052">
       <locus from="153v" to="153v">
        153v-153v
       </locus>
@@ -771,7 +771,7 @@
        Η ΘΡΙΞ
       </explicit>
      </msItem>
-     <msItem corresp="" n="53" xml:id="PTAMS00542_053">
+     <msItem corresp="" n="53" xml:id="PTAMS00564_053">
       <locus from="154r" to="154r">
        154r-154r
       </locus>
@@ -781,7 +781,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="54" xml:id="PTAMS00542_054">
+     <msItem corresp="" n="54" xml:id="PTAMS00564_054">
       <locus from="154v" to="156v">
        154v-156v
       </locus>
@@ -791,7 +791,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="55" xml:id="PTAMS00542_055">
+     <msItem corresp="" n="55" xml:id="PTAMS00564_055">
       <locus from="154v" to="156v">
        154v-156v
       </locus>
@@ -801,7 +801,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="56" xml:id="PTAMS00542_056">
+     <msItem corresp="" n="56" xml:id="PTAMS00564_056">
       <locus from="157r" to="157v">
        157r-157v
       </locus>
@@ -811,7 +811,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="57" xml:id="PTAMS00542_057">
+     <msItem corresp="" n="57" xml:id="PTAMS00564_057">
       <locus from="157v" to="158v">
        157v-158v
       </locus>
@@ -825,7 +825,7 @@
        τὴν ὠφέλειαν καρπωσόμεθα
       </explicit>
      </msItem>
-     <msItem corresp="" n="58" xml:id="PTAMS00542_058">
+     <msItem corresp="" n="58" xml:id="PTAMS00564_058">
       <locus from="158v" to="161v">
        158v-161v
       </locus>
@@ -835,7 +835,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="59" xml:id="PTAMS00542_059">
+     <msItem corresp="" n="59" xml:id="PTAMS00564_059">
       <locus from="161v" to="162v">
        161v-162v
       </locus>
@@ -845,7 +845,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="60" xml:id="PTAMS00542_060">
+     <msItem corresp="" n="60" xml:id="PTAMS00564_060">
       <locus from="162v" to="164r">
        162v-164r
       </locus>
@@ -855,7 +855,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="61" xml:id="PTAMS00542_061">
+     <msItem corresp="" n="61" xml:id="PTAMS00564_061">
       <locus from="164r" to="164v">
        164r-164v
       </locus>
@@ -865,17 +865,17 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="62" xml:id="PTAMS00542_062">
+     <msItem corresp="" n="62" xml:id="PTAMS00564_062">
       <locus from="164v" to="164v">
        164v-164v
       </locus>
       <rubric>
-       <note>Michael Psellus, Epistulae (ep. 1-542); Epistulae duo</note>
+       <note>Michael Psellus, Epistulae (ep. 1-564); Epistulae duo</note>
       </rubric>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="63" xml:id="PTAMS00542_063">
+     <msItem corresp="" n="63" xml:id="PTAMS00564_063">
       <locus from="165r" to="165r">
        165r-165r
       </locus>
@@ -885,7 +885,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="64" xml:id="PTAMS00542_064">
+     <msItem corresp="" n="64" xml:id="PTAMS00564_064">
       <locus from="165r" to="166v">
        165r-166v
       </locus>
@@ -895,7 +895,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="65" xml:id="PTAMS00542_065">
+     <msItem corresp="" n="65" xml:id="PTAMS00564_065">
       <locus from="167r" to="171r">
        167r-171r
       </locus>
@@ -905,7 +905,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="66" xml:id="PTAMS00542_066">
+     <msItem corresp="" n="66" xml:id="PTAMS00564_066">
       <locus from="171r" to="178r">
        171r-178r
       </locus>
@@ -915,7 +915,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="67" xml:id="PTAMS00542_067">
+     <msItem corresp="" n="67" xml:id="PTAMS00564_067">
       <locus from="178v" to="180v">
        178v-180v
       </locus>
@@ -925,7 +925,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="68" xml:id="PTAMS00542_068">
+     <msItem corresp="" n="68" xml:id="PTAMS00564_068">
       <locus from="180v" to="181v">
        180v-181v
       </locus>
@@ -935,7 +935,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="69" xml:id="PTAMS00542_069">
+     <msItem corresp="" n="69" xml:id="PTAMS00564_069">
       <locus from="182r" to="184r">
        182r-184r
       </locus>
@@ -945,7 +945,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="70" xml:id="PTAMS00542_070">
+     <msItem corresp="" n="70" xml:id="PTAMS00564_070">
       <locus from="184v" to="202v">
        184v-202v
       </locus>
@@ -955,7 +955,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="71" xml:id="PTAMS00542_071">
+     <msItem corresp="" n="71" xml:id="PTAMS00564_071">
       <locus from="203r" to="204r">
        203r-204r
       </locus>
@@ -965,7 +965,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="72" xml:id="PTAMS00542_072">
+     <msItem corresp="" n="72" xml:id="PTAMS00564_072">
       <locus from="203v" to="208v">
        203v-208v
       </locus>
@@ -975,7 +975,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="73" xml:id="PTAMS00542_073">
+     <msItem corresp="" n="73" xml:id="PTAMS00564_073">
       <locus from="209r" to="211v">
        209r-211v
       </locus>
@@ -987,7 +987,7 @@
        ΤΗΝ ΑΚΤΙΝΑ ΑΥΤΟΥ ΚΑΘΥΒΡΙΣΗΣ
       </explicit>
      </msItem>
-     <msItem corresp="" n="74" xml:id="PTAMS00542_074">
+     <msItem corresp="" n="74" xml:id="PTAMS00564_074">
       <locus from="212r" to="212r">
        212r-212r
       </locus>
@@ -997,7 +997,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="75" xml:id="PTAMS00542_075">
+     <msItem corresp="" n="75" xml:id="PTAMS00564_075">
       <locus from="212r" to="212v">
        212r-212v
       </locus>
@@ -1007,7 +1007,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="76" xml:id="PTAMS00542_076">
+     <msItem corresp="" n="76" xml:id="PTAMS00564_076">
       <locus from="213r" to="213r">
        213r-213r
       </locus>
@@ -1017,7 +1017,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="77" xml:id="PTAMS00542_077">
+     <msItem corresp="" n="77" xml:id="PTAMS00564_077">
       <locus from="213r" to="213v">
        213r-213v
       </locus>
@@ -1027,7 +1027,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="78" xml:id="PTAMS00542_078">
+     <msItem corresp="" n="78" xml:id="PTAMS00564_078">
       <locus from="213v" to="216v">
        213v-216v
       </locus>
@@ -1037,7 +1037,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="79" xml:id="PTAMS00542_079">
+     <msItem corresp="" n="79" xml:id="PTAMS00564_079">
       <locus from="215r" to="218v">
        215r-218v
       </locus>
@@ -1047,7 +1047,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="80" xml:id="PTAMS00542_080">
+     <msItem corresp="" n="80" xml:id="PTAMS00564_080">
       <locus from="217r" to="218v">
        217r-218v
       </locus>
@@ -1057,7 +1057,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="81" xml:id="PTAMS00542_081">
+     <msItem corresp="" n="81" xml:id="PTAMS00564_081">
       <locus from="217v" to="222r">
        217v-222r
       </locus>
@@ -1071,7 +1071,7 @@
        ΔΙΔΟΝΤΑΙ ΔΕ ΤΟΙΣ ΑΞΙΩΣ ΑΥΤΩΝ ΑΓΩΝΙΖΟΜΕΝΟΙΣ
       </explicit>
      </msItem>
-     <msItem corresp="" n="82" xml:id="PTAMS00542_82">
+     <msItem corresp="" n="82" xml:id="PTAMS00564_82">
       <locus from="222r" to="223v">
        222r-223v
       </locus>
@@ -1085,7 +1085,7 @@
        ΕΜΦΕΡΕΙΑ ΠΡΟΣ ΤΑ ΑΙΤΙΑΤΑ
       </explicit>
      </msItem>
-     <msItem corresp="" n="83" xml:id="PTAMS00542_83">
+     <msItem corresp="" n="83" xml:id="PTAMS00564_83">
       <locus from="224r" to="225v">
        224r-225v
       </locus>
@@ -1095,7 +1095,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="84" xml:id="PTAMS00542_84">
+     <msItem corresp="" n="84" xml:id="PTAMS00564_84">
       <locus from="224r" to="225v">
        224r-225v
       </locus>
@@ -1105,7 +1105,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="85" xml:id="PTAMS00542_85">
+     <msItem corresp="" n="85" xml:id="PTAMS00564_85">
       <locus from="224r" to="225v">
        224r-225v
       </locus>
@@ -1115,7 +1115,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="86" xml:id="PTAMS00542_86">
+     <msItem corresp="" n="86" xml:id="PTAMS00564_86">
       <locus from="225v" to="226v">
        225v-226v
       </locus>
@@ -1125,7 +1125,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="87" xml:id="PTAMS00542_87">
+     <msItem corresp="" n="87" xml:id="PTAMS00564_87">
       <locus from="227r" to="227v">
        227r-227v
       </locus>
@@ -1135,7 +1135,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="88" xml:id="PTAMS00542_88">
+     <msItem corresp="" n="88" xml:id="PTAMS00564_88">
       <locus from="227v" to="229v">
        227v-229v
       </locus>
@@ -1145,7 +1145,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="89" xml:id="PTAMS00542_89">
+     <msItem corresp="" n="89" xml:id="PTAMS00564_89">
       <locus from="229v" to="230r">
        229v-230r
       </locus>
@@ -1155,7 +1155,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="90" xml:id="PTAMS00542_90">
+     <msItem corresp="" n="90" xml:id="PTAMS00564_90">
       <locus from="230r" to="230v">
        230r-230v
       </locus>
@@ -1165,7 +1165,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="91" xml:id="PTAMS00542_91">
+     <msItem corresp="" n="91" xml:id="PTAMS00564_91">
       <locus from="231r" to="232v">
        231r-232v
       </locus>
@@ -1175,7 +1175,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="92" xml:id="PTAMS00542_92">
+     <msItem corresp="" n="92" xml:id="PTAMS00564_92">
       <locus from="233r" to="282v">
        233r-282v
       </locus>
@@ -1185,7 +1185,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="93" xml:id="PTAMS00542_93">
+     <msItem corresp="" n="93" xml:id="PTAMS00564_93">
       <locus from="282v" to="291r">
        282v-291r
       </locus>
@@ -1195,7 +1195,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="94" xml:id="PTAMS00542_94">
+     <msItem corresp="" n="94" xml:id="PTAMS00564_94">
       <locus from="292r" to="292r">
        292r-292r
       </locus>
@@ -1205,7 +1205,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="95" xml:id="PTAMS00542_95">
+     <msItem corresp="" n="95" xml:id="PTAMS00564_95">
       <locus from="292r" to="292r">
        292r-292r
       </locus>
@@ -1215,7 +1215,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="96" xml:id="PTAMS00542_96">
+     <msItem corresp="" n="96" xml:id="PTAMS00564_96">
       <locus from="292v" to="293r">
        292v-293r
       </locus>
@@ -1225,7 +1225,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="97" xml:id="PTAMS00542_97">
+     <msItem corresp="" n="97" xml:id="PTAMS00564_97">
       <locus from="293r" to="294r">
        293r-294r
       </locus>
@@ -1235,7 +1235,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="98" xml:id="PTAMS00542_98">
+     <msItem corresp="" n="98" xml:id="PTAMS00564_98">
       <locus from="294v" to="296v">
        294v-296v
       </locus>
@@ -1245,7 +1245,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="99" xml:id="PTAMS00542_99">
+     <msItem corresp="" n="99" xml:id="PTAMS00564_99">
       <locus from="296v" to="297v">
        296v-297v
       </locus>
@@ -1255,7 +1255,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="100" xml:id="PTAMS00542_100">
+     <msItem corresp="" n="100" xml:id="PTAMS00564_100">
       <locus from="297v" to="298v">
        297v-298v
       </locus>
@@ -1265,7 +1265,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="101" xml:id="PTAMS00542_101">
+     <msItem corresp="" n="101" xml:id="PTAMS00564_101">
       <locus from="298v" to="299r">
        298v-299r
       </locus>
@@ -1275,7 +1275,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="102" xml:id="PTAMS00542_102">
+     <msItem corresp="" n="102" xml:id="PTAMS00564_102">
       <locus from="299r" to="299v">
        299r-299v
       </locus>
@@ -1285,7 +1285,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="103" xml:id="PTAMS00542_103">
+     <msItem corresp="" n="103" xml:id="PTAMS00564_103">
       <locus from="299v" to="299v">
        299v-299v
       </locus>
@@ -1295,7 +1295,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="104" xml:id="PTAMS00542_104">
+     <msItem corresp="" n="104" xml:id="PTAMS00564_104">
       <locus from="299v" to="299v">
        299v-299v
       </locus>
@@ -1305,7 +1305,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="105" xml:id="PTAMS00542_105">
+     <msItem corresp="" n="105" xml:id="PTAMS00564_105">
       <locus from="300r" to="308r">
        300r-308r
       </locus>
@@ -1315,7 +1315,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="106" xml:id="PTAMS00542_106">
+     <msItem corresp="" n="106" xml:id="PTAMS00564_106">
       <locus from="301r" to="303r">
        301r-303r
       </locus>
@@ -1329,7 +1329,7 @@
        ΑΛΛ ΕΞ ΩΝ ΠΝΟΕΙΣΙΝ
       </explicit>
      </msItem>
-     <msItem corresp="" n="107" xml:id="PTAMS00542_107">
+     <msItem corresp="" n="107" xml:id="PTAMS00564_107">
       <locus from="303r" to="303v">
        303r-303v
       </locus>
@@ -1339,7 +1339,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="108" xml:id="PTAMS00542_108">
+     <msItem corresp="" n="108" xml:id="PTAMS00564_108">
       <locus from="304r" to="304r">
        304r-304r
       </locus>
@@ -1349,7 +1349,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="109" xml:id="PTAMS00542_109">
+     <msItem corresp="" n="109" xml:id="PTAMS00564_109">
       <locus from="304r" to="304r">
        304r-304r
       </locus>
@@ -1359,7 +1359,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="110" xml:id="PTAMS00542_110">
+     <msItem corresp="" n="110" xml:id="PTAMS00564_110">
       <locus from="308v" to="309r">
        308v-309r
       </locus>
@@ -1373,7 +1373,7 @@
        ΤΑ ΔΟΓΜΑΤΑ ΤΩΝ ΟΡΘΟΔΟΞΩΝ ΡΩΜΑΙΩΝ
       </explicit>
      </msItem>
-     <msItem corresp="" n="111" xml:id="PTAMS00542_111">
+     <msItem corresp="" n="111" xml:id="PTAMS00564_111">
       <locus from="309r" to="309v">
        309r-309v
       </locus>
@@ -1383,7 +1383,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="112" xml:id="PTAMS00542_112">
+     <msItem corresp="" n="112" xml:id="PTAMS00564_112">
       <locus from="309v" to="310v">
        309v-310v
       </locus>
@@ -1393,7 +1393,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="113" xml:id="PTAMS00542_113">
+     <msItem corresp="" n="113" xml:id="PTAMS00564_113">
       <locus from="310v" to="311r">
        310v-311r
       </locus>
@@ -1403,7 +1403,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="114" xml:id="PTAMS00542_114">
+     <msItem corresp="" n="114" xml:id="PTAMS00564_114">
       <locus from="311r" to="311v">
        311r-311v
       </locus>
@@ -1413,7 +1413,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="115" xml:id="PTAMS00542_115">
+     <msItem corresp="" n="115" xml:id="PTAMS00564_115">
       <locus from="311v" to="312v">
        311v-312v
       </locus>
@@ -1423,7 +1423,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="116" xml:id="PTAMS00542_116">
+     <msItem corresp="" n="116" xml:id="PTAMS00564_116">
       <locus from="312v" to="312v">
        312v-312v
       </locus>
@@ -1437,7 +1437,7 @@
        ΝΟΜΙΚΟΝ ΠΑΣΧΑ ΜΑΡΤΙΩ ΚΔ' ΗΜΕΡΑ Ζ' ΧΡΙΣΤΟΥ ΠΑΣΧΑ ΜΑΡΤΙΩ ΚΕ'
       </explicit>
      </msItem>
-     <msItem corresp="" n="117" xml:id="PTAMS00542_117">
+     <msItem corresp="" n="117" xml:id="PTAMS00564_117">
       <locus from="313r" to="331v">
        313r-331v
       </locus>
@@ -1447,7 +1447,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="118" xml:id="PTAMS00542_118">
+     <msItem corresp="" n="118" xml:id="PTAMS00564_118">
       <locus from="332r" to="332r">
        332r-332r
       </locus>
@@ -1461,7 +1461,7 @@
        ΟΜΟΟΥΣΙΟΣ ΠΑΤΡΙ ΚΑΙ ΥΙΩ
       </explicit>
      </msItem>
-     <msItem corresp="" n="119" xml:id="PTAMS00542_119">
+     <msItem corresp="" n="119" xml:id="PTAMS00564_119">
       <locus from="332r" to="332r">
        332r-332r
       </locus>
@@ -1471,7 +1471,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="120" xml:id="PTAMS00542_120">
+     <msItem corresp="" n="120" xml:id="PTAMS00564_120">
       <locus from="332r" to="332r">
        332r-332r
       </locus>
@@ -1481,7 +1481,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="121" xml:id="PTAMS00542_121">
+     <msItem corresp="" n="121" xml:id="PTAMS00564_121">
       <locus from="333r" to="333r">
        333r-333r
       </locus>
@@ -1495,7 +1495,7 @@
        ΕΙΚΟΝΟΣ ΤΟΥ ΘΕΟΥ ΚΑΙ ΠΑΤΡΟΣ ΚΑΘΩΣ ΦΗΣΙΝ
       </explicit>
      </msItem>
-     <msItem corresp="" n="122" xml:id="PTAMS00542_122">
+     <msItem corresp="" n="122" xml:id="PTAMS00564_122">
       <locus from="333r" to="333r">
        333r-333r
       </locus>
@@ -1505,7 +1505,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="123" xml:id="PTAMS00542_123">
+     <msItem corresp="" n="123" xml:id="PTAMS00564_123">
       <locus from="333v" to="333v">
        333v-333v
       </locus>
@@ -1515,7 +1515,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="124" xml:id="PTAMS00542_124">
+     <msItem corresp="" n="124" xml:id="PTAMS00564_124">
       <locus from="333v" to="333v">
        333v-333v
       </locus>
@@ -1525,7 +1525,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="125" xml:id="PTAMS00542_125">
+     <msItem corresp="" n="125" xml:id="PTAMS00564_125">
       <locus from="333v" to="333v">
        333v-333v
       </locus>
@@ -1535,7 +1535,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="126" xml:id="PTAMS00542_126">
+     <msItem corresp="" n="126" xml:id="PTAMS00564_126">
       <locus from="334r" to="334r">
        334r-334r
       </locus>
@@ -1545,7 +1545,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="127" xml:id="PTAMS00542_127">
+     <msItem corresp="" n="127" xml:id="PTAMS00564_127">
       <locus from="334v" to="334v">
        334v-334v
       </locus>
@@ -1555,7 +1555,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0004.pta001" n="128" xml:id="PTAMS00542_128">
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="128" xml:id="PTAMS00564_128">
       <locus from="334v" to="334v">
        334v-334v
       </locus>
@@ -1565,7 +1565,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="129" xml:id="PTAMS00542_129">
+     <msItem corresp="" n="129" xml:id="PTAMS00564_129">
       <locus from="335r" to="335r">
        335r-335r
       </locus>
@@ -1575,7 +1575,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="130" xml:id="PTAMS00542_130">
+     <msItem corresp="" n="130" xml:id="PTAMS00564_130">
       <locus from="335r" to="335v">
        335r-335v
       </locus>
@@ -1585,7 +1585,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="131" xml:id="PTAMS00542_131">
+     <msItem corresp="" n="131" xml:id="PTAMS00564_131">
       <locus from="336v" to="336v">
        336v-336v
       </locus>
@@ -1595,7 +1595,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="132" xml:id="PTAMS00542_132">
+     <msItem corresp="" n="132" xml:id="PTAMS00564_132">
       <locus from="336v" to="336v">
        336v-336v
       </locus>
@@ -1609,7 +1609,7 @@
        ΠΕΡΙΕΧΕΙ ΔΕ Η ΨΥΧΗ ΤΟ ΣΩΜΑ ΩΣ ΤΟ ΠΥΡ ΤΟΝ
       </explicit>
      </msItem>
-     <msItem corresp="" n="133" xml:id="PTAMS00542_133">
+     <msItem corresp="" n="133" xml:id="PTAMS00564_133">
       <locus from="336v" to="336v">
        336v-336v
       </locus>
@@ -1619,7 +1619,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="134" xml:id="PTAMS00542_134">
+     <msItem corresp="" n="134" xml:id="PTAMS00564_134">
       <locus from="336v" to="336v">
        336v-336v
       </locus>
@@ -1629,7 +1629,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="135" xml:id="PTAMS00542_135">
+     <msItem corresp="" n="135" xml:id="PTAMS00564_135">
       <locus from="336v" to="336v">
        336v-336v
       </locus>
@@ -1639,7 +1639,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="136" xml:id="PTAMS00542_136">
+     <msItem corresp="" n="136" xml:id="PTAMS00564_136">
       <locus from="337r" to="338v">
        337r-338v
       </locus>
@@ -1649,7 +1649,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="137" xml:id="PTAMS00542_137">
+     <msItem corresp="" n="137" xml:id="PTAMS00564_137">
       <locus from="339r" to="343v">
        339r-343v
       </locus>
@@ -1659,7 +1659,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="138" xml:id="PTAMS00542_138">
+     <msItem corresp="" n="138" xml:id="PTAMS00564_138">
       <locus from="344r" to="344r">
        344r-344r
       </locus>
@@ -1669,7 +1669,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="139" xml:id="PTAMS00542_139">
+     <msItem corresp="" n="139" xml:id="PTAMS00564_139">
       <locus from="344r" to="348r">
        344r-348r
       </locus>
@@ -1687,7 +1687,7 @@
        <explicit/>
       </msItem>
      </msItem>
-     <msItem corresp="" n="140" xml:id="PTAMS00542_140">
+     <msItem corresp="" n="140" xml:id="PTAMS00564_140">
       <locus from="348v" to="349v">
        348v-349v
       </locus>
@@ -1697,7 +1697,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="141" xml:id="PTAMS00542_141">
+     <msItem corresp="" n="141" xml:id="PTAMS00564_141">
       <locus from="349v" to="351r">
        349v-351r
       </locus>
@@ -1707,7 +1707,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="142" xml:id="PTAMS00542_142">
+     <msItem corresp="" n="142" xml:id="PTAMS00564_142">
       <locus from="351r" to="351r">
        351r-351r
       </locus>

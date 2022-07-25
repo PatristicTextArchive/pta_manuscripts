@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00537" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00559" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -77,7 +77,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="1" xml:id="PTAMS00537_01">
+     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="1" xml:id="PTAMS00559_01">
       <locus from="1r" to="84r">
        1r–84r
       </locus>
@@ -87,7 +87,7 @@
        νῦν καὶ ἀεὶ εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν:—
       </explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta9999.pta062" n="2" xml:id="PTAMS00537_02">
+     <msItem corresp="urn:cts:pta:pta9999.pta062" n="2" xml:id="PTAMS00559_02">
       <locus from="84r" to="85v">
        84r–85v
       </locus>
@@ -96,7 +96,7 @@
       <incipit>καὶ ὁ βασιλεὺς ἀστυάγης προστέθειται πρὸς τοὺς πατέρας αὐτοῦ·</incipit>
       <explicit>ἐνέβαλεν εἰς τὸν λάκκον τῶν λεόντων· καὶ κατεβρώθησαν παραχρῆμα ἐνώπιον αὐτοῦ:–</explicit>
      </msItem>
-     <msItem type="defective" corresp="cpg:8041" n="3" xml:id="PTAMS00537_03">
+     <msItem type="defective" corresp="cpg:8041" n="3" xml:id="PTAMS00559_03">
       <msItem n="3.1">
       <locus from="86r" to="105v">
        86r–105v
@@ -114,7 +114,7 @@
         <explicit type="defective">αἵρεσίς ἐστι δόξα πλειόνων ἀνθρώπων· πρὸς ἀλλήλους μὲν, συμφωνούντων· πρὸς ἄλλους δὲ διαφωνούντων:–</explicit>
        </msItem>
      </msItem>
-     <msItem corresp="cpg:8043" n="4" xml:id="PTAMS00537_04">
+     <msItem corresp="cpg:8043" n="4" xml:id="PTAMS00559_04">
       <locus from="105v" to="185r">
        105v–185r
       </locus>
@@ -122,7 +122,7 @@
       <incipit>θεὸν οὐδεὶς ἑώρακε πώποτε</incipit>
       <explicit>διαιρεῖται ἡ κατὰ χν φιλοσοφία εἰς τρία:– εἰς πρακτικὸν τούτου· ἐν τοῖς γνωστικοῖς τούτου· εἰς θεολογικὸν τούτου:</explicit>
      </msItem>
-     <msItem defective="true" corresp="" n="5" xml:id="PTAMS00537_05">
+     <msItem defective="true" corresp="" n="5" xml:id="PTAMS00559_05">
       <locus from="185v" to="187v">
        185v–187v
       </locus>

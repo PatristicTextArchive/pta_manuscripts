@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00532" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00554" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -76,7 +76,8 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0004.pta001" n="1" xml:id="PTAMS00532_01">
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="1" xml:id="PTAMS00554_01">
+      <!-- endet mit Buch 9, Buch 10 fehlt-->
       <locus from="1r" to="122r">
        1r–122r
       </locus>
@@ -90,7 +91,7 @@
        μεθ’ οὗ τῷ πατρὶ δόξα, σὺν τῷ ἁγίῳ πνεύματι, εἰς τοὺς αἰῶνας ἀμήν
       </explicit>
      </msItem>
-     <msItem corresp="" n="2" xml:id="PTAMS00532_02">
+     <msItem corresp="" n="2" xml:id="PTAMS00554_02">
       <locus from="125r" to="126v">
        125r–126v
       </locus>
@@ -100,7 +101,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="3" xml:id="PTAMS00532_03">
+     <msItem corresp="" n="3" xml:id="PTAMS00554_03">
       <locus from="127r" to="134v">
        127r–134v
       </locus>
@@ -110,7 +111,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="4" xml:id="PTAMS00532_04">
+     <msItem corresp="" n="4" xml:id="PTAMS00554_04">
       <locus from="135r" to="138r">
        135r–138r
       </locus>
@@ -122,7 +123,7 @@
       </incipit>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:7431" n="5" xml:id="PTAMS00532_05">
+     <msItem corresp="cpg:7431" n="5" xml:id="PTAMS00554_05">
       <locus from="142r" to="198v">
        142r–198v
       </locus>
@@ -131,7 +132,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:6203" n="6" xml:id="PTAMS00532_06">
+     <msItem corresp="cpg:6203" n="6" xml:id="PTAMS00554_06">
       <locus from="201r" to="260v">
        201r–260v
       </locus>
@@ -140,7 +141,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="7" xml:id="PTAMS00532_07">
+     <msItem corresp="" n="7" xml:id="PTAMS00554_07">
       <locus from="261r" to="312r">
        261r–312r
       </locus>

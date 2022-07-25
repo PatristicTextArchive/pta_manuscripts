@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00523" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00545" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -76,7 +76,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00523_01">
+     <msItem corresp="cpg:6206" n="1" xml:id="PTAMS00545_01">
       <locus from="1r" to="54v">
        1r–54v
       </locus>
@@ -85,7 +85,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4447" n="2" xml:id="PTAMS00523_02">
+     <msItem corresp="cpg:4447" n="2" xml:id="PTAMS00545_02">
       <locus from="54v" to="55v">
        54v–55v
       </locus>
@@ -94,7 +94,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00523_03">
+     <msItem corresp="urn:cts:pta:pta0004.pta001" n="3" xml:id="PTAMS00545_03">
       <locus from="55v" to="86v">
        55v–86v
       </locus>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00527" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00549" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -76,7 +76,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="" n="1" xml:id="PTAMS00527_01">
+     <msItem corresp="" n="1" xml:id="PTAMS00549_01">
       <locus from="1r" to="2r">
        1r–2r
       </locus>
@@ -90,7 +90,7 @@
        ἐν τῇ αὐτῇ τῶν λόγων καλλονῇ καὶ τῆς διανοίας διεσκευασμένον βιβλίον
       </explicit>
      </msItem>
-     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00527_02">
+     <msItem defective="true" corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00549_02">
       <locus from="2v" to="53v">
        2v–53v
       </locus>
@@ -123,7 +123,7 @@
        </explicit>
       </msItem>
      </msItem>
-     <msItem corresp="cpg:6200" n="3" xml:id="PTAMS00527_03">
+     <msItem corresp="cpg:6200" n="3" xml:id="PTAMS00549_03">
       <locus from="54r" to="164v">
        54r–164v
       </locus>
@@ -138,7 +138,7 @@
        τῆς εὐσεβείας λυμαίνεται, κἄν τε τοῦτο, κἄν τε ἐκεῖνο δεξώμεθα
       </explicit>
      </msItem>
-     <msItem corresp="" n="4" xml:id="PTAMS00527_04">
+     <msItem corresp="" n="4" xml:id="PTAMS00549_04">
       <locus from="165r" to="167v">
        165r–167v
       </locus>
@@ -152,7 +152,7 @@
        κληρικοὺς μὲν ὄντας καθαιρεῖ, λαϊκοὺς δὲ ἀφωρίζει
       </explicit>
      </msItem>
-     <msItem corresp="" n="5" xml:id="PTAMS00527_05">
+     <msItem corresp="" n="5" xml:id="PTAMS00549_05">
       <locus from="167v" to="172r">
        167v–172r
       </locus>
@@ -166,7 +166,7 @@
        σεβῆρον ὑπεδείκνυ γεναίως τοῖς λόγοις καταβαλλόμενον ... λείπει
       </explicit>
      </msItem>
-     <msItem corresp="" n="6" xml:id="PTAMS00527_06">
+     <msItem corresp="" n="6" xml:id="PTAMS00549_06">
       <locus from="172r" to="202r">
        172r–202r
       </locus>
@@ -180,7 +180,7 @@
        συνηνέχθη, ὡς ἐν ἐπιστολῆς εἴδη ἐξιστορεῖ
       </explicit>
      </msItem>
-     <msItem corresp="" n="7" xml:id="PTAMS00527_07">
+     <msItem corresp="" n="7" xml:id="PTAMS00549_07">
       <locus from="202r" to="203v">
        202r–203v
       </locus>
@@ -194,7 +194,7 @@
        καὶ τὴν νηστείαν ταύτην ἀρτζιβόρτζην ὠνόμασεν
       </explicit>
      </msItem>
-     <msItem corresp="cpg:8048" n="8" xml:id="PTAMS00527_08">
+     <msItem corresp="cpg:8048" n="8" xml:id="PTAMS00549_08">
       <locus from="203v" to="217r">
        203v–217r
       </locus>
@@ -208,7 +208,7 @@
        νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν
       </explicit>
      </msItem>
-     <msItem corresp="cpg:8045" n="9" xml:id="PTAMS00527_09">
+     <msItem corresp="cpg:8045" n="9" xml:id="PTAMS00549_09">
       <locus from="217r" to="228v">
        217r–228v
       </locus>
