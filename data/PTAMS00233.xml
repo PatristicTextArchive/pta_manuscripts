@@ -65,27 +65,32 @@
        43753
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Mc
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00233_01">
-      <locus from="012v" to="016v">
-       012v–016v
+      <locus from="12v" to="16v">
+       12v–16v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric><num>β</num> + τοῦ αὐτοῦ εἰς τὸ ἐναρχῆ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ καὶ τὰ βάθη τοῦ θυ</rubric>
+      <incipit>χθὲς ἡμῖν ὁ λόγος εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit>ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι· ἐν χῶ ἰυ ὧ ἡ δόξα εἰς τοὺς αἰώνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00233_02">
-      <locus from="016v" to="027">
-       016v–027
+      <locus from="16v" to="27">
+       16v–27
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta043" n="3" xml:id="PTAMS00233_03">
-      <locus from="059v" to="062v">
-       059v–062v
+      <locus from="59v" to="62v">
+       59v–62v
       </locus>
       <rubric/>
       <incipit/>

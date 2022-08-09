@@ -65,51 +65,88 @@
        8937
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Bs
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00042_01">
-      <locus from="001" to="005">
-       001–005
+      <locus from="1r" to="5r">
+       1r–5r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν αγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινου πόλεως τοῦ χρυσοστόμου· ὁμιλία εἰς τὸ ἐν ἀρχῆ ἦν ὁ λόγος· καὶ ὅτι τὸ πνεῦμα ἐρευνᾶ τὰ βάθη τοῦ θυ</rubric>
+      <incipit>Χθὲς ἡμῖν ὁ λόγος εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <explicit>γένοιτο δὲ εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ διδασκάλου ἀποστόλοις ἡμᾶς καὶ μάρτυσ’· ἐν ὀρθοδόξω πίστει συναυλίζεσθαι· ὦ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰων’ ἀμήν:—</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00042_02">
-      <locus from="005v" to="019">
-       005v–019
+      <locus from="5v" to="19r">
+       5v–19r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00042_03">
-      <locus from="026v" to="033v">
-       026v–033v
+     <msItem corresp="cpg:4326" n="3" xml:id="PTAMS00042_03">
+      <locus from="19r" to="26r">
+       19r–26r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="4" xml:id="PTAMS00042_04">
-      <locus from="059" to="067">
-       059–067
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="4" xml:id="PTAMS00042_04">
+      <locus from="26v" to="33v">
+       26v–33v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="5" xml:id="PTAMS00042_05">
-      <locus from="067v" to="077v">
-       067v–077v
+     <msItem defective="true" corresp="cpg:4576" n="5" xml:id="PTAMS00042_05">
+      <locus from="34r" to="43v">
+       34r–43v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit type="defective"/>
+     </msItem>
+     <msItem corresp="cpg:4332" n="6" xml:id="PTAMS00042_06">
+      <locus from="44r" to="51v">
+       44r–51v
+      </locus>
+      <rubric><note>hom. 3</note></rubric>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4417.1" n="7" xml:id="PTAMS00042_07">
+      <locus from="51v" to="59r">
+       51v–59r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="6" xml:id="PTAMS00042_06">
-      <locus from="077v" to="087v">
-       077v–087v
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="8" xml:id="PTAMS00042_08">
+      <locus from="59r" to="67r">
+       59r–67r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="9" xml:id="PTAMS00042_09">
+      <locus from="67v" to="77v">
+       67v–77v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="10" xml:id="PTAMS00042_10">
+      <locus from="77v" to="87v">
+       77v–87v
       </locus>
       <rubric/>
       <incipit/>
@@ -126,13 +163,7 @@
      </origin>
     </history>
     <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="http://www.codices.ch/graeca/biblio.php?id=799" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
+     <surrogates/>
     </additional>
    </msDesc>
   </body>
