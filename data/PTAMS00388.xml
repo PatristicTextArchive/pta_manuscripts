@@ -67,13 +67,13 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00388_01">
-      <locus from="059v" to="060">
-       059v–060
+     <msItem defective="true" corresp="cpg:4750" n="1" xml:id="PTAMS00388_01">
+      <locus from="59v" to="60r">
+       59v–60r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου ἑρμενεία εἰς τὸ ἐν ἀρχῆ ἦν ὁ λόγος καὶ ὁ λόγος ἦν πρὸς τὸν θεὸν καὶ θεὸς ἦν ὁ λόγος:</rubric>
+      <incipit type="defective">ὁ ἐνυπόστατος λόγος ὁ ἐν ὑστέροις καιροῖς φανερωθεὶς, καὶ τὴν οἰκουμένην διασώσας·</incipit>
+      <explicit type="defective">καὶ πᾶσι τὰ τῆς θείας δωρεᾶς θαύματα χαριζόμενος:–</explicit>
      </msItem>
     </msContents>
     <history>
