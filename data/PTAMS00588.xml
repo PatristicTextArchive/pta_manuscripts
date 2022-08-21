@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00588" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Cambridge, Trinity College, fonds principal B.08.10 (194)
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2022-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Cambridge
+     </settlement>
+     <repository>
+      Trinity College
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+      B.08.10 (194)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       11924
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0007_pta008">
+      <idno>
+       T
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msPart>
+    <msContents>
+     <msItem corresp="cpg:1450" n="1" xml:id="PTAMS00588_01">
+      <locus from="1r" to="214v">
+       1–214v
+      </locus>
+      <rubric>Ωριγένους ἐκ τω̑ν εἰς τὸ κατὰ Ματθαῖον ἐξηγητικω̑ν τόμος Ια̅</rubric>
+      <incipit>Τότε άφεὶς τοὺς ὄχλους ἦλθεν εἰς τὴν οἰκίαν.</incipit>
+      <explicit>τὴν διδαχὴν άποδεχόμενοι του̑ σωτῆρος. σοφωτάτην καὶ δυναμένην τοὺς δυσπίστως ἔχοντας ἐπιστρέψαι πρὸς αὐτόν.</explicit>
+     </msItem>
+    </msContents>
+    </msPart>
+    <msPart>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0007.pta008" n="2" xml:id="PTAMS00588_02">
+      <locus from="215r" to="252v">
+       f. 215r–252v = p. 1–76
+      </locus>
+      <rubric type="defective"/>
+      <incipit>Τὰ διὰ τὸ εὶ̑ναι μέγιστα καὶ ὑπὲρ ἄνθρωπον τυγχάνειν.</incipit>
+      <explicit>παρόντος μετὰ συγγνώμης τούτοις ἐντεύξεσθε.</explicit>
+     </msItem>
+    </msContents>
+    </msPart>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14–15
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.10" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.10/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
