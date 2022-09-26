@@ -65,6 +65,11 @@
        39293
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       La
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00195_01">
@@ -132,12 +137,12 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta025" n="8" xml:id="PTAMS00195_08">
-      <locus from="212" to="223">
-       212–223
+      <locus from="212r" to="223">
+       212r–223
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>+ τοῦ αὐτοῦ εις τας σφραγίδας; των βιβλίων, καὶ ὅπως προσφέρει ὁ υς τῶ πρι· καὶ ὁ πηρ τῶ υω, καὶ εις την του σρς οικονομίαν :-</rubric>
+      <incipit>μέγα τῆς ψυχῆς ἐφόδιον εἰς σωτηρίαν. τὰ ἱερὰ μαθήματα·</incipit>
+      <explicit>τάξει τὴν συμμετρίαν τιμήσωμεν· καὶ θω δόξαν ἀναπέμψωμεν· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:­–</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="9" xml:id="PTAMS00195_09">
       <locus from="237v">
