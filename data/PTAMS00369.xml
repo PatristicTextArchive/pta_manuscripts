@@ -65,6 +65,11 @@
        51075
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Pe
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00369_01">
@@ -84,12 +89,12 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00369_03">
-      <locus from="224" to="230v">
-       224–230v
+      <locus from="224r" to="230v">
+       224r–230v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>⁘τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννης τοῦ χρυσοστομου εἰς τὰς σφραγίδας τῶν τῶν βιβλίων· καὶ ὅπερ προσφέρει ὁ υς τῶ πρι· καὶ ὁ πηρ τῶ  ὑω· καὶ εἰς τὴν τοῦ σρς οἰκονομίαν ⁘</rubric>
+      <incipit>μέγα τῆς ψυχῆς ἐφόδιον εἰς σριαν, τὰ ἱερὰ μαθήματα·</incipit>
+      <explicit></explicit>
      </msItem>
     </msContents>
     <history>

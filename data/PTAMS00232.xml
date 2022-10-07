@@ -65,15 +65,20 @@
        43752
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Mb
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00232_01">
-      <locus from="202" to="209v">
-       202–209v
+      <locus from="202r" to="209r">
+       202r–209r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric><num>κ</num> + τοῦ αὐτοῦ εἰς τὸ ἐναρχῆ ἦν ὁ λόγος καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θυ:–</rubric>
+      <incipit>Χθὲς ἡμῖν ὁ λόγος εἰς τὴν τοῦ μεγάλου ἀετοῦ θε<lb break="no"/>ωρίαν κατέληξεν·</incipit>
+      <explicit>γένοιτο δὲ εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ διδασκάλου. ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι· ἐν χῶ ἰυ ὧ ἡ δόξα εἰς τοὺς αἰώνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00232_02">
       <locus from="209v" to="230v">

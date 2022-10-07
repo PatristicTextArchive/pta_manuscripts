@@ -88,13 +88,13 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00328_03">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00328_03">
       <locus from="093" to="098v, 040">
        093–098v, 040–040v, 099–104v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric type="defective"/>
+      <incipit type="defective">τῆι γὰρ κατ εἰκόνα τοῦ κοσμοποιοῦ γενομένη  λόγου.</incipit>
+      <explicit>ἑτέρω ταμιευσάμενοι λόγω. τάξει τὴν συμμετρίαν τιμησωμεν· καὶ θω δόξαν ἀναπέμψωμεν νῦν καὶ ἀεὶ. καὶ εἰς τοὺς αἰωνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="4" xml:id="PTAMS00328_04">
       <locus from="113" to="131v">
