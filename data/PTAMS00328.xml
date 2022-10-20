@@ -89,9 +89,11 @@
       <explicit/>
      </msItem>
      <msItem defective="true" corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00328_03">
-      <locus from="093" to="098v, 040">
-       093–098v, 040–040v, 099–104v
-      </locus>
+      <locusGrp>
+      <locus from="93r" to="98v">93r–98v</locus>
+      <locus from="40r" to="40v">40r–40v</locus>
+      <locus from="99r" to="104v">99r–104v</locus>
+      </locusGrp>
       <rubric type="defective"/>
       <incipit type="defective">τῆι γὰρ κατ εἰκόνα τοῦ κοσμοποιοῦ γενομένη  λόγου.</incipit>
       <explicit>ἑτέρω ταμιευσάμενοι λόγω. τάξει τὴν συμμετρίαν τιμησωμεν· καὶ θω δόξαν ἀναπέμψωμεν νῦν καὶ ἀεὶ. καὶ εἰς τοὺς αἰωνας τῶν αἰώνων ἀμήν:–</explicit>
