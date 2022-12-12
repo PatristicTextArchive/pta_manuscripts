@@ -65,15 +65,20 @@
        57146
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Sp
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00398_01">
-      <locus from="015" to="020">
-       015–020
+      <locus from="15" to="20">
+       15–20
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>+ τοῦ αὐτοῦ λόγος εἰς το πῶς αδὰμ τὴν ψυχην ἐλαβεν ὅτε ἐπλασθη· καὶ εἰς το πάθος τοῦ σρς ἑρμηνία· καὶ περι τῆς νυχθήσις πλευρὰς κε ευο</rubric>
+      <incipit>καλοὶ τῆς ὑπομονῆς οἱ πόνοι</incipit>
+      <explicit></explicit>
      </msItem>
     </msContents>
     <history>

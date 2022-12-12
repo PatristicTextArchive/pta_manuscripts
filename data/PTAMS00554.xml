@@ -156,12 +156,16 @@
      <origin>
       <p n="origDate">
        <origDate notAfter-iso="1595-12-31" notBefore-iso="1595-01-01">
-        1595
+        a. 1595
        </origDate>
       </p>
      </origin>
     </history>
-    <additional/>
+    <additional>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6172">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Holkham Gr. 48</ref></bibl>
+        </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>

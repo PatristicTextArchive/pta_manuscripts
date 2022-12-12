@@ -65,6 +65,11 @@
        47476
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Oe
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00285_01">
@@ -95,13 +100,16 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1598">
+       <origDate notAfter-iso="1598-12-31" notBefore-iso="1598-01-01">
         a. 1598
        </origDate>
       </p>
      </origin>
     </history>
     <additional>
+     <listBibl>
+        <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1020">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Barocci 189</ref></bibl>
+     </listBibl>
      <surrogates>
       <p>
        <bibl>

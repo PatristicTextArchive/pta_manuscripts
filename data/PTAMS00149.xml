@@ -67,10 +67,20 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="1" xml:id="PTAMS00149_01">
-      <locus from="015" to="023">
-       015–023
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta025" n="1" xml:id="PTAMS00149_01">
+      <locus from="15" to="15">
+       15
       </locus>
+      <rubric/>
+      <incipit>Μέγα τῆς ψυχῆς ἐφόδιον εἰς σωτηρίαν τὰ ἱερὰ μαθήμ-</incipit>
+      <note>Nur erste Zeile</note>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4329" n="2" xml:id="PTAMS00149_02">
+      <locus from="15" to="23">
+       15–23
+      </locus>
+      <note>beginnt mit Καὶ τοῦτο ἀεὶ παρακαλῶ, καὶ παρακαλῶν οὐ παύσομαι (= PG 48,991 Ende)</note>
       <rubric/>
       <incipit/>
       <explicit/>

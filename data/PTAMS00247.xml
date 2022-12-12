@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     München, Bayerische Staatsbibliothek, Cod. graec. 190
+     München, Bayerische Staatsbibliothek (BSB), Cod. graec. 190
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,7 +52,7 @@
       München
      </settlement>
      <repository>
-      Bayerische Staatsbibliothek
+      Bayerische Staatsbibliothek (BSB)
      </repository>
      <collection>
       Cod. graec.
@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        1530 ca.
+       <origDate notAfter-iso="1530-12-31" notBefore-iso="1530-01-01">
+        a. 1530 ca.
        </origDate>
       </p>
      </origin>

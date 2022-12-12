@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), grec 0777A
+     Paris, Bibliothèque nationale de France (BNF), grec 777A
     </title>
    </titleStmt>
    <editionStmt>
@@ -73,15 +73,23 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta057" n="1" xml:id="PTAMS00346_01">
-      <locus from="1-2v, 135rv, 3-4">
-       1-2v, 135rv, 3-4
+      <locusGrp>
+        <locus from="1" to="2v">
+       1-2v
       </locus>
+      <locus from="135r" to="135v">
+        135rv
+       </locus>
+       <locus from="3" to="4">
+        3-4
+       </locus>
+      </locusGrp>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta059" n="2" xml:id="PTAMS00346_02">
-      <locus from="18-34v">
+      <locus from="18" to="34v">
        18-34v
       </locus>
       <rubric/>
@@ -89,7 +97,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta060" n="3" xml:id="PTAMS00346_03">
-      <locus from="34v-58">
+      <locus from="34v" to="58">
        34v-58
       </locus>
       <rubric/>
@@ -97,7 +105,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta058" n="4" xml:id="PTAMS00346_04">
-      <locus from="4v-18">
+      <locus from="4v" to="18">
        4v-18
       </locus>
       <rubric/>
@@ -105,7 +113,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta061" n="5" xml:id="PTAMS00346_05">
-      <locus from="58-77v">
+      <locus from="58" to="77v">
        58-77v
       </locus>
       <rubric/>
@@ -113,7 +121,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta010" n="6" xml:id="PTAMS00346_06">
-      <locus from="77v-86v">
+      <locus from="77v" to="86v">
        77v-86v
       </locus>
       <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν ἔκτην ἡμέραν τῆς κοσμοποιίας· τὸ πῶς ὁ Ἀδὰμ τὴν ψυχὴν ἔλαβεν, ὅτε ἐπλάσθη· καὶ εἰς τὸ πάθος τοῦ σωτῆρος ἑρμηνεία· καὶ περὶ τῆς νυχθήσης πλευρᾶς τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ + κύριε εὐλογ +</rubric>
@@ -121,9 +129,14 @@
       <explicit>εἰς βασιλείαν οὐρανῶν ἐκκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ μεθοῦ τῶι πατρὶ δόξα σὺν ἁγίω πνεύματι εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:+</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta062" n="7" xml:id="PTAMS00346_07">
-      <locus from="86v-95v, 98-111">
-       86v-95v, 98-111
-      </locus>
+      <locusGrp> 
+        <locus from="86v" to="95v">
+       86v-95v
+        </locus> 
+        <locus from="98" to="111">
+       98-111
+        </locus>
+      </locusGrp>
       <rubric/>
       <incipit/>
       <explicit/>
@@ -132,7 +145,7 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1351-01-01">
         s. 14 (2/2)
        </origDate>
       </p>

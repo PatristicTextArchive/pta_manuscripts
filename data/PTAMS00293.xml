@@ -103,12 +103,17 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        10 ex
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0991-01-01">
+        s. 10 ex.
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4035">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Cromwell 20</ref></bibl>
+        </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>

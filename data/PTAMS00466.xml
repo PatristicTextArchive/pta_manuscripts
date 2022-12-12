@@ -95,8 +95,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        13-14
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1201-01-01">
+        s. 13–14
        </origDate>
       </p>
      </origin>

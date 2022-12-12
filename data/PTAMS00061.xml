@@ -99,9 +99,9 @@
     </msContents>
     <history>
      <origin>
-      <p n="origDate">
+      <p n="origDate" notAfter-iso="0900-12-31" notBefore-iso="0801-01-01">
        <origDate>
-        9
+        s. 9
        </origDate>
       </p>
      </origin>

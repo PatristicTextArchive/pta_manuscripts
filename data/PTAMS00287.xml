@@ -119,13 +119,16 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1572">
+       <origDate notAfter-iso="1601-12-31" notBefore-iso="1572-01-01">
         a. 1572 post
        </origDate>
       </p>
      </origin>
     </history>
     <additional>
+     <listBibl>
+        <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1048">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Barocci 212</ref></bibl>
+     </listBibl>
      <surrogates>
       <p>
        <bibl>

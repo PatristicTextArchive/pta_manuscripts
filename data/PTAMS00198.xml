@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Madrid, Biblioteca nacional de España, fonds principal 4554
+     Madrid, Biblioteca nacional de España (BNE), fonds principal 4554
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,7 +52,7 @@
       Madrid
      </settlement>
      <repository>
-      Biblioteca nacional de España
+      Biblioteca nacional de España (BNE)
      </repository>
      <collection>
       fonds principal
@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        10 ca.
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10 ca.
        </origDate>
       </p>
      </origin>

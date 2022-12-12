@@ -93,6 +93,11 @@
       </p>
      </origin>
     </history>
+    <additional>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6877">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Laud Gr. 64a</ref></bibl>
+        </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>

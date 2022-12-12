@@ -87,8 +87,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        14
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>
@@ -100,7 +100,7 @@
         <ref target="http://gallica.bnf.fr/ark:/12148/btv1b11004697d" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b11004697d" type="manifesturl"/>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004697d/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

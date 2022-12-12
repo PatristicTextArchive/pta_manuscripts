@@ -89,10 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110041337?rk=879832;4" type="straighturl"/>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b110041337" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110041337?rk=879832;4/manifest.json" type="manifesturl"/>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b110041337/manifest.json" type="manifesturl"/>
         </bibl>
       </p>
      </surrogates>

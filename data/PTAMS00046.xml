@@ -181,8 +181,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        17
+       <origDate notAfter-iso="1700-12-31" notBefore-iso="1601-01-01">
+        s. 17
        </origDate>
       </p>
      </origin>
@@ -191,7 +191,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://bvmm.irht.cnrs.fr/consult/consult.php?COMPOSITION_ID=15979&amp;corpus=manuscrit" type="straighturl"/>
+        <ref target="https://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?COMPOSITION_ID=15979" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://bvmm.irht.cnrs.fr/iiif/4624/manifest" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

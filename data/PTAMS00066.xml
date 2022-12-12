@@ -65,15 +65,20 @@
        15483
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ea
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00066_01">
-      <locus from="065v" to="071">
-       065v–071
+      <locus from="65v" to="71r">
+       65v–71r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ πῶς ὀ ἀδᾶμ τὴν ψυχὴν ἔλαβεν ὄτε ἐπλάσθη καὶ εἰς τὸ πάθος τοῦ σρς ἑρμηνεία καὶ περὶ τῆς νυχθήσης πλευρᾶς</rubric>
+      <incipit>καλοὶ τῆς ϋπομονῆς οἱ πόνοι·</incipit>
+      <explicit>εὐχαριστήσωμεν τῶ θω ὄτι παράδεισον διὰ τὴν παράβασιν ἀπωλέσαντες, εἰς βασιλείαν οὐνῶν ἐκλήθημεν· διὰ τῆς χάριτος τοῦ κυ ἡμῶν ιυ χυ· μεθ οὖ τῶ πρι δόξα· συν ἀγίω πνι εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00066_02">
       <locus from="102" to="103v">

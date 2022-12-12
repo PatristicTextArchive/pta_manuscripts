@@ -146,9 +146,9 @@
     </msContents>
     <history>
      <origin>
-      <p n="origDate" notBefore="1080" notAfter="1101">
-       <origDate>
-        s. 11 ex
+      <p n="origDate">
+       <origDate notBefore-iso="1091-01-01" notAfter-iso="1100-12-31">
+        s. 11 ex.
        </origDate>
       </p>
      </origin>

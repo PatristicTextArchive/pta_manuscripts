@@ -87,12 +87,17 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0991-01-01">
         s. 10 ex.
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8798">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Roe 24</ref></bibl>
+        </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>
