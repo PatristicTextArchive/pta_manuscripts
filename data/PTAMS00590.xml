@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00590" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Oxford, Bodleian Library, Barocci 102
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref> and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2023-01-16" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Oxford
+     </settlement>
+     <repository>
+      Bodleian Library
+     </repository>
+     <collection>
+       Barocci
+     </collection>
+     <idno>
+       102
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       47389
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0012_pta009">
+      <idno>
+       B
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0012.pta009" n="1" xml:id="PTAMS00590_01">
+      <locus from="1r" to="209v">
+       1–209v
+      </locus>
+      <rubric>τοῦ ἐν ἀγίοις πρς ἡμῶν Βασιλείου ἀρχιεπισκόπου Καισαρείας Καππαδοκίας· ἑρμηνεία εἰς τὸν προφήτην Ἡσαίαν:</rubric>
+      <incipit type="defective"></incipit>
+      <explicit>Εὐεργεσία τῶν ἐπὶ κακία συγκεκροτημένων, ἡ ἐντεῦθεν παίδευσις:-</explicit>
+      <finalRubric>ἐπληρω τα εἰς τὸν προφήτην ἡσαίαν τοῦ ἁγίου βασιλείου</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:2891" n="2" xml:id="PTAMS00590_02">
+      <locus from="209v" to="210v">
+       f. 209v–210v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ λόγος ἀσκητικός</rubric>
+      <incipit>Ὁ ἄνθρωπος κατʼ εἰκόνα θεοῦ ἐγένετο</incipit>
+      <explicit>ἐμμάρτυρον γὰρ εἶναι προσήκει τὸν τοιοῦτον βίον ὡς ἂν ἐκτὸς εἶναι πονηρᾶς ὑποψίας: εἰς δόξαν πρς υἱοῦ καὶ ἁγίου πνς· νῦν καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:</explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1091-01-01">
+        s. 11 ex.
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://digital.bodleian.ox.ac.uk/objects/8102c257-80c2-4d52-97e8-f23b38b5ab0e/" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/8102c257-80c2-4d52-97e8-f23b38b5ab0e.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

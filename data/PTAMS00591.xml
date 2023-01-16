@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00591" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 04. 02
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2023-01-16" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Firenze
+     </settlement>
+     <repository>
+      Biblioteca Medicea Laurenziana (BML)
+     </repository>
+     <collection>
+      Plut.
+     </collection>
+     <idno>
+      04.02
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       15918
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0012_pta009">
+      <idno>
+       L
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0012.pta009" n="1" xml:id="PTAMS00591_01">
+      <locus from="1r" to="321r">
+       1r–321r
+      </locus>
+      <rubric>τοῦ ἐν ἀγίοις πρς ἡμῶν Βασιλείου ἀρχιεπισκόπου Καισαρείας Καππαδοκίας ἑρμηνεία εἰς προφήτην Ἡσαίαν</rubric>
+      <incipit>εὔξασθε μὴ γενέσθαι τὴν φυγὴν ὑμῶν χειμῶνος ἢ σαββάτου σημειωτέον ὅτι χειμῶνα ἢ σάββατον</incipit>
+      <explicit>ὀλιγοστὸς καὶ οὐκ ἐργασία τῶν ἐπὶ κακία συγκεκροτημένων ἡ ἐντεῦθεν παίδευσις:-</explicit>
+      <finalRubric>τέλος τῆς παρούσης βίβλου</finalRubric>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.4.2" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

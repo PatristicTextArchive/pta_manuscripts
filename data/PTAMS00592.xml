@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00592" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paris, Bibliothèque nationale de France (BNF), Coisl. 113
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2023-01-16" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Paris
+     </settlement>
+     <repository>
+      Bibliothèque nationale de France (BNF)
+     </repository>
+     <collection>
+      Coisl.
+     </collection>
+     <idno>
+      113
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       49257
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0012_pta009">
+      <idno>
+       C
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem defective="true" corresp="cpg:4409" n="1" xml:id="PTAMS00592_01">
+      <locus from="1r" to="2v">
+       1r–2v
+      </locus>
+      <rubric type="defective"></rubric>
+      <incipit type="defective"></incipit>
+      <explicit type="defective"></explicit>
+     </msItem>
+     <msItem corresp="cpg:5204" n="2" xml:id="PTAMS00592_02">
+      <locus from="3r" to="110v">
+       3r–110v
+      </locus>
+      <rubric>Κυρίλλου ἁρχιεπισκόπου ἀλεξανδρείας· ἑξήγησις ὑπομνηματική· εἰς τὸν προφήτην Ζαχαρίαν</rubric>
+      <incipit>ἐν τω ὀγδόω μηνὶ ἔτους δευτέρου ἐπὶ δαρείου</incipit>
+      <explicit>οὐκ ἔσται Χαναναῖος· τουτέστιν ἀλλογενὴς· καὶ εἰδωλολάτρης ἐν τῶ οἴκω κυ παντοκράτορος· ἐριρείσμεθα γὰρ ὡς ἔφην ἐν πίστει καὶ τοῖς εἰς ἀσφάλειαν αὐχήμασι κατεστέμμεθα διὰ χυ· δι’ οὗ καὶ μεθ’ οὗ τω θω καὶ πρι ἡ δόξα σὺν τῶ ἁγίῳ πνι εἰς τοὺς αἰῶνας ἀμήν:-</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0012.pta009" n="3" xml:id="PTAMS00592_03">
+      <locus from="110v" to="287r">
+       110v–287r
+      </locus>
+      <rubric>τοῦ ἐν ἀγίοις πρς ἡμῶν Βασιλείου ἀρχιεπισκόπου γεναμένου Καισαρείας Καππαδοκίας· εἰς τὸν προφήτην Ἡσαίαν ἑρμηνεία·</rubric>
+      <incipit>εὔξασθε δὴ μὴ γενέσθαι τὴν φυγὴν ὑμῶν χειμῶνος ἢ σαββάτω</incipit>
+      <explicit>ἑπὶ εὐεργεσία τῶν ἐπὶ κακία συγκεκροτημένων· +</explicit>
+     </msItem>
+     <msItem corresp="cpg:6200" n="4" xml:id="PTAMS00592_04">
+      <locus from="287r" to="435v">
+       287r–435v
+      </locus>
+      <rubric>θεοδωρήτου εἰς τὰ ἀποραθῆς θείας γραφῆς κατ ἐκλογἠν· χε σύνπραττε·</rubric>
+      <incipit>καὶ ἄλλοι μὲν φιλομαθεῖς ἄνδρες ἐπηγγείλαντο</incipit>
+      <explicit></explicit>
+      <note>in Katenenform</note>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="0801-01-01">
+        s. 9–10
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b100379029" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b100379029/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
