@@ -65,7 +65,7 @@
        49257
       </idno>
      </altIdentifier>
-     <altIdentifier type="sigle_pta0012_pta009">
+     <altIdentifier type="sigle_pta0021_pta009">
       <idno>
        C
       </idno>
@@ -88,7 +88,7 @@
       <incipit>ἐν τω ὀγδόω μηνὶ ἔτους δευτέρου ἐπὶ δαρείου</incipit>
       <explicit>οὐκ ἔσται Χαναναῖος· τουτέστιν ἀλλογενὴς· καὶ εἰδωλολάτρης ἐν τῶ οἴκω κυ παντοκράτορος· ἐριρείσμεθα γὰρ ὡς ἔφην ἐν πίστει καὶ τοῖς εἰς ἀσφάλειαν αὐχήμασι κατεστέμμεθα διὰ χυ· δι’ οὗ καὶ μεθ’ οὗ τω θω καὶ πρι ἡ δόξα σὺν τῶ ἁγίῳ πνι εἰς τοὺς αἰῶνας ἀμήν:-</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0012.pta009" n="3" xml:id="PTAMS00592_03">
+     <msItem corresp="urn:cts:pta:pta0021.pta009" n="3" xml:id="PTAMS00592_03">
       <locus from="110v" to="287r">
        110v–287r
       </locus>
