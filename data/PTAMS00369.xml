@@ -88,13 +88,13 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00369_03">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta025" n="3" xml:id="PTAMS00369_03">
       <locus from="224r" to="230v">
        224r–230v
       </locus>
       <rubric>⁘τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννης τοῦ χρυσοστομου εἰς τὰς σφραγίδας τῶν τῶν βιβλίων· καὶ ὅπερ προσφέρει ὁ υς τῶ πρι· καὶ ὁ πηρ τῶ  ὑω· καὶ εἰς τὴν τοῦ σρς οἰκονομίαν ⁘</rubric>
       <incipit>μέγα τῆς ψυχῆς ἐφόδιον εἰς σριαν, τὰ ἱερὰ μαθήματα·</incipit>
-      <explicit></explicit>
+      <explicit type="defective">ἐνδύεται σάρκα, ἵνα κρατηθῆ ὁ μη κρατούμενος· δια τοῦτο ὁ ιωάννης εὑρὼν</explicit>
      </msItem>
     </msContents>
     <history>
