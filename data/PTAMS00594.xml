@@ -72,11 +72,19 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
+     <msItem defective="true" corresp="cpg:3010.4" n="2" xml:id="PTAMS00594_01">
+      <locus from="1r" to="2v">
+       1r–­2v
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">XXX</incipit>
+      <explicit type="defective">XXX</explicit>
+     </msItem>
      <msItem defective="true" corresp="urn:cts:pta:pta0021.pta009" n="2" xml:id="PTAMS00594_02">
       <locus from="3r" to="182v">
        3r–­182v
       </locus>
-      <rubric></rubric>
+      <rubric type="defective"/>
       <incipit type="defective"></incipit>
       <explicit type="defective"></explicit>
      </msItem>
@@ -84,9 +92,9 @@
       <locus from="183r" to="183r">
        183r
       </locus>
-      <rubric type="defective"></rubric>
-      <incipit type="defective"></incipit>
-      <explicit type="defective"></explicit>
+      <rubric type="defective"/>
+      <incipit type="defective">τιον φύσει μείζον· καἱ συνάγουσιν ὁ πηρ φύσει μείζων</incipit>
+      <explicit type="defective">ὁμοίως δὲ καὶ ἐν τῶ λέγειν ὁ θς οὐσία, ἡ οὐσία δὲ οὐ πάντως θς:-</explicit>
      </msItem>
      <msItem defective="true" corresp="cpg:3010.29" n="4" xml:id="PTAMS00594_04">
       <locus from="183r" to="184v">
