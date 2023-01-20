@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00594" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paris, Bibliothèque nationale de France (BNF), Grec 493
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2023-01-20" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Paris
+     </settlement>
+     <repository>
+      Bibliothèque nationale de France (BNF)
+     </repository>
+     <collection>
+      Grec
+     </collection>
+     <idno>
+      493
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       50067
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0021_pta009">
+      <idno>
+       P2
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem defective="true" corresp="urn:cts:pta:pta0021.pta009" n="2" xml:id="PTAMS00594_02">
+      <locus from="3r" to="182v">
+       3r–­182v
+      </locus>
+      <rubric></rubric>
+      <incipit type="defective"></incipit>
+      <explicit type="defective"></explicit>
+     </msItem>
+     <msItem defective="true" corresp="???" n="3" xml:id="PTAMS00594_03">
+      <locus from="183r" to="183r">
+       183r
+      </locus>
+      <rubric type="defective"></rubric>
+      <incipit type="defective"></incipit>
+      <explicit type="defective"></explicit>
+     </msItem>
+     <msItem defective="true" corresp="cpg:3010.29" n="4" xml:id="PTAMS00594_04">
+      <locus from="183r" to="184v">
+       183r–184v
+      </locus>
+      <rubric>Περὶ υἱοῦ</rubric>
+      <incipit>Ἃ μὲν οὖν εἴποι τις ἂν ἐπικόπτων τὴν περὶ τὸν λόγον αὐτῶν ἑτοιμότητα καὶ ταχύτητα·</incipit>
+      <explicit type="defective">πότε τοῦ θέλειν ἠργμένος· οὐ γὰρ πρὶν εἶναι· οὐδὲ γὰρ ἦν τι</explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. XI
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b10723228d" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723228d/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
