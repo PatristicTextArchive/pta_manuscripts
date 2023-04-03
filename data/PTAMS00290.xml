@@ -72,64 +72,123 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00290_01">
+        <msItem corresp="cpg:7430" n="1" xml:id="PTAMS00290_01">
+         <locus from="1r" to="110r">
+          1r–110r
+         </locus>
+         <rubric>ἀρχὴ σὺν Θεῷ τῆς εἰς τὴν γένεσιν τῶν ἐκλογῶν ἐπιτομῆς Προκοπίου χριστιανοῦ σοφιστοῦ.</rubric>
+         <incipit>ἤδη μὲν καὶ πρότερον, Θεοῦ τὸ δύνασθαι χορηγήσαντος, τὰς καταβεβλημένας.</incipit>
+         <explicit>ἀνέπεμψεν ὅτι αὐτῷ πρέπει τιμὴ καὶ προσκύνησις εἰς τοὺς αἰῶνας, ἀμὴν.</explicit>
+        </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta026" n="2" xml:id="PTAMS00290_02">
       <locus from="110r" to="114v">
        110r–114v
       </locus>
-      <rubric>+ τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντίνου πόλεως τοῦ χρυσοστόμου· ὁμηλία εἰς τὸ ἐν ἀρχὴ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θυ:–</rubric>
-      <incipit>Χθὲς ἡμῖν ὁ λόγος, εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
+      <rubric>+ τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντίνου πόλεως τοῦ χρυσοστόμου· ὁμηλία εἰς τὸ ἐν ἀρχὴ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θυ:–</rubric>
+      <incipit>Χθὲς ἡμῖν ὁ λόγος, εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
       <explicit><!-- letzte Seite in Digitalisat fehlt--></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00290_02">
+     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00290_03">
       <locus from="114v" to="129">
        114v–129
       </locus>
-      <rubric/>
+      <rubric>τοῦ αὐτοῦ λόγος περὶ τοῦ κατὰ Μωσέων ὄφεως, ὃv ἐσταύρωσεν ἐν τῇ ἐρήμῳ, καὶ περὶ τῆς τριάδος.</rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4325" n="4" xml:id="PTAMS00290_04">
+      <locus from="129" to="137">
+        129-137
+      </locus>
+      <note>Iohannes Chrysostomus, De Christi diuinitate (Contra Anomoeos homilia 12)</note>
+      <rubric>τοῦ αὐτοῦ εἰς τὸν παραλυτικὸν, τὸν τὰ τριάκοντα ὀκτὼ ἔτη ἔχοντα ἐν τῇ ἀσθενείᾳ.</rubric>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00290_03">
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="5" xml:id="PTAMS00290_05">
       <locus from="137" to="145">
        137–145
       </locus>
-      <rubric/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸν ἅγιον ἀκάκιον τὸν ποιμένα, καὶ εἰς τὸ πρόβατον καὶ εἰς τὸ καταπέτασμα
+        καὶ εἰς τὸ ἱλαστήριον</rubric>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="4" xml:id="PTAMS00290_04">
+     <msItem corresp="cpg:4576" n="6" xml:id="PTAMS00290_06">
+        <locus from="145" to="153v">
+         145-153v
+        </locus>
+        <rubric>τοῦ αὐτοῦ εἰς τὸ, ἀρκεῖ σοι ἡ χάρις μου, ἡ γὰρ δύναμίς μου, κ.λ.</rubric>
+        <incipit/>
+        <explicit/>
+       </msItem>
+       <msItem corresp="bhg:939s" n="7" xml:id="PTAMS00290_07">
+        <locus from="154r" to="161v">
+            154r-161v
+        </locus>
+        <rubric>τοῦ αὐτοῦ, ὅτι ἐκ ῥαθυμίας ἡ κακία καὶ ἀπὸ σπονδῆς ἡ ἀρετὴ, κ.λ.</rubric>
+        <incipit/>
+        <explicit/>
+       </msItem>
+       <msItem corresp="cpg:4417.1" n="8" xml:id="PTAMS00290_08">
+        <locus from="162r" to="169v">
+            162r-169v
+        </locus>
+        <rubric>τοῦ αὐτοῦ ἔπαινος τῶν ἀπαντησάντων ἐν τῇ ἐκκλησίᾳ, καὶ περὶ εὐταξίας τῆς ἐν ταῖς δοξολογίαις, καὶ εἰς τὸ ἴδον, κ.λ.</rubric>
+        <incipit/>
+        <explicit/>
+       </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="9" xml:id="PTAMS00290_09">
       <locus from="169v" to="177v">
        169v–177v
       </locus>
-      <rubric/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ, ὅτι παλαιᾶς καὶ καινῆς νομοθέτης, καὶ εἰς τὸ ἔνδυμα τοῦ ἱερέως καὶ περὶ μετανοίας</rubric>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="5" xml:id="PTAMS00290_05">
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="10" xml:id="PTAMS00290_10">
       <locus from="178" to="188">
        178–188
       </locus>
-      <rubric/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ ῥητὸν τοῦ Ἀβραὰμ τὸ λέγον, θὲς τὴν χεῖρα σου ὑπὸ τὸν μηρόν μου, κ.λ.</rubric>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="6" xml:id="PTAMS00290_06">
-      <locus from="188" to="197v">
-       188–197v
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="11" xml:id="PTAMS00290_11">
+      <locus from="188r" to="197v">
+       188r–197v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>+ τοῦ αὐτοῦ εἰς τὰς σφραγίδας τῶν βιβλίων· καὶ ὅπως προσφέρει ὁ υἱὸς τῶ πρὶ· καὶ ὁ πὴρ τῷ υἱῷ καὶ εἰς τὴν τοῦ σρς οἰκονομίαν:–</rubric>
+      <incipit>μέγα τῆς ψυχῆς ἐφόδιον εἰς σωτηρίαν τὰ ἱερὰ μαθήματα·</incipit>
+      <explicit>τὰ δὲ λείποντα τῆ θεωρία τοῦ θῦ λόγου, ἑτέρω ταμιευσάμενοι λόγω, τάξει τὴν συμμετρίαν τιμήσωμεν· καὶ θῷ δόξαν ἀναπέμψωμεν νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
     </msContents>
+    <physDesc>
+        <handDesc hands="2">
+            <handNote xml:id="RKGIII475">
+                <p>The first part of the manuscript, <locus from="1r" to="109r">fols
+                     1r–109r</locus>, is written by Μιχαήλ, cf. RGK III 475. s. XVI med.</p>
+            </handNote>
+            <handNote xml:id="RKGI252">
+                <p>The second part of the manuscript, <locus from="110v" to="197v">fols
+                     110v–197v</locus>, is written by Μανουὴλ Μῶρος, cf. RGK I 252 = RKG II 348 = RKG III 417. s. XVI (3/4)</p>
+            </handNote>
+        </handDesc>
+    </physDesc>
     <history>
      <origin>
       <p n="origDate">
        <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+        s. 16 /// Katalog: 15th century end = 1490 - 1500
        </origDate>
       </p>
      </origin>
     </history>
+    <additonal>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_2531">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Canon. Gr. 99</ref></bibl>
+        </listBibl>
+    </additonal>
    </msDesc>
   </body>
  </text>
