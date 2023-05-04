@@ -38,6 +38,9 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2023-04-01" who="#AvS">
+     Added rubrics, incipits etc.
+    </change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -86,7 +89,7 @@
       </locus>
       <rubric>+ τοῦ ἐν ἁγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντίνου πόλεως τοῦ χρυσοστόμου· ὁμηλία εἰς τὸ ἐν ἀρχὴ ἦν ὁ λόγος· καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θυ:–</rubric>
       <incipit>Χθὲς ἡμῖν ὁ λόγος, εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν·</incipit>
-      <explicit><!-- letzte Seite in Digitalisat fehlt--></explicit>
+      <explicit>ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι ἐν χῷ ἰυ· ᾦ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00290_03">
       <locus from="114v" to="129">
