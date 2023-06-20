@@ -352,7 +352,7 @@ Aldama 116)
         <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107238383" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/view3if/iiif/12148/btv1b107238383/manifest.json" type="manifesturl"/>
+        <ref target="https://gallica.bnf.fr/iiif/12148/btv1b107238383/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>
