@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paris, Bibliothèque nationale de France (BNF), Grec1327
+     Paris, Bibliothèque nationale de France (BNF), Grec 1327
     </title>
    </titleStmt>
    <editionStmt>
@@ -63,6 +63,11 @@
      <altIdentifier type="diktyon">
       <idno>
        50936
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0013">
+      <idno>
+       Pg
       </idno>
      </altIdentifier>
     </msIdentifier>
@@ -445,6 +450,9 @@
       <p>
        <bibl>
         <ref target="http://gallica.bnf.fr/ark:/12148/btv1b107218960" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107218960/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>
