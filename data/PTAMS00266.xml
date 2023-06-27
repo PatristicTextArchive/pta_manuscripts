@@ -93,6 +93,11 @@
       </p>
      </origin>
     </history>
+    <additonal>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_553">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Auct. E. 2. 6</ref></bibl>
+        </listBibl>
+    </additonal>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Holkham gr. 030
+     Oxford, Bodleian Library, Holkham gr. 30
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,7 +58,7 @@
       Holkham
      </collection>
      <idno>
-      gr. 030
+      gr. 30
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -102,6 +102,11 @@
      </origin>
     </history>
     <additional>
+    <additonal>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6153">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Holkham Gr. 30</ref></bibl>
+        </listBibl>
+    </additonal>
      <surrogates>
       <p>
        <bibl>

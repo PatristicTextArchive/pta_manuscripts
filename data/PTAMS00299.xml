@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Holkham gr. 044
+     Oxford, Bodleian Library, Holkham gr. 44
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,7 +58,7 @@
       Holkham
      </collection>
      <idno>
-      gr. 044
+      gr. 44
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -117,6 +117,11 @@
       </p>
      </origin>
     </history>
+    <additonal>
+        <listBibl>
+            <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6168">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Holkham Gr. 44</ref></bibl>
+        </listBibl>
+    </additonal>
    </msDesc>
   </body>
  </text>
