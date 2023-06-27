@@ -86,7 +86,7 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notBefore="0949-01-01" notAfter="0951-01-01">
+       <origDate notBefore-iso="0949-01-01" notAfter-iso="0951-12-31">
         s. 10 med.
        </origDate>
       </p>

@@ -87,7 +87,7 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1561–1562">
+       <origDate notAfter-iso="1562-12-31" notBefore-iso="1561-01-01">
         a. 1561–1562
        </origDate>
       </p>

@@ -93,7 +93,7 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when="0942-05-03">
+       <origDate notAfter-iso="0942-05-03" notBefore-iso="0942-05-03">
         a. 942, 3.5. (subscriptio f. 316v)
        </origDate>
       </p>

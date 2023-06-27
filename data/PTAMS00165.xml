@@ -87,7 +87,7 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="1340">
+       <origDate notAfter-iso="1340-12-31" notBefore-iso="1340-01-01">
         a. 1340
        </origDate>
       </p>

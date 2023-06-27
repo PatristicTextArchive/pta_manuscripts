@@ -93,8 +93,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        1445 ca.
+       <origDate notAfter-iso="1445-12-31" notBefore-iso="1445-01-01">
+        a. 1445 ca.
        </origDate>
       </p>
      </origin>

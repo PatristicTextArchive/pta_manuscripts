@@ -79,8 +79,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate when-iso="ca.">
-        10 ca.
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10 ca.
        </origDate>
       </p>
      </origin>
