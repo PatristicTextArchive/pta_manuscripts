@@ -99,6 +99,9 @@
        <bibl>
         <ref target="https://www.loc.gov/item/0027938068A-ms" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/0027938068A-ms/manifest.json" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>
