@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7595081.svg)](https://doi.org/10.5281/zenodo.7595081)
+
 # PTA Database of Manuscripts
 
 At the moment, for the greatest part the database contains only rudimentary data on the manuscripts containing texts edited in the [Patristic Text Archive (PTA)](https://pta.bbaw.de) by the project [„Alexandrinische und antiochenische Bibelexegese der Spätantike“](https://bibelexegese.bbaw.de). That data is widely based on data provided by [Pinakes](https://pinakes.irht.cnrs.fr/) and, for manuscripts transmitting the homilies of Severian of Gabala, on handwritten notes by Karl-Heinz Uthemann.
