@@ -115,6 +115,9 @@
        <bibl>
         <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3517" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="http://digitalcollections.nlg.gr/nlg-repo/dl/en/iiifmetadata/3517" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>
