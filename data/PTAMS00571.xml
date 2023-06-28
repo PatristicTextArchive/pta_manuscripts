@@ -170,7 +170,7 @@
         <ref target="http://gallica.bnf.fr/ark:/12148/btv1b11000126s" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/12148/btv1b11000126s/manifest.json" type="manifesturl"/>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000126s/manifest.json" type="manifesturl"/>
         </bibl>
       </p>
      </surrogates>
