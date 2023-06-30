@@ -444,7 +444,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="https://daten.digitale-sammlungen.de/~db/0013/bsb00131097/images/" type="straighturl"/>
+        <ref target="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00131097-0" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00131097/manifest" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>
