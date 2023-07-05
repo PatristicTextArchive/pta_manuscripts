@@ -72,7 +72,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:" n="1" xml:id=" PTAMS00597_01">
+     <msItem n="1" xml:id=" PTAMS00597_01">
       <note>
        Nilus Doxapatres, In Athanasium Contra Arium ()
       </note>
@@ -215,8 +215,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2247
-BHG 0446g, 0449h" n="14" xml:id=" PTAMS00597_14">
+     <msItem corresp="cpg:2247" n="14" xml:id=" PTAMS00597_14">
       <note>
        Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
 BHG 0446g, 0449h)
@@ -316,8 +315,7 @@ BHG 0446g, 0449h)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2268
-BHG 1147t" n="23" xml:id=" PTAMS00597_23">
+     <msItem corresp="cpg:2268" n="23" xml:id=" PTAMS00597_23">
       <note>
        Athanasius Alexandrinus, In annuntiationem Deiparae (CPG 2268
 BHG 1147t)
@@ -329,8 +327,7 @@ BHG 1147t)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2247
-BHG 0446g, 0449h" n="24" xml:id=" PTAMS00597_24">
+     <msItem corresp="cpg:2247" n="24" xml:id=" PTAMS00597_24">
       <note>
        Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
 BHG 0446g, 0449h)
@@ -430,9 +427,7 @@ BHG 0446g, 0449h)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:3674
-2243
-2869" n="33" xml:id=" PTAMS00597_33">
+     <msItem corresp="cpg:3674" n="33" xml:id=" PTAMS00597_33">
       <note>
        Apollinaris Laodicenus, Contra sabellianos, et Arium, et anomoeos (Homilia) (CPG 3674
 CPG 2243
@@ -467,7 +462,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:21" n="36" xml:id=" PTAMS00597_36">
+     <msItem corresp="cpg:2100" n="36" xml:id=" PTAMS00597_36">
       <note>
        Athanasius Alexandrinus, Ep. ad Maximum (CPG 21)
       </note>
@@ -482,8 +477,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Refutatio hypocriseos Meletii et Eusebii (CPG 2242)
       </note>
-      <locus from="299v" to="3">
-       299v–3
+      <locus from="299v" to="300">
+       299v–300
       </locus>
       <rubric/>
       <incipit/>
@@ -493,8 +488,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Epistula catholica (CPG 2241)
       </note>
-      <locus from="3r" to="v">
-       3r–v
+      <locus from="300r" to="v">
+       300r–v
       </locus>
       <rubric/>
       <incipit/>
@@ -504,8 +499,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Contra omnes haereses (CPG 2251)
       </note>
-      <locus from="3v" to="305v">
-       3v–305v
+      <locus from="300v" to="305v">
+       300v–305v
       </locus>
       <rubric/>
       <incipit/>
@@ -533,9 +528,9 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:21" n="42" xml:id=" PTAMS00597_42">
+     <msItem corresp="cpg:2100" n="42" xml:id=" PTAMS00597_42">
       <note>
-       Alexander Alexandrinus ptr. I, Arii Depositio (CPG 21)
+       Alexander Alexandrinus ptr. I, Arii Depositio (CPG 2100)
       </note>
       <locus from="330v">
        330v
@@ -544,9 +539,9 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:20" n="43" xml:id=" PTAMS00597_43">
+     <msItem corresp="cpg:2000" n="43" xml:id=" PTAMS00597_43">
       <note>
-       Alexander Alexandrinus ptr. I, Epistula Encyclica (CPG 20)
+       Alexander Alexandrinus ptr. I, Epistula Encyclica (CPG 2000)
       </note>
       <locus from="330v" to="332v">
        330v–332v
@@ -775,9 +770,9 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:29" n="64" xml:id="PTAMS00597_64">
+     <msItem corresp="cpg:2900" n="64" xml:id="PTAMS00597_64">
       <note>
-       Basilius Caesariensis, Epistulae (CPG 29)
+       Basilius Caesariensis, Epistulae (CPG 2900)
       </note>
       <locus from="460v">
        460v
@@ -786,8 +781,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:29.041
-BHG 0260bII" n="65" xml:id="PTAMS00597_65">
+     <msItem corresp="cpg:2900.041" n="65" xml:id="PTAMS00597_65">
       <note>
        Basilius Caesariensis, Ad Iulianum (Ep. 41) (CPG 29.041
 BHG 0260bII)
@@ -799,7 +793,7 @@ BHG 0260bII)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:BHG 0260bI" n="66" xml:id="PTAMS00597_66">
+     <msItem corresp="bhg:260b" n="66" xml:id="PTAMS00597_66">
       <note>
        Iulianus Flauius Claudius, Epistulae ad Basilium (BHG 0260bI)
       </note>
@@ -935,7 +929,7 @@ BHG 0260bII)
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="14-12-31" notBefore-iso="1301-01-01">
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
         s. 14
        </origDate>
       </p>
