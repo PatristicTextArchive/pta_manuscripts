@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00597" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/21/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Basel, Universitätsbibliothek A. III. 4
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2023-07-04" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Basel
+     </settlement>
+     <repository>
+      Universitätsbibliothek
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+      A. III. 4
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       8877
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta22">
+      <idno>
+       B
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:" n="1" xml:id=" PTAMS00597_01">
+      <note>
+       Nilus Doxapatres, In Athanasium Contra Arium ()
+      </note>
+      <locus from="3r" to="v">
+       3r–v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2090" n="2" xml:id=" PTAMS00597_02">
+      <note>
+       Athanasius Alexandrinus, Contra gentes (CPG 2090)
+      </note>
+      <locus from="7" to="29">
+       7–29
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2091" n="3" xml:id=" PTAMS00597_03">
+      <note>
+       Athanasius Alexandrinus, De incarnatione Verbi (CPG 2091)
+      </note>
+      <locus from="29" to="53v">
+       29–53v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2250" n="4" xml:id=" PTAMS00597_04">
+      <note>
+       Athanasius Alexandrinus (Auteur supposé (tradition manuscrite)), Disputatio contra Arium (CPG 2250)
+      </note>
+      <locus from="53v" to="68">
+       53v–68
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2092" n="5" xml:id=" PTAMS00597_05">
+      <note>
+       Athanasius Alexandrinus, Epistula ad episcopos Aegypti et Libyae (CPG 2092)
+      </note>
+      <locus from="68" to="78">
+       68–78
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2093" n="6" xml:id=" PTAMS00597_06">
+      <note>
+       Athanasius Alexandrinus, Contra arianos I–III (CPG 2093)
+      </note>
+      <locus from="78" to="161">
+       78–161
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2806" n="7" xml:id=" PTAMS00597_07">
+      <note>
+       Athanasius Alexandrinus, De incarnatione et contra arianos (CPG 2806)
+      </note>
+      <locus from="161" to="167">
+       161–167
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2124" n="8" xml:id=" PTAMS00597_08">
+      <note>
+       Athanasius Alexandrinus, Epistula encyclica (CPG 2124)
+      </note>
+      <locus from="167" to="170">
+       167–170
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2094" n="9" xml:id=" PTAMS00597_09">
+      <note>
+       Athanasius Alexandrinus, Epistulae ad Serapionem I–IV (CPG 2094)
+      </note>
+      <locus from="170" to="185v, 201v">
+       170–185v, 201v–206, 259–264
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2241" n="10" xml:id=" PTAMS00597_10">
+      <note>
+       Athanasius Alexandrinus, Epistula catholica (CPG 2241)
+      </note>
+      <locus from="185v" to="186">
+       185v–186
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2242" n="11" xml:id=" PTAMS00597_11">
+      <note>
+       Athanasius Alexandrinus, Refutatio hypocriseos Meletii et Eusebii (CPG 2242)
+      </note>
+      <locus from="186r" to="v">
+       186r–v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2095" n="12" xml:id=" PTAMS00597_12">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Epictetum (CPG 2095)
+      </note>
+      <locus from="186v" to="189v">
+       186v–189v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2231" n="13" xml:id=" PTAMS00597_13">
+      <note>
+       Athanasius Alexandrinus, De incarnatione contra Apollinarium I–II (CPG 2231)
+      </note>
+      <locus from="189v" to="201v">
+       189v–201v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2247
+BHG 0446g, 0449h" n="14" xml:id=" PTAMS00597_14">
+      <note>
+       Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
+BHG 0446g, 0449h)
+      </note>
+      <locus from="206" to="207">
+       206–207
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2097" n="15" xml:id=" PTAMS00597_15">
+      <note>
+       Athanasius Alexandrinus, Epistula ad Marcellinum (CPG 2097)
+      </note>
+      <locus from="207" to="215v">
+       207–215v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2248" n="16" xml:id=" PTAMS00597_16">
+      <note>
+       Athanasius Alexandrinus, De uirginitate (CPG 2248)
+      </note>
+      <locus from="216" to="221v">
+       216–221v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2240" n="17" xml:id=" PTAMS00597_17">
+      <note>
+       Athanasius Alexandrinus, Testimonia e scriptura (De communi essentia Patris et Filii et Spiritus Sancti) (CPG 2240)
+      </note>
+      <locus from="221v" to="229v">
+       221v–229v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3738" n="18" xml:id=" PTAMS00597_18">
+      <note>
+       Athanasius Alexandrinus, De incarnatione Dei Verbi (CPG 3738)
+      </note>
+      <locus from="230r" to="v">
+       230r–v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2291" n="19" xml:id=" PTAMS00597_19">
+      <note>
+       Athanasius Alexandrinus, Ep. Liberii ad Athanasium (CPG 2291)
+      </note>
+      <locus from="231">
+       231
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2805" n="20" xml:id=" PTAMS00597_20">
+      <note>
+       Marcellus Ancyranus, Contra Theopaschitas (CPG 2805)
+      </note>
+      <locus from="231r" to="v">
+       231r–v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2098" n="21" xml:id=" PTAMS00597_21">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Adelphium (CPG 2098)
+      </note>
+      <locus from="231v" to="233v">
+       231v–233v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2246" n="22" xml:id=" PTAMS00597_22">
+      <note>
+       Athanasius Alexandrinus, In illud : Profecti in pagum (CPG 2246)
+      </note>
+      <locus from="233v" to="236">
+       233v–236
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2268
+BHG 1147t" n="23" xml:id=" PTAMS00597_23">
+      <note>
+       Athanasius Alexandrinus, In annuntiationem Deiparae (CPG 2268
+BHG 1147t)
+      </note>
+      <locus from="236v" to="242">
+       236v–242
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2247
+BHG 0446g, 0449h" n="24" xml:id=" PTAMS00597_24">
+      <note>
+       Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
+BHG 0446g, 0449h)
+      </note>
+      <locus from="242v" to="257">
+       242v–257
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2092" n="25" xml:id=" PTAMS00597_25">
+      <note>
+       Athanasius Alexandrinus, Epistula ad episcopos Aegypti et Libyae (CPG 2092)
+      </note>
+      <locus from="257v" to="259">
+       257v–259
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2230" n="26" xml:id=" PTAMS00597_26">
+      <note>
+       Athanasius Alexandrinus, Contra arianos IV (CPG 2230)
+      </note>
+      <locus from="264" to="275">
+       264–275
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2099" n="27" xml:id=" PTAMS00597_27">
+      <note>
+       Athanasius Alexandrinus, In illud: Omnia mihi tradita sunt (CPG 2099)
+      </note>
+      <locus from="275" to="277v">
+       275–277v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2120" n="28" xml:id=" PTAMS00597_28">
+      <note>
+       Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
+      </note>
+      <locus from="277v" to="278">
+       277v–278
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2244" n="29" xml:id=" PTAMS00597_29">
+      <note>
+       Athanasius Alexandrinus, De sabbatis et circumcisione (CPG 2244)
+      </note>
+      <locus from="278" to="280">
+       278–280
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6105" n="30" xml:id=" PTAMS00597_30">
+      <note>
+       Marcus Diadochus, Sermo Contra Arianos (CPG 6105)
+      </note>
+      <locus from="281" to="285v">
+       281–285v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2804" n="31" xml:id=" PTAMS00597_31">
+      <note>
+       Marcellus Ancyranus, Expositio Fidei (CPG 2804)
+      </note>
+      <locus from="285v" to="287">
+       285v–287
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2134" n="32" xml:id=" PTAMS00597_32">
+      <note>
+       Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
+      </note>
+      <locus from="287" to="290">
+       287–290
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3674
+2243
+2869" n="33" xml:id=" PTAMS00597_33">
+      <note>
+       Apollinaris Laodicenus, Contra sabellianos, et Arium, et anomoeos (Homilia) (CPG 3674
+CPG 2243
+CPG 2869)
+      </note>
+      <locus from="290" to="296">
+       290–296
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2804" n="34" xml:id=" PTAMS00597_34">
+      <note>
+       Marcellus Ancyranus, Expositio Fidei (CPG 2804)
+      </note>
+      <locus from="294" to="334*">
+       294–334*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3737" n="35" xml:id=" PTAMS00597_35">
+      <note>
+       Athanasius Alexandrinus, Quod unus sit Christus (CPG 3737)
+      </note>
+      <locus from="296" to="298">
+       296–298
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:21" n="36" xml:id=" PTAMS00597_36">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Maximum (CPG 21)
+      </note>
+      <locus from="298" to="299">
+       298–299
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2242" n="37" xml:id=" PTAMS00597_37">
+      <note>
+       Athanasius Alexandrinus, Refutatio hypocriseos Meletii et Eusebii (CPG 2242)
+      </note>
+      <locus from="299v" to="3">
+       299v–3
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2241" n="38" xml:id=" PTAMS00597_38">
+      <note>
+       Athanasius Alexandrinus, Epistula catholica (CPG 2241)
+      </note>
+      <locus from="3r" to="v">
+       3r–v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2251" n="39" xml:id=" PTAMS00597_39">
+      <note>
+       Athanasius Alexandrinus, Contra omnes haereses (CPG 2251)
+      </note>
+      <locus from="3v" to="305v">
+       3v–305v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2120" n="40" xml:id=" PTAMS00597_40">
+      <note>
+       Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
+      </note>
+      <locus from="305v" to="319v">
+       305v–319v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2121" n="41" xml:id=" PTAMS00597_41">
+      <note>
+       Athanasius Alexandrinus, De sententia Dionysii (CPG 2121)
+      </note>
+      <locus from="321v" to="330">
+       321v–330
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:21" n="42" xml:id=" PTAMS00597_42">
+      <note>
+       Alexander Alexandrinus ptr. I, Arii Depositio (CPG 21)
+      </note>
+      <locus from="330v">
+       330v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:20" n="43" xml:id=" PTAMS00597_43">
+      <note>
+       Alexander Alexandrinus ptr. I, Epistula Encyclica (CPG 20)
+      </note>
+      <locus from="330v" to="332v">
+       330v–332v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:" n="44" xml:id=" PTAMS00597_44">
+      <note>
+       Ius canonicum, Concilia ()
+      </note>
+      <locus from="332v" to="333v">
+       332v–333v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:" n="45" xml:id=" PTAMS00597_45">
+      <note>
+       Constantinus Magnus I, Epistula Ecclesiae Alexandriae ()
+      </note>
+      <locus from="333v" to="334">
+       333v–334
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:" n="46" xml:id=" PTAMS00597_46">
+      <note>
+       Constantinus Magnus I, Epistulae ()
+      </note>
+      <locus from="334" to="339">
+       334–339
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3502" n="47" xml:id=" PTAMS00597_47">
+      <note>
+       Eusebius Caesariensis, Ep Ad Ecclesiam Caesariensem (CPG 3502)
+      </note>
+      <locus from="334" to="472">
+       334–472
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:" n="48" xml:id=" PTAMS00597_48">
+      <note>
+       Constantinus Magnus I, Epistula Ad Arium Et Arianos ()
+      </note>
+      <locus from="334v" to="337v">
+       334v–337v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2122" n="49" xml:id="PTAMS00597_49">
+      <note>
+       Athanasius Alexandrinus, Apologia de fuga sua (CPG 2122)
+      </note>
+      <locus from="339v" to="346v">
+       339v–346v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2123" n="50" xml:id="PTAMS00597_50">
+      <note>
+       Athanasius Alexandrinus, Apologia contra arianos (CPG 2123)
+      </note>
+      <locus from="346v" to="383v">
+       346v–383v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2125" n="51" xml:id="PTAMS00597_51">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Serapionem de morte Arii (CPG 2125)
+      </note>
+      <locus from="383v" to="385">
+       383v–385
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2127" n="52" xml:id="PTAMS00597_52">
+      <note>
+       Athanasius Alexandrinus, Historia arianorum (CPG 2127)
+      </note>
+      <locus from="385" to="410v">
+       385–410v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2128" n="53" xml:id="PTAMS00597_53">
+      <note>
+       Athanasius Alexandrinus, De synodis Arimini in Italia et Seleuciae in Isauria (CPG 2128)
+      </note>
+      <locus from="410v" to="436">
+       410v–436
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2129" n="54" xml:id="PTAMS00597_54">
+      <note>
+       Athanasius Alexandrinus, Apologia ad Constantium (CPG 2129)
+      </note>
+      <locus from="436" to="448">
+       436–448
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2130" n="55" xml:id="PTAMS00597_55">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Iohannem et Antiochum presb. (CPG 2130)
+      </note>
+      <locus from="448v">
+       448v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2131" n="56" xml:id="PTAMS00597_56">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Palladium (CPG 2131)
+      </note>
+      <locus from="448v" to="449">
+       448v–449
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2132" n="57" xml:id="PTAMS00597_57">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Dracontium (CPG 2132)
+      </note>
+      <locus from="449" to="451v">
+       449–451v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2133" n="58" xml:id="PTAMS00597_58">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Afros (CPG 2133)
+      </note>
+      <locus from="451v" to="457">
+       451v–457
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2135" n="59" xml:id="PTAMS00597_59">
+      <note>
+       Athanasius Alexandrinus, Ep. ad Iouianum (CPG 2135)
+      </note>
+      <locus from="457" to="458">
+       457–458
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2136" n="60" xml:id="PTAMS00597_60">
+      <note>
+       Iouianus imperator, Epistula Ad Athanasium (CPG 2136)
+      </note>
+      <locus from="458r" to="v">
+       458r–v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2137" n="61" xml:id="PTAMS00597_61">
+      <note>
+       Athanasius Alexandrinus, Petitiones arianorum (CPG 2137)
+      </note>
+      <locus from="458v" to="459v">
+       458v–459v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3665" n="62" xml:id="PTAMS00597_62">
+      <note>
+       Apollinaris Laodicenus, Ad Iouianum (CPG 3665)
+      </note>
+      <locus from="459v" to="460">
+       459v–460
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2253" n="63" xml:id="PTAMS00597_63">
+      <note>
+       Athanasius Alexandrinus, Ad Imperatorem Iouianum (CPG 2253)
+      </note>
+      <locus from="460r" to="v">
+       460r–v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:29" n="64" xml:id="PTAMS00597_64">
+      <note>
+       Basilius Caesariensis, Epistulae (CPG 29)
+      </note>
+      <locus from="460v">
+       460v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:29.041
+BHG 0260bII" n="65" xml:id="PTAMS00597_65">
+      <note>
+       Basilius Caesariensis, Ad Iulianum (Ep. 41) (CPG 29.041
+BHG 0260bII)
+      </note>
+      <locus from="460v" to="461v">
+       460v–461v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:BHG 0260bI" n="66" xml:id="PTAMS00597_66">
+      <note>
+       Iulianus Flauius Claudius, Epistulae ad Basilium (BHG 0260bI)
+      </note>
+      <locus from="460v" to="461v">
+       460v–461v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2257" n="67" xml:id="PTAMS00597_67">
+      <note>
+       Athanasius Alexandrinus, Quaestiones ad Antiochum ducem (CPG 2257)
+      </note>
+      <locus from="461v" to="467v">
+       461v–467v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2257" n="68" xml:id="PTAMS00597_68">
+      <note>
+       Athanasius Alexandrinus, Quaestiones ad Antiochum ducem (CPG 2257)
+      </note>
+      <locus from="461v" to="467v">
+       461v–467v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5201" n="69" xml:id="PTAMS00597_69">
+      <note>
+       Cyrillus Alexandrinus, Glaphyra In Pentateuchum (CPG 5201)
+      </note>
+      <locus from="468" to="545">
+       468–545
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:8053" n="70" xml:id="PTAMS00597_70">
+      <note>
+       Iohannes Damascenus, Aduersus Nestorianos (CPG 8053)
+      </note>
+      <locus from="546" to="554v">
+       546–554v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6276" n="71" xml:id="PTAMS00597_71">
+      <note>
+       Theodoretus Cyrensis, Epistula Ad Eos Qui In Euphratesia Et Aliis Regionibus Orientalibus Uitam Monasticam Degunt (CPG 6276)
+      </note>
+      <locus from="554" to="559">
+       554–559
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6219" n="72" xml:id="PTAMS00597_72">
+      <note>
+       Theodoretus Cyrensis, Quod Unicus Filius Sit Dominus Noster Iesus Christi (CPG 6219)
+      </note>
+      <locus from="559v" to="561v">
+       559v–561v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5222" n="73" xml:id="PTAMS00597_73">
+      <note>
+       Cyrillus Alexandrinus, Apologia 12 Anathematismorum Contra Theodoret. (CPG 5222)
+      </note>
+      <locus from="562" to="588v">
+       562–588v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5223" n="74" xml:id="PTAMS00597_74">
+      <note>
+       Cyrillus Alexandrinus, Explanatio Xii Capitulorum (CPG 5223)
+      </note>
+      <locus from="562" to="588v">
+       562–588v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6264–6267" n="75" xml:id="PTAMS00597_75">
+      <note>
+       Theodoretus Cyrensis, Epistulae Ad Iohannem Antiochenum (CPG 6264–6267)
+      </note>
+      <locus from="574" to="601v*">
+       574–601v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5222" n="76" xml:id="PTAMS00597_76">
+      <note>
+       Cyrillus Alexandrinus, Apologia 12 Anathematismorum Contra Theodoret. (CPG 5222)
+      </note>
+      <locus from="574" to="601v*">
+       574–601v*
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:5383" n="77" xml:id="PTAMS00597_77">
+      <note>
+       Cyrillus Alexandrinus, Ep 83 Ad Calosyrium (CPG 5383)
+      </note>
+      <locus from="588v" to="595v">
+       588v–595v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="14-12-31" notBefore-iso="1301-01-01">
+        s. 14
+       </origDate>
+      </p>
+     </origin>
+    </history>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
