@@ -33,7 +33,7 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
@@ -127,7 +127,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2120" n="6" xml:id="PTAMS00602_06">
+     <msItem corresp="urn:cts:pta:pta0022.pta003" n="6" xml:id="PTAMS00602_06">
       <note>
        Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
       </note>
@@ -239,7 +239,7 @@ BHG 1431q–s)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2121" n="16" xml:id="PTAMS00602_16">
+     <msItem corresp="urn:cts:pta:pta0022.pta004" n="16" xml:id="PTAMS00602_16">
       <note>
        Athanasius Alexandrinus, De sententia Dionysii (CPG 2121)
       </note>
@@ -316,7 +316,7 @@ BHG 1431q–s)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2129" n="23" xml:id="PTAMS00602_23">
+     <msItem corresp="urn:cts:pta:pta0022.pta010" n="23" xml:id="PTAMS00602_23">
       <note>
        Athanasius Alexandrinus, Apologia ad Constantium (CPG 2129)
       </note>
@@ -327,7 +327,7 @@ BHG 1431q–s)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2130" n="24" xml:id="PTAMS00602_24">
+     <msItem corresp="urn:cts:pta:pta0022.pta011" n="24" xml:id="PTAMS00602_24">
       <note>
        Athanasius Alexandrinus, Ep. ad Iohannem et Antiochum presb. (CPG 2130)
       </note>
@@ -338,7 +338,7 @@ BHG 1431q–s)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2131" n="25" xml:id="PTAMS00602_25">
+     <msItem corresp="urn:cts:pta:pta0022.pta012" n="25" xml:id="PTAMS00602_25">
       <note>
        Athanasius Alexandrinus, Ep. ad Palladium (CPG 2131)
       </note>
@@ -349,7 +349,7 @@ BHG 1431q–s)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2132" n="26" xml:id="PTAMS00602_26">
+     <msItem corresp="urn:cts:pta:pta0022.pta013" n="26" xml:id="PTAMS00602_26">
       <note>
        Athanasius Alexandrinus, Ep. ad Dracontium (CPG 2132)
       </note>
@@ -382,7 +382,7 @@ BHG 1431q–s)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2134" n="29" xml:id="PTAMS00602_29">
+     <msItem corresp="urn:cts:pta:pta0022.pta015" n="29" xml:id="PTAMS00602_29">
       <note>
        Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
       </note>
@@ -393,7 +393,7 @@ BHG 1431q–s)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2135" n="30" xml:id="PTAMS00602_30">
+     <msItem corresp="urn:cts:pta:pta0022.pta016" n="30" xml:id="PTAMS00602_30">
       <note>
        Athanasius Alexandrinus, Ep. ad Iouianum (CPG 2135)
       </note>

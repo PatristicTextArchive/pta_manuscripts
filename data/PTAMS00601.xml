@@ -33,7 +33,7 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
@@ -182,7 +182,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2134" n="11" xml:id="PTAMS00601_11">
+     <msItem corresp="urn:cts:pta:pta0022.pta015" n="11" xml:id="PTAMS00601_11">
       <note>
        Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
       </note>
@@ -296,7 +296,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2120" n="21" xml:id="PTAMS00601_21">
+     <msItem corresp="urn:cts:pta:pta0022.pta003" n="21" xml:id="PTAMS00601_21">
       <note>
        Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
       </note>

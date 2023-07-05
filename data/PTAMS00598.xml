@@ -33,7 +33,7 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
@@ -105,7 +105,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2134" n="4" xml:id="PTAMS00598_04">
+     <msItem corresp="urn:cts:pta:pta0022.pta015" n="4" xml:id="PTAMS00598_04">
       <note>
        Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
       </note>
@@ -208,7 +208,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2120" n="13" xml:id="PTAMS00598_13">
+     <msItem corresp="urn:cts:pta:pta0022.pta003" n="13" xml:id="PTAMS00598_13">
       <note>
        Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
       </note>
@@ -241,7 +241,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2120" n="16" xml:id="PTAMS00598_16">
+     <msItem corresp="urn:cts:pta:pta0022.pta003" n="16" xml:id="PTAMS00598_16">
       <note>
        Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
       </note>
@@ -296,7 +296,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2135" n="21" xml:id="PTAMS00598_21">
+     <msItem corresp="urn:cts:pta:pta0022.pta016" n="21" xml:id="PTAMS00598_21">
       <note>
        Athanasius Alexandrinus, Ep. ad Iouianum (CPG 2135)
       </note>
@@ -329,7 +329,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2121" n="24" xml:id="PTAMS00598_24">
+     <msItem corresp="urn:cts:pta:pta0022.pta004" n="24" xml:id="PTAMS00598_24">
       <note>
        Athanasius Alexandrinus, De sententia Dionysii (CPG 2121)
       </note>
@@ -406,7 +406,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2129" n="31" xml:id="PTAMS00598_31">
+     <msItem corresp="urn:cts:pta:pta0022.pta010" n="31" xml:id="PTAMS00598_31">
       <note>
        Athanasius Alexandrinus, Apologia ad Constantium (CPG 2129)
       </note>
@@ -417,7 +417,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2130" n="32" xml:id="PTAMS00598_32">
+     <msItem corresp="urn:cts:pta:pta0022.pta011" n="32" xml:id="PTAMS00598_32">
       <note>
        Athanasius Alexandrinus, Ep. ad Iohannem et Antiochum presb. (CPG 2130)
       </note>
@@ -428,7 +428,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2131" n="33" xml:id="PTAMS00598_33">
+     <msItem corresp="urn:cts:pta:pta0022.pta012" n="33" xml:id="PTAMS00598_33">
       <note>
        Athanasius Alexandrinus, Ep. ad Palladium (CPG 2131)
       </note>
@@ -439,7 +439,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2132" n="34" xml:id="PTAMS00598_34">
+     <msItem corresp="urn:cts:pta:pta0022.pta013" n="34" xml:id="PTAMS00598_34">
       <note>
        Athanasius Alexandrinus, Ep. ad Dracontium (CPG 2132)
       </note>
@@ -450,7 +450,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2133" n="35" xml:id="PTAMS00598_35">
+     <msItem corresp="urn:cts:pta:pta0022.pta014" n="35" xml:id="PTAMS00598_35">
       <note>
        Athanasius Alexandrinus, Ep. ad Afros (CPG 2133)
       </note>
@@ -461,7 +461,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2135" n="36" xml:id="PTAMS00598_36">
+     <msItem corresp="urn:cts:pta:pta0022.pta016" n="36" xml:id="PTAMS00598_36">
       <note>
        Athanasius Alexandrinus, Ep. ad Iouianum (CPG 2135)
       </note>
@@ -483,7 +483,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2137" n="38" xml:id="PTAMS00598_38">
+     <msItem corresp="urn:cts:pta:pta0022.pta017" n="38" xml:id="PTAMS00598_38">
       <note>
        Athanasius Alexandrinus, Petitiones arianorum (CPG 2137)
       </note>

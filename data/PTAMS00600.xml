@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principalI 059 sup.
+     Milano, Biblioteca Ambrosiana, fonds principal I 059 sup.
     </title>
    </titleStmt>
    <editionStmt>
@@ -33,7 +33,7 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
@@ -338,7 +338,7 @@ BHG 0446g, 0449h)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2134" n="25" xml:id="PTAMS00600_25">
+     <msItem corresp="urn:cts:pta:pta0022.pta015" n="25" xml:id="PTAMS00600_25">
       <note>
        Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
       </note>
@@ -408,7 +408,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2120" n="31" xml:id="PTAMS00600_31">
+     <msItem corresp="urn:cts:pta:pta0022.pta003" n="31" xml:id="PTAMS00600_31">
       <note>
        Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
       </note>

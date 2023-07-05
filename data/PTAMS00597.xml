@@ -65,7 +65,7 @@
        8877
       </idno>
      </altIdentifier>
-     <altIdentifier type="sigle_pta22">
+     <altIdentifier type="sigle_pta0022">
       <idno>
        B
       </idno>
@@ -375,7 +375,7 @@ BHG 0446g, 0449h)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2120" n="28" xml:id=" PTAMS00597_28">
+     <msItem corresp="urn:cts:pta:pta0022.pta003" n="28" xml:id=" PTAMS00597_28">
       <note>
        Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
       </note>
@@ -419,7 +419,7 @@ BHG 0446g, 0449h)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2134" n="32" xml:id=" PTAMS00597_32">
+     <msItem corresp="urn:cts:pta:pta0022.pta015" n="32" xml:id=" PTAMS00597_32">
       <note>
        Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
       </note>
@@ -511,7 +511,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2120" n="40" xml:id=" PTAMS00597_40">
+     <msItem corresp="urn:cts:pta:pta0022.pta003" n="40" xml:id=" PTAMS00597_40">
       <note>
        Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
       </note>
@@ -522,7 +522,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2121" n="41" xml:id=" PTAMS00597_41">
+     <msItem corresp="urn:cts:pta:pta0022.pta004" n="41" xml:id=" PTAMS00597_41">
       <note>
        Athanasius Alexandrinus, De sententia Dionysii (CPG 2121)
       </note>
@@ -665,7 +665,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2129" n="54" xml:id="PTAMS00597_54">
+     <msItem corresp="urn:cts:pta:pta0022.pta010" n="54" xml:id="PTAMS00597_54">
       <note>
        Athanasius Alexandrinus, Apologia ad Constantium (CPG 2129)
       </note>
@@ -676,7 +676,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2130" n="55" xml:id="PTAMS00597_55">
+     <msItem corresp="urn:cts:pta:pta0022.pta011" n="55" xml:id="PTAMS00597_55">
       <note>
        Athanasius Alexandrinus, Ep. ad Iohannem et Antiochum presb. (CPG 2130)
       </note>
@@ -687,7 +687,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2131" n="56" xml:id="PTAMS00597_56">
+     <msItem corresp="urn:cts:pta:pta0022.pta012" n="56" xml:id="PTAMS00597_56">
       <note>
        Athanasius Alexandrinus, Ep. ad Palladium (CPG 2131)
       </note>
@@ -698,7 +698,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2132" n="57" xml:id="PTAMS00597_57">
+     <msItem corresp="urn:cts:pta:pta0022.pta013" n="57" xml:id="PTAMS00597_57">
       <note>
        Athanasius Alexandrinus, Ep. ad Dracontium (CPG 2132)
       </note>
@@ -709,7 +709,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2133" n="58" xml:id="PTAMS00597_58">
+     <msItem corresp="urn:cts:pta:pta0022.pta014" n="58" xml:id="PTAMS00597_58">
       <note>
        Athanasius Alexandrinus, Ep. ad Afros (CPG 2133)
       </note>
@@ -720,7 +720,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2135" n="59" xml:id="PTAMS00597_59">
+     <msItem corresp="urn:cts:pta:pta0022.pta016" n="59" xml:id="PTAMS00597_59">
       <note>
        Athanasius Alexandrinus, Ep. ad Iouianum (CPG 2135)
       </note>
@@ -742,7 +742,7 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2137" n="61" xml:id="PTAMS00597_61">
+     <msItem corresp="urn:cts:pta:pta0022.pta017" n="61" xml:id="PTAMS00597_61">
       <note>
        Athanasius Alexandrinus, Petitiones arianorum (CPG 2137)
       </note>
