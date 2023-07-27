@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2023-07-27" who="#AvS">Added information from CCG VI.1, Nr. 299</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -65,9 +66,55 @@
        68701
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Vc
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00500_01">
+        <msItem defective="true" corresp="cpg:4333.2" n="1" xml:id="PTAMS00500_01">
+         <locus from="1r" to="9v">
+          1r–9v
+         </locus>
+         <rubric type="mutile"/>
+         <incipit type="mutile">τὴν κατηγορίαν· ἐκείνου ἐστὶν τοῦτο τὸ ἀξίωμα</incipit>
+         <explicit/>
+        </msItem>
+        <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00500_02">
+         <locus from="9v" to="22r">
+          9v­–22r
+         </locus>
+         <rubric/>
+         <incipit/>
+         <explicit/>
+        </msItem>
+        <msItem corresp="cpg:4328" n="3" xml:id="PTAMS00500_03">
+         <locus from="22v" to="36r">
+          22v–36
+         </locus>
+         <rubric/>
+         <incipit/>
+         <explicit/>
+        </msItem>
+        <msItem corresp="cpg:4329" n="4" xml:id="PTAMS00500_04">
+         <note>concio 1–5: fol. 36-64 concio 1, fol. 64-80 concio 2, fol. 80-104v concio 3, fol. 104v–120v concio 4, fol. 121-135 concio 5.</note>
+         <locus from="36r" to="135r">
+          36r–135r
+         </locus>
+         <rubric/>
+         <incipit/>
+         <explicit/>
+        </msItem>
+        <msItem corresp="cpg:4386" n="9" xml:id="PTAMS00500_09">
+         <locus from="135r" to="168r">
+          135r–168r
+         </locus>
+         <rubric/>
+         <incipit/>
+         <explicit/>
+        </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="10" xml:id="PTAMS00500_10">
       <locus from="168v" to="191v">
        168v–191v
       </locus>
@@ -75,7 +122,23 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta010" n="2" xml:id="PTAMS00500_02">
+     <msItem corresp="cpg:4334" n="11" xml:id="PTAMS00500_11">
+      <locus from="192r" to="206v">
+       192r–206v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4319" n="12" xml:id="PTAMS00500_12">
+      <locus from="206v" to="218r">
+       206v–218r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta010" n="13" xml:id="PTAMS00500_13">
       <locus from="218v" to="226v">
        218v–226v
       </locus>
@@ -83,16 +146,63 @@
       <incipit/>
       <explicit/>
      </msItem>
+     <msItem corresp="cpg:4528" n="14" xml:id="PTAMS00500_14">
+      <locus from="227r" to="251v">
+       227r–251v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4595" n="15" xml:id="PTAMS00500_15">
+      <locus from="252r" to="263v">
+       252r–263v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4544" n="16" xml:id="PTAMS00500_16">
+      <locus from="264r" to="266v">
+       168v–191v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit type="mutile"/>
+     </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate>
-        unbekannt
-       </origDate>
+        <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+         s. 11
+        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+        <listBibl>
+            <biblStruct type="book">
+                <monogr>
+                    <title level="m">Codices Chrysostomici Graeci. VI : Codicum Ciuitatis Vaticanae partem priorem</title>
+                    <author>
+                        <forename>Sever J.</forename>
+                        <surname>Voicu</surname>
+                    </author>
+                    <imprint>
+                        <pubPlace>Aubervilliers</pubPlace>
+                        <publisher>Institut de Recherche et d'Histoire des Textes (IRHT)</publisher>
+                        <date>1999</date>
+                    </imprint>
+                    <biblScope unit="page" from="243" to="243">243</biblScope>
+                </monogr>
+                <series>
+                    <title level="s">Documents, études et répertoires de l'Institut de Recherche et d'Histoire des Textes</title>
+                    <biblScope unit="volume">11.6</biblScope>
+                </series>
+            </biblStruct>
+        </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>
