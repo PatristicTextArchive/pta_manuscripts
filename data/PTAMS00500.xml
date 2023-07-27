@@ -78,7 +78,7 @@
           1r–9v
          </locus>
          <rubric type="mutile"/>
-         <incipit type="mutile">τὴν κατηγορίαν· ἐκείνου ἐστὶν τοῦτο τὸ ἀξίωμα</incipit>
+         <incipit type="mutile">τὴν κατηγορίαν· ἐκείνου ἐστὶν τοῦτο τὸ ἀξίωμα</incipit>
          <explicit/>
         </msItem>
         <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00500_02">
@@ -142,9 +142,9 @@
       <locus from="218v" to="226v">
        218v–226v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν αγίοις πρς ἡμῶν ϊωάννου ἀρχεπισκόπου κωνσταντίνου πόλεως τοῦ χρυσοστόμου· εἰς τὸ πῶς ὁ ἀδὰμ τὴν ψυχην ἔλαβεν ὅτε ἐπλάσθη καὶ εἰς τὸ πάθος τοῦ σρς· ἐρμηνεία καὶ περὶ τῆς νυχθήσης πλευρας· κε ευλο +</rubric>
+      <incipit>καλοὶ τῆς ὑπομονῆς οἱ πόνοι·</incipit>
+      <explicit>εἰς βασιλείαν οὐνων ἐκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ιυ χυ μεθοῦ τῶ πρι δόξα συν αγίω πνι εἰς τοὺς αἰῶνας τῶν αἰῶνων ἀμήν.</explicit>
      </msItem>
      <msItem corresp="cpg:4528" n="14" xml:id="PTAMS00500_14">
       <locus from="227r" to="251v">
