@@ -67,10 +67,11 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00310_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00310_01">
+      <locus>
+       Umschlag
       </locus>
+      <note>Text PG 56,400.50–401.38 (inner surface, recto side) and 401.38–402.15 (outer surface, verso side)</note>
       <rubric/>
       <incipit/>
       <explicit/>
@@ -91,6 +92,9 @@
        <bibl>
         <ref target="https://fragmentarium.ms/overview/F-6vak" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://fragmentarium.ms/metadata/iiif/F-6vak/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>
