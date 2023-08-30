@@ -77,10 +77,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:3477" n="2" xml:id="PTAMS00576_02">
-      <note>
-       Eusebius Caesariensis, Contra Marcellum
-      </note>
+     <msItem corresp="urn:cts:pta:pta0003.pta009" n="2" xml:id="PTAMS00576_02">
       <locus from="29v" to="48r">
        29v–48r
       </locus>
@@ -89,9 +86,6 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0003.pta009" n="3" xml:id="PTAMS00576_03">
-      <note>
-       Eusebius Caesariensis, De ecclesiastica theologia
-      </note>
       <locus from="48r" to="92r">
        48r–92r
       </locus>

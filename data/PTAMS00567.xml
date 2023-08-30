@@ -33,7 +33,7 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
@@ -71,18 +71,58 @@
       </idno>
      </altIdentifier>
     </msIdentifier>
+    <msPart>
+        <msContents>
+         <msItem corresp="Pinakes-Oeuvre:1462" n="1" xml:id="PTAMS00567_01">
+          <note>
+           Iohannes Zonaras, Comm. in ss. canones et epistulas canonicas
+           1-131 Zonaras, comm in canones conciliorum Carthaginensis, Ancyrani, Neocaesariensis, Gangrensis, oecumenici septimi et antiocheni
+
+           132v Pinax
+           133-147v Zonaras comm in S. Greg. Nyss canones
+           147v-150 in S. Cyrilli ad Domnum epistulam canonicam
+           150-151 in Cyrilli epistulam ad episcopos Libyae et Pentapoleos
+           151-155v in Theophili Alexandrini allocutionem cum Theophania
+           155v-161 in Timothei Alexandrini respona canonica
+           161-165v in Dionysii Alexandrini ad Basilidem epistolam
+           165v-177 in Petri Alexandrini canones
+           177-182v in Gregor Neocaesariensis epistolam encyclicam
+           182v-184v in Gennadii epistolam encyclicam
+           184v-190 Interrogationes quorundam monachorum
+           190-191 Theodori Balsamonis disceptatio 
+           191-194 Commonitorium de graecae et romanae ecclesiae
+
+           197-204v Theodoreti Cyrensis fragmenta de materia mundi
+           204v-208v Hippocratis ad Demagetum epistola
+           208v-210v Joseph Bryennius dissertatio de divina operatione
+           210v-212 Joseph Bryennius disputatio Deum esse simplicem
+           212-214 de adversis et cur eveniat
+           214-222v de processione S. Spiritus
+           222v-223 oratio de domino cruce affixo
+           223-223v de idololatria
+           223v-234v Cyrilli thesaurorum fragmenta de genito et ingenito
+           234v-238v Gregorii Palamae de S. Cyrillo excerpta e libro contra latinos
+           238v-239v Anonymi fragmentum de orthodoxia
+           239v-241v Amyrutzae supplicatio ad Deum
+           241v-244v Marci Ephesini epistola encyclica de synodo Florentina
+           244v-246v eiusdem ad Georgium Scholarium
+           246v-248 Eiusdem ad eumdem epistula gratulatoria
+           248-251 eiusdem professio fidei
+           251-259 eiusdem ad latinos responsio de igne purgatorio
+          </note>
+          <locusGrp><!-- stimmt nicht -->
+            <locus from="1" to="151">1-151</locus>
+            <locus from="161" to="185">161-185</locus>
+            <locus from="303v" to="362">303v-362*</locus>
+          </locusGrp>
+          <rubric/>
+          <incipit/>
+          <explicit/>
+         </msItem>
+        </msContents>
+    </msPart>
+    <msPart>
     <msContents>
-     <msItem corresp="" n="1" xml:id="PTAMS00567_01">
-      <note>
-       Iohannes Zonaras, Comm. in ss. canones et epistulas canonicas ()
-      </note>
-      <locus from="001-151, 161-185, 303v-362*">
-       001-151, 161-185, 303v-362*
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
      <msItem corresp="" n="2" xml:id="PTAMS00567_02">
       <note>
        Theodorus Balsamon , De Matrimoniis ()
@@ -425,17 +465,13 @@
       <explicit/>
      </msItem>
      <msItem corresp="cpg:8048" n="33" xml:id="PTAMS00567_33">
-      <note>
-       Iohannes Damascenus, Dialogus Contra Manichaeos (CPG 8048)
-      </note>
-      <locus from="448v-478*">
-       448v-478*
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <locus from="448v" to="477v">448v-477v</locus>
+      <rubric>Τοῦ αὐτοῦ μεγάλου ἀθανασίου, διάλογος κατὰ μανιχαἰων, ἐν ὧι διαλέγονται, ὀρθοδόξος, καὶ μανιχαῖος. ἄλλοι δὲ λέγουσιν εἶναι, ἰωάννου τοῦ δαμασκηνοῦ</rubric>
+      <incipit>Ἐπειδὴ συνεληλύθαμεν ἀλλήλοις λογικὴν συζήτησιν ποιήσασθαι, ἐρωτῶ σε</incipit>
+      <explicit>χάριτι τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ, μεθ οὗ τῷ πατρὶ ἡ δόξα· ἅμα τῷ ἁγίῳ πνεύματ, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας, τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
+    </msPart>
     <history>
      <origin>
       <p n="origDate">
@@ -456,6 +492,26 @@
        </bibl>
       </p>
      </surrogates>
+        <listBibl>
+            <biblStruct type="book" xml:id="Fedwick">
+                <monogr>
+                    <title level="m">Bibliotheca Basiliana Universalis. A study of the manuscript tradition of the works of Basil of Caesarea. I: The letters</title>
+                    <editor>
+                        <forename>Paul Jonathan</forename>
+                        <surname>Fedwick</surname>
+                    </editor>
+                    <imprint>
+                        <pubPlace>Turnhout</pubPlace>
+                        <publisher>Brepols</publisher>
+                        <date>1993</date>
+                    </imprint>
+                </monogr>
+                <series>
+                    <title level="s">Corpus Christianorum. Claves – Subsidia</title>
+                </series>
+                <biblScope unit="pages" from="146" to="147">146–147</biblScope>
+            </biblStruct>
+        </listBibl>
     </additional>
    </msDesc>
   </body>

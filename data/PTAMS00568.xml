@@ -33,7 +33,7 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
@@ -72,47 +72,36 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:3243" n="1" xml:id="PTAMS00568_01">
-      <note>
-       Amphilochius Iconiensis, Epistula Synodalis (CPG 3243)
+     <msItem corresp="cpg:2900" n="1" xml:id="PTAMS00568_01">
+         <note>
+          Corpus Ev of letters of Basil according to <ref target="#Fedwick">Fedwick</ref>.
+         </note>
+         <locus from="1r" to="258v">1r–258v</locus>
+         <rubric/>
+         <incipit/>
+         <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3032" n="2" xml:id="PTAMS00568_02">
+      <note>ep. 4 (inc. mut.), 5, 114 (des. mut); 6; 1, 8, 47, 58; 40, 45, 59, 48–50
       </note>
-      <locus from=""/>
+      <locusGrp>
+        <locus from="2r" to="2v">2r–v</locus>
+        <locus from="3r" to="3v">3r–v</locus>
+        <locus from="7v" to="10r">7v–10r</locus>
+        <locus from="11v" to="14v">11v–14v</locus>
+      </locusGrp>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="2" xml:id="PTAMS00568_02">
-      <note>
-       Basilius Caesariensis, Homiliae ()
-      </note>
-      <locus from=""/>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+     <msItem corresp="urn:cts:pta:pta0013.pta003" n="3" xml:id="PTAMS00568_03">
+      <locus from="112r" to="114r">112r–114r</locus>
+      <rubric>ἀμφιλοχίου ἐπισκόπου ἰκονίου:</rubric>
+      <incipit>Καὶ πρὶν κομίζεσθαι τὰ παρὰ τῆς ἀγάπης ὑμῶν γράμματα.</incipit>
+      <explicit>ἐνδόξως δὲ ἐν ἡμέρα τῆς κρίσεως παραστῆναι τῶ τοῦ χυ βήματι:</explicit>
      </msItem>
-     <msItem corresp="cpg:2900" n="3" xml:id="PTAMS00568_03">
-      <note>
-       Basilius Caesariensis, Epistulae (CPG 2900)
-      </note>
-      <locus from=""/>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="cpg:2907.01" n="4" xml:id="PTAMS00568_04">
-      <note>
-       Basilius Caesariensis, Scholia in Iob (CPG 2907.01)
-      </note>
-      <locus from=""/>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="cpg:3032" n="5" xml:id="PTAMS00568_05">
-      <note>
-       Gregorius Nazianzenus, Epistulae (CPG 3032)
-      </note>
-      <locus from=""/>
+     <msItem corresp="cpg:2914" n="4" xml:id="PTAMS00568_04">
+      <locus from="224v" to="227v">224v–227v</locus>
       <rubric/>
       <incipit/>
       <explicit/>
@@ -127,6 +116,28 @@
       </p>
      </origin>
     </history>
+    <additional>
+        <listBibl>
+            <biblStruct type="book" xml:id="Fedwick">
+                <monogr>
+                    <title level="m">Bibliotheca Basiliana Universalis. A study of the manuscript tradition of the works of Basil of Caesarea. I: The letters</title>
+                    <editor>
+                        <forename>Paul Jonathan</forename>
+                        <surname>Fedwick</surname>
+                    </editor>
+                    <imprint>
+                        <pubPlace>Turnhout</pubPlace>
+                        <publisher>Brepols</publisher>
+                        <date>1993</date>
+                    </imprint>
+                </monogr>
+                <series>
+                    <title level="s">Corpus Christianorum. Claves – Subsidia</title>
+                </series>
+                <biblScope unit="pages" from="140" to="143">140–143</biblScope>
+            </biblStruct>
+        </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>
