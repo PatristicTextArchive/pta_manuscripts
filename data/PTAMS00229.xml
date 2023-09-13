@@ -187,7 +187,7 @@
       <incipit>'Ορῶ τῇ ποίμνη </incipit>
       <explicit></explicit>
      </msItem>
-     <msItem defecive="true" corresp="urn:cts:pta:pta0001.pta010" n="6" xml:id="PTAMS00229_06">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta010" n="6" xml:id="PTAMS00229_06">
       <locus from="130r" to="130r">
        130r
       </locus>
@@ -195,7 +195,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem defecive="true" corresp="cpg:4369" n="7" xml:id="PTAMS00229_07">
+     <msItem defective="true" corresp="cpg:4369" n="7" xml:id="PTAMS00229_07">
       <locus from="130r" to="138r">
        130r–138r
       </locus>
