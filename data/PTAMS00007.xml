@@ -36,12 +36,12 @@
      This description is based on data from the
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
-     </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     </ref>, on <ref target="#marava-chatzenikolaou__1997">Marava-Chatzēnikolaou/Touphexē-Paschou, XXX</ref> and on notes by Karl-Heinz Uthemann as well as on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc>
+    <change when-iso="2023-09-25" who="#AvS">Added bibliography</change>
    <change when-iso="2022-02-22" who="#AvS">Added data using the digitized images</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
@@ -332,6 +332,26 @@
      </origin>
     </history>
     <additional>
+     <listBibl>
+      <biblStruct type="book" xml:id="marava-chatzenikolaou__1997">
+        <monogr>
+          <title level="m">Κατάλογος μικρογραφιῶν Βυζαντινῶν χειρογράφων τῆς Ἐθνικῆς Βιβλιοθήκης τῆς Ἑλλάδος. Τόμος Γ', Ὁμιλίες Πατέρων τῆς Ἐκκλησίας καὶ Μηνολόγια 9ου-12ου αἰῶνα</title>
+          <author>
+            <forename>Anna</forename>
+            <surname>Marava-Chatzēnikolaou</surname>
+          </author>
+          <author>
+            <forename>Christina</forename>
+            <surname>Touphexē-Paschou</surname>
+          </author>
+          <imprint>
+            <pubPlace>Athen</pubPlace>
+            <publisher>Publications Bureau of the Academy of Athens</publisher>
+            <date>1997</date>
+          </imprint>
+        </monogr>
+      </biblStruct> 
+     </listBibl>
      <surrogates>
       <p>
        <bibl>

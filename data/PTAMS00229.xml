@@ -6,6 +6,10 @@
     <title>
      Moskva, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 110 (Vlad. 160)
     </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
    </titleStmt>
    <editionStmt>
     <edition>
@@ -32,12 +36,13 @@
      This description is based on data from the
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
-     </ref>
+     </ref>, on <ref target="#dobrynina__2013">Dobrynina, 80–87</ref>
      and on notes by Karl-Heinz Uthemann as well as on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2023-09-22" who="#AvS">added title information</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -72,6 +77,15 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
+      <msItem n="1" xml:id="PTAMS00229_01">
+       <locus from="1r" to="1r">
+        1r
+       </locus>
+       <note>Pinax</note>
+       <rubric/>
+       <incipit></incipit>
+       <explicit></explicit>
+      </msItem>
         <msItem corresp="dbbe:6262" n="2" xml:id="PTAMS00229_02">
          <locus from="1r" to="1r">
           1r
@@ -84,7 +98,7 @@
       <locus from="1v" to="17r">
        1v–17r
       </locus>
-      <rubric>Τοῦ αυτοῦ εἰς τὴν ἐνανθρώπησιν τοῦ κίυριο)υ ἡμῶν ᾿Ι{ησο]ῦ Χίριστο]ῦ, καὶ εἰς τὸ: ἑκαστω κλήματι’ ἐφέστηκαν ἄγγελοι.</rubric>
+      <rubric>Τοῦ αυτοῦ εἰς τὴν ἐνανθρώπησιν τοῦ κυ ἡμῶν ιυ χυ, καὶ εἰς τὸ· ἑκαστω κλήματι· ἐφέστηκαν ἄγγελοι.</rubric>
       <incipit>Ὄντως ἐπεφάνη</incipit>
       <explicit></explicit>
      </msItem>
@@ -92,32 +106,33 @@
       <locus from="17r" to="22r">
        17r­–22r
       </locus>
-      <rubric>ΛВ. Του αυτου περι τῶν δύο διαθηκῶν</rubric>
-      <incipit>Θίεο)ν μὲν ἕνα καὶ τὸν αὐτὸν</incipit>
+      <rubric><num>ΛВ.</num> Του αυτου περι τῶν δύο διαθηκῶν</rubric>
+      <incipit>Θν μὲν ἕνα καὶ τὸν αὐτὸν</incipit>
       <explicit></explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00229_02">
       <locus from="22v" to="32v">
        22v–32v
       </locus>
-      <rubric>Τοῦ αυτοῦ ἄρχεται εἰς τίο) ὁ κίυριο)ς ἐβασίλευσεν, καὶ εἰς τὸ όταν παραδῶ τὴν βασιλείαι! τῶ θίε]ω καὶ πίατ)ρι’ καὶ εἰς το μυστήριον τοῦ βαπτίσματος</rubric>
-      <incipit>Πάλιν ἡμῖν τοῦ μακαρίου</incipit>
+      <rubric>Τοῦ αυτοῦ ἄρχεται εἰς το ὁ κς ἐβασίλευσεν, καὶ εἰς τὸ όταν παραδῶ τὴν βασιλείαν τῶ θω καὶ πρι· καὶ εἰς το μυστήριον τοῦ βαπτίσματος</rubric>
+      <incipit>Πάλιν ἡμῖν τοῦ μακαρίου δαδ</incipit>
       <explicit></explicit>
+      <note>in mg. oben κ. προ των φωτων</note>
      </msItem>
      <msItem corresp="cpg:4512" n="2" xml:id="PTAMS00229_02">
       <locus from="32v" to="37r">
        32v–37r
       </locus>
-      <rubric>Τοῦ αὐτοῦ εἰς τὴν μνήμην τοῦ ἁγίου Βάσσου. ἐλέχθη εἰς τοὺς φόβους. καὶ
-        εἰς το δεῦτε μάθετε απ εμοῦ. ὅτι πρᾶός εἰμὶ. καὶ τὰ πεινος [испр. ταπεινὸς] τῆ καρδία</rubric>
+      <rubric><num>ΛΕ.</num> Τοῦ αὐτοῦ εἰς τὴν μνήμην τοῦ ἁγίου Βάσσου. ἐλέχθη εἰς τοὺς φόβους. καὶ
+        εἰς το δεῦτε μάθετε απ εμοῦ. ὅτι πρᾶός εἰμὶ. καὶ τὰ πεινος τῆ καρδία</rubric>
       <incipit>Ἔδει μὲν ἡμᾶς τοσαύτης λόγων</incipit>
-      <explicit></explicit>
+      <explicit>χάριτι δὲ χυ· ὥ πρέπει ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00229_03">
       <locus from="37r" to="44v">
        37r–44v
       </locus>
-      <rubric>Τοῦ αὐτοῦ εἰς τίον) περι φύσεως νομον</rubric>
+      <rubric><num>ΛϚ.</num> Τοῦ αὐτοῦ εἰς τὸν περι φύσεως νομον</rubric><!-- Rubric sowohl f. 37r als auch 37v (wiederholt) -->
       <incipit>Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος ἀρχὴν ἔχουσα</incipit>
       <explicit></explicit>
      </msItem>
@@ -125,7 +140,7 @@
         <locus from="44v" to="55r">
          44v–55r
         </locus>
-        <rubric>Τοῦ αὐτίου) ἀπόδειξις. του χρησίμως τας περι Χίριστο)υ καὶ ἐθνῶν καὶ τῆς ἐκίπ)τωσεως Ἰουδαίων; προφητείας ἀσαφεῖς εἶναι</rubric>
+        <rubric><num>ΛΖ.</num> Τοῦ αὐτου ἀπόδειξις. του χρησίμως τας περι χυ καὶ ἐθνῶν καὶ τῆς ἐκίτωσεως Ἰουδαίων; προφητείας ἀσαφεῖς εἶναι</rubric>
         <incipit>Προφητικὴν ὑμῖν σήμερον παραθεῖναι</incipit>
         <explicit></explicit>
        </msItem>
@@ -133,65 +148,65 @@
         <locus from="55r" to="71r">
          55r–71r
         </locus>
-        <rubric>Τοῦ αὐτοῦ ἔτι εἰς τὴν ἀσαφειαν της παλαιᾶς διαθήκης. καὶ εἰς τὴν τοῦ
-            θιεο]υ φιλανίθρωπ)ιαν. καὶ περι του μη κατηγορεῖν</rubric>
+        <rubric><num>ΛΗ.</num> Τοῦ αὐτοῦ ἔτι εἰς τὴν ἀσαφειαν της παλαιᾶς διαθήκης. καὶ εἰς τὴν τοῦ
+            θυ φιλανιαν. καὶ περι του μη κατηγορεῖν</rubric>
         <incipit>Χαίρει μεν βουκόλος</incipit>
-        <explicit></explicit>
+        <explicit>δυνηθησώμεθα μετὰ τοῦ πληρώματος τούτου εἰς τὴν βασιλείαν τῶν ουνων εἰσελθεῖν· ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· χάριτι καὶ φιλανθρωπία τοῦ κυ ἡμῶν ιυ χυ· δι’ οὗ καὶ μεθ’ οὗ τῶ πρι ἡ δόξα ἅμα τῶ ἁγίω πνι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν:-</explicit>
        </msItem>
        <msItem corresp="cpg:4317" n="2" xml:id="PTAMS00229_02">
         <locus from="71r" to="77r">
          71r–77r
         </locus>
-        <rubric>Τοῦ αὐτοῦ ὁμιλια πρωτη. ὅτε πρεσβύτερος προεχειρίσθη. εἰς εαυτο καὶ εις τίον) ἐπίσκοπον καὶ εἰς το πλῆθος τοῦ λαοῦ.</rubric>
-        <incipit>Ара ἀληθῆ τὰ συμβάντα</incipit>
+        <rubric><num>ΛΘ.</num> Τοῦ αὐτοῦ ὁμιλία πρώτη. ὅτε πρεσβύτερος προεχειρίσθη. εἰς ἑαυτὸ<supplied>ν</supplied> καὶ εἰς τὸν ἐπίσκοπον καὶ εἰς τὸ πλῆθος τοῦ λαοῦ:-</rubric>
+        <incipit>Ἆρα ἀληθῆ τὰ συμβάντα περὶ ἡμᾶς.</incipit>
         <explicit></explicit>
        </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta040" n="4" xml:id="PTAMS00229_04">
       <locus from="77r" to="88v">
        77r–88v
       </locus>
-      <rubric>Τοῦ αὐτοῦ ὅτε ἐθεράπευσεν ὁ σἰωτ)ὴρ τὸν ἐν γεννετοῖς τυφλὸν. καὶ εἰς τὸν Ζακχαῖον. καὶ περὶ κρίσεως καὶ ἐλεημοσύνης</rubric>
+      <rubric><num>Μ.</num> Τοῦ αὐτοῦ ὅτε ἐθεράπευσεν ὁ σηρ τὸν ἐν γεννετῆς τυφλὸν. καὶ εἰς τὸν Ζακχαῖον. καὶ περὶ κρίσεως καὶ ἐλεημοσύνης</rubric>
       <incipit>Πολλαὶ καὶ διάφοροι</incipit>
-      <explicit></explicit>
+      <explicit>χαίρων τοῦ στερεωματης εἰς χν πίστεως· ὥ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν:-</explicit>
      </msItem>
      <msItem corresp="cpg:4386" n="2" xml:id="PTAMS00229_02">
       <locus from="88v" to="104r">
        88v–104r
       </locus>
-      <rubric>Τοῦ αὐτίου) εἰς τὸ χηρα καταλεγέσθω. μη ἔλαττων ἐτων εξήκοντα
-        γεγονυῖα. καὶ περι παίδων ανατροφῆς. καὶ περι ελεημοσύνη.</rubric>
-      <incipit>Εἰς καιρὸν ἡ τοῦ πνίευματο)ς</incipit>
-      <explicit></explicit>
+      <rubric><num>ΜΑ.</num> Τοῦ αὐτου εἰς τὸ χήρα καταλεγέσθω· μη ἐλαττον ἐτῶν εξήκοντα
+        γεγονυῖα. καὶ περὶ παίδων ἀνατροφῆς· καὶ περὶ ἐλεημοσύνη:-</rubric>
+      <incipit>Εἰς καιρὸν ἡ τοῦ πνς ὠκονόμησε χάρις.</incipit>
+      <explicit>πάντας ἡμᾶς ἐπιτυχεῖν, χάριτι καὶ φιλανία τοῦ κυ ἡμῶν ιυ χυ, ὥ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων  ἀμήν:-</explicit>
      </msItem>
      <msItem corresp="cpg:4377" n="2" xml:id="PTAMS00229_02">
       <locus from="104r" to="111r">
        104r–111r
       </locus>
-      <rubric>То®) αὑτοίῦ) εἰς το ρητὸν τοῦ ἀποστολου: δια δὲ τὰς πορνείας, ἕκαστος τὴν еаутоу γυναίκα εχέτω- καὶ ἑκάστη τὸν ἴδιον ἄνδρα.</rubric>
-      <incipit>Πρὸς τὰς τοῦ μέλιτος</incipit>
-      <explicit></explicit>
+      <rubric><num>ΜΒ.</num> Тоῦ αὑτοῦ εἰς τὸ ῥητὸν τοῦ ἀποστολου· διὰ δὲ τὰς πορνείας, ἕκαστος τὴν ἑαυτοῦ γυναῖκα ἐχέτω· καὶ ἑκάστη τὸν ἴδιον ἄνδρα:-</rubric>
+      <incipit>Πρὸς τὰς τοῦ μέλιτος πηγὰς τήμερον</incipit>
+      <explicit> ἡ δόξα εἰς τοὺς αἰῶνας τῶν ἀμήν:-</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="5" xml:id="PTAMS00229_05">
       <locus from="111" to="120v">
        111–120v
       </locus>
-      <rubric>Τοῦ αὐτοῦ εἰς τὸν άσωτον. καὶ εἰς μετανοιαν. καὶ εἰς τὸ ξυλον         Ύνωστοίν) καλοῦ καὶ πονηροῦ. καὶ εἰς τὸν ληστην. </rubric>
-      <incipit>Πρῴην ἡμᾶς ἀδελφοὶ ἡ μεγάλη καὶ θεοπρεπὴς τοῦ σίωτη)ρίοὶς </incipit>
+      <rubric><num>ΜΓ.</num> Τοῦ αὐτοῦ εἰς τὸν άσωτον. καὶ εἰς μετάνοιαν· καὶ εἰς τὸ ξύλον γνωστὸν καλοῦ καὶ πονηροῦ. καὶ εἰς τὸν ληστήν.</rubric>
+      <incipit>Πρῴην ἡμᾶς ἀδελφοὶ ἡ μεγάλη καὶ θεοπρεπὴς τοῦ σρς ἐπιφάνεια</incipit>
       <explicit></explicit>
      </msItem>
      <msItem corresp="cpg:4587" n="2" xml:id="PTAMS00229_02">
       <locus from="120v" to="130r">
        120v–130r
       </locus>
-      <rubric> Τοίῦ) αὐτοί) λόγος κατηχτικὸς εἰς το ρητὸν του κατα Ματθαῖον         ευαγγελίου. οµοια εστιν η βασιλεια τῶν ουρανῶν οἰκοδεσπότη. ὅστις εξηλθεν αμα πρωϊ μισθώσασθαι ἐργάτας εἰς τον αμπελῶνα αὐτοίῦ). καὶ τα εξης.</rubric>
-      <incipit>'Ορῶ τῇ ποίμνη </incipit>
-      <explicit></explicit>
+      <rubric><num>ΜΔ.</num> Τοῦ αὐτοῦ λόγος κατηχτικὸς εἰς τὸ ῥητὸν του κατὰ Ματθαῖον εὐαγγελίου. ὁµοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν οἰκοδεσπότη. ὅστις ἐξῆλθεν ἅμα πρωῒ μισθώσασθαι ἐργάτας εἰς τὸν ἀμπελῶνα αὐτοῦ. καὶ τὰ ἑξῆς:-</rubric>
+      <incipit>Ὁρῶ τῆ ποίμνη τῶν εὐσεβῶν μεμϊγμενα πρόβατα</incipit>
+      <explicit>κατὰ τὴν πίστιν ἡμῶν ὑμῶν γενηθήτω ὑμῖν· αὐτῶ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν</explicit>
      </msItem>
      <msItem defective="true" corresp="urn:cts:pta:pta0001.pta010" n="6" xml:id="PTAMS00229_06">
       <locus from="130r" to="130r">
        130r
       </locus>
-      <rubric>τοῦ αὐτοῦ. εἰς τὸ πῶς ὁ ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη, καὶ εἰς το πάθος τοῦ σρς ἑρμηνεία, καὶ περὶ τῆς νυχθείσης πλευράς</rubric>
+      <rubric><num>ΜΕ.</num> τοῦ αὐτοῦ. εἰς τὸ πῶς ὁ ἀδὰμ τὴν ψυχὴν ἔλαβεν ὅτε ἐπλάσθη· καὶ εἰς το πάθος τοῦ σρς ἑρμηνεία, καὶ περὶ τῆς νυχθείσης πλευρας</rubric>
       <incipit/>
       <explicit/>
      </msItem>
@@ -200,46 +215,46 @@
        130r–138r
       </locus>
       <rubric/>
-      <incipit><num>με</num> Βαθεῖαν τομὴν τοῖς ἁρπάζουσι καὶ πλεονεκτεῖν βουλομένοις ἐδώκαμεν·</incipit>
+      <incipit>Βαθεῖαν τομὴν τοῖς ἁρπάζουσι καὶ πλεονεκτεῖν βουλομένοις ἐδώκαμεν·</incipit>
       <explicit>aus clacla: τὸ αὐτοῦ θέλημα… προτιμῶμεν. Οὕτω γὰρ… τῶν μελλόντων ἀγαθῶν ἐπιτευξόμεθα… ἀμήν.</explicit>
      </msItem>
      <msItem corresp="cpg:4341" n="2" xml:id="PTAMS00229_02">
       <locus from="139r" to="146r">
        139r–146r
       </locus>
-      <rubric> Του анн ληγεσο κανα πέθης᾽. λεχθεῖς τη. ἁγία κυριακῇ τοῦ πασχα.</rubric>
-      <incipit>᾿Απεθέμιεθα</incipit>
+      <rubric>Του αυτου λογος· κατὰ μέθης· λεχθεῖς τη ἁγια κυριακῆ τοῦ πασχα:-</rubric>
+      <incipit>Ἀπεθέμεθα τῆς νηστείας τὸ φορτίον</incipit>
       <explicit></explicit>
      </msItem>
      <msItem corresp="cpg:5058" n="2" xml:id="PTAMS00229_02">
       <locus from="146v" to="158r">
        146v–158r
       </locus>
-      <rubric>καινὴν κυριακὴν καὶ εἰς τὸν ἀπόστολον Θωμαίν) καὶ περὶ πίστεων.</rubric>
+      <rubric>Του αυτου ομηλια εις την καινὴν κυριακὴν καὶ εἰς τὸν ἀπόστολον Θωμαν καὶ περὶ πίστεως.</rubric>
       <incipit>Φαιδρῶς ὁμοῦ καὶ θεοσεβῶς</incipit>
-      <explicit></explicit>
+      <explicit>τοὺς σύμπαντας αἰῶνας ἀμήν:-</explicit>
      </msItem>
      <msItem corresp="cpg:4441.12" n="2" xml:id="PTAMS00229_02">
       <locus from="158r" to="167v">
        158r–167v
       </locus>
-      <rubric>ρητών. τίου. εὐαγγελίου: ὅτι οὐ δύναται ὃ υίτο)ς ποιεῖν ἀφ᾽ ἑαυτοῦ οἰνν η ἠὐπτ γαρ ἠλέει ἐο!ν} πίατε]ρα ποιοῦντα.</rubric>
-      <incipit>τῆς βίας</incipit>
+      <rubric>Τοῦ αυτοῦ ομιλια εἰς το ρητὸν του εὐαγγελίου· ὅτι οὐ δύναται ὁ υς ποιεῖν ἀφ’ ἑαυτοῦ οὐδὲν· ἐὰν μὴ τί βλέπει τὸ πρα ποιοῦντα:-</rubric>
+      <incipit>Ὢ τῆς βίας·</incipit>
       <explicit></explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta007" n="8" xml:id="PTAMS00229_08">
       <locus from="167v" to="179r">
        167v–179r
       </locus>
-      <rubric>ἄσμα κενὸν ἄσατε τώ κίυρι)ω πᾶσα ἡ γη.</rubric>
-      <incipit>Καλὸν ἡμῖν ὡς ἀληθῶν</incipit>
+      <rubric>Τοῦ αυτοῦ ὁμιλία άσατε τω κω ἄσμα κενὸν ἄσατε τῶ κω πᾶσα ἡ γῆ:-</rubric>
+      <incipit>Καλὸν ἡμῖν ὡς ἀληθῶς</incipit>
       <explicit></explicit>
      </msItem>
      <msItem corresp="cpg:4372.3" n="2" xml:id="PTAMS00229_02">
       <locus from="179r" to="192v">
        179r–192v
       </locus>
-      <rubric>Του αὐιίθυ) ὁμιλία πρὸς τοὺς ἐγκαλέσαντας υπερ᾽ του μήκους τῶ(ν) προυμίων: καὶ) οτί!) χρήσιμοί») τὸ φέρειν ἐλέγχους: καὶ) τίνος ἔνεκεν. οὐκ ευθέως πιστεύσας μετονομασθίη) Ι]αυλοίς): κίαι) οτί!) οὐκ εξ ανόγκης: ἀλλ᾽ ἐκ προερέσείως) γέγονεν αυτίω) ἡ μεταβολῆ.</rubric>
+      <rubric>Του αὐτου ὁμιλία πρὸς τοὺς ἐγκαλέσαντας υπερ’ του μήκους τῶν προυμίων· καὶ οτι χρήσιμον τὸ φέρειν ἐλέγχους· καὶ τίνος ἕνεκεν. οὐκ ευθέως πιστεύσας μετονομασθη Παυλος· και οτι οὐκ εξ ανάγκης· ἀλλ’ ἐκ προερέσεως γέγονεν αυτω ἡ μεταβολῆ.</rubric>
       <incipit>Ἐνεκάλεσαν ἡμῖν τινες τῶν ἀγαπητῶν τῶν ἡμετέρων</incipit>
       <explicit>ἀξίαν αὐτοῦ τῆς ἀγαθότητος κατὰ δύναμιν τὴν ἡμετέραν πολιτείαν ἐπιδειξώμεθα, ἵνα καὶ τῆς βασιλείας τῶν οὐρανῶν ἐπιτύχωμεν… ἀμήν.</explicit>
      </msItem>
@@ -248,17 +263,17 @@
       <locus from="193r" to="206r">
        193r–206r
       </locus>
-      <rubric>Του αυτου ψαλμὸς РГ” τῶ Δαίυ0δ. εἰς το εὐλογει η ψυχη μου τοίν) κίυριο)ν.</rubric>
+      <rubric>Του αυτου ψαλμὸς РГʹ τῶ δαδ. εἰς το εὐλογει η ψυχη μου τον κν.</rubric>
       <incipit>Τὰ αὐτὰ καὶ περὶ τῆς νῦν ἐπιγραφῆς</incipit>
-      <explicit></explicit>
+      <explicit>εἰς εὐζωϊαν ρυθμίζει τὸν βίον τὸν ἡμέτερον:</explicit>
      </msItem>
      <msItem corresp="cpg:4551" n="9" xml:id="PTAMS00229_09">
         <note>in Ps 104</note>
       <locus from="206r" to="214r">
        206r–214r
       </locus>
-      <rubric>Τοῦ αυτου: ψαλμος ΡΔ΄ εἰς τίο) αλληλουΐα.</rubric>
-      <incipit>Τὴν τοῦ ἀλληλούία </incipit>
+      <rubric>Τοῦ αυτου· ψαλμος: ΡΔʹ εἰς το αλληλουϊα:-</rubric>
+      <incipit>Τὴν τοῦ ἀλληλούϊα ἑρμηνείαν ἐν τουτοις εἶναι λέγουσιν·</incipit>
       <explicit></explicit>
      </msItem>
      <msItem corresp="cpg:4551" n="9" xml:id="PTAMS00229_09">
@@ -266,7 +281,7 @@
       <locus from="214r" to="222v">
        214r–222v
       </locus>
-      <rubric>Του αὐτοῦ ψαλμος ΡΕ΄ εἰς τίο) αλληλουΐα. </rubric>
+      <rubric>Του αὐτοῦ ψαλμος ΡΕʹ εἰς το αλληλουΐα.</rubric>
       <incipit>Τὴν αὐτὴν ἐπιγραφὴν</incipit>
       <explicit></explicit>
      </msItem>
@@ -275,15 +290,15 @@
       <locus from="223r" to="231v">
        223r–231v
       </locus>
-      <rubric>Του αυτου ψαλμος: ΡΟ΄εις το αλληλουῖα.</rubric>
-      <incipit>Παραπλησίως τοῖς προτέροις</incipit>
+      <rubric>Του αυτου ψαλμος: ΡϚʹ εις το αλληλουϊα.</rubric>
+      <incipit>Παραπλησίως τοῖς προτέροις καὶ οὗτος ἐπιγέγραπται·</incipit>
       <explicit></explicit>
      </msItem>
      <msItem defective="true" corresp="urn:cts:pta:pta0001.pta003" n="9" xml:id="PTAMS00229_09">
       <locus from="232r" to="254v">
        232r–254v
       </locus>
-      <rubric>Του αυτου λόγος εἰς την ἀνάληψιν, τοῦ κίυριο)ν καὶ σ(ωτη)ρίοὶς ἡμῶν [ίησο)υ Χίριστο)υ. </rubric>
+      <rubric>Του αυτου λόγος εἰς την ἀνάληψιν, τοῦ κυ καὶ σρς ἡμῶν ιυ χυ. </rubric>
       <incipit>Πλοῦτος ἡμῖν καὶ θησαυρὸς</incipit>
       <explicit type="mutile">ὁ θεὸς εἰρήνην δοῦναι</explicit>
       <!-- f. 255r inc. εἰρήνην πῆξαι  -->
@@ -298,6 +313,25 @@
       </p>
      </origin>
     </history>
+    <additional>
+      <listBibl>
+        <biblStruct type="book"
+        xml:id="dobrynina__2013">
+<monogr>
+<title level="m">Сводный каталог греческих иллюминированных рукописей в российских хранилищах . Рукописи IX-X вв. в Государственном Историческом музее</title>
+<author>
+  <forename>Ėlina Nikolaevna</forename>
+  <surname>Dobrynina</surname>
+</author>
+<imprint>
+  <pubPlace>Moskva</pubPlace>
+  <publisher>Izdat. Skanrus</publisher>
+  <date>2013</date>
+</imprint>
+</monogr>
+</biblStruct>        
+      </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>

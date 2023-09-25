@@ -6,6 +6,10 @@
     <title>
      Patmos, Monê tou Hagiou Iôannou tou Theologou, fonds principal 165
     </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
    </titleStmt>
    <editionStmt>
     <edition>
@@ -32,15 +36,14 @@
      This description is based on data from the
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
-     </ref>
+     </ref>, on <ref target="#sakkelion_patmiake_1890">Sakkelion, Πατμιακὴ, 88–89</ref>, <ref target="#van_deun_recueil_1986">Van Deun, Recueil</ref>
      and on notes by Karl-Heinz Uthemann as well as on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc status="draft">
-   <change when-iso="2020-08-14" who="#AvS">
-    Created TEI file
-   </change>
+  <revisionDesc>
+    <change when-iso="2023-09-25" who="#AvS">Updated information</change>
+   <change when-iso="2020-08-14" who="#AvS">Created TEI file</change>
   </revisionDesc>
  </teiHeader>
  <text>
@@ -72,31 +75,138 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00381_01">
-      <locus from="037v" to="050">
-       037v–050
+        <msItem corresp="cpg:4912.1" n="1" xml:id="PTAMS00381_01">
+         <locus from="1r" to="4r">
+          1r–4r
+         </locus>
+         <rubric>Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου προφυλακτικὸς λόγος αʹ</rubric>
+         <incipit>Ἐπειδὴ τῷ ἀγαθῷ προσερχόμεθα</incipit>
+         <explicit>καὶ οὕτως ἡμᾶς φυλάξει τὸ παρὰ Χριστοῦ Πνεῦμα εἰς τὴν ἡμέραν
+            τῆς μελλούσης ἀπολυτρώσεως εἰς δόξαν Χριστοῦ" δι᾿ οὗ καὶ μεθ᾿
+            οὗ τῷ Πατρὶ ἡ δόξα σὺν ἁγίῳ Πνεύματι εἰς τοὺς αἰῶνας. ᾿Αμήν.</explicit>
+        </msItem>
+        <msItem corresp="cpg:4912.2" n="2" xml:id="PTAMS00381_02">
+         <locus from="4v" to="6v">
+          4v–6v
+         </locus>
+         <rubric>Τοῦ αὐτοῦ προφυλακτικὸς λόγος βʹ</rubric>
+         <incipit>Μῦθοι μὲν ἑλληνικοὶ θεοὺς ἐξ ἀνθρώπων συλλήψεων</incipit>
+         <explicit>ᾧ ἡ δόξα.</explicit>
+        </msItem>
+        <msItem corresp="cpg:4367" n="3" xml:id="PTAMS00381_03">
+         <locusGrp>
+            <locus from="7r" to="8v">7r–8v</locus>
+            <locus from="17r" to="19r">7r–8v</locus>
+        </locusGrp>
+         <rubric>Τοῦ αὐτοῦ περὶ προνοίας λόγος αʹ</rubric>
+         <incipit>Πολλῆς γέμει ταραχῆς ἡμῶν ἡ ζωή</incipit>
+         <explicit>ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· μεθ᾽ οὗ τῷ Πατρὶ ἅμα τῷ ἁγίῳ Πνεύματι δόξα καὶ τὸ κράτος καὶ ἡ τιμὴ εἰς τοὺς αἰῶνας. Ἀμήν.</explicit>
+        </msItem>
+        <msItem corresp="cpg:4367" n="4" xml:id="PTAMS00381_04">
+         <locusGrp>
+            <locus from="19r" to="24v">19r–24v</locus>
+            <locus from="9r" to="9r">9r</locus>
+        </locusGrp>
+         <rubric>Τοῦ αὐτοῦ περὶ προνοίας λόγος βʹ</rubric>
+         <incipit>Ὁ κακολογῶν πατέρα ἢ μητέρα</incipit>
+         <explicit>μετὰ παρρησίας στῆναι ἔμπροσθεν τοῦ βήματος τοῦ Χριστοῦ· ᾧ ἡ δόξα καὶ τὸ κράτος, νῦν καὶ εἰς τοὺς ἀτελευτήτους αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+        </msItem>
+        <msItem corresp="cpg:4367" n="5" xml:id="PTAMS00381_05">
+         <locus from="9r" to="12r">9r–12r</locus>
+         <rubric>Τοῦ αὐτοῦ περὶ εἱμαρμένης λόγος αʹ</rubric>
+         <incipit>Οἶδα πρώην περὶ εἱμαρμένης</incipit>
+         <explicit></explicit>
+         <note>hom. 3</note>
+        </msItem>
+        <msItem corresp="cpg:4367" n="6" xml:id="PTAMS00381_06">
+         <locusGrp>
+            <locus from="12v" to="16v">12v–16v</locus>
+            <locus from="25r" to="27r">25r–27r</locus>
+        </locusGrp>
+         <rubric>Τοῦ αὐτοῦ περὶ εἱμαρμένης λόγος βʹ</rubric>
+         <incipit>Τὰ αὐτὰ λέγειν ἐμοὶ μὲν οὐκ ὀκνηρόν</incipit>
+         <explicit></explicit>
+         <note>hom. 4</note>
+        </msItem>
+        <msItem corresp="cpg:4367" n="7" xml:id="PTAMS00381_07">
+         <locus from="27r" to="32r">27r–32r</locus>
+         <rubric>Τοῦ αὐτοῦ περὶ εἱμαρμένης λόγος γʹ</rubric>
+         <incipit>Οὐδέν ἐστιν ὄντως δόγμα</incipit>
+         <explicit></explicit>
+         <note>hom. 5</note>
+        </msItem>
+        <msItem corresp="cpg:4367" n="8" xml:id="PTAMS00381_08">
+         <locus from="32r" to="37v">32r–37v</locus>
+         <rubric>Τοῦ αὐτοῦ περὶ εἱμαρμένης λόγος δʹ</rubric>
+         <incipit>Φάγωμεν καὶ πίωμεν</incipit>
+         <explicit>χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· μεθ᾿ οὗ τῷ Πατρὶ δόξα, τιμὴ ἅμα τῷ ἁγίῳ Πνεύματι, νῦν καὶ εἰς τοὺς αἰῶνας. Ἀμήν.</explicit>
+         <note>hom. 6</note>
+        </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="9" xml:id="PTAMS00381_09">
+      <locus from="37v" to="50r">
+       37v–50r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric> Τοῦ αὐτοῦ εἰς τὸ ὅτι Παλαιᾶς καὶ Καινῆς εἷς ὁ νομοθέτης καὶ εἰς τὸ ἔνδυμα τοῦ ἱερέως καὶ περὶ μετανοίας</rubric>
+      <incipit>Τῆς Χριστοῦ βασιλείας τὸ Εὐαγγέλιον</incipit>
+      <explicit>ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00381_02">
-      <locus from="081v" to="097">
-       081v–097
+     <msItem corresp="cpg:4393" n="10" xml:id="PTAMS00381_10">
+      <locus from="50r" to="55r">
+       50r–55r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric> Τοῦ αὐτοῦ ὁμιλία ὅτε Σατορνῖνος καὶ Αὐρηλιανὸς ἐξωρίσθησαν καὶ Γαϊνᾶς ἐξῆλθε τῆς πόλεως καὶ περὶ φιλαργυρίαν</rubric>
+      <incipit>Πολὺν ἐσίγησα χρόνον καὶ διὰ μακροῦ</incipit>
+      <explicit>χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· μεθ᾽ οὗ τῷ Πατρὶ ἡ δόξα ἅμα τῷ ἁγίῳ Πνεύματι, νῦν καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00381_03">
-      <locus from="114" to="125v">
-       114–125v
+     <msItem corresp="cpg:4392" n="11" xml:id="PTAMS00381_11">
+      <locus from="55r" to="60v">
+       55r–60v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς Εὐτρόπιον εὐνοῦχον, πατρίκιον καὶ ὕπατον</rubric>
+      <incipit>Ἀεὶ μέν, μάλιστα δὲ νῦν, εὔκαιρον εἰπεῖν</incipit>
+      <explicit>χάριτι καὶ φιλανθρωπίᾳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ ἡ δόξα.</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="4" xml:id="PTAMS00381_04">
+     <msItem corresp="cpg:4528" n="12" xml:id="PTAMS00381_12">
+      <locus from="60v" to="81v">
+       60v–81v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία ὅτε τῆς ἐκκλησίας ἔξω εὑρεθεὶς Εὐτρόπιος ἀπεσπάσθη καὶ εἰς τὸ Παρέστη ἡ βασίλισσα ἐκ δεξιῶν σου ἐν ἱματίῳ διαχρύσῳ </rubric>
+      <incipit>Ἡδὺ μὲν λειμὼν καὶ παράδεισος</incipit>
+      <explicit>ὅτι αὐτῷ ἡ δόδα εἰς τοὺς αἰῶνας τῶν αἰώνων. Αμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="13" xml:id="PTAMS00381_13">
+      <locus from="81v" to="97r">
+       81v–97r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸ τοῦ Ἀβραὰμ ῥητὸν τὸ λέγον Θὲς τὴν χεῖρά σου ὑπὸ τὸν μηρόν μου, καὶ εἰς διαφόρους μαρτυρίας</rubric>
+      <incipit>Ἐθαύμασα μεθ᾽ ὑμῶν, ὦ φιλόχριστοι</incipit>
+      <explicit>ᾧ ἡ δόξα εἰς τοὺς αἰῶνας. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4563" n="14" xml:id="PTAMS00381_14">
+      <locus from="97r" to="114r">
+       97r–114r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸ μὴ πλησιάζειν θεάτροις καὶ εἰς τὸν Ἀβραάμ </rubric>
+      <incipit>Πολλοὺς οἶμαι τῶν πρώην καταλιπόντων</incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="15" xml:id="PTAMS00381_15">
+      <locus from="114r" to="125v">
+       114r–125v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν ἅγιον Ἀκάκιον τὸν ποιμένα καὶ εἰς τὸ πρόβατον καὶ εἰς τὸ καταπέτασμα καὶ εἰς τὸ ἱλαστήριον</rubric>
+      <incipit>Πάλιν μαρτύρων μνήμη, πάλιν εὐσεβῶν ἑορταί</incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4400" n="16" xml:id="PTAMS00381_16">
+      <locus from="125v" to="149r">
+       125v–149r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ λόγος ὅτι τὸν ἑαυτὸν μὴ ἀδικοῦντα οὐδεὶς παραβλάψαι δυνήσεται καὶ εἰς τοὺς ἁγίους τρεῖς παῖδας, πεμφθεὶς ἐκ τῆς ἐξορίας ἀπὸ Κουκουσὸν πρὸς τὴν μακαρίαν Ὀλυμπίαν καὶ πρὸς πάντας τοὺς πιστούς</rubric>
+      <incipit>Οἶδα μὲν ὅτι τοῖς παχυτέροις</incipit>
+      <explicit type="defective">τοῦτον παραβλάψαι δυνήσοντα</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="17" xml:id="PTAMS00381_17">
       <locus from="149r" to="163r">
        149r–163r
       </locus>
@@ -104,39 +214,119 @@
       <incipit>Μέγα τῆς ψυχῆς ἐφόδιον εἰς σριαν</incipit>
       <explicit>τὰ δὲ λειποντα τη θεωρία τοῦ θεοῦ λόγου. ἑτέρω ταμιευσάμενοι λόγω, τάξει τὴν συμμετρίαν τιμήσομεν· καὶ θω δόξαν ἀναπέμψωμεν· νῦν καὶ ἀεὶ· καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="5" xml:id="PTAMS00381_05">
-      <locus from="172" to="193">
-       172–193
+     <msItem corresp="cpg:4319" n="18" xml:id="PTAMS00381_18">
+      <locus from="163r" to="172r">
+       163r–172r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric> Τοῦ αὐτοῦ εἰς τὸν μακάριον Φιλογόνιον, γενόμενον ἀπὸ δικολόγου ἐπίσκοπον, καὶ ὅτι τοῦ προνοεῖν τῶν κοινῇ συμφερόντων οὐδὲν ἴσον εἰς εὐδοκίμησιν παρὰ τῷ Θεῷ, καὶ ὅτι τὸ ῥᾳθύμως προσιέναι τοῖς μυστηρίοις κόλασιν ἀφόρητον ἔχει, κἂν ἅπαξ τοῦ ἐνιαυτοῦ τοῦτο τολμήσωμεν. Ἐλέχθη πρὸ πέντε ἡμερῶν τῆς Χριστοῦ γεννήσεως</rubric>
+      <incipit>Ἐγὼ μὲν καὶ τήμερον παρεσκευαζόμην</incipit>
+      <explicit>μεθ᾽ οὗ τῷ Πατρὶ ἅμα τῷ ἁγίῳ Πνεύματι δόξα, τιμή, κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="6" xml:id="PTAMS00381_06">
-      <locus from="211v" to="255v">
-       211v–255v
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="19" xml:id="PTAMS00381_19">
+      <locus from="172r" to="193r">
+       172r–193r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ εἰς τὴν ἐνανθρώπησιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ εἰς τὸ Ἑκάστῳ κλίματι ἐφεστήκεσαν ἄγγελοι</rubric>
+      <incipit>Ὄντως ἐπεφάνη ἡμῖν ἡ τοῦ Χριστοῦ χάρις</incipit>
+      <explicit>ᾧ ἡ δόξα σὺν τῷ Πατρὶ καὶ τῷ ἁγίῳ Πνεύματι εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="7" xml:id="PTAMS00381_07">
+     <msItem corresp="cpg:4520" n="20" xml:id="PTAMS00381_20">
+      <locus from="1193r" to="200v">
+       193r–200v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ εἰς τὴν ἀπογραφὴν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ</rubric>
+      <incipit>Μέλλοντος, ἀγαπητοί, τοῦ κοινοῦ Σωτῆρος</incipit>
+      <explicit>μεθ᾽ οὗ τῷ Πατρὶ σὺν ἁγίῳ Πνεύματι δόξα, κράτος, τιμὴ καὶ προσκύνησις εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4328" n="21" xml:id="PTAMS00381_21">
+      <locus from="200v" to="211v">
+       200v–211v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ταῖς Καλάνδαις, μὴ προσελθόντος τοῦ ἐπισκόπου Ἀντιοχείας Φλαβιανοῦ. Ἐλέχθη κατὰ τῶν παρατηρούντων τὰς νεομηνίας καὶ κατὰ τὴν πόλιν χορείας τελούντων, καὶ εἰς τὸ ῥητὸν τοῦ ἀποστόλου τὸ Πάντα εἰς δόξαν Θεοῦ ποιεῖτε.</rubric>
+      <incipit>Καθάπερ χορὸς τὸν κορυφαῖον</incipit>
+      <explicit>ὅτι αὐτῷ πρέπει ἡ δοξα εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="22" xml:id="PTAMS00381_2">
+      <locus from="211v" to="225v">
+       211v–225v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸ Ὁ Κύριος ἐβασίλευσεν, καὶ εἰς τὸ Ὅτ᾽ ἂν παραδῷ τὴν βασιλείαν τῷ Θεῷ καὶ Πατρί, καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος</rubric>
+      <incipit>Πάλιν ἡμῖν ἡ τοῦ μακαρίου Δαυῒδ</incipit>
+      <explicit>ᾧ ἡ δόξα εἰς τοὺς αἰῶνας. Ἀμήν</explicit>
+     </msItem>
+     <msItem corresp="cpg:4380" n="23" xml:id="PTAMS00381_23">
+      <locus from="225v" to="239r">
+       225v–239r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ εἰς τὸ ἀποστολικὸν ῥητὸν Οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον καὶ πάντες εἰς τὸν Μωσῆν ἐβαπτίσαντο</rubric>
+      <incipit>Οἱ ναῦται τοῦτο μάλιστα φιλοῦσι</incipit>
+      <explicit>εἰς τοὺς αἰῶνας τ(ῶν)</explicit>
+     </msItem>
+     <msItem corresp="cpg:4335" n="24" xml:id="PTAMS00381_24">
+      <locus from="239r" to="248v">
+       239r–248v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ εἰς τὰ ἅγια Θεοφάνια</rubric>
+      <incipit>Πάντες ὑμεῖς ἐν εὐθυμίᾳ σήμερον</incipit>
+      <explicit>ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="25" xml:id="PTAMS00381_25">
       <locus from="248v" to="268v">
        248v–268v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία περὶ τοὺ ἁγίου Πνεύματος</rubric>
+      <incipit>Χθὲς ἡμῖν, ὦ φιλόχριστοι, ἡ τοῦ ἁγίου</incipit>
+      <explicit>ὁ πιστὸς πεπληροφόρηται, ὁ Χριστὸς δοξάζεται· αὐτοῦ γάρ ἐστιν ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="8" xml:id="PTAMS00381_08">
-      <locus from="317" to="329v">
-       317–329v
+     <msItem corresp="cpg:4735" n="26" xml:id="PTAMS00381_26">
+      <locus from="268v" to="289v">
+       268v–289v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ εἰς τὸ βάπτισμα καὶ εἰς τὸν πειρασμὸν καὶ εἰς τὸν λῃστὴν καὶ κατὰ Ἀρειανῶν καὶ τί νοητέον τὸ Κλητὸς ἀπόστολος, καὶ εἴς τινα ῥητὰ τοῦ ἀποστόλου ἑρμηνεία</rubric>
+      <incipit>Ὅπέρ ἐστιν ὁ ἥλιος τοῖς σώμασιν</incipit>
+      <explicit>δι᾿ οὗ τῷ Πατρὶ δόξα ἅμα τῷ ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="9" xml:id="PTAMS00381_09">
+     <msItem corresp="cpg:4512" n="27" xml:id="PTAMS00381_27">
+      <locus from="289v" to="295v">
+       289v–295v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν μνήμην τοῦ ἁγίου Βάσσου. Ἐλέχθη εἰς τοὺς φόβους καὶ εἰς τὸ Δεῦτε μάθετε ἀπ᾿ ἐμοῦ ὅτι πρᾶός εἰμι καὶ ταπεινὸς τῇ καρδίᾳ. </rubric>
+      <incipit>Ἔδει μὲν ἡμᾶς τοσαύτης λόγων πηγῆς</incipit>
+      <explicit>πρεσβείαις τῶν μνημονευθέντων ἁγίων, χάριτι δὲ Χριστοῦ· ᾧ πρέπει ἡ δόξα εἰς τοὺς αἰῶνας. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4366" n="28" xml:id="PTAMS00381_28">
+      <locus from="295v" to="300r">
+       295v–300r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία μετὰ τὸν σεισμόν</rubric>
+      <incipit>Εἰ καὶ ἡμᾶς ἡ ἀρρωστία ἐκώλυσε</incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4716" n="29" xml:id="PTAMS00381_29">
+      <locus from="300r" to="304r">
+       300r–304r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν φαρισαῖον καὶ εἰς τὸν τελώνην καὶ περὶ ταπεινοφροσύνης καὶ προσευχῆς</rubric>
+      <incipit>Καθάπερ νεφῶν συνδρομή</incipit>
+      <explicit>μεθ᾽ οὗ τῷ Πατρὶ ἡ δόξα ἅμα τῷ ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4385" n="30" xml:id="PTAMS00381_30">
+      <locus from="304v" to="316v">
+       304v–316v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ πρὸ ταύτης ὁμιλήσας εἰς τὸν φαρισαῖον, νῦν πρὸς τοὺς οὐκ εἰς δέον χρωμένους τῷ ἀποστολικῷ ῥητῷ τῷ λέγοντι Εἴτε προφάσει, εἴτε ἀληθείᾳ, Χριστὸς καταγγέλλεται, καὶ περὶ ταπεινοφροσύνης</rubric>
+      <incipit>Τοῦ φαρισαίου καὶ τοῦ τελώνου μνημονεύσαντες</incipit>
+      <explicit>δόξα, τιμὴ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="31" xml:id="PTAMS00381_31">
+      <locus from="317r" to="329v">
+       317r–329v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν ἄσωτον καὶ περὶ μετανοίας καὶ εἰς τὸ ξύλον γνωστὸν καλοῦ καὶ πονηροῦ καὶ εἰς τὸν λῃστήν</rubric>
+      <incipit>Πρώην ἡμῖν, ἀδελφοί, ἡ μεγάλη</incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="32" xml:id="PTAMS00381_32">
       <locus from="329v" to="340r">
        329v–340r
       </locus>
@@ -144,7 +334,47 @@
       <incipit>πᾶσα γραφὴ θεόπνευστος. καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας,</incipit>
       <explicit>ἡ ἀληθινὴ ἀξία. ἡ ἀμέριστος βασιλεία. ἡ ἄσχιστος τιμή. ἡ ἀδιαίρετος ἐλπίς· ἡ ἀκατάληπτος δόξα. τοῦ πρς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνς· ὧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν</explicit>
      </msItem>
+     <msItem corresp="cpg:4428" n="33" xml:id="PTAMS00381_33">
+      <locus from="340r" to="348v">
+       340r–348v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία ὅτι ἀτελεύτητος ἡ κόλασις καὶ εἰς τὸ ῥητὸν τοῦ ἀποστόλου Εἴ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον τοῦτον χρυσόν, ἄργυρον, λίθους τιμίους, ξύλα, χόρτον, καλάμην, ἑκάστου τὸ ἔργον φανερὸν γενήσεται ἡ γὰρ ἡμέρα δηλώσει ὅτι ἐν πυρὶ ἀποκαλύπτεται καὶ ἑκάστου τὸ ἔργον, ὁποῖόν ἐστι, τὸ πῦρ δοκιμάσει· εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται, αὐτὸς δὲ σωθήσεται, οὕτως δὲ ὡς διὰ πυρός.</rubric>
+      <incipit>Οὐ μικρὸν ἡμῖν τὸ προκείμενον ζήτημα</incipit>
+      <explicit>ἅμα τῷ ἁγίῳ καὶ ἀγαθῷ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4388" n="34" xml:id="PTAMS00381_34">
+      <locus from="348v" to="356r">
+       348v–356r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία περὶ τῆς τῶν μελλόντων ἀπολαύσεως καὶ τῆς τῶν παρόντων εὐτελείας</rubric>
+      <incipit>Σφοδρὸν τὸ καῦμα καὶ βαρὺς ὁ αὐχμός</incipit>
+      <explicit>δόξα, πράτος, τιμή, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4585" n="35" xml:id="PTAMS00381_35">
+      <locus from="356r" to="362r">
+       356r–362r
+      </locus>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸ Προσέχετε τὴν ἐλεημοσύνην ὑμῶν μὴ ποιεῖν ἔμπροσθεν τῶν ἀνθρώπων.</rubric>
+      <incipit>Οἱ σοφοὶ καὶ ἐπιστήμονες.</incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4357" n="36" xml:id="PTAMS00381_36">
+      <locus from="362r" to="369v">
+       362r–369v
+      </locus>
+      <rubric>Τοῦ αὐτοῦ, ἀπελθόντος τοῦ ἐπισκόπου μαρτύρων ἡμέραν ἐν τῇ χώρᾳ ἐπιτελέσαι. Ἐλέχθη ἡ ὁμιλία ἐν τῇ πόλει εἰς μάρτυρας καὶ περὶ κατανύξεως καὶ ἐλεημοσύνης</rubric>
+      <incipit>Χθὲς μαρτύρων ἡμέρα.</incipit>
+      <explicit></explicit>
+     </msItem>
     </msContents>
+    <physDesc>
+        <handDesc hands="2">
+            <handNote>  
+              <p><locus from="1r" to="362v">ff. 1r-362v</locus>, minuscule bouletée, dat. s X (2.H.) (<ref target="van_deun_recueil_1986">Van Deun, 286</ref>)</p>
+              <p><locus from="363r" to="369v">ff. 363r-369v</locus>, dat. s X (<ref target="van_deun_recueil_1986">Van Deun, 286</ref>)</p>
+            </handNote>
+        </handDesc>
+    </physDesc>
     <history>
      <origin>
       <p n="origDate">
@@ -154,6 +384,43 @@
       </p>
      </origin>
     </history>
+    <additional>
+        <listBibl>	
+            <biblStruct type="book"
+            xml:id="sakkelion_patmiake_1890">
+    <monogr>
+        <title level="m">Πατμιακὴ βιβλιοθήκη ἤτοι ἀναγραφὴ τῶν ἐν τῇ βιβλιοθήκῃ τῆς κατὰ νῆσον Πάτμον γεραρᾶς καὶ βασιλικῆς μονῆς τοῦ ἁγίου ἀποστόλου καὶ εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου τεθησαυρισμένων χειρογράφων τευχῶν</title>
+        <author>
+            <forename>Ioannes</forename>
+            <surname>Sakkelion</surname>
+        </author>
+        <imprint>
+            <pubPlace>Athen</pubPlace>
+            <date>1890</date>
+            <note type="url">https://anemi.lib.uoc.gr/metadata/9/4/a/metadata-438-0000046.tkl</note>
+        </imprint>
+    </monogr>
+</biblStruct>
+            <biblStruct type="journalArticle"
+            xml:id="van_deun_recueil_1986">
+    <analytic>
+        <title level="a">Un recueil chrysostomien: le Patmiacus 165</title>
+        <author>
+            <forename>Peter</forename>
+            <surname>Van Deun</surname>
+        </author>
+    </analytic>
+    <monogr>
+        <title level="j">Byzantion</title>
+        <imprint>
+            <biblScope unit="volume">56</biblScope>
+            <biblScope unit="page">285–295</biblScope>
+            <date>1986</date>
+        </imprint>
+    </monogr>
+</biblStruct>
+        </listBibl>
+    </additional>
    </msDesc>
   </body>
  </text>
