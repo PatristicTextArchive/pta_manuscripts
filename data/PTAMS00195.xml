@@ -89,54 +89,147 @@
       <explicit>γένοιτο δὲ εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ διδασκάλου, ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι ἐν χω ἰυ. ὧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:- </explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="2" xml:id="PTAMS00195_02">
-      <locus from="016" to="016v, 003">
-       016–016v, 003–006v, 011–014v, 007–008v, 017–020v
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <locusGrp>
+        <locus from="16r" to="16v">16r–16v</locus>
+        <locus from="3r" to="6v">3r–6v</locus>
+        <locus from="11r" to="14v">11r–14v</locus>
+        <locus from="7r" to="8v">7r–8v</locus>
+        <locus from="17r" to="20v">17r–20v</locus>
+      </locusGrp>
+      <rubric><num>βʹ</num> </rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta005" n="3" xml:id="PTAMS00195_03">
-      <locus from="029" to="037v">
-       029–037v
+     <msItem corresp="cpg:4325" n="3" xml:id="PTAMS00195_03">
+      <locus from="20v" to="29r">
+       20v–29r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="4" xml:id="PTAMS00195_04">
-      <locus from="047" to="055v">
-       047–055v
+     <msItem corresp="urn:cts:pta:pta0001.pta005" n="4" xml:id="PTAMS00195_04">
+      <locus from="29r" to="37v">
+       29r–37v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="5" xml:id="PTAMS00195_05">
-      <locus from="169" to="181v">
-       169–181v
+     <msItem corresp="cpg:4576" n="5" xml:id="PTAMS00195_05">
+      <locus from="37v" to="46v">
+       37v–46v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="6" xml:id="PTAMS00195_06">
+     <msItem corresp="urn:cts:pta:pta0001.pta029" n="6" xml:id="PTAMS00195_06">
+      <locus from="47r" to="55v">
+       47r–55v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4329" n="7" xml:id="PTAMS00195_07">
+      <note>1-5, 5 = 103-111v</note>
+      <locus from="55v" to="111v">
+       55v–111v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="bhg:939r" n="8" xml:id="PTAMS00195_08">
+      <locus from="111v" to="117r">
+       47r–55v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="bhg:939s" n="9" xml:id="PTAMS00195_09">
+      <locus from="117r" to="126v">
+       117r–126v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4417.1" n="10" xml:id="PTAMS00195_10">
+      <locus from="127r" to="135v">
+       127r–135v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4417.4" n="11" xml:id="PTAMS00195_11">
+      <locus from="135v" to="143v">
+       135v–143v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4417.5" n="12" xml:id="PTAMS00195_12">
+      <locus from="143v" to="148r">
+       143v–148r
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4417.6" n="13" xml:id="PTAMS00195_13">
+      <locus from="148r" to="153v">
+       148r–153v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4528" n="14" xml:id="PTAMS00195_14">
+      <locus from="153v" to="169r">
+       153v–169r
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="15" xml:id="PTAMS00195_15">
+      <locus from="169r" to="181v">
+       169r–181v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="cpg:4413.2" n="16" xml:id="PTAMS00195_16">
+      <locus from="181v" to="191v">
+       181v–191v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="17" xml:id="PTAMS00195_17">
       <locus from="191v" to="200v">
        191v–200v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="7" xml:id="PTAMS00195_07">
-      <locus from="200v" to="212">
-       200v–212
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="18" xml:id="PTAMS00195_18">
+      <locus from="200v" to="212r">
+       200v–212r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="8" xml:id="PTAMS00195_08">
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="19" xml:id="PTAMS00195_19">
       <locus from="212r" to="223r">
        212r–223r
       </locus>
@@ -144,13 +237,21 @@
       <incipit>μέγα τῆς ψυχῆς ἐφόδιον εἰς σωτηρίαν. τὰ ἱερὰ μαθήματα·</incipit>
       <explicit>τάξει τὴν συμμετρίαν τιμήσωμεν· καὶ θω δόξαν ἀναπέμψωμεν· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:­–</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="9" xml:id="PTAMS00195_09">
+     <msItem corresp="cpg:4563" n="20" xml:id="PTAMS00195_20">
+      <locus from="223r" to="237v">
+       223r–237v
+      </locus>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta020" n="21" xml:id="PTAMS00195_21">
       <locus from="237v">
        237v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit></incipit>
+      <explicit></explicit>
      </msItem>
     </msContents>
     <history>
