@@ -6,6 +6,10 @@
     <title>
      London, British Library, Arundel 542
     </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
    </titleStmt>
    <editionStmt>
     <edition>
@@ -37,10 +41,9 @@
     </p>
    </sourceDesc>
   </fileDesc>
-  <revisionDesc status="draft">
-   <change when-iso="2020-08-14" who="#AvS">
-    Created TEI file
-   </change>
+  <revisionDesc>
+   <change when-iso="2023-09-22" who="#AvS">Added data using the digitized images</change>
+   <change when-iso="2020-08-14" who="#AvS">Created TEI file</change>
   </revisionDesc>
  </teiHeader>
  <text>
@@ -84,7 +87,7 @@
        15r–16r
         </locus>
       </locusGrp>
-      <rubric>Τοῦ ἐν ἁγίοις πρς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου. ὁμιλία εἰς τὸ ἐν ἀρχῆ ἦν ὁ λόγος. καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θεοῦ</rubric>
+      <rubric><num>αʹ</num> Τοῦ ἐν ἁγίοις πρς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου. ὁμιλία εἰς τὸ ἐν ἀρχῆ ἦν ὁ λόγος. καὶ ὅτι τὸ πνα ἐρευνᾶ τὰ βάθη τοῦ θεοῦ</rubric>
       <incipit>Χθὲς ἡμῖν ὁ λόγος εἰς τὴν τοῦ μεγάλου ἀετοῦ θεωρίαν κατέληξεν</incipit>
       <explicit>γένοιτο δὲ εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πρς καὶ διδασκάλου, ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξω πίστει συναυλίζεσθαι ἐν χω ἰυ. ὧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:- </explicit>
      </msItem>
@@ -96,162 +99,203 @@
         <locus from="7r" to="8v">7r–8v</locus>
         <locus from="17r" to="20v">17r–20v</locus>
       </locusGrp>
-      <rubric><num>βʹ</num> </rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>βʹ</num> Τοῦ αὐτοῦ λόγος περὶ τοῦ κατὰ Μωϋσέως ὄφεως ὃν ἐσταύρωσεν ἐν τῆ ἐρήμω. καὶ περὶ τῆς τριάδος:</rubric>
+      <incipit>Χθὲς ἡμῖν ὁ λόγος πρός τε τὴν αἱρετικὴν πάλην</incipit>
+      <explicit>πάντα γὰρ ἐνεργεῖ ἓν καὶ τὸ αὐτὸ πνα· διαιροῦν ἰδία ἑκάστω καθὼς βούλεται· ὧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν:–</explicit>
      </msItem>
      <msItem corresp="cpg:4325" n="3" xml:id="PTAMS00195_03">
+      <note>in mg. κυριακη τοῦ πφαλῆ???</note>
       <locus from="20v" to="29r">
        20v–29r
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric>(corr. <num>γ</num>) Τοῦ αὐτοῦ εἰς τὸν παραλυτικον τον τα τριάκοντα ὁκτῶ ἔτη ἔχοντα ἐν τη ἀσθενία αὐτοῦ</rubric>
+      <incipit>Εὐλογητὸς ὁ θς· καθεκάστην σύναξιν</incipit>
+      <explicit>ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· χάριτι καὶ φιλανία τοῦ κυ ἡμῶν ιυ χυ· μεθ’ οὗ τῶ πρι δόξα. ἅμα τῶ ἁγίω πνι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν·–</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta005" n="4" xml:id="PTAMS00195_04">
       <locus from="29r" to="37v">
        29r–37v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>ϛ</num> (corr. <num>δ</num>) Τοῦ αὐτοῦ εἰς τὸν ἅγιον ἀκάκιον τὸν ποιμένα. καὶ εἰς τὸ πρόβατον. καὶ εἰς τὸ καταπέτασμα. καὶ εἰς τὸ ϊλαστήριον:­­–</rubric>
+      <incipit>Πάλιν μαρτύρων μνήμη· πάλιν εὐσεβῶν ἑορταί·</incipit>
+      <explicit>γένοιτο δὲ ἡμᾶς καὶ σπεῖραι καὶ θερήσαι ἐν ἀγαλλιάσει· ἐν χω ιυ τῶ κω ἡμῶν ὧ ἡ δόξα εἰς τοὺς αἰῶνας  ἀμήν</explicit>
      </msItem>
-     <msItem corresp="cpg:4576" n="5" xml:id="PTAMS00195_05">
+     <msItem defective="true" corresp="cpg:4576" n="5" xml:id="PTAMS00195_05">
       <locus from="37v" to="46v">
        37v–46v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric>(corr. <num>ε</num>) Τοῦ αὺτοῦ· εἰς τὸ ἀρκεῖ σοι ἡ χάρις μου· ἡ γὰρ δύναμίς μου ἐν ἀσθενεία τελειοῦται</rubric>
+      <incipit>Ὅτε τὸν παναρμονιον τουτονὶ κόσμον ἐξ ἀρχῆς ἔπλαττεν ὁ θς</incipit>
+      <explicit type="defective">μέγα ὅπλον ἔλαβες, πνς δύνα</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="6" xml:id="PTAMS00195_06">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta029" n="6" xml:id="PTAMS00195_06">
       <locus from="47r" to="55v">
        47r–55v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric type="defective"></rubric>
+      <incipit type="defective">τὸν ὅρον τοῦ νομοθέτου τοῦ κελεύσαντός σοι μέχρι τούτου ἐλεύση καὶ οὐχ ὑπερβήση</incipit>
+      <explicit>καὶ ζησόμεθα ἐνώπιον αὐτοῦ· ὧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν :–</explicit>
      </msItem>
      <msItem corresp="cpg:4329" n="7" xml:id="PTAMS00195_07">
-      <note>1-5, 5 = 103-111v</note>
-      <locus from="55v" to="111v">
-       55v–111v
+      <locus from="55v" to="72v">
+       55v–72v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric>(corr. <num>ϛ</num>) Τοῦ αὐτοῦ μετα τας καλάνδας, τῆ ἑξῆς καταμεθυόντων· καὶ περὶ τῶν εἰς καπηλεία εἰσιόντων· καὶ ὅτι τὸν διδάσκαλον οὐ χρὴ ἀπογινώσκειν τῶν μαθητῶν αύτοῦ· καὶ πρὸς τὸ παρὸν μὴ πείθωνται καὶ εἰς τὸν λάζαρον λόγος πρῶτος:</rubric>
+      <incipit>Τὴν χθὲς ἡμέραν ἑορτὴν οὖσαν</incipit>
+      <explicit>ἵνα καὶ τὰ παρόντα ἀλύπως παραδράμωμεν δεινὰ. καὶ τῶν μελλόντων ἐπιτύχωμεν ἀγαθῶν· ὧν γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ· μεθοῦ τῶ πρι ἅμα τῶ ἀγίω πνι ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν :–</explicit>
      </msItem>
-     <msItem corresp="bhg:939r" n="8" xml:id="PTAMS00195_08">
+     <msItem corresp="cpg:4329" n="8" xml:id="PTAMS00195_08">
+      <locus from="72v" to="81r">
+       72v–81r
+      </locus>
+      <rubric>(corr. <num>η</num>) Τοῦ αὐτοῦ εἰς τὸν λάζαρον λόγος δεύτερος καὶ ὅτι αἱ ψυχαὶ τῶν βιοθανάτων οὐ γίνονται δαίμονες καὶ περὶ κρίσεως καὶ ἐλεημ(οσύνης)</rubric>
+      <incipit>Ἐθαύμασα τὴν ἀγάπην ὑμῶν</incipit>
+      <explicit>καὶ πολλὴν ἐκεῖ τὴν εὐπορίαν ἀποθέμενοι, δυνησόμεθα τῶν μελλόντων ἐπιτυχεῖν ἀγαθῶν· χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ· ὧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν :–</explicit>
+     </msItem>
+     <msItem corresp="cpg:4329" n="9" xml:id="PTAMS00195_09">
+      <locus from="81r" to="93v">
+       81r–93v
+      </locus>
+      <rubric>(corr. <num>θ</num>) Του αυτου εις τον λαζαρον λόγος τρίτος· καὶ τίνος ενεκεν ουκ εῖπεν ελαβες τα αγαθα σου εν τη ζωη σου ἀλλ ἀπέλαβες καὶ διατι οι μεν δίκαιοι κινδύνοις περιπίπτουσιν οι δε αμαρτωλοι τουτους διαφεύγουσιν</rubric>
+      <incipit>Ου τὰ τυχόντα ἡμᾶς ὤνησεν</incipit>
+      <explicit>τοῖς ἀθανάτοις ἐντρυφῶμεν ἀγαθοῖς· ὧν γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ· μεθ’ οὗ τῶ πρι ἅμα τῶ ἀγίω πνι ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν –</explicit>
+     </msItem>
+     <msItem corresp="cpg:4329" n="10" xml:id="PTAMS00195_10">
+      <locus from="94r" to="103r">
+       94r–103r
+      </locus>
+      <rubric><num>ιδ</num> (corr. <num>ι</num>) Τοῦ αὐτοῦ εἰς τὸν λάζαρον λογος τέταρτος· καὶ ὅτι τὸ συνειδὸς εἴωθεν ημας ϋπομιμνησκειν παλαιὰ ἀμαρτήματα, καὶ εἰς τὸν ϊωσήφ.</rubric>
+      <incipit>Τῆς τοῦ λαζάρου παραβολης τὸ τέλος</incipit>
+      <explicit>μετὰ πολλῆς ἀπελθεῖν ἐκεῖ τῆς παρρησίας· ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ· μεθοῦ τῶ πρι σὺν τῶ ἀγίω πνι· δόξα τιμὴ κράτος· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν :–</explicit>
+     </msItem>
+     <msItem corresp="cpg:4329" n="11" xml:id="PTAMS00195_11">
+      <locus from="103r" to="111v">
+       103r–111v
+      </locus>
+      <rubric><num>ιε</num> (corr. <num>ια</num>) Τοῦ αὐτοῦ εις το ρητον τοῦ αποστολου, περι δε τῶν κεκοιμημένων. οὐ θέλω ὑμᾶς αγνοειν ἀδελφοὶ ϊνα μη λυπήσθε, ως και οι λοιποι</rubric>
+      <incipit>Ἡμέρας τέσσαρας ἀνηλώσαμεν τὴν κατὰ τὸν λάζαρον παραβολὴν ὑμῖν έξηγούμενοι</incipit>
+      <explicit>καὶ τῆς βασιλείας τῶν ουνων ἐπιτυχεῖν έν χω ιυ· ὧ ἡ δόξα καὶ τὸ κράτος ἄμα τῶ πρι καὶ τῶ ἁγίω πνι·  εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
+     </msItem>
+     <msItem corresp="bhg:939r" n="12" xml:id="PTAMS00195_12">
       <locus from="111v" to="117r">
-       47r–55v
+       111v–117r
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>ιϛ</num> (corr. <num>ιβ</num>) Του αυτου προς τους ζητουντας. τίνος ἔνεκεν οὐ εκ μέσου γέγονεν ὁ διάβολος. καὶ ὅτι ουδὲν ἡμᾶς, βλάπτη ἡ αὐτοῦ πονηρία ἐὰν προσέχωμεν:–:</rubric>
+      <incipit>Ὁ μὲν ϊσαὰκ ἐπιθυμήσας ποτὲ ἄριστον</incipit>
+      <explicit>ἀπαντήσωμεν τῶ βασιλεῖ τῆς δόξης χω ιυ τῶ κω ἡμῶν· ὅτι αὐτῶ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="bhg:939s" n="9" xml:id="PTAMS00195_09">
+     <msItem corresp="bhg:939s" n="13" xml:id="PTAMS00195_13">
       <locus from="117r" to="126v">
        117r–126v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric>(corr. <num>ιγ</num>) Του αυτου ὅτι ἐκ ῥαθυμίας ἡ κακία, καὶ ἀπο σπουδῆς ἡ ἀρετή, καὶ ουδὲν οὔτε οι ανοι πονηροι, οὔτε αὐτὸς ὁ διάβολος τὸν νήφοντα παραβλάψαι δύναται· καὶ ἡ ἀπόδειξις ἄλλοθέν τε πολλαχόθεν καὶ ἐκ τῶν κατα τὸν ἀδαμ καὶ τον ιωβ:</rubric>
+      <incipit>Ἡμεῖς μὲν πρὸ τὴς χθὲς ἡμέρας</incipit>
+      <explicit>τῶν αὐτῶν ἐκείνων στεφάνων τυχεῖν· χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ· μεθοῦ τῶ πρι ἡ δόξα συν τῶ ἀγίω πνι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="cpg:4417.1" n="10" xml:id="PTAMS00195_10">
+     <msItem corresp="cpg:4417.1" n="14" xml:id="PTAMS00195_14">
       <locus from="127r" to="135v">
        127r–135v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric>(corr. <num>ιδ</num>) Του αυτου ἔπαινος τῶν ἀπαντησάντων ἐν τη εκκλησία. καὶ περι ευταξίας τῆς ἐν ταῖς δοξολογίαις, καὶ εἰς το ΐδον τὸν κν καθήμενον ἐπι θρόνου ὑψηλοῦ καὶ επηρμένου.</rubric>
+      <incipit>Πολλὴν ὁρῶ τὴν σπουδὴν ἐνδεικνυμένους ὑμᾶς.</incipit>
+      <explicit>ἡμᾶς ἐν τούτοις κατασκηνῶσαι· ὧν, γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· χάριτι καὶ φιλανθρωπία τοῦ κυ ἡμῶν ιυ χυ· μεθ’ οὗ πρέπει δόξα κράτος προσκύνησις τῶ πρι καὶ τῶ ἁγίω πνι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="cpg:4417.4" n="11" xml:id="PTAMS00195_11">
+     <msItem corresp="cpg:4417.4" n="15" xml:id="PTAMS00195_15">
+      <note>in mg. τῶν ἀσωμάτων</note>
       <locus from="135v" to="143v">
        135v–143v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>κ</num> (corr. <num>ιε</num>) Τοῦ αὐτοῦ εἰς τὸ προφητικὸν ἡσαίου το λέγον· καὶ ἐγένετο ἐν τῶ ἐνιαυτῶ οὗ ἀπέθανεν ὁζίας ὁ βασιλεῦς καὶ κατα των κολυόντων τὸν γάμον ἔνθεος ἀπόδειξις ἀπὸ τῶν τεσσάρων λόγων, τῶν περι οζίου οὕτος λόγος βʹ</rubric>
+      <incipit>Λαμπρὸν ἡμῖν τήμερον τὸ θέατρον γέγονεν</incipit>
+      <explicit>ἀπόνοιαν διώξωμεν· τὰπεινοφροσύνην ἀσπασώμεθα· τὴν εἰωθυῖαν δόξαν ἀναπέμψωμεν. τῶ πρι καὶ τῶ υω καὶ τῶ ἁγίω πνι· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν·</explicit>
      </msItem>
-     <msItem corresp="cpg:4417.5" n="12" xml:id="PTAMS00195_12">
+     <msItem corresp="cpg:4417.5" n="16" xml:id="PTAMS00195_16">
+      <note>in mg. τῶν ἀσωμάτων</note>
       <locus from="143v" to="148r">
        143v–148r
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>κα</num> (corr. <num>ιϛ</num>) Τοῦ αὐτοῦ εις τα ϋπόλοιπα ὀζίου. λόγος τρίτος:–</rubric>
+      <incipit>Φέρε δὴ τήμερον τοῖς κατὰ τὸν ὀζίαν διηγήμασιν</incipit>
+      <explicit>ἓν μόνον ζητεῖ σχῆμα πρὸς ἡμᾶς καταλλαγῆς· ὑπὲρ δὴ τούτων ἀπάντων, εὐχαριστήσωμεν αὐτοῦ τῆ ἀφάτω φιλανια· ἧς γένοιτο καὶ ἡμᾶς ἀξίους φανῆναι· χάριτι καὶ οἰκτιρμοῖς τοῦ μονογενοῦς αὐτοῦ υυ κυ δὲ ἡμῶν ιυ χυ· μεθοῦ τῶ πρι δόξα καὶ κράτος ἄμα τῶ ἁγίω πνι· εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="cpg:4417.6" n="13" xml:id="PTAMS00195_13">
+     <msItem corresp="cpg:4417.6" n="17" xml:id="PTAMS00195_17">
+      <note>in mg. τῶν ἀσωμάτων</note>
       <locus from="148r" to="153v">
        148r–153v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>κβ</num> (corr. <num>ιζ</num>) Τοῦ αὐτοῦ, ὁμιλία εἰς τα σεραφίμ:</rubric>
+      <incipit>Μόλις ποτὲ τὸ κατὰ τὸν ὀζίαν διεπλεύσαμεν πέλαγος·</incipit>
+      <explicit>δυνησόμεθα μετὰ παρρησίας στῆναι ἔμπροσθεν τοῦ βήματος τοῦ χυ· μεθ’ οὗ τῶ πρι δόξα. τιμὴ καὶ κράτος σὺν τῶ ἁγίω πνι· τῶ ἀγαθῶ καὶ ζωοποιῶ· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="cpg:4528" n="14" xml:id="PTAMS00195_14">
+     <msItem corresp="cpg:4528" n="18" xml:id="PTAMS00195_18">
+      <note>in mg. εις την μνήμην τοῦ χρυσοστόμου</note>
       <locus from="153v" to="169r">
        153v–169r
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric>(corr. <num>ιη</num>) Τοῦ αὐτοῦ, ὅτε της εκκλησίας εξω εὐρεθεῖς, ευτρόπιος απεσπασθη, καὶ εἰς το παρέστη ἡ βασίλισσα. ἐκ δεξιων σου. ἐν ϊματισμῶ διαχρύσω</rubric>
+      <incipit>Ἡδὺ μὲν λειμῶν καὶ παράδεισος</incipit>
+      <explicit>πᾶσα ἡ δόξα τῆς θυγατρὸς τοῦ βασιλέως ἔσωθεν· ὑπὲρ δὴ τούτων ἀπάντων εὐχαριστήσωμεν τῶ θω· ὅτι αὐτῶ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν·</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta018" n="15" xml:id="PTAMS00195_15">
+     <msItem corresp="urn:cts:pta:pta0001.pta018" n="19" xml:id="PTAMS00195_19">
+      <note>in mg. εις την μνήμην τοῦ χρυσοστόμου</note>
       <locus from="169r" to="181v">
        169r–181v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>κδ</num> (corr. <num>ιθ</num>) Τοῦ αὐτοῦ εις την χαναναιαν, καὶ εις τὸν φαραώ. καὶ εις τὸ οὐ τοῦ θέλοντος οὐδὲ τοῦ τρέχοντος. ἀλλὰ τοῦ ἐλεοῦντος θυ</rubric>
+      <incipit>Εἰ καὶ ἐθόλωσεν ἡμᾶς ἡ κατὰ τὴν ἑσπέραν ταραχή</incipit>
+      <explicit>γένοιτο δὲ ἡμᾶς ἰατρευομένους· θω δόξαν ἀναπέμπειν εἰς τοὺς αἰῶνας ἀμήν·</explicit>
      </msItem>
-     <msItem corresp="cpg:4413.2" n="16" xml:id="PTAMS00195_16">
+     <msItem corresp="cpg:4413.2" n="20" xml:id="PTAMS00195_20">
       <locus from="181v" to="191v">
        181v–191v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric>(corr. <num>κ</num>) Τοῦ αυτοῦ εις τὸ ὃν τρόπον ἐπιποθεῖ ἡ ἔλαφος ἐπι τας πιγὰς των ϋδάτων</rubric>
+      <incipit>Ὑμεις ἡμᾶς ἐθαυμάζετε·</incipit>
+      <explicit>καὶ εἰς τὴν μέλλουσαν ζωὴν τῶν αἰωνίων ἀγαθῶν ἐπιτύχωμεν· χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ· ὦ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰῶνων ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="17" xml:id="PTAMS00195_17">
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="21" xml:id="PTAMS00195_21">
+      <note>in mg. εις την μνήμην τοῦ ἁγίου ἀποστόλου ανδρέου</note>
       <locus from="191v" to="200v">
        191v–200v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>κζ</num> (corr. <num>κα</num>) Του αυτου εις το ὅτι παλαιᾶς καὶ καινῆς εἷς ὁ νομοθέτης. καὶ εἰς τὸ ἔνδυμα τοῦ ϊερέως, καὶ περι μετανοιας:– </rubric>
+      <incipit>Τῆς χυ βασιλείας τὸ εὐαγγέλιον. κηρύττουσι προφῆται·</incipit>
+      <explicit>ἱκανὸς δὲ ὁ θς ὑπερ πᾶσαν πίστιν· ὑπερ πάντα λόγον, καὶ τοὺς ἐχθροὺς καταισχύναι. καὶ τὴν οἰκουμένην ἐλεῆσαι· καὶ τοὺς βασιλεις τιμῆσαι· καὶ τὴν βασιλείαν στῆσαι καὶ τὴν αὐτοῦ δόξαν φαιδρύναι, ἐν χω ιυ τῶ κω ἡμῶν· ὦ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="18" xml:id="PTAMS00195_18">
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="22" xml:id="PTAMS00195_22">
       <locus from="200v" to="212r">
        200v–212r
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>κη</num> (corr. <num>κβ</num>) Του αυτου εις το (corr. ρητον) του αβραὰμ το λέγον Θὲς την χεῖρά σου ὑπο τον μηρόν μου. καὶ εις διαφόρους μαρτυρίας.</rubric>
+      <incipit>Ἐθαύμασα μεθ’ ὑμῶν ὦ φιλόχριστοι τὰ νέα τῆς εὐαγγελικῆς χάριτος</incipit>
+      <explicit>γένοιτο δὲ ἡμᾶς ὑπὲρ χυ δοξάζεσθαι. ἵνα ἐν χω δοξασθῶμεν· ὧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν:–</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="19" xml:id="PTAMS00195_19">
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="23" xml:id="PTAMS00195_23">
+      <note>in mg. κ. τῶν προπατερων</note>
       <locus from="212r" to="223r">
        212r–223r
       </locus>
-      <rubric>+ τοῦ αὐτοῦ εις τας σφραγίδας; των βιβλίων, καὶ ὅπως προσφέρει ὁ υς τῶ πρι· καὶ ὁ πηρ τῶ υω, καὶ εις την του σρς οικονομίαν :-</rubric>
-      <incipit>μέγα τῆς ψυχῆς ἐφόδιον εἰς σωτηρίαν. τὰ ἱερὰ μαθήματα·</incipit>
-      <explicit>τάξει τὴν συμμετρίαν τιμήσωμεν· καὶ θω δόξαν ἀναπέμψωμεν· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:­–</explicit>
+      <rubric><num>κθ</num> (corr. <num>κγ</num>) + τοῦ αὐτοῦ εις τας σφραγίδας, των βιβλίων. καὶ ὅπως προσφέρει ὁ υς τῶ πρι· καὶ ὁ πηρ τῶ υω. καὶ εις την του σρς οικονομίαν :-</rubric>
+      <incipit>Μέγα τῆς ψυχῆς ἐφόδιον εἰς σωτηρίαν. τὰ ἱερὰ μαθήματα·</incipit>
+      <explicit>τὰ δὲ λείποντα τῆ θεωρία τοῦ θυ λόγου. ἑτέρω ταμιευσάμενοι λόγω, τάξει τὴν συμμετρίαν τιμήσωμεν· καὶ θω δόξαν ἀναπέμψωμεν· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:­–</explicit>
      </msItem>
-     <msItem corresp="cpg:4563" n="20" xml:id="PTAMS00195_20">
+     <msItem corresp="cpg:4563" n="24" xml:id="PTAMS00195_24">
+      <note>in mg. κ. τῶν ἁγιων πρων</note>
       <locus from="223r" to="237v">
        223r–237v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>λ</num> (corr. <num>κδ</num>) Του αυτου εἰς το μὴ πλησιάζειν θεάτροις, καὶ εἰς τὸν ἀβραὰμ:–</rubric>
+      <incipit>Πολλοὺς οἶμαι τῶν πρώην καταλειπόντων ἡμᾶς·</incipit>
+      <explicit>ὅπως ὁμοιότητι πίστεως· τέκνα γενόμενοι τοῦ προπάτορος εἰς τοὺς φωτεινοὺς κόλπους μετὰ ἰσαὰκ ἀναπαυσώμεθα· χάριτι καὶ φιλανια τοῦ κυ ἡμῶν ιυ χυ· μεθοῦ τῶ πρι δόξα· ἅμα τῶ ἁγίω πνι νῦν καὶ ἀεὶ· καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμὴν:–</explicit>
      </msItem>
-     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta020" n="21" xml:id="PTAMS00195_21">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta020" n="25" xml:id="PTAMS00195_25">
+      <note>in mg. κ. τῶν ἁγιων πρων</note>
       <locus from="237v">
        237v
       </locus>
-      <rubric></rubric>
-      <incipit></incipit>
-      <explicit></explicit>
+      <rubric><num>λα</num> Του αυτου εις την ενανθρώπησιν τοῦ κυ ἡμῶν ιυ χυ. καὶ εις το εκάστω κλήματι. ἐφεστήκαν ἅγγελοι:–</rubric>
+      <incipit>Ὄντως ἐπεφάνη ἡμῖν ἡ τοῦ θυ χάρις, καὶ συνεξέλαμψεν ἡμῖν τῆς εὐσεβείας ἡ δύναμις·</incipit>
+      <explicit type="defective">ὅτι φωνη κυ ἐπι τῶν ὑδάτων, ταῦτα ὑμῖν</explicit>
      </msItem>
     </msContents>
     <history>
