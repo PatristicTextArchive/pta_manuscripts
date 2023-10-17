@@ -216,7 +216,7 @@
       </locus>
       <rubric/>
       <incipit>Βαθεῖαν τομὴν τοῖς ἁρπάζουσι καὶ πλεονεκτεῖν βουλομένοις ἐδώκαμεν·</incipit>
-      <explicit>aus clacla: τὸ αὐτοῦ θέλημα… προτιμῶμεν. Οὕτω γὰρ… τῶν μελλόντων ἀγαθῶν ἐπιτευξόμεθα… ἀμήν.</explicit>
+      <explicit><!--aus clacla: τὸ αὐτοῦ θέλημα… προτιμῶμεν. Οὕτω γὰρ… τῶν μελλόντων ἀγαθῶν ἐπιτευξόμεθα… ἀμήν.--></explicit>
      </msItem>
      <msItem corresp="cpg:4341" n="2" xml:id="PTAMS00229_02">
       <locus from="139r" to="146r">
@@ -307,8 +307,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0801-01-01">
-        s. 09–10
+       <origDate notAfter-iso="0950-12-31" notBefore-iso="0851-01-01">
+        s. 9–10
        </origDate>
       </p>
      </origin>
@@ -318,7 +318,7 @@
         <biblStruct type="book"
         xml:id="dobrynina__2013">
 <monogr>
-<title level="m">Сводный каталог греческих иллюминированных рукописей в российских хранилищах . Рукописи IX-X вв. в Государственном Историческом музее</title>
+<title level="m">Сводный каталог греческих иллюминированных рукописей в российских хранилищах. Рукописи IX-X вв. в Государственном Историческом музее</title>
 <author>
   <forename>Ėlina Nikolaevna</forename>
   <surname>Dobrynina</surname>
