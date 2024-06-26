@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00282" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00608" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 96
+     Milano, Biblioteca Ambrosiana, fonds principal B 106 sup. (Martini-Bassi 127)
     </title>
    </titleStmt>
    <editionStmt>
@@ -32,13 +32,12 @@
      This description is based on data from the
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
-     </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     </ref> as well as on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
-   <change when-iso="2020-08-14" who="#AvS">
+   <change when-iso="2024-05-02" who="#AvS">
     Created TEI file
    </change>
   </revisionDesc>
@@ -49,62 +48,56 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Oxford
+      Milano
      </settlement>
      <repository>
-      Bodleian Library
+      Biblioteca Ambrosiana
      </repository>
      <collection>
-      Barocci
+      fonds principal
      </collection>
      <idno>
-      96
+       B 106 sup. (Martini-Bassi 127)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47383
+       42350
       </idno>
      </altIdentifier>
-     <altIdentifier type="sigle_pta0001">
+     <altIdentifier type="sigle_pta0006.pta001">
       <idno>
-       Of
+       A
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00282_01">
-      <locusGrp>
-         <locus from="153,160,18,23,130, 135">
-       153,160,18,23,130, 135
+     <msItem defective="true" corresp="urn:cts:pta:pta0006.pta001" n="1" xml:id="PTAMS00608_01">
+      <locus from="" to="15r">
+       12r–15r
       </locus>
-      </locusGrp>
-      <note>Palimpsest</note>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>+ἡσυχίου πρεσβυτ ἱεροσολύμων:–</rubric>
+      <incipit type="defective">τισὶ γὰρ ἔδοξεν ὡς ἀκριβεία πολλῆι χρωμένοις</incipit>
+      <explicit type="defective">τῆι τοῦ (κυ) χάριτι ὁδηγούμενος καὶ συμβιβαζόμενος τῆι ἐκείνου δυνάμει λέξω καὶ πάλιν :–</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
        </origDate>
       </p>
      </origin>
     </history>
     <additional>
-     <listBibl>
-        <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1160">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Barocci 96</ref></bibl>
-     </listBibl>
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/0689e6b4-4eb8-4094-9888-f9e72159921e" type="straighturl"/>
+        <ref target="https://digitallibrary.unicatt.it/veneranda/0b02da828008b523" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/0689e6b4-4eb8-4094-9888-f9e72159921e.json" type="manifesturl"/>
-        </bibl>
+        <ref target="https://digitallibrary.unicatt.it/veneranda/data/public/manifests/0b/02/da/82/80/08/b5/23/0b02da828008b523.json" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>

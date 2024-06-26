@@ -65,27 +65,33 @@
        71731
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Vb
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta023" n="1" xml:id="PTAMS00528_01">
-      <locus from="078v" to="097v">
-       078v–097v
+      <locus from="78v" to="97v">
+       78v–97v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta024" n="2" xml:id="PTAMS00528_02">
-      <locus from="098" to="113">
-       098–113
+      <locus from="98r" to="113r">
+       98r–113r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <!-- data from Uthemann's edition -->
+      <rubric>Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου εἰς τὰς θυσίας Κάϊν καὶ εἰς τὰ δῶρα τοῦ Ἄβελ, καὶ περὶ τῶν γιγάντων, καὶ περὶ τοῦ κατακλισμοῦ, καὶ περὶ ἄστρων καὶ εἱμαρμένης</rubric>
+      <incipit>Μήτηρ εὐταξίας ἀκολουθία</incipit>
+      <explicit>Παράσχοι τοίνυν ἡμῖν ὁ θεὸς ἐν ἀληθείᾳ μετανοεῖν καὶ λύειν τὰ ἁμαρτήματα καὶ ἐκδέχεσθαι τὴν αἰώνιον εὐφροσύνην ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν, μεθ’ οὗ τῷ πατρὶ σὺν τῷ ἁγίῳ πνεύματι, δόξα, τιμὴ καὶ προσκύνησις εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00528_03">
-      <locus from="249" to="262">
-       249–262
+      <locus from="249r" to="262r">
+       249r–262r
       </locus>
       <rubric/>
       <incipit/>

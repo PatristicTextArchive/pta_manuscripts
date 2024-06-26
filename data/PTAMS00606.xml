@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00606" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 598
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2024-04-23" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana
+     </repository>
+     <collection>
+      Vat. gr.
+     </collection>
+     <idno>
+      598
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+        67229
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0005.pta001">
+      <idno>
+       V
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0005.pta001" n="1" xml:id="PTAMS00606_01">
+      <locus from="1r" to="174v">
+       1r-174v
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις καὶ μακαρίου πατρὸς ἡμῶν Κυρίλλου ἀρχιεπισκόπου ἀλεξανδρείας· περὶ τῆς ἐν πνεύματι καὶ ἀληθείᾳ προσκυνήσεως καὶ λατρείας· πρὸς Παλλάδιον. κατὰ πεῦσιν, καὶ ἀπόκρισιν: περὶ τῆς εἰς φαυλότητα τοῦ ἀνθρώπου παρατροπῆς καὶ αἰχμαλωσίας τῆς εἰς ἁμαρτίαν καὶ ὁμοῦ περὶ κλήσεως καὶ ἐπιστροφῆς τῆς κατὰ μετάγνωσιν καὶ τῆς εἰς τὸ ἄμεινον ἀναδρομῆς.</rubric>
+      <incipit>ποῖ δὴ καὶ πόθεν ἔρεσθαι μὲν δὴ περιττὸν οἶμαί που·</incipit>
+      <explicit></explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 12 in. (f. 1-48; 62-156)
+       </origDate>
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14 (f. 49-61; 156-174)
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.598" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.598/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

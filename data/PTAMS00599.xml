@@ -70,6 +70,11 @@
        E
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0029">
+      <idno>
+       E
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="cpg:2804" n="1" xml:id="PTAMS00599_01">
@@ -197,16 +202,13 @@ CPG 2869)
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2244" n="12" xml:id="PTAMS00599_12">
-      <note>
-       Athanasius Alexandrinus, De sabbatis et circumcisione (CPG 2244)
-      </note>
-      <locus from="074v" to="78v">
-       074v–78v
+     <msItem corresp="urn:cts:pta:pta0029.pta002" n="12" xml:id="PTAMS00599_12">
+      <locus from="74v" to="78v">
+       74v–78v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>ΠΕΡΙ ΣΑΒΒΑΤΩΝ ΚΑΙ ΠΕΡΙΤΟΜΗΣ ΕΚ ΤΗΣ ΕΞΟΔΟΥ:</rubric>
+      <incipit>καὶ φυλάξουσιν οἱ υἱοὶ ιηλ τὰ σάββατα ποιεῖν αὐτὰ εἰς τὰς γενεὰς αὐτῶν.</incipit>
+      <explicit>καὶ τὸν ὀνειδισμὸν τῆς τοῦ θανάτου φθορᾶς ἀπὸ σοῦ, ἐν τῇ σήμερον ἡμέρᾳ. </explicit>
      </msItem>
      <msItem corresp="cpg:2094" n="13" xml:id="PTAMS00599_13">
       <note>

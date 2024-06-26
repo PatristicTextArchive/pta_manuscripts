@@ -41,6 +41,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2024-04-10" who="#AvS">Added IIIF link</change>
   <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
    <change when-iso="2021-04-08" who="#MB">
     Created TEI file
@@ -194,6 +195,9 @@
       <p>
        <bibl>
         <ref target="https://amshistorica.unibo.it/293" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://historica.unibo.it/json/iiif/20.500.14008/79679/271086/manifest" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

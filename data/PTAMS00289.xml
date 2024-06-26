@@ -252,12 +252,12 @@ Aldama 355)
       <explicit/>
      </msItem>     
      <msItem corresp="urn:cts:pta:pta0001.pta054" n="16" xml:id="PTAMS00289_16">
-      <locus from="069v" to="071">
-       069v–071
+      <locus from="69v" to="71r">
+       69v–71r (alte Zählung), 62v–64r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τῆ αὐτῆ ἡμέρα: τοῦ αὐτοῦ εἰς τὴν ληστὴν καὶ εἰς τὸν σταυρὸν· καὶ κατὰ ἰουδαίων: εὐλόγησον πάτερ:–</rubric>
+      <incipit>Ἀπαρξώμεθα τῆ ἡμέρα τοῦ σταυροῦ, τὸν περὶ τοῦ σταυροῦ λόγον·</incipit>
+      <explicit>ἀγαθῶν γὰρ δωρεῶν ἐστι παρεκτικὸς ὁ σταυρὸς· σταυρὸς δὲ ἡμῖν ἐδόθη διὰ τοῦ χυ· ἡμεῖς οὖν χυ· χς δὲ θυ· αὐτῶ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν:–</explicit>
      </msItem>
     <msItem corresp="cpg:4424" n="17" xml:id="PTAMS00289_17">
       <note>

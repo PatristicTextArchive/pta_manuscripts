@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00022" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00604" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 425
+     London, British Library, Add. 14640
     </title>
    </titleStmt>
    <editionStmt>
     <edition>
      <title>
-      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+      DFG-Projekt Kommentar zur Kirchengeschichte des Johannes von Ephesus
      </title>
     </edition>
    </editionStmt>
    <publicationStmt>
     <authority>
-     Berlin-Brandenburgische Akademie der Wissenschaften
+     Goethe Universität Frankfurt, Historisches Seminar, Abteilung für Alte Geschichte
     </authority>
     <distributor>
      Patristic Text Archive
@@ -29,16 +29,12 @@
    </publicationStmt>
    <sourceDesc>
     <p>
-     This description is based on data from the
-     <ref target="https://pinakes.irht.cnrs.fr/">
-      Pinakes-Database
-     </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     This description is based on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
-   <change when-iso="2020-08-14" who="#AvS">
+   <change when-iso="2023-12-20" who="#AvS">
     Created TEI file
    </change>
   </revisionDesc>
@@ -49,32 +45,27 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Athêna
+      London
      </settlement>
      <repository>
-      Ethnikê Bibliothêkê tês Hellados (EBE)
+      British Library
      </repository>
      <collection>
-      Fonds principal
+      Add.
      </collection>
      <idno>
-      425
+      14640
      </idno>
-     <altIdentifier type="diktyon">
+     <altIdentifier type="sigle_pta0200">
       <idno>
-       2721
-      </idno>
-     </altIdentifier>
-     <altIdentifier type="sigle_pta0001">
-      <idno>
-       Ax
+       L
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00022_01">
-      <locus from="143" to="171 (p.)">
-       143–171 (p.)
+     <msItem corresp="urn:cts:pta:pta0200.pta001" n="1" xml:id="PTAMS00604_01">
+      <locus from="1r" to="159v">
+       1r–159v
       </locus>
       <rubric/>
       <incipit/>
@@ -84,8 +75,8 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="0700-12-31" notBefore-iso="0690-01-01">
+        s. 7 (late)
        </origDate>
       </p>
      </origin>

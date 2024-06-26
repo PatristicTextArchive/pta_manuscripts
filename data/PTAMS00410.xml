@@ -65,31 +65,36 @@
        58868
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Su
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta054" n="1" xml:id="PTAMS00410_01">
-      <locus from="075v" to="081">
-       075v–081
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta054" n="1" xml:id="PTAMS00410_01">
+      <locus from="75r" to="81r">
+       75r–81r (f. 79r–81r größtenteils fehlend)
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>ΟΜΙΛΙΑ ΪΩΑΝΝΟΥ ΕΙΣ ΤΟΝ ΛΗΣΤΗΝ ΤΟΝ ΣΥΝΣΤΑΥΡΩΘΕΝΤΑ ΤΩ ΧΩ· ΚΑΙ ΚΑΤΑ ΪΟΥΔΑΙΩΝ· ΕΛΕΧΘΗ ΤΗ ΠΕΜΠΤΗ ΤΟΥ ΑΓΙΟΥ ΠΑΣΧΑ</rubric>
+      <incipit>ΑΠΑΡΞΩΜΕΘΑ ΤΗ ΗΜΕΡΑ ΤΟΥ ΣΤΑΥΡΟΥ</incipit>
+      <explicit type="defective"></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00410_02">
+     <!-- <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00410_02">
       <locus from="081" to="083">
        081–083
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00410_03">
-      <locus from="095" to="097">
-       095–097
+     </msItem> sehr wahrscheinlich nicht auf den verloren gegangenen Seiten -->
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00410_03">
+      <locus from="95r" to="97r">
+       95r–97r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric type="defective"/>
+      <incipit type="defective">ΕΙΣ ΣΩΤΗΡΙΑΝ· ΚΑΙ ΦΗΣΙΝ· ΠΟΙΗΣΟΝ ΟΦΙΝ ΧΑΛΚΟΥΝ.</incipit>
+      <explicit>ΪΝΑ ΠΑΣ Ο ΠΙΣΤΕΥΩΝ ΕΠ ΑΥΤΩ ΜΗ ΑΠΩΛΗΤΑΙ· ΑΛΛ ΕΧΗ ΖΩΗΝ ΑΙΩΝΙΟΝ·</explicit>
      </msItem>
     </msContents>
     <history>

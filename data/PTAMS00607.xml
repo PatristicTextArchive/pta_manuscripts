@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00282" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00607" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Barocci 96
+     Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 599
     </title>
    </titleStmt>
    <editionStmt>
@@ -32,13 +32,12 @@
      This description is based on data from the
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
-     </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     </ref>.
     </p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
-   <change when-iso="2020-08-14" who="#AvS">
+   <change when-iso="2024-04-23" who="#AvS">
     Created TEI file
    </change>
   </revisionDesc>
@@ -49,62 +48,60 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Oxford
+      Vaticano
      </settlement>
      <repository>
-      Bodleian Library
+      Biblioteca Apostolica Vaticana
      </repository>
      <collection>
-      Barocci
+      Vat. gr.
      </collection>
      <idno>
-      96
+      599
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       47383
+        67230
       </idno>
      </altIdentifier>
-     <altIdentifier type="sigle_pta0001">
+     <altIdentifier type="sigle_pta0005.pta001">
       <idno>
-       Of
+       Q
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00282_01">
-      <locusGrp>
-         <locus from="153,160,18,23,130, 135">
-       153,160,18,23,130, 135
+     <msItem defective="true" corresp="urn:cts:pta:pta0005.pta001" n="1" xml:id="PTAMS00607_01">
+      <locus from="1r" to="99r">
+       1r-99r
       </locus>
-      </locusGrp>
-      <note>Palimpsest</note>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Κυρίλλου ἀρχιεπισκόπου ἀλεξανδρείας· περὶ τῆς ἐν πνεύματι καὶ ἀληθείᾳ προσκυνήσεως καὶ λατρείας· καὶ ὅτι τῆς ἐν χριστῷ καὶ εὐαγγελικῆς πολιτείας, σκιὰ καὶ τύπος ὁ νόμος</rubric>
+      <incipit>ποῖ δὴ καὶ πόθεν ἔρεσθαι μὲν δὴ περιττὸν οἶμαί που·</incipit>
+      <explicit></explicit>
+      <note>Buch 1-8</note>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10 (f. 1-19)
+       </origDate>
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1201-01-01">
+        s. 13/14 (f. 20-99)
        </origDate>
       </p>
      </origin>
     </history>
     <additional>
-     <listBibl>
-        <bibl><ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1160">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges, MS. Barocci 96</ref></bibl>
-     </listBibl>
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/0689e6b4-4eb8-4094-9888-f9e72159921e" type="straighturl"/>
+        <ref target="http://digi.vatlib.it/view/MSS_Vat.gr.599" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/0689e6b4-4eb8-4094-9888-f9e72159921e.json" type="manifesturl"/>
-        </bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.599/manifest.json" type="manifesturl"/>
+       </bibl>
       </p>
      </surrogates>
     </additional>

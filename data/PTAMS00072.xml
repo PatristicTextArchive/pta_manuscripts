@@ -65,23 +65,28 @@
        16794
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       FlorLa
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00072_01">
-      <locus from="305" to="309">
-       305–309
+      <locus from="306r" to="306r">
+       306r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ ἐκ τῆς περὶ τοῦ ἁγίου πνς ὁμιλίας +</rubric>
+      <incipit>ὅπερ ἐπήγαγεν ἑαυτῷ τὸ ἐγὼ παρὰ τοῦ πρς ἐξῆλθον.</incipit>
+      <explicit>πηγὴ τοῦ πνς ὁ πήρ. διὰ τοῦτο ἐκ τοῦ πρς ἐκπορεύεται:</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00072_02">
-      <locus from="305" to="309">
-       305–309
+      <locus from="306r" to="306r">
+       306r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>παρὰ χρυ ἐκ τῆς εῖς τὸν ϞϚʹ ψαλμὸν ἑρμηνεῖας</rubric>
+      <incipit>ἀλλ’ ἐπεὶ πηγὴ ὁ σὴρ ὕδωρ ζῶν ἐκάλεσε</incipit>
+      <explicit>ὡς ποταμὸς ἔνδοξος ἐν γῇ διψώσῃ.</explicit>
      </msItem>
     </msContents>
     <history>

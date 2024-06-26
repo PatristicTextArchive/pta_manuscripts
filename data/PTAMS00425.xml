@@ -65,15 +65,21 @@
        63700
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       To
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00425_01">
-      <locus from="090" to="097v">
-       090–097v
+      <locus from="90" to="97v">
+       90–97v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν ἁγΐοις πρς ἡμῶν ἰων ἀρχὶ ἐπϊσκόπου κωνσταντϊνουπόλεως τοῦ χρϋσοστόμου&#xB7; εἰς τὸ ὁ κς ἐβασΐλευσεν ἀγαλλϊάσθω ἡ γῆ· καὶ εἰς τὸ ὅτἂν
+    παραδῷ τὴν βασϊλεὶαν τῷ θῶ καὶ πρὶ. καὶ εἰς τὸ μϋστήρϊον τοῦ βαπτΐσματος.</rubric>
+      <incipit>πάλϊν ἡμῖν ἡ τοῦ μακαρΐου δαδ πνϊκὴ κϊθάρα</incipit>
+      <explicit>εἴη δὲ ἡμᾶς ἀδελφοὶ ἐν πᾶσιν, πϊστοὺς δϊὸ μένειν θῶ πάντοτε, ᾧ πρέπει πᾶσα δόξα τϊμὴ κράτος, ἅμα τῷ πρι σὺν ἁγΐῳ πνι· νῦν καὶ ἀεὶ, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>

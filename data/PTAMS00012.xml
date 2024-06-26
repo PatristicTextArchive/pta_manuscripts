@@ -65,9 +65,14 @@
        2560
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0039.pta003">
+      <idno>
+       A
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0002.pta001" n="1" xml:id="PTAMS00012_01">
+     <msItem corresp="urn:cts:pta:pta0039.pta003" n="1" xml:id="PTAMS00012_01">
       <locus from="62v" to="64r">
        62v–64r
       </locus>

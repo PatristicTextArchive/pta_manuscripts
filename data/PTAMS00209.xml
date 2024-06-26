@@ -65,6 +65,11 @@
        41258
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       St
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00209_01">
@@ -76,12 +81,12 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00209_02">
-      <locus from="157v" to="170">
-       157v–170
+      <locus from="157v" to="169v">
+       157v–169v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν ἁγίοις πρς ἡμῶν ιω τοῦ χρυσοστόμου· εἰς τὸ ὁ κς ἐβασίλευσεν, καὶ εἰς τὸ ὅτ’ἂν παραδίδω τὴν βασϊλεὶαν τῷ θῷ καὶ πρὶ· καὶ εἰς τὸ μϋστήρϊον τοῦ βαπτίσματος. ἐυο πέρ</rubric>
+      <incipit>πάλιν ἡμῖν ἡ τοῦ μακαρίου δαδ πνικὴ κιθάρα</incipit>
+      <explicit>διὰ τοῦτο λέγει ἡ γραφή. καὶ ἐν πᾶσι τοῖς λόγοις σου μιμνήσκου τὰ ἔσχατά σου&#x03D7; εἰς τὸν αἰῶνα οὐχ' ἁμαρτήσεις· εἴη δὲ ἡμᾶς ἐν πᾶσι πιστοὺς διαμένειν θῶ, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>
