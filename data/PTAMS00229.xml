@@ -94,7 +94,7 @@
          <incipit>Ἦν τίς ποταμὸς τῷ Κροίσῳ χρυσορρόας</incipit>
          <explicit>τοιοῦτος ἐστὶν οὗτος ὁ χρυσορρόας</explicit>
         </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00229_01">
+     <msItem corresp="urn:cts:pta:pta0001.pta020" n="3" xml:id="PTAMS00229_03">
       <locus from="1v" to="17r">
        1v–17r
       </locus>
@@ -102,7 +102,7 @@
       <incipit>Ὄντως ἐπεφάνη</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="cpg:4295.22" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4295.22" n="4" xml:id="PTAMS00229_04">
       <locus from="17r" to="22r">
        17r­–22r
       </locus>
@@ -110,7 +110,7 @@
       <incipit>Θν μὲν ἕνα καὶ τὸν αὐτὸν</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="5" xml:id="PTAMS00229_05">
       <locus from="22v" to="32v">
        22v–32v
       </locus>
@@ -119,7 +119,7 @@
       <explicit></explicit>
       <note>in mg. oben κ. προ των φωτων</note>
      </msItem>
-     <msItem corresp="cpg:4512" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4512" n="6" xml:id="PTAMS00229_06">
       <locus from="32v" to="37r">
        32v–37r
       </locus>
@@ -128,7 +128,7 @@
       <incipit>Ἔδει μὲν ἡμᾶς τοσαύτης λόγων</incipit>
       <explicit>χάριτι δὲ χυ· ὥ πρέπει ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00229_03">
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="7" xml:id="PTAMS00229_07">
       <locus from="37r" to="44v">
        37r–44v
       </locus>
@@ -136,7 +136,7 @@
       <incipit>Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος ἀρχὴν ἔχουσα</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="cpg:4420.1" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4420.1" n="8" xml:id="PTAMS00229_08">
         <locus from="44v" to="55r">
          44v–55r
         </locus>
@@ -144,7 +144,7 @@
         <incipit>Προφητικὴν ὑμῖν σήμερον παραθεῖναι</incipit>
         <explicit></explicit>
        </msItem>
-       <msItem corresp="cpg:4420.2" n="2" xml:id="PTAMS00229_02">
+       <msItem corresp="cpg:4420.2" n="9" xml:id="PTAMS00229_09">
         <locus from="55r" to="71r">
          55r–71r
         </locus>
@@ -153,7 +153,7 @@
         <incipit>Χαίρει μεν βουκόλος</incipit>
         <explicit>δυνηθησώμεθα μετὰ τοῦ πληρώματος τούτου εἰς τὴν βασιλείαν τῶν ουνων εἰσελθεῖν· ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· χάριτι καὶ φιλανθρωπία τοῦ κυ ἡμῶν ιυ χυ· δι’ οὗ καὶ μεθ’ οὗ τῶ πρι ἡ δόξα ἅμα τῶ ἁγίω πνι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν:-</explicit>
        </msItem>
-       <msItem corresp="cpg:4317" n="2" xml:id="PTAMS00229_02">
+       <msItem corresp="cpg:4317" n="10" xml:id="PTAMS00229_10">
         <locus from="71r" to="77r">
          71r–77r
         </locus>
@@ -161,7 +161,7 @@
         <incipit>Ἆρα ἀληθῆ τὰ συμβάντα περὶ ἡμᾶς.</incipit>
         <explicit></explicit>
        </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta040" n="4" xml:id="PTAMS00229_04">
+     <msItem corresp="urn:cts:pta:pta0001.pta040" n="11" xml:id="PTAMS00229_11">
       <locus from="77r" to="88v">
        77r–88v
       </locus>
@@ -169,7 +169,7 @@
       <incipit>Πολλαὶ καὶ διάφοροι</incipit>
       <explicit>χαίρων τοῦ στερεωματης εἰς χν πίστεως· ὥ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν:-</explicit>
      </msItem>
-     <msItem corresp="cpg:4386" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4386" n="12" xml:id="PTAMS00229_12">
       <locus from="88v" to="104r">
        88v–104r
       </locus>
@@ -178,7 +178,7 @@
       <incipit>Εἰς καιρὸν ἡ τοῦ πνς ὠκονόμησε χάρις.</incipit>
       <explicit>πάντας ἡμᾶς ἐπιτυχεῖν, χάριτι καὶ φιλανία τοῦ κυ ἡμῶν ιυ χυ, ὥ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων  ἀμήν:-</explicit>
      </msItem>
-     <msItem corresp="cpg:4377" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4377" n="13" xml:id="PTAMS00229_13">
       <locus from="104r" to="111r">
        104r–111r
       </locus>
@@ -186,7 +186,7 @@
       <incipit>Πρὸς τὰς τοῦ μέλιτος πηγὰς τήμερον</incipit>
       <explicit> ἡ δόξα εἰς τοὺς αἰῶνας τῶν ἀμήν:-</explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta016" n="5" xml:id="PTAMS00229_05">
+     <msItem corresp="urn:cts:pta:pta0001.pta016" n="14" xml:id="PTAMS00229_14">
       <locus from="111" to="120v">
        111–120v
       </locus>
@@ -194,7 +194,7 @@
       <incipit>Πρῴην ἡμᾶς ἀδελφοὶ ἡ μεγάλη καὶ θεοπρεπὴς τοῦ σρς ἐπιφάνεια</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="cpg:4587" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4587" n="15" xml:id="PTAMS00229_15">
       <locus from="120v" to="130r">
        120v–130r
       </locus>
@@ -202,7 +202,7 @@
       <incipit>Ὁρῶ τῆ ποίμνη τῶν εὐσεβῶν μεμϊγμενα πρόβατα</incipit>
       <explicit>κατὰ τὴν πίστιν ἡμῶν ὑμῶν γενηθήτω ὑμῖν· αὐτῶ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν</explicit>
      </msItem>
-     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta010" n="6" xml:id="PTAMS00229_06">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta010" n="16" xml:id="PTAMS00229_16">
       <locus from="130r" to="130r">
        130r
       </locus>
@@ -210,7 +210,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem defective="true" corresp="cpg:4369" n="7" xml:id="PTAMS00229_07">
+     <msItem defective="true" corresp="cpg:4369" n="17" xml:id="PTAMS00229_17">
       <locus from="130r" to="138r">
        130r–138r
       </locus>
@@ -218,7 +218,7 @@
       <incipit>Βαθεῖαν τομὴν τοῖς ἁρπάζουσι καὶ πλεονεκτεῖν βουλομένοις ἐδώκαμεν·</incipit>
       <explicit><!--aus clacla: τὸ αὐτοῦ θέλημα… προτιμῶμεν. Οὕτω γὰρ… τῶν μελλόντων ἀγαθῶν ἐπιτευξόμεθα… ἀμήν.--></explicit>
      </msItem>
-     <msItem corresp="cpg:4341" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4341" n="18" xml:id="PTAMS00229_18">
       <locus from="139r" to="146r">
        139r–146r
       </locus>
@@ -226,7 +226,7 @@
       <incipit>Ἀπεθέμεθα τῆς νηστείας τὸ φορτίον</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="cpg:5058" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:5058" n="19" xml:id="PTAMS00229_19">
       <locus from="146v" to="158r">
        146v–158r
       </locus>
@@ -234,7 +234,7 @@
       <incipit>Φαιδρῶς ὁμοῦ καὶ θεοσεβῶς</incipit>
       <explicit>τοὺς σύμπαντας αἰῶνας ἀμήν:-</explicit>
      </msItem>
-     <msItem corresp="cpg:4441.12" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4441.12" n="20" xml:id="PTAMS00229_20">
       <locus from="158r" to="167v">
        158r–167v
       </locus>
@@ -242,7 +242,7 @@
       <incipit>Ὢ τῆς βίας·</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta007" n="8" xml:id="PTAMS00229_08">
+     <msItem corresp="urn:cts:pta:pta0001.pta007" n="21" xml:id="PTAMS00229_21">
       <locus from="167v" to="179r">
        167v–179r
       </locus>
@@ -250,7 +250,7 @@
       <incipit>Καλὸν ἡμῖν ὡς ἀληθῶς</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="cpg:4372.3" n="2" xml:id="PTAMS00229_02">
+     <msItem corresp="cpg:4372.3" n="22" xml:id="PTAMS00229_22">
       <locus from="179r" to="192v">
        179r–192v
       </locus>
@@ -258,7 +258,7 @@
       <incipit>Ἐνεκάλεσαν ἡμῖν τινες τῶν ἀγαπητῶν τῶν ἡμετέρων</incipit>
       <explicit>ἀξίαν αὐτοῦ τῆς ἀγαθότητος κατὰ δύναμιν τὴν ἡμετέραν πολιτείαν ἐπιδειξώμεθα, ἵνα καὶ τῆς βασιλείας τῶν οὐρανῶν ἐπιτύχωμεν… ἀμήν.</explicit>
      </msItem>
-     <msItem corresp="cpg:6554" n="9" xml:id="PTAMS00229_09">
+     <msItem corresp="cpg:6554" n="23" xml:id="PTAMS00229_23">
         <note>in Ps 103</note>
       <locus from="193r" to="206r">
        193r–206r
@@ -267,7 +267,7 @@
       <incipit>Τὰ αὐτὰ καὶ περὶ τῆς νῦν ἐπιγραφῆς</incipit>
       <explicit>εἰς εὐζωϊαν ρυθμίζει τὸν βίον τὸν ἡμέτερον:</explicit>
      </msItem>
-     <msItem corresp="cpg:4551" n="9" xml:id="PTAMS00229_09">
+     <msItem corresp="cpg:4551" n="24" xml:id="PTAMS00229_24">
         <note>in Ps 104</note>
       <locus from="206r" to="214r">
        206r–214r
@@ -276,7 +276,7 @@
       <incipit>Τὴν τοῦ ἀλληλούϊα ἑρμηνείαν ἐν τουτοις εἶναι λέγουσιν·</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="cpg:4551" n="9" xml:id="PTAMS00229_09">
+     <msItem corresp="cpg:4551" n="25" xml:id="PTAMS00229_25">
         <note>in Ps 105</note>
       <locus from="214r" to="222v">
        214r–222v
@@ -285,7 +285,7 @@
       <incipit>Τὴν αὐτὴν ἐπιγραφὴν</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem corresp="cpg:6554" n="9" xml:id="PTAMS00229_09">
+     <msItem corresp="cpg:6554" n="26" xml:id="PTAMS00229_26">
         <note>in Ps 106</note>
       <locus from="223r" to="231v">
        223r–231v
@@ -294,7 +294,7 @@
       <incipit>Παραπλησίως τοῖς προτέροις καὶ οὗτος ἐπιγέγραπται·</incipit>
       <explicit></explicit>
      </msItem>
-     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta003" n="9" xml:id="PTAMS00229_09">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta003" n="27" xml:id="PTAMS00229_27">
       <locus from="232r" to="254v">
        232r–254v
       </locus>
