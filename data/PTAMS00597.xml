@@ -88,21 +88,15 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2090" n="2" xml:id=" PTAMS00597_02">
-      <note>
-       Athanasius Alexandrinus, Contra gentes (CPG 2090)
-      </note>
-      <locus from="7" to="29">
-       7–29
+     <msItem corresp="urn:cts:pta:pta0022.pta001" n="2" xml:id=" PTAMS00597_02">
+      <locus from="7r" to="29r">
+       7r–29r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2091" n="3" xml:id=" PTAMS00597_03">
-      <note>
-       Athanasius Alexandrinus, De incarnatione Verbi (CPG 2091)
-      </note>
+     <msItem corresp="urn:cts:pta:pta0022.pta002" n="3" xml:id=" PTAMS00597_03">
       <locus from="29" to="53v">
        29–53v
       </locus>

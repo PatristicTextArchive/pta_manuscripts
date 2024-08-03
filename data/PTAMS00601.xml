@@ -77,10 +77,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:2090" n="1" xml:id="PTAMS00601_01">
-      <note>
-       Athanasius Alexandrinus, Contra gentes (CPG 2090)
-      </note>
+     <msItem corresp="urn:cts:pta:pta0022.pta001" n="1" xml:id="PTAMS00601_01">
       <locus from="001" to="37v">
        001–37v
       </locus>
@@ -88,10 +85,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:2091" n="2" xml:id="PTAMS00601_02">
-      <note>
-       Athanasius Alexandrinus, De incarnatione Verbi (CPG 2091)
-      </note>
+     <msItem corresp="urn:cts:pta:pta0022.pta002" n="2" xml:id="PTAMS00601_02">
       <locus from="037v" to="79v">
        037v–79v
       </locus>
@@ -188,9 +182,6 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0022.pta015" n="11" xml:id="PTAMS00601_11">
-      <note>
-       Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
-      </note>
       <locus from="139" to="144">
        139–144
       </locus>
@@ -302,9 +293,6 @@ CPG 2869)
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0022.pta003" n="21" xml:id="PTAMS00601_21">
-      <note>
-       Athanasius Alexandrinus, De decretis Nicaenae synodi (CPG 2120)
-      </note>
       <locus from="382r" to="v">
        382r–v
       </locus>

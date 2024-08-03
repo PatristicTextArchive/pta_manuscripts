@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00609" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Hagion Oros, Monê Pantokratoros, 28 (Lambros 1062)
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+   <change when-iso="2024-07-01" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Hagion Oros
+     </settlement>
+     <repository>
+      Monê Pantokratoros
+     </repository>
+     <collection>
+      fonds principal
+     </collection>
+     <idno>
+        28 (Lambros 1062)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       29047
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem defective="true" corresp="urn:cts:pta:pta9999.pta068" n="1" xml:id="PTAMS00609_01">
+      <locus from="1r" to="37r">
+       1r-37r
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">inc. Rom 6:6</incipit>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:c166.1" n="2" xml:id="PTAMS00609_02">
+        <note>Catena in Rom</note>
+      <locus from="1r" to="37r">
+       1r-37r in mg.
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">inc. Rom 6:6</incipit>
+      <explicit/>
+     </msItem>
+     <!-- 37v vacat -->
+     <msItem corresp="urn:cts:pta:pta9999.pta069" n="3" xml:id="PTAMS00609_03">
+      <locus from="38r" to="89v">
+       38r-89v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.2" n="4" xml:id="PTAMS00609_04">
+        <note>Catena in 1Cor</note>
+      <locus from="38r" to="89v">
+       38r-89v in mg.
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta070" n="5" xml:id="PTAMS00609_05">
+      <locus from="90r" to="124v">
+       90r-124v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.3" n="6" xml:id="PTAMS00609_06">
+        <note>Catena in 2Cor</note>
+      <locus from="90r" to="124v">
+       90r-124v in mg.
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta071" n="7" xml:id="PTAMS00609_07">
+      <locus from="125r" to="142v">
+       125r-142v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.4" n="8" xml:id="PTAMS00609_08">
+        <note>Catena in Gal</note>
+      <locus from="125r" to="142v">125r-142v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta072" n="9" xml:id="PTAMS00609_09">
+      <locusGrp><locus from="143v" to="157v">143v-157v</locus>
+      <locus from="190r" to="194v">190r-194v</locus></locusGrp>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.4" n="10" xml:id="PTAMS00609_10">
+        <note>Catena in Eph</note>
+      <locus from="143r" to="157v">143r-157v in mg.</locus>
+      <locus from="190r" to="194r">190r-194v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta077" n="11" xml:id="PTAMS00609_11">
+      <locusGrp><locus from="237v" to="245v">237v-245v</locus>
+      <locus from="158r" to="161v">158r-161v</locus></locusGrp>
+      <rubric/>
+      <incipit></incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.5" n="12" xml:id="PTAMS00609_12">
+        <note>Catena in 1Tim</note>
+      <locus from="237v" to="245v">237v-245v in mg.</locus>
+      <locus from="158r" to="161v">158r-161v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta078" n="13" xml:id="PTAMS00609_13">
+      <locus from="162r" to="171r">162r-171r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.5" n="14" xml:id="PTAMS00609_14">
+        <note>Catena in 2Tim</note>
+      <locus from="162r" to="171r">162r-171r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta079" n="15" xml:id="PTAMS00609_15">
+      <locus from="171v" to="176r">171v-176r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.5" n="16" xml:id="PTAMS00609_16">
+        <note>Catena in Tit</note>
+      <locus from="171v" to="176r">171v-176r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta080" n="17" xml:id="PTAMS00609_17">
+      <locus from="176v" to="178r">176v-178r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.5" n="18" xml:id="PTAMS00609_18">
+        <note>Catena in Phlm</note>
+      <locus from="176v" to="178r">176v-178r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta9999.pta081" n="19" xml:id="PTAMS00609_19">
+      <locusGrp><locus from="178v" to="189v">178v-189v</locus>
+      <locus from="246r" to="269v">246r-269v</locus></locusGrp>
+      <rubric/>
+      <incipit/>
+      <explicit type="defective">des. Heb 13:19, 13:20-24 von späterer Hand auf f. 270r-v</explicit>
+     </msItem>
+     <msItem corresp="cpg:c166.5" n="20" xml:id="PTAMS00609_20">
+        <note>Catena in Hebr</note>
+        <locusGrp><locus from="178v" to="189v">178v-189v in mg.</locus>
+        <locus from="246r" to="269v">246r-269v in mg.</locus></locusGrp>
+        <rubric/>
+        <incipit/>
+        <explicit type="defective">des. Heb 13:19</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta073" n="21" xml:id="PTAMS00609_21">
+      <locus from="195r" to="208r">195r-208r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.4" n="22" xml:id="PTAMS00609_22">
+        <note>Catena in Phil</note>
+      <locus from="194v" to="208r">194v-208r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta074" n="23" xml:id="PTAMS00609_23">
+      <locus from="208v" to="221v">208v-221v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.4" n="24" xml:id="PTAMS00609_24">
+        <note>Catena in Col</note>
+      <locus from="208r" to="221v">208r-221v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta075" n="25" xml:id="PTAMS00609_25">
+      <locus from="222r" to="231v">222r-231v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.5" n="26" xml:id="PTAMS00609_26">
+        <note>Catena in 1Thes</note>
+      <locus from="222r" to="231v">222r-231v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta076" n="27" xml:id="PTAMS00609_27">
+      <locus from="232r" to="237r">232r-237r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:c166.5" n="28" xml:id="PTAMS00609_28">
+        <note>Catena in 2Thes</note>
+      <locus from="232r" to="237r">232r-237r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 9
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://www.loc.gov/item/00271051645-ma/" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/00271051645-ma/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

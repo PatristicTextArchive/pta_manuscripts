@@ -77,10 +77,7 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="cpg:2091" n="1" xml:id="PTAMS00598_01">
-      <note>
-       Athanasius Alexandrinus, De incarnatione Verbi (CPG 2091)
-      </note>
+     <msItem corresp="urn:cts:pta:pta0022.pta002" n="1" xml:id="PTAMS00598_01">
       <locus from=" 1" to="31v">
         1–31v
       </locus>
