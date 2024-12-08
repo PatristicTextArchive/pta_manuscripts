@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00611" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Barb. gr. 574
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2024-11-22" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana (BAV)
+     </repository>
+     <collection>
+      Barb. gr.
+     </collection>
+     <idno>
+      574
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+        65114
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001.pta072">
+      <idno>
+       D
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem defective="true" corresp="urn:cts:pta:pta9999.pta068" n="1" xml:id="PTAMS00611_01">
+      <locus from="1r" to="31r">1r-31r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:C165" n="2" xml:id="PTAMS00611_02">
+        <note>Cat. type 1 in Rom</note>
+      <locus from="1r(mg)" to="31r(mg)">1r-31r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta069" n="3" xml:id="PTAMS00611_03">
+      <locus from="32r" to="65v">32r-65v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="4" xml:id="PTAMS00611_04">
+        <note>Cat. type 1 in 1Cor</note>
+      <locus from="31v(mg)" to="65v(mg)">31v-65v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta070" n="5" xml:id="PTAMS00611_05">
+      <locus from="67r" to="93r">67r-93r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="6" xml:id="PTAMS00611_06">
+        <note>Cat. type 1 in 2Cor</note>
+      <locus from="65v(mg)" to="93r(mg)">65v-93r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta071" n="7" xml:id="PTAMS00611_07">
+      <locus from="94r" to="103r">94r-103r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="8" xml:id="PTAMS00611_08">
+        <note>Cat. type 1 in 2Cor</note>
+      <locus from="93v(mg)" to="103r(mg)">93v-103r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta072" n="9" xml:id="PTAMS00611_09">
+      <locus from="104r" to="114r">104r-114r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="10" xml:id="PTAMS00611_10">
+        <note>Cat. type 1 in Eph</note>
+      <locus from="103v(mg)" to="114r(mg)">103v-114r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta073" n="11" xml:id="PTAMS00611_11">
+      <locus from="115r" to="122v">115r-122v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="12" xml:id="PTAMS00611_12">
+        <note>Cat. type 1 in Phil</note>
+      <locus from="114v(mg)" to="122v(mg)">114v-122v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta074" n="13" xml:id="PTAMS00611_13">
+      <locus from="124r" to="132r">124r-132r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="14" xml:id="PTAMS00611_14">
+        <note>Cat. type 1 in Col</note>
+      <locus from="123r(mg)" to="132r(mg)">123r-132r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta075" n="15" xml:id="PTAMS00611_15">
+      <locus from="133r" to="139v">133r-139v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="16" xml:id="PTAMS00611_16">
+        <note>Cat. type 1 in 1Thess</note>
+      <locus from="132v(mg)" to="139v(mg)">132v-139v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta076" n="17" xml:id="PTAMS00611_17">
+      <locus from="140v" to="145r">140v-145r</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="18" xml:id="PTAMS00611_18">
+        <note>Cat. type 1 in 2Thess</note>
+      <locus from="140r(mg)" to="145r(mg)">140r-145r in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta077" n="19" xml:id="PTAMS00611_19">
+      <locus from="146r" to="154v">146r-154v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="20" xml:id="PTAMS00611_20">
+        <note>Cat. type 1 in 1Tim</note>
+      <locus from="145v(mg)" to="154v(mg)">145v-154v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta078" n="21" xml:id="PTAMS00611_21">
+      <locus from="155v" to="162v">155v-162v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="22" xml:id="PTAMS00611_22">
+        <note>Cat. type 1 in 2Tim</note>
+      <locus from="155r(mg)" to="162v(mg)">155r-162v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta079" n="23" xml:id="PTAMS00611_23">
+      <locus from="163v" to="166v">163v-166v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="24" xml:id="PTAMS00611_24">
+        <note>Cat. type 1 in Tit</note>
+      <locus from="163r(mg)" to="166v(mg)">163r-166v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta9999.pta080" n="25" xml:id="PTAMS00611_25">
+      <locus from="167v" to="169v">167v-169v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:C165" n="26" xml:id="PTAMS00611_26">
+        <note>Cat. type 1 in Phlm</note>
+      <locus from="167r(mg)" to="169v(mg)">167r-169v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta9999.pta081" n="27" xml:id="PTAMS00611_27">
+      <locus from="170v" to="195v">170v-195v</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:C165" n="28" xml:id="PTAMS00611_28">
+        <note>Cat. type 1 in Heb</note>
+      <locus from="170r(mg)" to="195v(mg)">170r-195v in mg.</locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
+        s. 11
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://digi.vatlib.it/view/MSS_Barb.gr.574" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Barb.gr.574/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

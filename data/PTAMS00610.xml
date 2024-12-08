@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00610" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 3
+    </title>
+    <respStmt>
+      <resp>katalogisiert von</resp>
+      <persName xml:id="AvS">Annette von Stockhausen</persName>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2024-08-16" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Jerusalem
+     </settlement>
+     <repository>
+      Patriarchikê bibliothêkê
+     </repository>
+     <collection>
+      Hagiou Saba
+     </collection>
+     <idno>
+      3
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       34260
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Sa
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0046">
+      <idno>
+       Sa
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+        <msItem defective="true" corresp="bhg:939w" n="1" xml:id="PTAMS00610_01">
+            <locus from="1r" to="8r">
+            1r-8r
+            </locus>
+            <rubric type="defective"/>
+            <incipit type="defective">μυίας ἐκάλεσα τοὺς κατηγόρους· καὶ τοῦ παραδείγματος δικαίαν</incipit><!-- PG 49,245, l. 30-->
+            <explicit></explicit>
+        </msItem>
+        <msItem corresp="cpg:4418" n="2" xml:id="PTAMS00610_02">
+         <locus from="8r" to="12v">
+          8r–12v
+         </locus>
+         <rubric>Λόγος λ: + τοῦ αῦτοῦ ὁμιλία εἰς τὴν προφητικὴν ρῆσιν τὴν λέγουσαν· ἐγὼ κς ὁ θς ἐποίησα φῶς καὶ σκότος· ποιῶν εἰρήνην καὶ κτίζων κακά:</rubric>
+         <incipit>Ὀλίγα μὲν τὰ εἰρημένα</incipit>
+         <explicit/>
+        </msItem>
+        <msItem corresp="cpg:4516" n="3" xml:id="PTAMS00610_03">
+         <locus from="13r" to="15v">
+          13r–15v
+         </locus>
+         <rubric>Λόγος λα: + τοῦ αὐτοῦ ὁμιλία περὶ προσευχῆς:</rubric>
+         <incipit>ἁμφοτέρων ἕνεκα προσήκει τοὺς τοῦ θυ θεράποντας μακαρίζειν καὶ θαυμάζειν·</incipit>
+         <explicit/>
+        </msItem>
+        <msItem corresp="cpg:4516" n="4" xml:id="PTAMS00610_04">
+         <locus from="15v" to="19r">
+          15v–19r
+         </locus>
+         <rubric>Λόγος λβ: + τοῦ αὐτοῦ ὁμιλία περὶ προσευχῆς:</rubric>
+         <incipit>Ὅτι μὲν παντὸς ἀγαθοῦ κεφάλαιόν ἐστιν ἡ προσευχὴ</incipit>
+         <explicit/>
+        </msItem>
+        <msItem corresp="cpg:4389" n="5" xml:id="PTAMS00610_05">
+         <locus from="19r" to="25v">
+          19r–25v
+         </locus>
+         <rubric>Λόγος λγ: + τοῦ αὐτοῦ ὁμιλία περὶ τοῦ μὴ δημοσιεύειν τὰ ἁμαρτήματα τῶν ἀδελφῶν μὴ δὲ κατεύχεσθαι τῶν ἐχθρῶν:</rubric>
+         <incipit>Μακαρίζω τῆς σπουδῆς ὑμᾶς ἀγαπητοί.</incipit>
+         <explicit/>
+        </msItem>
+        <msItem corresp="cpg:4390" n="6" xml:id="PTAMS00610_06">
+         <locus from="25v" to="29r">
+          25v–29r
+         </locus>
+         <rubric>Λόγος λδ: τοῦ αὐτοῦ ὁμιλία περὶ τοῦ μὴ ἀποφινώσκειν τινὰς ἑαυτῶν μὴ δὲ κατεύχεσθαι τῶν ἐχθρῶν· μὴ δὲ ἀπαγορεύειν ἐν τῶ μὴ λαμβάνειν αἰτοῦντας· καὶ πρὸς ἄνδρα περὶ τῆς πρὸς τὰς γυναῖκας εἰρήνης:–</rubric>
+         <incipit>Πολλὰς ὑμῖν ἔχω χάριτας</incipit>
+         <explicit/>
+        </msItem>
+        <msItem defective="true" corresp="cpg:4358" n="7" xml:id="PTAMS00610_07">
+         <locus from="29v" to="29v">
+          29v
+         </locus>
+         <rubric>Λόγος λε: + τοῦ αὐτοῦ ὁμιλία ὅτι ἐπικίνδυνον καὶ τοῖς λέγοισι καὶ τοῖς ἀκούουσι τὸ πρὸς χάριν δημηγορεῖν· καὶ ὅτι χρήσιμον καὶ δικαιοσύνη μεγίστη. τὸ κατηγορεῖν τῶν ἰκείων ἁμαρτημάτων:–</rubric>
+         <incipit>Ἱκανῶς ὑμῶν οἶμαι καθηψάμεθα πρώην.</incipit>
+         <explicit type="defective">ἀντεμολύνη βοβόρω· παρα</explicit>
+        </msItem>
+        <!-- 2 weitere Titel fehlen: 36 und 37-->
+        <msItem defective="true" corresp="cpg:4379" n="8" xml:id="PTAMS00610_08">
+         <locus from="30r" to="32r">
+          30r–32r
+         </locus>
+         <rubric type="defective"/>
+         <incipit type="defective">καὶ πάντα ἀκριβῶς ἐξήταξεν·</incipit>
+         <explicit/>
+        </msItem>
+        <msItem defective="true" corresp="cpg:4314" n="9" xml:id="PTAMS00610_09">
+         <locus from="32r" to="38r">
+          32r–37v
+         </locus>
+         <rubric>Λόγος λθ: + τοῦ αὐτοῦ λόγος εἰς νεωτέραν χηρεύσασαν:–</rubric>
+         <incipit>Ὅτι μὲν χαλεπὴν ἔλαβες τὴν πληγὴν</incipit>
+         <explicit type="defective">ἐπειδὴ δέ σου δεινῶς</explicit>
+        </msItem>
+        <!-- 1 weiterer Titel fehlen: 40-->
+        <msItem defective="true" corresp="cpg:4655" n="10" xml:id="PTAMS00610_10">
+         <locus from="38r" to="38r">
+          38r
+         </locus>
+         <rubric type="defective"/>
+         <incipit type="defective">στολος τοῖς δηναρίοις</incipit>
+         <explicit></explicit>
+        </msItem>
+        <msItem corresp="urn:cts:pta:pta0001.pta040" n="11" xml:id="PTAMS00610_11">
+         <locus from="38r" to="45v">
+          38r–45v
+         </locus>
+         <rubric>Λόγος μβ: + τοῦ αὐτοῦ ὁμιλία ὅτε ἐθεράπευσεν ὁ σηρ τὸν ἐν τῆ ὁδῶ τυφλὸν· καὶ εἰς τὸν ζακχαῖον· καὶ περὶ κρίσεως καὶ ἐλεημοσύνης:–</rubric>
+         <incipit>Πολλὰ καὶ διάφορα τῶν ἁγίων γραφῶν αἱ διδασκαλίαι.</incipit>
+         <explicit>εἰ καὶ τüv σώματι ἄπειμι. ἀλλὰ τüv πνι σὺν ὑμῖν εἰμι· βλέπων καὶ χαίρων τὸ στερέωμα τῆς εἰς χν πίστεως· ὧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν:–</explicit>
+        </msItem>
+        <msItem corresp="cpg:4385" n="12" xml:id="PTAMS00610_12">
+         <locus from="45v" to="51v">
+          45v–51v
+         </locus>
+         <rubric>Λόγος μγ: + τοῦ αὐτοῦ πρώην ὁμιλήσας εἰς τὸν φαρισαῖον· νῦν πρὸς τοὺς οὐκ εἰς δέον χρωμένους τῶ ἀποστολικῶ ῥητῶ τῶ λέγοντι· εἴτε προφάσει εἴτε ἀληθεία χς καταγγέλλεται· καὶ περὶ ταπεινοφροσύνης:–</rubric>
+         <incipit>Τοῦ φαρισαίου καὶ τοῦ τελώνου μνημονεύσαντες πρώην·</incipit>
+         <explicit></explicit>
+        </msItem>
+        <msItem corresp="cpg:4381" n="13" xml:id="PTAMS00610_13">
+         <locus from="51v" to="59v">
+          51v–59v
+         </locus>
+         <rubric>Λόγος μδ: + τοῦ αὐτοῦ ὁμιλία εἰς τὸ ἀποστολικὸν ῥητὸν τὸ λέγον· δεῖ δὲ καὶ αἱρέσεις εἶναι ἐν ὑμῖν. ἵνα οἱ δόκιμοι φανεροὶ γένωνται:–</rubric>
+         <incipit>Ἱκανῶς πρώην ἡμῖν διεθερμάνθη το πνικὸν τοῦτο θέατρον.</incipit>
+         <explicit></explicit>
+        </msItem>
+     <msItem corresp="cpg:4340" n="14" xml:id="PTAMS00610_14">
+      <locus from="59v" to="69r">
+       59v-69r
+      </locus>
+      <rubric>Λόγος με: + τοῦ αὐτοῦ πρὸς τοὺς διαπιστοῦντας τῆ ἀναστάσει καὶ κολάσει· καὶ ὅτι ὁ μὴ προσδοκῶν ἀναστήσεσθαι μηδὲ ὑποστήσεσθαι κόλασιν. οὐδέ ποτε ἀρετῆς ἐπιμελήσεται. καὶ κακίας ἀφέξεται· καὶ εἰς τὸν ἀποστολικὸν ῥητὸν τὸ λἐγον ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθ. ἔχομεν οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς ουνοις:–</rubric>
+      <incipit>Περὶ δογμάτων ὑμῖν ἔμπροσθεν διελέχθημεν καὶ τῆς τοῦ μονογενοῦς υἱοῦ τοῦ θυ δόξης.</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4382" n="15" xml:id="PTAMS00610_15">
+      <locus from="69r" to="76r">
+       69r–76r
+      </locus>
+      <rubric>Λόγος μϛ: + τοῦ αὐτοῦ περὶ ἐλεημοσύνης· λόγος ἐκφωνηθεὶς· ἐν τῶ παριέναι αὐτὸν χειμῶνος ὥρα· καὶ ἰδεῖν τοὺς πένητας καὶ πτωχοὺς ἀνεπιμελήτους ἐρριμμένους κατὰ τὴν ἀγοράν:–</rubric>
+      <incipit>Πρεσβείαν τινὰ δικαίαν καὶ λυσιτελῆ καὶ πρέπουσαν ὑμῖν ἀνέστην ποιησόμενος τήμερον πρὸς ὑμᾶς·</incipit>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4565" n="16" xml:id="PTAMS00610_16">
+      <locus from="76r" to="77v">
+       76r-77v
+      </locus>
+      <rubric>Λόγος μζ: + τοῦ αὐτοῦ εἰς τὸν προφήτην ἠλίαν:–</rubric>
+      <incipit>Πρότερον μὲν τῶν ἰουδαίων ὁ δῆμος</incipit>
+      <explicit type="defective">πάντως τῆ τῆς γυναικὸς</explicit>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4557" n="17" xml:id="PTAMS00610_17">
+      <locus from="78r" to="79r">
+       78r–79r
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">ἐπαινοῦντες αὐτοῦ τὴν σωφροσύνην· μὴ λόγοις μόνον</incipit>
+      <explicit></explicit>
+     </msItem>
+     <!-- es fehlen zwei Titel 49 und 50 -->
+     <msItem corresp="cpg:4326" n="18" xml:id="PTAMS00610_18">
+      <locus from="79v" to="95r">
+       79v–95r
+      </locus>
+      <rubric>Λόγος να: + τοῦ αὐτοῦ πρὸς ἕλληνας ἀπόδειξις ὅτι θς ἐστιν ὁ χς:–</rubric>
+      <incipit>Ἑπειδὴ πολλοὶ τῶν ἀνῶν</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4349" n="19" xml:id="PTAMS00610_19">
+      <locus from="95r" to="98v">
+       95r-98v
+      </locus>
+      <rubric>Λόγος νβ: + τοῦ αὐτοῦ εἰς ἰουβεντῖνον καὶ μάξιμον:–</rubric>
+      <incipit>ὁ μακάριος βαβυλᾶς πρώην ἡμᾶς ἐνταῦθα μετὰ παίδων τριῶν συνήγαγε·</incipit>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0046.pta001" n="20" xml:id="PTAMS00610_20">
+      <locus from="98v" to="98v">
+       98v
+      </locus>
+      <rubric>Λόγος νγ: + τοῦ αὐτοῦ περὶ τοῦ μὴ δεῖν ἀνα<lb break="no"/>θεματίζειν ζῶντας ἢ τεθνεῶτας</rubric>
+      <incipit>Πρώην μὲν οὖν περὶ ἀκαταλήπτου γνώσεως θυ διαλεγόμενος πρὸς ὑμᾶς·</incipit>
+      <explicit type="defective"/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+        s. 10
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://www.loc.gov/item/0027939348A-jo" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://www.loc.gov/item/0027939348A-jo/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>
