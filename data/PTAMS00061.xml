@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Φ. III. 20 (Andrés 239)
+     Escorial (El-), Real Biblioteca, Φ. III. 20 (Andrés 239)
     </title>
    </titleStmt>
    <editionStmt>
@@ -106,6 +106,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://rbme.patrimonionacional.es/s/rbme/item/16076" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://rbdigital.realbiblioteca.es/files/manifests/Phi-III-20.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

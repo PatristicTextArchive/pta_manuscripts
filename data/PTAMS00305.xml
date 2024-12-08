@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2024-08-06" who="#AvS">Autopsy</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -58,7 +59,7 @@
       fonds principal
      </collection>
      <idno>
-      gr. 001
+      gr. 1
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,12 +69,12 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00305_01">
-      <locus from="127" to="138">
-       127–138
+      <locus from="127r" to="138r">
+       127r–138r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ έν ἁγίοις πατρὸς ἡμῶν ιω ἀρχιεπισκόπου κωνσταντίνου πόλεως τοῦ χρ λόγος περὶ μετανοίας καὶ κατανύξεως· καὶ ὅτι ταχὴς ὁ θεὸς εἰς σωτηρίαν· καὶ βραδὴς εἰς τιμωρίαν· ἐν ὧ καὶ περὶ τῆς Ῥαὰβ παράδοξος ἱστορία. εὐλόγησον πατέρ:+</rubric>
+      <incipit>Πάντοτε μὲν ὁ θεῖος ἀπόστολος θεία καὶ οὐρανίω κέχρηται γλώττη.</rubric>
+      <explicit>ἡ γὰρ ὑπομονὴ τῶν πενήτων, οὐκ απολεῖται εἰς τὸν αἰῶνα· ἐν χω ιυ τῶ κω ἡμῶν· ὧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>

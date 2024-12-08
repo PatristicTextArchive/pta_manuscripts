@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Ω. I. 14 (Andrés 515)
+     Escorial (El-), Real Biblioteca, Ω. I. 14 (Andrés 515)
     </title>
    </titleStmt>
    <editionStmt>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00059_01">
-      <locus from="248" to="251v">
-       248–251v
+      <locus from="248r" to="251v">
+       248r–251v
       </locus>
       <rubric/>
       <incipit/>
@@ -85,6 +85,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://rbme.patrimonionacional.es/s/rbme/item/16243" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://rbdigital.realbiblioteca.es/files/manifests/Omega-I-14.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

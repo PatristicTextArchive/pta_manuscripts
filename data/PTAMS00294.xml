@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2024-08-07" who="#AvS">Autopsy</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -67,25 +68,33 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta054" n="1" xml:id="PTAMS00294_01">
-      <locus from="094" to="098v">
-       094–098v
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="" xml:id="PTAMS00294_01">
+      <locus from="71v-84r">
+       71v-84r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="2" xml:id="PTAMS00294_02">
-      <locus from="465">
-       465
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta054" n="2" xml:id="PTAMS00294_02">
+      <locus from="94r" to="98v">
+       94r–98v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit type="defective"/><!-- 5 Blätter ausgeschnitten: f. 92 beginn Lage 15, f. 99 beginnt Lage 17, f. 107 bginnt Lage 18-->
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="3" xml:id="PTAMS00294_03">
+      <locus from="465r" to="465r">
+       465r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta045" n="3" xml:id="PTAMS00294_03">
-      <locus from="71v-84">
-       71v-84
+     <msItem corresp="urn:cts:pta:pta0039.pta001" n="4" xml:id="PTAMS00294_04">
+      <locus from="466r" to="470v">
+       466r–470v
       </locus>
       <rubric/>
       <incipit/>

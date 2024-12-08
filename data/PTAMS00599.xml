@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     San Lorenzo de El Escorial, Real Biblioteca, fonds principalΩ. III. 15
+     San Lorenzo de El Escorial, Real Biblioteca, Ω. III. 15
     </title>
    </titleStmt>
    <editionStmt>
@@ -427,6 +427,18 @@ BHG 0446g, 0449h)
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://rbme.patrimonionacional.es/s/rbme/item/16146" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://rbdigital.realbiblioteca.es/files/manifests/Omega-III-15.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

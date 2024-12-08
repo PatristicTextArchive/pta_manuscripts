@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2024-08-09" who="#AvS">Autopsy</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -68,15 +69,29 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta044" n="1" xml:id="PTAMS00275_01">
-      <locus from="061" to="062, 051">
-       061–062, 051–060, 063–066 (p.)
+      <locus from="61" to="62">
+       61–62 (p.) Titelblatt falsch eingebunden
+      </locus>
+      <locus from="51" to="60">
+       51–60 (p.)
+      </locus>
+      <locus from="63" to="66">
+       63–66 (p.)
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta013" n="8" xml:id="PTAMS00275_08">
+      <locus from="67" to="80">
+       67–80 (p.)
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta026" n="2" xml:id="PTAMS00275_02">
-      <locus from="141" to="152 (p.)">
+      <locus from="141" to="152">
        141–152 (p.)
       </locus>
       <rubric/>
@@ -84,7 +99,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00275_03">
-      <locus from="153" to="186 (p.)">
+      <locus from="153" to="186">
        153–186 (p.)
       </locus>
       <rubric/>
@@ -92,7 +107,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta005" n="4" xml:id="PTAMS00275_04">
-      <locus from="203" to="221 (p.)">
+      <locus from="203" to="221">
        203–221 (p.)
       </locus>
       <rubric/>
@@ -100,7 +115,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta008" n="5" xml:id="PTAMS00275_05">
-      <locus from="279" to="296 (p.)">
+      <locus from="279" to="296">
        279–296 (p.)
       </locus>
       <rubric/>
@@ -108,7 +123,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta014" n="6" xml:id="PTAMS00275_06">
-      <locus from="297" to="323 (p.)">
+      <locus from="297" to="323">
        297–323 (p.)
       </locus>
       <rubric/>
@@ -116,7 +131,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta025" n="7" xml:id="PTAMS00275_07">
-      <locus from="324" to="347 (p.)">
+      <locus from="324" to="347">
        324–347 (p.)
       </locus>
       <rubric/>
@@ -124,7 +139,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta013" n="8" xml:id="PTAMS00275_08">
-      <locus from="67" to="80 (p.)">
+      <locus from="67" to="80">
        67–80 (p.)
       </locus>
       <rubric/>

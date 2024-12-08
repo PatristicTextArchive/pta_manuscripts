@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2024-08-08" who="#AvS">Autopsy</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -68,8 +69,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00295_01">
-      <locus from="145v" to="155">
-       145v–155
+      <locus from="145v" to="155r">
+       145v–155r
       </locus>
       <rubric/>
       <incipit/>

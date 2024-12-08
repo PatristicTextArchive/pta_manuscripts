@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2024-08-07" who="#AvS">Autopsy</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -67,17 +68,17 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00266_01">
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00266_01">
       <locus from="273-274v">
        273-274v
       </locus>
-      <rubric/>
-      <incipit/>
+      <rubric type="defective"/>
+      <incipit type="defective"/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00266_02">
-      <locus from="274v" to="279">
-       274v–279
+      <locus from="274v" to="279r">
+       274v–279r
       </locus>
       <rubric/>
       <incipit/>

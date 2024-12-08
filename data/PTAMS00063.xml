@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Υ. II. 03 (Andrés 258)
+     Escorial (El-), Real Biblioteca, Υ. II. 3 (Andrés 258)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,7 +58,7 @@
       fonds principal
      </collection>
      <idno>
-      Υ. II. 03 (Andrés 258)
+      Υ. II. 3 (Andrés 258)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -85,6 +85,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://rbme.patrimonionacional.es/s/rbme/item/16281" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://rbdigital.realbiblioteca.es/files/manifests/Ypsilon-II-3.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Υ. II. 15 (Andrés 270)
+     Escorial (El-), Real Biblioteca, Υ. II. 15 (Andrés 270)
     </title>
    </titleStmt>
    <editionStmt>
@@ -98,6 +98,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://rbme.patrimonionacional.es/s/rbme/item/16305" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://rbdigital.realbiblioteca.es/files/manifests/Ypsilon-II-15.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>
