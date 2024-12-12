@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Firenze, Biblioteca Medicea Laurenziana, Plut. 8. 10
+     Firenze, Biblioteca Medicea Laurenziana, Plut. 8.10
     </title>
    </titleStmt>
    <editionStmt>
@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2024-12-12" who="#AvS">Added IIIF link</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -58,7 +59,7 @@
       Plut.
      </collection>
      <idno>
-      8. 10
+      8.10
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -94,7 +95,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.8.10" type="straighturl"/>
+        <ref target="https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/59754" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://tecabml.contentdm.oclc.org/iiif/info/plutei/59754/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

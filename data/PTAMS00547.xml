@@ -41,6 +41,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2024-12-12" who="#AvS">Added IIIF link</change>
    <change when-iso="2021-11-10" who="#AvS">Added missing CPG references</change>
    <change when-iso="2021-04-10" who="#MB">
     Created TEI file
@@ -173,7 +174,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.3" type="straighturl"/>
+        <ref target="https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/185732" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://tecabml.contentdm.oclc.org/iiif/info/plutei/185732/manifest.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>
