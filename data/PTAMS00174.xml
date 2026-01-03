@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00174_01">
-      <locus from="030v" to="039">
-       030v–039
+      <locus from="30v" to="39">
+       30v–39
       </locus>
       <rubric/>
       <incipit/>
@@ -79,7 +79,7 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1000-12-31" notBefore-iso="0901-01-01">
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="901-01-01">
         s. 10
        </origDate>
       </p>

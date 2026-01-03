@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Toledo, Archivo y Biblioteca Capitular, fonds principal 009 - 20
+     Toledo, Archivo y Biblioteca Capitular, Mss. 9 - 20
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Archivo y Biblioteca Capitular
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      009 - 20
+      9 - 20
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,16 +68,16 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00422_01">
-      <locus from="032" to="034">
-       032–034
+      <locus from="32" to="34">
+       32–34
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00422_02">
-      <locus from="053" to="060">
-       053–060
+      <locus from="53" to="60">
+       53–60
       </locus>
       <rubric/>
       <incipit/>

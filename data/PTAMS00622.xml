@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00622" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Paris, Bibliothèque nationale de France (BNF), grec 1034
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2025-06-09" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Paris
+     </settlement>
+     <repository>
+      Bibliothèque nationale de France (BNF)
+     </repository>
+     <collection>
+      grec
+     </collection>
+     <idno>
+      1034
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       50627
+      </idno>
+     </altIdentifier><altIdentifier type="sigle_pta0040.pta001">
+      <idno>
+       P
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0040.pta001" n="1" xml:id="PTAMS00622_01">
+      <locus from="305v" to="309v">
+       305v-309v
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις πρς ἡμῶν οὐνοφάντορος Βασιλείου τοῦ μεγάλου· ἀρχιεπισκόπου καισαρείας καππαδοκίας, λόγος περὶ τῆς ἁγίας κυριακῆς· εὐλόγησον πάτερ:</rubric>
+      <incipit>Βούλομαι σήμερον ἀγαπητοὶ, τὴν κυριακὴν ἡμέραν ἐγκωμιᾶσαι.</incipit>
+      <explicit>προσφέροντες ἐν αὐτῆ τῶ θῶ, θυσίαν ἁγίαν· ἔργα δικαιο σύνης, καρποὺς φιλοπτωχίας, εὐχὰς· ἀναγνώσεις· δοξολογίαις, δοξάζοντες πρα υἱὸν καὶ ἅγιον πνα τὴν μίαν βασιλείαν καὶ κυρι ότητα· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμὴν: </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1500-12-31" notBefore-iso="1401-01-01">
+        s. 15
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/ark:/12148/btv1b107240011" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://gallica.bnf.fr/iiif/ark:/12148/btv1b107240011/manifest.json" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

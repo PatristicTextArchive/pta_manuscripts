@@ -101,6 +101,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://onb.digital/result/131F8CF6" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.onb.ac.at/iiif/presentation/v3/manifest/131F8CF6" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

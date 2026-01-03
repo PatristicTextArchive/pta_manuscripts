@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal A 116 sup. (Martini-Bassi 41)
+     Milano, Biblioteca Ambrosiana, Mss. A 116 sup. (Martini-Bassi 41)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Biblioteca Ambrosiana
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       A 116 sup. (Martini-Bassi 41)
@@ -73,7 +73,7 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta057" n="1" xml:id="PTAMS00214_01">
-      <locus from="01" to="07v">
+      <locus from="01" to="7v">
        1-7v
       </locus>
       <rubric/>
@@ -81,7 +81,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta058" n="2" xml:id="PTAMS00214_02">
-      <locus from="008r" to="018r">
+      <locus from="8r" to="18r">
        8-18
       </locus>
       <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν δευτέραν ἡμέραν τῆς κοσμοποιΐας, καὶ πρὸς τὸν εἰπόντα αὐτῷ· Οὐκ ἔδει ἡμᾶς τοὺς Χριστιανοὺς λέγειν ἐπὶ τοῦ ἁγίου βαπτίσματος· Κύριος Σαβαώθ.</rubric>
@@ -89,7 +89,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta059" n="3" xml:id="PTAMS00214_03">
-      <locus from="018v" to="031r">
+      <locus from="18v" to="31r">
        18v-31r
       </locus>
       <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν τρίτην ἡμέραν τῆς κοσμοποιΐας</rubric>
@@ -97,7 +97,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta060" n="4" xml:id="PTAMS00214_04">
-      <locus from="031r" to="048r">
+      <locus from="31r" to="48r">
        31r-48r
       </locus>
       <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν τετάρτην ἡμέραν.</rubric>
@@ -105,7 +105,7 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta061" n="5" xml:id="PTAMS00214_05">
-      <locus from="048v" to="062r">
+      <locus from="48v" to="62r">
        48v-62r
       </locus>
       <rubric>Τοῦ αὐτοῦ εἰς τὴν πέμπτην ἡμέραν τῆς κοσμοποιΐας.</rubric>
@@ -121,7 +121,7 @@
       <explicit>εἰς βασιλείαν οὐρανῶν ἐκλήθημεν· διὰ τῆς χάριτος τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ· μεθοὗ τῶι πατρὶ δόξα συν ἁγίωι πνεύματι, εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta062" n="7" xml:id="PTAMS00214_07">
-      <locus from="070r" to="085v">
+      <locus from="70r" to="85v">
        70r-85v
       </locus>
       <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὴν ἑβδόμην ἡμέραν τῆς κοσμοποιΐας, καὶ εἰς τοὺς πρωτοπλάστους, καὶ εἰς τὸν ὄφιν, καὶ εἰς τὸ ξύλον τῆς γνώσεως, καὶ εἰς τὴν ἐν τῷ παραδείσῳ διατριβὴν καὶ προσομιλίαν τοῦ Θεοῦ μετὰ τοῦ Ἀδάμ. (in mg.: ἀναγινώσκεται τῇ κυριακῇ τῆς τυροφάγου)</rubric>

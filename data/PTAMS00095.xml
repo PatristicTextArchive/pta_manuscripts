@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Dionusiou, fonds principal 0173 (Lambros 3707)
+     Hagion Oros, Monê Dionusiou, Mss. 173 (Lambros 3707)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Monê Dionusiou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      0173 (Lambros 3707)
+      173 (Lambros 3707)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00095_01">
-      <locus from="080" to="103v">
-       080–103v
+      <locus from="80" to="103v">
+       80–103v
       </locus>
       <rubric/>
       <incipit/>

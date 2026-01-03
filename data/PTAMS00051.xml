@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Cambridge, Trinity College, fonds principal B.08.07 (191)
+     Cambridge, Trinity College, Mss. B.08.07 (191)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Trinity College
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       B.08.07 (191)
@@ -73,7 +73,7 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00051_01">
-      <locus from="070v" to="078r">
+      <locus from="70v" to="78r">
        70v–78r
       </locus>
       <rubric/>
@@ -105,7 +105,7 @@
         <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.7" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.7/manifest.json" type="manifesturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/manuscripts/B.8.7.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

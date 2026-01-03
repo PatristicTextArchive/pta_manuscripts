@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Roma, Collegio Greco, fonds principal gr. 09
+     Roma, Collegio Greco, Mss. gr. 9
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Collegio Greco
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      gr. 09
+      gr. 9
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00396_01">
-      <locus from="087" to="097v">
-       087–097v
+      <locus from="87" to="97v">
+       87–97v
       </locus>
       <rubric/>
       <incipit/>

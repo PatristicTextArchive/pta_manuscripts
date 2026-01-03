@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 050 (coll. 1307)
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 50 (coll. 1307)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,7 +58,7 @@
       gr.
      </collection>
      <idno>
-      II. 050 (coll. 1307)
+      II. 50 (coll. 1307)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta055" n="1" xml:id="PTAMS00511_01">
-      <locus from="025" to="029v">
-       025–029v
+      <locus from="25" to="29v">
+       25–29v
       </locus>
       <rubric/>
       <incipit/>

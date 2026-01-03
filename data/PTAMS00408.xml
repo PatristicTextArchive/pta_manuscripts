@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Sinai, Monê tês Hagias Aikaterinês, gr. 491
+     Sīnāʾ, Μονή της Αγίας Αικατερίνης, gr. 491
     </title>
    </titleStmt>
    <editionStmt>
@@ -38,6 +38,9 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2023-07-04" who="#AvS">
+    Added items
+   </change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -49,10 +52,10 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Sinai
+      Sīnāʾ
      </settlement>
      <repository>
-      Monê tês Hagias Aikaterinês
+      Μονή της Αγίας Αικατερίνης
      </repository>
      <collection>
       gr.
@@ -72,22 +75,265 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta028" n="1" xml:id="PTAMS00408_01">
-      <locus from="87v" to="103r">
-       87v–103r
+        <!-- f. 1-2 missing -->
+     <msItem defective="true" corresp="cpg:4650" n="1" xml:id="PTAMS00408_01">
+      <note>
+       Iohannes Chrysostomus, In natalem Christi diem?
+      </note>
+      <locus from="3r-6v">
+       3r-6v
       </locus>
-      <rubric>σευηριανοῦ. ἐπισκοπου. γαβαλων εις τα θεοφανια</rubric>
-      <incipit>ἀνοιγέσθω· σήμερον. πᾶν· στόμα. πρὸς. θεολογίαν·</incipit>
-      <explicit>γένοιτο δὲ ἀδελφοὶ πάντοτε καταλαμπομένους. τω παναγίω θω δόξαν ἀναπέμπειν· ω πρέπει δόξα εἰς τοὺς αἰῶνας των αιωνων ἀμήν:-</explicit>
-      <finalRubric>+ του αγιου σευηριανου εις τα θεοφανια:</finalRubric>
+      <rubric type="defective"/>
+      <incipit type="defective"></incipit>
+      <explicit type="defective"></explicit>
+      <finalRubric type="defective"></finalRubric>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4560" n="2" xml:id="PTAMS00408_02">
+      <note>
+       Iohannes Chrysostomus, In natalem Christi diem
+      </note>
+      <locus from="7r-16r">
+       7r-16r
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective">μυσ... ραδ... ποιμ...</incipit>
+      <explicit>αναπέμψωμεν· οτι αυτ. πρέπει τιμη κρατος εις τους αιῶνας των αιῶνων. αμήν</explicit>
+      <finalRubric>του χρυσοστόμου εις τα γενεθλια του κυ ημων ιυ χυ</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:4726" n="3" xml:id="PTAMS00408_03">
+      <note>
+       Iohannes Chrysostomus, In natale Domini et in S. Mariam genitricem
+      </note>
+      <locus from="16r-27v">
+       16r-27v
+      </locus>
+      <rubric>του αυτου εις την αυτὴν ημέραν. και εις την αυτην αγίαν μαρίαν την θεοτοκον</rubric>
+      <incipit>Ἀδιήγητον πέλαγος δι' αἰῶνος ἐμφανίζεται σήμερον</incipit>
+      <explicit/>
+      <finalRubric>του χρυσοστομου εις τα γενεθλια του κυ</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:5806" n="4" xml:id="PTAMS00408_04">
+      <note>
+       Proclus Cpl. ptr., Hom 7 : in S. Theophania
+      </note>
+      <locus from="27v-36r">
+       27v-36r
+      </locus>
+      <rubric>προκλου επισκοπου κωνσταντινουπολεως εις τα θεοφανια</rubric>
+      <incipit>χς τω κοσμω επεφανεν και τον ακοσμον κοσμον κοσμησας</incipit>
+      <explicit>εν ειδη περιστερας δακτυλοδεικτουν τον βαπτιζομενεν και μαρτυρουμενον· οτι αυτω η δοξα και το κρατος και η βασιλεια. εις τους αιωνας των αιωνων αμην</explicit>
+      <finalRubric>του αγιου προκλου λογος εις τα ...</finalRubric>
+     </msItem>
+     <!-- f. 36v vacat -->
+     <msItem corresp="cpg:7387" n="5" xml:id="PTAMS00408_05">
+      <note>
+       Gregorius Antiochenus ptr., In Illud : Hic est filius meus
+      </note>
+      <locus from="37r-51r">
+       37r-51r
+      </locus>
+      <rubric>του αγιου ιωαννου του χρυσοστομου. εις το ουτος εστι ο υς μου ο αγαπητος, εν ω ηυδοκησα· εις τα θεοφανεια</rubric>
+      <incipit>ο μεν φιλοστοργος ουτος πηρ δια την περι ημας στοργην επεμψεν μοι του λογου το συνθεμα</incipit>
+      <explicit>ινα γενηται μια ποιμνη εις ποιμην· αυτω η δοξα εις τους αιῶνας των αιῶνων αμήν:</explicit>
+      <finalRubric>+ του αγιου ιω του χρυσοστομου: εις το ουτος εστιν ο υς μου ο αγαπητος εν ω ηυδοκησα: + και δια την αγαπην ευξασθαι υπερ αμαρτωλου του γραψαντος</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:4335" n="6" xml:id="PTAMS00408_06">
+      <note>
+       Iohannes Chrysostomus, De baptismo Christi
+      </note>
+      <locus from="51v-71v">
+       51v-71v
+      </locus>
+      <rubric>του αυτου χρυσοσόμου εις τα θεοφανια</rubric>
+      <incipit>+ πάντες ϋμεις εν ευθυμία σήμερον. εγω δὲ οδυνῶμαι μόνος·</incipit>
+      <explicit>των αιωνιων επιτυχωμεν αγαθων: ων γενοιτο πάντας ημας επιτυχεῖν· χάριτι και φιλανια του κυ ημων ιυ χυ· μεθ οῦ τω πρι συν τω παναγιω και ζωοποιω και παντοδυναμω πνι δοξα τιμη και κρατος. νυν και αει και εις τους αιῶνας των αιῶνων αμην:</explicit>
+      <finalRubric>του χρυσοστομου εις τα θεοφανι</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:4424.12" n="7" xml:id="PTAMS00408_07">
+      <note>
+       Iohannes Chrysostomus, In Matthaeum homilia 12
+      </note>
+      <locus from="72r-87v">
+       72r-87v
+      </locus>
+      <rubric>του αυτου εις την αυτην ημεραν:</rubric>
+      <incipit>λαμπρα και επιδοξος αγαπητοι. της παρουσης εορτης η πανηγυρις. μετὰ τῶν δούλων ὁ δεσπότης</incipit>
+      <explicit>ητερωσωμεν σαυτους προς τον ουνον· χαριτι και φιλανια του κυ ημων ιυ χυ, ῶ η δοξα εις τους αιῶνας των αιῶνων αμην:</explicit>
+      <finalRubric>+ του χρυσοστομου εις τα θεοφάνια:</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta028" n="8" xml:id="PTAMS00408_08">
+        <locus from="87v" to="103r">
+         87v–103r
+        </locus>
+        <rubric>σευηριανοῦ. ἐπισκοπου. γαβαλων εις τα θεοφανια</rubric>
+        <incipit>ἀνοιγέσθω· σήμερον. πᾶν· στόμα. πρὸς. θεολογίαν·</incipit>
+        <explicit>γένοιτο δὲ ἀδελφοὶ πάντοτε καταλαμπομένους. τω παναγίω θω δόξαν ἀναπέμπειν· ω πρέπει δόξα εἰς τοὺς αἰῶνας των αιωνων ἀμήν:-</explicit>
+        <finalRubric>+ του αγιου σευηριανου εις τα θεοφανια:</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0039.pta005" n="9" xml:id="PTAMS00408_09">
+      <note>
+       Iohannes Chrysostomus, Oratio de Epiphania
+      </note>
+      <locus from="103r-115v">
+       103r-115v
+      </locus>
+      <rubric>ϊωαννου επισκοπου κωνστανινουπολεως εις τα θεοφανια</rubric>
+      <incipit>διχη μοι της ψυχης μεριζομενης εσθάνομας</incipit>
+      <explicit>ουτος εστιν ο υς μου ο αγαπητος αυτου ακουετε. εν χω ιυ τω κω ημων· ω η δοξα εις τους αιωνας των αιωνων. αμην.</explicit>
+      <finalRubric>+ του χρυσοστομου εις τα θεοφάνια:</finalRubric>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0002.pta379" n="10" xml:id="PTAMS00408_10">
+      <note>
+       Iohannes Chrysostomus, In Sanctam Theophaniam
+      </note>
+      <locus from="116r-129r">
+       116r-129r
+      </locus>
+      <rubric>του αυτου αγιου ϊωαννου του χρυσοστομου. ομιλία εις το επεφανη η χαρις του θυ. και εις τα θεοφανια:</rubric>
+      <incipit>πρώην ϋμιν περι σωφροσυνης διελέχθημεν καθάπερ μεμνησθε· και οιον δε νομον ανεγνωμεν ούτως εχοντα:</incipit>
+      <explicit>ταυτην δε την δοξαν καλλωπίζωμεν: ϊνα μετα ταύτης της αιωνιου καὶ αθανατου τυχωμεν τιμης· χάριτι και φιλανθρωπία του κυ ημων ιυ χυ· μεθ ου τω πρι η δοξα συν αγίω πνι νυν και αεὶ και εις τους αιωνας των αιωνων αμην:</explicit>
+      <finalRubric>+ του χρυσοστομου εις τα θεοφάνια:</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:5826" n="11" xml:id="PTAMS00408_11">
+      <note>
+       Proclus Cpl. ptr., Hom 27 : Mystagogia in baptisma
+      </note>
+      <locus from="129v-141v">
+       129v-141v
+      </locus>
+      <rubric>του αγιου προκλου επισκοπου κωνσταντινουπολεως· μυσταγωγια εις το βαπτισμα:</rubric>
+      <incipit>ευλόγητος ο θς</incipit>
+      <explicit>χαριζομενοι εαυτοις. καθως και χς εχαρίσατο ημιν: αυτω η δοξα εις τους αιωνας των αιωνων αμην</explicit>
+      <finalRubric>του αγιου προκλου· εις το βαπτισμα:</finalRubric>
+     </msItem>
+     <msItem corresp="cpg:1827" n="12" xml:id="PTAMS00408_12">
+      <note>
+       Methodius Olympius, Sermo de Simeone et Anna
+      </note>
+      <locus from="141v-177">
+       141v-177
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:1778" n="13" xml:id="PTAMS00408_13">
+      <note>
+       Gregorius Thaumaturgus Neocaesariensis, Oratio de hypapante
+      </note>
+      <locus from="177-187v">
+       177-187v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:2845" n="14" xml:id="PTAMS00408_14">
+      <note>
+       Basilius Caesariensis, De ieiunio 1 (Homilia)
+      </note>
+      <locus from="188-205v">
+       188-205v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit type="defective"/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4662" n="15" xml:id="PTAMS00408_15">
+      <note>
+       Iohannes Chrysostomus, De ieiunio
+      </note>
+      <locus from="206-209v">
+       206-209v
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective"/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:6579" n="16" xml:id="PTAMS00408_16">
+      <note>
+       Hesychius Hierosolymitanus, Homilia in Ieiunium
+      </note>
+      <locus from="210-216">
+       210-216
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4677" n="17" xml:id="PTAMS00408_17">
+      <note>
+       Iohannes Chrysostomus, In annuntiationem Beatae Mariae Virginis
+      </note>
+      <locus from="216-229v">
+       216-229v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:7418" n="18" xml:id="PTAMS00408_18">
+      <note>
+       Theotecnus Liuiadensis ep., Laus Assumptionis Deiparae
+      </note>
+      <locus from="230-246">
+       230-246
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="bhg:1056e" n="19" xml:id="PTAMS00408_19">
+      <note>
+        Narratio de historia Euthymiaca (Iohannes Damascenus, In dormitionem Deiparae 2)
+      </note>
+      <locus from="246v-251">
+       246v-251
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="bhg:1058a bhg:1058b" n="20" xml:id="PTAMS00408_20">
+      <note>
+       Hagiographica, Maria Deipara (S.), Narratio de Galbio et Candido
+      </note>
+      <locus from="252-258">
+       252-258
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="bhg:1046 bhg:1046b bhg:1046g" n="21" xml:id="PTAMS00408_21">
+      <note>
+       Apocrypha, Proteuangelium Iacobi
+      </note>
+      <locus from="258-281">
+       258-281
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3771" n="22" xml:id="PTAMS00408_22">
+      <note>
+       Epiphanius Constantiensis ep., In laudes S. Mariae Deiparae
+      </note>
+      <locus from="281v-298">
+       281v-298
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="0900-12-31" notBefore-iso="0701-01-01">
-        s. 8–9
-       </origDate>
+        <origDate notAfter-iso="0900-12-31" notBefore-iso="0701-01-01">
+            s. 8–9
+        </origDate>
       </p>
      </origin>
     </history>
@@ -98,8 +344,8 @@
         <ref target="https://www.loc.gov/item/00279382341-ms" type="straighturl"/>
        </bibl>
        <bibl>
-       <ref target="https://www.loc.gov/item/00279382341-ms/manifest.json" type="manifesturl"/>
-       </bibl>
+        <ref target="https://www.loc.gov/item/00279382341-ms/manifest.json" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

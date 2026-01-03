@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 054 (coll. 0981)
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 54 (coll. 981)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,7 +58,7 @@
       gr.
      </collection>
      <idno>
-      II. 054 (coll. 0981)
+      II. 54 (coll. 981)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,40 +68,40 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00513_01">
-      <locus from="033" to="038">
-       033–038
+      <locus from="33" to="38">
+       33–38
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="2" xml:id="PTAMS00513_02">
-      <locus from="042" to="045v">
-       042–045v
+      <locus from="42" to="45v">
+       42–45v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="3" xml:id="PTAMS00513_03">
-      <locus from="086" to="092">
-       086–092
+      <locus from="86" to="92">
+       86–92
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta029" n="4" xml:id="PTAMS00513_04">
-      <locus from="092" to="095v">
-       092–095v
+      <locus from="92" to="95v">
+       92–95v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta002" n="5" xml:id="PTAMS00513_05">
-      <locus from="095v" to="100v">
-       095v–100v
+      <locus from="95v" to="100v">
+       95v–100v
       </locus>
       <rubric/>
       <incipit/>

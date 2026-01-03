@@ -87,8 +87,8 @@
       <note>
        Iohannes Damascenus, Dialogus Contra Manichaeos (CPG 8048)
       </note>
-      <locus from="011-47">
-       011-47
+      <locus from="11-47">
+       11-47
       </locus>
       <rubric/>
       <incipit/>
@@ -98,8 +98,8 @@
       <note>
        Athanasius Alexandrinus, Epistulae ad Serapionem 1-4 (CPG 2094)
       </note>
-      <locus from="047v-76">
-       047v-76
+      <locus from="47v-76">
+       47v-76
       </locus>
       <rubric/>
       <incipit/>
@@ -109,8 +109,8 @@
       <note>
        Maximus confessor, Opuscula theologica et polemica (CPG 7697)
       </note>
-      <locus from="076-78v">
-       076-78v
+      <locus from="76-78v">
+       76-78v
       </locus>
       <rubric/>
       <incipit/>
@@ -549,7 +549,10 @@ BHG 1934m-n)
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://data.onb.ac.at/rec/AL00147759" type="straighturl"/>
+        <ref target="https://onb.digital/result/1002E011" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.onb.ac.at/iiif/presentation/v3/manifest/1002E011" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

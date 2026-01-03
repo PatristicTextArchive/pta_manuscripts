@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00621" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     London, British Library, Add. 36753
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2025-06-09" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      London
+     </settlement>
+     <repository>
+      British Library
+     </repository>
+     <collection>
+      Add.
+     </collection>
+     <idno>
+      36753
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       39136
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0040.pta001">
+      <idno>
+       L
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0040.pta001" n="1" xml:id="PTAMS00621_01">
+      <locus from="221r" to="225r">
+       221r-225r
+      </locus>
+      <rubric>Τοῦ ἐν ἁγίοις πρς ἡμῶν Ἰωάννου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου· λόγος εἰς τὴν ἁγίαν κυριακήν:- εὐο δέσποτα:-</rubric>
+      <incipit>Βούλομαι σήμερον τὴν ἀφίαν κυριακὴν ἐγκωμιάσαι· τὴν ὑπὸ πολλῶν τιμωμένην· </incipit>
+      <explicit>διὂ ἀδελφοί μου· ἀλλίλους ἀγαπάτε καὶ τὴν ἀγίαν κυριἀκὴν ἢν ἐδὠρήσατο ἡμὶν ὀ ἀγαθὸς θς· εἰς ἰλασμὸν καὶ λύτρωσιν τῶν ἀμαρτιῶν ἡμῶν· ὅτι αὐτῶ πρέπει πᾶσα δόξα τῶ πρὶ καὶ τῶ υἱῶ καὶ τω ἀγίω πνί νὺν καὶ ἀεὶ καὶ εἰς τοὺς αἰώνας τῶν αἰώνων ἀμήν: </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1198-12-31" notBefore-iso="1198-01-01">
+        a. 1198
+       </origDate>
+      </p>
+     </origin>
+    </history>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

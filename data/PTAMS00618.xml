@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00618" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 659
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2025-06-03" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Vaticano
+     </settlement>
+     <repository>
+      Biblioteca Apostolica Vaticana (BAV)
+     </repository>
+     <collection>
+      Vat. gr.
+     </collection>
+     <idno>
+      659
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       67290
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0039.pta001">
+      <idno>
+       V
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0039.pta001" n="1" xml:id="PTAMS00618_01">
+      <locus from="205r" to="208v">
+       205r-208v
+      </locus>
+      <rubric>Λόγος περὶ τῆς ἁγίας κυριακῆς ψυχοφέλιμος τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ἰωάνου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου δέσποτα εὐλόγησον· λόγος η</rubric>
+      <incipit>Ἀκούσατε ἀδελφοί, καὶ πάντες χριστιανοὶ καὶ φιλόχριστοι·</incipit>
+      <explicit>καὶ ὁ προφήτης λέγει τοῦ ἑξολοθρεύση κύριος τοὺς ἐργαζομένους τὴν ἀνομίαν· ὅτι αὐτοῦ πρέπει δόξα καὶ προσκύνησις τῶ πατρὶ καὶ τῶ υἱῶ καὶ τῶ ἁγίω πνι νυν καὶ ἀεὶ καὶ εἰς τοὺς αιῶνας τῶν αἱώνων ἀμὴν :-</explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
+        s. 16
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://digi.vatlib.it/view/MSS_Vat.gr.659" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Vat.gr.659/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

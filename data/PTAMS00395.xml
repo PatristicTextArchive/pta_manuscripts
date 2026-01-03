@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Roma, Collegio Greco, fonds principal 6
+     Roma, Collegio Greco, Mss. 6
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Collegio Greco
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       6
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00395_01">
-      <locus from="001" to="015v">
-       001–015v
+      <locus from="001" to="15v">
+       1–15v
       </locus>
       <rubric/>
       <incipit/>

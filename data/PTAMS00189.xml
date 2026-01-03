@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Lviv, Bibl. Zakladu Narodowego im. Ossolinskich, Polska Akademia Nauk, fonds principal 827
+     Lviv, Lʹvivsʹka nat︠s︡ionalʹna naukova biblioteka Ukraïny im. V. Stefanyka, Oss. 827
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,10 +52,10 @@
       L'viv
      </settlement>
      <repository>
-      Bibl. Zakladu Narodowego im. Ossolinskich, Polska Akademia Nauk
+      Lʹvivsʹka nat︠s︡ionalʹna naukova biblioteka Ukraïny im. V. Stefanyka
      </repository>
      <collection>
-      fonds principal
+      Oss.
      </collection>
      <idno>
       827
@@ -85,6 +85,15 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://w3id.org/vhmml/readingRoom/view/150961" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

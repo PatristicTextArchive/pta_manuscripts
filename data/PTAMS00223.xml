@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal P 261 sup. (Martini-Bassi 653)
+     Milano, Biblioteca Ambrosiana, Mss. P 261 sup. (Martini-Bassi 653)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Biblioteca Ambrosiana
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       P 261 sup. (Martini-Bassi 653)
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00223_01">
-      <locus from="085" to="093v">
-       085–093v
+      <locus from="85" to="93v">
+       85–93v
       </locus>
       <rubric/>
       <incipit/>

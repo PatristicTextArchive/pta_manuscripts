@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, Bodleian Library, Auct. E. 4. 02 (Misc. 051.18)
+     Oxford, Bodleian Library, Auct. E. 4. 2 (Misc. 51.18)
     </title>
    </titleStmt>
    <editionStmt>
@@ -59,11 +59,16 @@
       Auct.
      </collection>
      <idno>
-      E. 4. 02 (Misc. 051.18)
+      E. 4. 2 (Misc. 51.18)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
        47035
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Oz
       </idno>
      </altIdentifier>
     </msIdentifier>

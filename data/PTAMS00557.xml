@@ -42,6 +42,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add Rahlfs number</change>
    <change when-iso="2022-01-13" who="#AvS">corrections</change>
    <change when-iso="2021-05-03" who="#MB">
     Created TEI file
@@ -70,6 +71,11 @@
        67252
       </idno>
      </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       676
+      </idno>
+     </altIdentifier>
      <altIdentifier type="sigle_pta0004.pta001">
       <idno>
        E
@@ -86,7 +92,7 @@
       <explicit>ἐστιν ἀντίληψις αὐτῷ παρὰ σοθ, αἱ ἀναβάσεις σου καρδίᾳ αὐτοῦ· σοι δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν:-</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00557_02">
-      <locus from="079r" to="182r">
+      <locus from="79r" to="182r">
        79r–182r
       </locus>
       <rubric>

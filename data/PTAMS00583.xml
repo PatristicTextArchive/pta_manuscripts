@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add Rahlfs number</change>
    <change when-iso="2022-02-07" who="#AvS">
     Created TEI file
    </change>
@@ -63,6 +64,11 @@
      <altIdentifier type="diktyon">
       <idno>
        49329
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       1719
       </idno>
      </altIdentifier>
      <altIdentifier type="sigle_pta0003.pta020">

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal B. II. 21 (Pasini 099)
+     Torino, Biblioteca Nazionale Universitaria, Mss. B. II. 21 (Pasini 99)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,14 +55,19 @@
       Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      B. II. 21 (Pasini 099)
+      B. II. 21 (Pasini 99)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
        63664
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Tb
       </idno>
      </altIdentifier>
     </msIdentifier>

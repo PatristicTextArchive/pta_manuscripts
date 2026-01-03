@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add Rahlfs number</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -65,19 +66,24 @@
        68677
       </idno>
      </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       235
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta049" n="1" xml:id="PTAMS00498_01">
-      <locus from="048" to="051">
-       048–051
+      <locus from="48" to="51">
+       48–51
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta056" n="2" xml:id="PTAMS00498_02">
-      <locus from="093v" to="095v">
-       093v–095v
+      <locus from="93v" to="95v">
+       93v–95v
       </locus>
       <rubric/>
       <incipit/>

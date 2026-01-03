@@ -37,6 +37,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <!-- f. 69r-70v todo! -->
+    <change when-iso="2025-05-14" who="#AvS">Add data, images and IIIF links, Rahlfs number; corrections</change>
    <change when-iso="2022-01-13" who="#AvS">corrections</change>
    <change when-iso="2021-06-30" who="#MB">
     Created TEI file
@@ -65,57 +67,62 @@
        66381
       </idno>
      </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       665
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="" n="1" xml:id="PTAMS00565_01">
-      <locus from="001r" to="006r">
-       001r–006r
+     <msItem corresp="bhg:93" n="1" xml:id="PTAMS00565_01">
+      <locus from="1r" to="6r">
+       1r–6r
       </locus>
       <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
        <note>Apocrypha, Andreas apostolus (S.), Epistula presbyterorum et diaconorum Achaiae</note>
+     </msItem>
+     <msItem corresp="bhg:213" n="2" xml:id="PTAMS00565_02">
+      <locus from="6v" to="7v">
+       6v-7v
+      </locus>
+      <rubric>
       </rubric>
       <incipit/>
       <explicit/>
-     </msItem>
-     <msItem corresp="" n="2" xml:id="PTAMS00565_02">
-      <locus from="006v" to="007v">
-       006v-007v
-      </locus>
-      <rubric>
        <note>Hagiographica, Barbara v. m. (cum Iuliana) Heliopoli (S.), Passio</note>
+     </msItem>
+     <msItem corresp="bhg:1349z" n="3" xml:id="PTAMS00565_03">
+      <locus from="7v" to="13r">
+       7v-13r
+      </locus>
+      <rubric>
       </rubric>
       <incipit/>
       <explicit/>
-     </msItem>
-     <msItem corresp="" n="3" xml:id="PTAMS00565_03">
-      <locus from="007v" to="013r">
-       007v-013r
-      </locus>
-      <rubric>
        <note>Hagiographica, Nicolaus ep. Myrensis (S.), Acta seu praxis de stratelatis</note>
+     </msItem>
+     <msItem corresp="bhg:1362" n="4" xml:id="PTAMS00565_04">
+      <locus from="13r" to="18r">
+       13r-18r
+      </locus>
+      <rubric>
       </rubric>
       <incipit/>
       <explicit/>
-     </msItem>
-     <msItem corresp="" n="4" xml:id="PTAMS00565_04">
-      <locus from="013r" to="018r">
-       013r-018r
-      </locus>
-      <rubric>
        <note>Andreas Cretensis, In S. Nicolaum</note>
-      </rubric>
-      <incipit/>
-      <explicit/>
      </msItem>
-     <msItem corresp="" n="5" xml:id="PTAMS00565_05">
-      <locus from="018r" to="034v">
-       018r-034v
+     <msItem corresp="bhg:646" n="5" xml:id="PTAMS00565_05">
+      <locus from="18r" to="34v">
+       18r-34v
       </locus>
       <rubric>
-       <note>Hagiographica, Eustratius, Auxentius et soc. mm. in Armenia (SS.), Passio (a Metaphrasta in menologium inserta); Des. mut. (PG 116, 468-505)</note>
-      </rubric>
+       </rubric>
       <incipit/>
       <explicit/>
+      <note>Hagiographica, Eustratius, Auxentius et soc. mm. in Armenia (SS.), Passio (a Metaphrasta in menologium inserta); Des. mut. (PG 116, 468-505)</note>
      </msItem>
      <msItem type="defective" corresp="urn:cts:pta:pta0001.pta049" n="6" xml:id="PTAMS00565_06">
       <locus from="35r" to="41v">
@@ -123,10 +130,10 @@
       </locus>
       <rubric type="defective"/>
       <incipit>
-       εἴδομεν διὰ τῆς μνήμης τὴν ἱστορίαν
+       εἴδομεν διὰ τῆς μνήμης τὴν ἱστορίαν
       </incipit>
       <explicit>
-       ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν
+       ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν
       </explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta9999.pta060" n="7" xml:id="PTAMS00565_07">
@@ -134,13 +141,13 @@
        41v-44r
       </locus>
       <rubric>
-       Περὶ σωσάννης ὡς ἐλυτρώσατο αὐτὴν ὁ θεὸς ἐκ τοῦ μικροῦ θανάτου διὰ δανιὴλ τοῦ προφήτου
+       Περὶ σωσάννης ὡς ἐλυτρώσατο αὐτὴν ὁ θεὸς ἐκ τοῦ μικροῦ θανάτου διὰ δανιὴλ τοῦ προφήτου
       </rubric>
       <incipit>
-       Καὶ ἦν ἀνὴρ οἰκῶν ἐν βαβυλῶνι· ὄνομα αὐτῷ ἰωακεὶμ
+       Καὶ ἦν ἀνὴρ οἰκῶν ἐν βαβυλῶνι· ὄνομα αὐτῷ ἰωακεὶμ
       </incipit>
       <explicit>
-       καὶ δανιὴλ γέγονεν μέγας ἐνώπιον τοῦ λαοῦ, ἀπὸ τῆς ἡμέρας ἐκείνης καὶ ἐπέκεινα
+       καὶ δανιὴλ γέγονεν μέγας ἐνώπιον τοῦ λαοῦ, ἀπὸ τῆς ἡμέρας ἐκείνης καὶ ἐπέκεινα
       </explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta9999.pta061" n="8" xml:id="PTAMS00565_08">
@@ -148,13 +155,13 @@
        44v-64r
       </locus>
       <rubric>
-       Ὅρασις δανιὴλ πρώτη
+       Ὅρασις δανιὴλ πρώτη
       </rubric>
       <incipit>
-       Ἐν ἔτει τρίτω τῆς βασιλείας ἰωακεὶμ βασιλέως ἰοῦδα
+       Ἐν ἔτει τρίτω τῆς βασιλείας ἰωακεὶμ βασιλέως ἰοῦδα
       </incipit>
       <explicit>
-       εἰς τὸν καιρόν σου εἰς συντέλειαν ἡμερῶν
+       εἰς τὸν καιρόν σου εἰς συντέλειαν ἡμερῶν
       </explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta9999.pta062" n="9" xml:id="PTAMS00565_09">
@@ -162,13 +169,13 @@
        64v-66r
       </locus>
       <rubric>
-       Ὅρασις δωδεκάτη
+       Ὅρασις δωδεκάτη
       </rubric>
       <incipit>
-       Καὶ βασιλεὺς ἀστυάγης προσετέθη πρὸς τοὺς πατέρας αὐτοῦ
+       Καὶ βασιλεὺς ἀστυάγης προσετέθη πρὸς τοὺς πατέρας αὐτοῦ
       </incipit>
       <explicit>
-       τῷ δὲ θεῷ ἡμῶν δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
+       τῷ δὲ θεῷ ἡμῶν δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
       </explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0004.pta001" n="10" xml:id="PTAMS00565_10">
@@ -176,33 +183,33 @@
        66v-68v
       </locus>
       <rubric>
-       Σχόλια ἐκ τῶν ὁράσεων τοῦ προφήτου δανιὴλ ἐκ τῶν ἰδίων σχολίων τοῦ κύρου θεοδοσίου τοῦ γραμματικοῦ
+       Σχόλια ἐκ τῶν ὁράσεων τοῦ προφήτου δανιὴλ ἐκ τῶν ἰδίων σχολίων τοῦ κύρου θεοδοσίου τοῦ γραμματικοῦ
       </rubric>
       <incipit>
-       Λέγει ὁ ἅγιος ἐπιφάνιος εἰς τὰ πανάρια
+       Λέγει ὁ ἅγιος ἐπιφάνιος εἰς τὰ πανάρια
       </incipit>
       <explicit>
-       δεύτερα τοῦ δανιὴλ ἐν τῶι λάκκω τῶν λεόντων κάθοδος
+       δεύτερα τοῦ δανιὴλ ἐν τῶι λάκκω τῶν λεόντων κάθοδος
       </explicit>
      </msItem>
-     <msItem corresp="" n="11" xml:id="PTAMS00565_11">
-      <locus from="068v" to="069r">
-       068v-069r
+     <msItem corresp="cpg:6115" n="11" xml:id="PTAMS00565_11">
+      <locus from="68v" to="69r">
+       68v-69r
       </locus>
       <rubric>
-       Ἀπὸ φωνῆς τοῦ Μάγνητος
-       <note>Magnes quidam, Ex ore Magnetis</note>
+       Ἀπὸ φωνῆς τοῦ Μάγνητος
       </rubric>
       <incipit>
-       Πρὸς τὸν ἠλίαν
+       Πρὸς τὸν ἠλίαν
       </incipit>
       <explicit>
-       ἵνα τοὺς πάντας σώση
+       ἵνα τοὺς πάντας σώση
       </explicit>
+       <note>Macarius Magnes, Apocriticus (excerpta)</note>
      </msItem>
      <msItem corresp="" n="12" xml:id="PTAMS00565_12">
-      <locus from="069r" to="069r">
-       069r-069r
+      <locus from="69r" to="69r">
+       69r
       </locus>
       <rubric>
        <note>Anonymus, Interpretatio in Iohannis Damasceni canonem iambicum 2, vv. 86 seqq. (ed. Nauck 1894)</note>
@@ -211,8 +218,8 @@
       <explicit/>
      </msItem>
      <msItem corresp="" n="13" xml:id="PTAMS00565_13">
-      <locus from="069r" to="069v">
-       069r-069v
+      <locus from="69r" to="69v">
+       69r-69v
       </locus>
       <rubric>
        <note>Methodius Olympius, Scholia duo in Genesin</note>
@@ -222,7 +229,7 @@
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta061" n="14" xml:id="PTAMS00565_14">
       <locus from="69v" to="69v">
-       69v-69v
+       69v
       </locus>
       <rubric>
        <note>Excerptum: In. Gen 1, 26</note>
@@ -231,8 +238,8 @@
       <explicit/>
      </msItem>
      <msItem corresp="" n="15" xml:id="PTAMS00565_15">
-      <locus from="069v" to="069v">
-       069v-069v
+      <locus from="69v" to="69v">
+       69v
       </locus>
       <rubric>
        <note>Anonymus, Interpretatio in Iohannis Damasceni canonem iambicum 1, vv. 116 seqq. (ed. Nauck 1894)</note>
@@ -241,23 +248,23 @@
       <explicit/>
      </msItem>
      <msItem corresp="" n="16" xml:id="PTAMS00565_16">
-      <locus from="070r" to="070v">
-       070r-070v
+      <locus from="70r" to="70v">
+       70r-70v
       </locus>
       <rubric>
        Περὶ τῆς Τεσσαρακοστῆς
        <note>Anonymus, De Quadragesima</note>
       </rubric>
       <incipit>
-       Γίνωσκε εἶναι τὴν ἀρχὴν τῆν τεσσαρακοστῆς
+       Γίνωσκε εἶναι τὴν ἀρχὴν τῆν τεσσαρακοστῆς
       </incipit>
       <explicit>
-       δεχόμεθα μετ’ εὐχαριστείας τὸ δῶρον
+       δεχόμεθα μετ’ εὐχαριστείας τὸ δῶρον
       </explicit>
      </msItem>
      <msItem corresp="" n="17" xml:id="PTAMS00565_17">
-      <locus from="070v" to="070v">
-       070v-070v
+      <locus from="70v" to="70v">
+       70v
       </locus>
       <rubric>
        <note>Concilium Nicaenum (a. 325); Excerpta de diebus festis et ieiuniis deque quadragesima</note>
@@ -265,73 +272,84 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="" n="18" xml:id="PTAMS00565_18">
-      <locus from="071r" to="075r">
-       071r-075r
+     <msItem corresp="cpg:4580" n="18" xml:id="PTAMS00565_18">
+      <locus from="71r" to="75r">
+       71r-75r
       </locus>
       <rubric>
+      </rubric>
+      <incipit/>
+      <explicit/>
        <note>Iohannes Chrysostomus, In decem uirgines</note>
-      </rubric>
-      <incipit/>
-      <explicit/>
      </msItem>
-     <msItem corresp="" n="19" xml:id="PTAMS00565_19">
-      <locus from="075r" to="078v">
-       075r-078v
+     <msItem defective="true" corresp="cpg:4199" n="19" xml:id="PTAMS00565_19">
+      <locus from="75r" to="78v">
+       75r-78v
       </locus>
       <rubric>
+      </rubric>
+      <incipit>
+       Πάντοτε μὲν ὡς θεὸς ὡς φινάνθρωπος καὶ ἀγαθὸς
+      </incipit>
+      <explicit type="defective"/>
        <note>Iohannes Chrysostomus, In meretricem et pharisaeum; Des. mut. (PG 59, 531-534, lin. 39)</note>
-      </rubric>
-      <incipit>
-       Πάντοτε μὲν ὡς θεὸς ὡς φινάνθρωπος καὶ ἀγαθὸς
-      </incipit>
-      <explicit/>
      </msItem>
-     <msItem corresp="" n="20" xml:id="PTAMS00565_20">
-      <locus from="079r" to="084r">
-       079r-084r
+     <msItem defective="true" corresp="cpg:5717" n="20" xml:id="PTAMS00565_20">
+      <locus from="79r" to="84r">
+       79r-84r
       </locus>
       <rubric>
+      </rubric>
+      <incipit type="defective">
+       ὑποπτεύ]σας σαλεύσαι· τὴν γὰρ θεοτήτος οὐκ εἴδει συνάφειαν
+      </incipit>
+      <explicit/>
        <note>Nestorius Cpl. ptr., Homiliae 3 in tentationes Christi; Hom. 1; Inc. mut. (PG 61, 684, lin. 8-688)</note>
-      </rubric>
-      <incipit>
-       ὑποπτεύ]σας σαλεύσαι· τὴν γὰρ θεοτήτος οὐκ εἴδει συνάφειαν
-      </incipit>
-      <explicit/>
      </msItem>
-     <msItem corresp="" n="21" xml:id="PTAMS00565_21">
-      <locus from="084r" to="084v">
-       084r-084v
+     <msItem defective="true" corresp="cpg:4587" n="21" xml:id="PTAMS00565_21">
+      <locus from="84r" to="84v">
+       84r-84v
       </locus>
       <rubric>
-       <note>Iohannes Chrysostomus, In illud: Simile est regnum caelorum patri familias (Mt. 20, 1 ss.); Des. mut. (PG 59, 577-579, lin. 10)</note>
       </rubric>
       <incipit/>
-      <explicit/>
+      <explicit/> 
+      <note>Iohannes Chrysostomus, In illud: Simile est regnum caelorum patri familias (Mt. 20, 1 ss.); Des. mut. (PG 59, 577-579, lin. 10), sequ. Reg. gr. Pio II 21, ff. 138-145</note>
      </msItem>
-     <msItem corresp="" n="22" xml:id="PTAMS00565_22">
-      <locus from="085r" to="092v">
-       085r-092v
+     <msItem defective="true" corresp="bhg:1285" n="22" xml:id="PTAMS00565_22">
+      <locus from="85r" to="92v">
+       85r-92v
       </locus>
       <rubric>
-       <note>Pantoleon CP. diaconus, Laudatio S. Michaelis archangeli; Inc. et des. mut.</note>
       </rubric>
-      <incipit>
-       παρὰ τοῦ ἑνὸς ἑκάστου ἐθνάρχου ἀγγέλου
+      <incipit type="defective">
+       παρὰ τοῦ ἑνὸς ἑκάστου ἐθνάρχου ἀγγέλου
       </incipit>
-      <explicit/>
+      <explicit type="defective"/>
+       <note>Pantoleon CP. diaconus, Laudatio S. Michaelis archangeli; Inc. et des. mut.</note>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1025-12-31" notBefore-iso="1001-01-01">
-        s. 11 (1/4)
+       <origDate notAfter-iso="1013-12-31" notBefore-iso="1012-01-01">
+        a. 1012/13
        </origDate>
       </p>
      </origin>
     </history>
-    <additional/>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://digi.vatlib.it/view/MSS_Reg.gr.Pio.II.22" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Reg.gr.Pio.II.22/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

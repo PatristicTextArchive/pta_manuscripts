@@ -142,7 +142,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://data.onb.ac.at/dtl/9628428" type="straighturl"/>
+        <ref target="https://onb.digital/result/13162C61" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.onb.ac.at/iiif/presentation/v3/manifest/13162C61" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

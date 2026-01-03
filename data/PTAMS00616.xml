@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00616" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 90 (coll. 1259)
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2026-06-03" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Venezia
+     </settlement>
+     <repository>
+      Biblioteca Nazionale Marciana
+     </repository>
+     <collection>
+      gr.
+     </collection>
+     <idno>
+      II. 90 (coll. 1259)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       70252
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0039.pta001">
+      <idno>
+       M
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="urn:cts:pta:pta0039.pta001" n="1" xml:id="PTAMS00616_01">
+      <locus from="24r" to="26v">
+       24r-26v
+      </locus>
+      <rubric>λόγος περὶ τῆς ἁγίας κυριακῆς ψυχοφελῆς· τοῦ ἐν ἁγίοις πρς ἡμῶν· ἰωάνου ἀρχιεπισκόπου κωνσταντινουπόλεως τοῦ χρυσοστόμου δέσποτα εὐλόγησον.</rubric>
+      <incipit>Ἀκοῦσατε ἀδελφοὶ, καὶ πάντες χριστιανοὶ καὶ φιλόχριστοι·</incipit>
+      <explicit>τοῦ ἐξολοθρεύση κς πάντας τοὺς ἐργαζομένους τὴν ἀνομίαν· ὅτι αὐτῶ πρέπει δόξα καὶ προσκύνησης τῶ πρὶ καὶ τῶ υἱῶ καὶ τῶ ἁγίω πνι· νυν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰῶνων· ἀμὴν.</explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1510-12-31" notBefore-iso="1500-01-01">
+        s. 16 in.
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.241.10554" type="straighturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Megistês Lauras, Fonds principal Λ 135 (Eustratiades 1626)
+     Hagion Oros, Monê Megistês Lauras, Mss. Λ 135 (Eustratiades 1626)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Megistês Lauras
      </repository>
      <collection>
-      Fonds principal
+      Mss.
      </collection>
      <idno>
       Λ 135 (Eustratiades 1626)
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00132_01">
-      <locus from="069" to="071">
-       069–071
+      <locus from="69" to="71">
+       69–71
       </locus>
       <rubric/>
       <incipit/>

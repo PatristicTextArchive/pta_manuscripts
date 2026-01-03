@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Stauronikêta, fonds principal 32 (Lambros 897)
+     Hagion Oros, Monê Stauronikêta, Mss. 32 (Lambros 897)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Monê Stauronikêta
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      32 (Lambros 0897)
+      32 (Lambros 897)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -73,24 +73,24 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00146_01">
-      <locus from="050v" to="058v">
-       050v–058v
+      <locus from="50v" to="58v">
+       50v–58v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00146_02">
-      <locus from="059" to="070">
-       059–070
+      <locus from="59" to="70">
+       59–70
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="3" xml:id="PTAMS00146_03">
-      <locus from="090v" to="103">
-       090v–103
+      <locus from="90v" to="103">
+       90v–103
       </locus>
       <rubric/>
       <incipit/>

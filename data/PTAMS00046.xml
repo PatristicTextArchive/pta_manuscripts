@@ -73,32 +73,32 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00046_01">
-      <locus from="001-005v">
-       001-005v
+      <locus from="001-5v">
+       001-5v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta046" n="2" xml:id="PTAMS00046_02">
-      <locus from="006" to="010">
-       006–010
+      <locus from="006" to="10">
+       6–10
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta047" n="3" xml:id="PTAMS00046_03">
-      <locus from="010" to="017v">
-       010–017v
+      <locus from="10" to="17v">
+       10–17v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta048" n="4" xml:id="PTAMS00046_04">
-      <locus from="018" to="026v">
-       018–026v
+      <locus from="18" to="26v">
+       18–26v
       </locus>
       <rubric/>
       <incipit/>
@@ -122,24 +122,24 @@
       <explicit>γένοιτο δὲ εὐχαῖς καὶ πρεσβείαις τοῦ κοινοῦ πατρὸς καὶ διδασκάλου ἀποστόλοις ἡμᾶς καὶ μάρτυσιν ἐν ὀρθοδόξῳ πίστει συναυλίζεσθαι. ἐν χριστῷ ἰησοῦ τῷ κυρίω ἡμῶν. μεθ’ οὗ τῷ πατρὶ ἡ δόξα ἅμα τῷ ἁγίῳ πνεύματι· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν:—</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="7" xml:id="PTAMS00046_07">
-      <locus from="045" to="057v">
-       045–057v
+      <locus from="45" to="57v">
+       45–57v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="8" xml:id="PTAMS00046_08">
-      <locus from="069" to="082">
-       069–082
+      <locus from="69" to="82">
+       69–82
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta007" n="9" xml:id="PTAMS00046_09">
-      <locus from="089" to="096v">
-       089–096v
+      <locus from="89" to="96v">
+       89–96v
       </locus>
       <rubric/>
       <incipit/>

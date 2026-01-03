@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Xêropotamou, fonds principal 146 (Lambros 2479)
+     Hagion Oros, Monê Xêropotamou, Mss. 146 (Lambros 2479)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Xêropotamou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       146 (Lambros 2479)
@@ -69,7 +69,7 @@
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00151_01">
       <locus from="004" to="007">
-       004–007
+       4–7
       </locus>
       <rubric/>
       <incipit/>

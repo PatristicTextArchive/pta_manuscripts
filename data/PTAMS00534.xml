@@ -125,6 +125,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://data.onb.ac.at/rep/13191C32" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.onb.ac.at/iiif/presentation/v3/manifest/13191C32" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

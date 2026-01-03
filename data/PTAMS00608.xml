@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal B 106 sup. (Martini-Bassi 127)
+     Milano, Biblioteca Ambrosiana, Mss. B 106 sup. (Martini-Bassi 127)
     </title>
    </titleStmt>
    <editionStmt>
@@ -37,6 +37,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add Rahlfs number</change>
    <change when-iso="2024-05-02" who="#AvS">
     Created TEI file
    </change>
@@ -54,7 +55,7 @@
       Biblioteca Ambrosiana
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
        B 106 sup. (Martini-Bassi 127)
@@ -62,6 +63,11 @@
      <altIdentifier type="diktyon">
       <idno>
        42350
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       113
       </idno>
      </altIdentifier>
      <altIdentifier type="sigle_pta0006.pta001">

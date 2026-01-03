@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal C 181 inf. (Martini-Bassi 875)
+     Milano, Biblioteca Ambrosiana, Mss. C 181 inf. (Martini-Bassi 875)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Biblioteca Ambrosiana
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       C 181 inf. (Martini-Bassi 875)
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00217_01">
-      <locus from="091v" to="103v">
-       091v–103v
+      <locus from="91v" to="103v">
+       91v–103v
       </locus>
       <rubric/>
       <incipit/>

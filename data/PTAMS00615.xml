@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00615" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Ljubljana, Narodna in univerzitetna knjižnica, Cod. Kop. 2 (Codex Suprasliensis)
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+      Available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from 
+     <ref target="http://suprasliensis.obdurodon.org/">
+      David J. Birnbaum's Codex Suprasliensis website
+     </ref>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2026-05-03" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>Ljubljana</settlement>
+     <repository>Narodna in univerzitetna knjižnica</repository>
+     <collection>Cod. Kop.</collection>
+     <idno>2</idno>
+     <altIdentifier type="sigle_pta0041">
+      <idno>s</idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="bhg:2077" n="3" xml:id="PTAMS00615_03">
+      <locus from="12r" to="27v">
+       12r-27v
+      </locus>
+      <rubric>мѣсꙙца марта вь ѕ꙯ дьнь҆ чоудотворениꙗ ст꙯ааго конона и҅же въ исавриї ⁘</rubric>
+      <incipit>Вь врѣменехъ ст꙯ꙑи҅хъ а҅постолъ·</incipit>
+      <explicit> никꙿтоже можетъ и҅сповѣдати послоушъствоуѭ̑штоу о҅ томъ богоу· томоу бо хръстови и҅ бо꙯у нашемоу· слава съ о҅тꙿцемъ ь и҅ съ ст꙯ꙑи҆мъ ь дх꙯омъ ь нꙑн҄ѣ и҅ присно и҅ вь҆ вѣкꙑ вѣкомъ а҅минъ ⁘ </explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1000-12-31" notBefore-iso="0801-01-01">
+        s. 9-10
+       </origDate>
+      </p>
+     </origin>
+    </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="https://www.dlib.si/details/URN:NBN:SI:doc-2YSFUWUS" type="straighturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

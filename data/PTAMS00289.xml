@@ -104,8 +104,8 @@ Aldama 293" n="4" xml:id="PTAMS00289_04">
 BHG 2200z-2201
 Aldama 293)
       </note>
-      <locus from="015v-18v">
-       015v-18v
+      <locus from="15v-18v">
+       15v-18v
       </locus>
       <rubric/>
       <incipit/>
@@ -119,8 +119,8 @@ Aldama 176" n="5" xml:id="PTAMS00289_05">
 BHG 2406
 Aldama 176)
       </note>
-      <locus from="019-22v">
-       019-22v
+      <locus from="19-22v">
+       19-22v
       </locus>
       <rubric/>
       <incipit/>
@@ -130,8 +130,8 @@ Aldama 176)
       <note>
        Iohannes Chrysostomus, In Psalmum 145 (CPG 4415)
       </note>
-      <locus from="022v-28">
-       022v-28
+      <locus from="22v-28">
+       22v-28
       </locus>
       <rubric/>
       <incipit/>
@@ -143,8 +143,8 @@ Aldama 372" n="7" xml:id="PTAMS00289_07">
        Iohannes Chrysostomus, In parabolam de ficu (CPG 4588
 Aldama 372)
       </note>
-      <locus from="028v-31v">
-       028v-31v
+      <locus from="28v-31v">
+       28v-31v
       </locus>
       <rubric/>
       <incipit/>
@@ -154,8 +154,8 @@ Aldama 372)
       <note>
        Iohannes Chrysostomus, De paenitentia homiliae 1-9 (CPG 4333)
       </note>
-      <locus from="031v-37">
-       031v-37
+      <locus from="31v-37">
+       31v-37
       </locus>
       <rubric/>
       <incipit/>
@@ -167,8 +167,8 @@ Aldama 341" n="9" xml:id="PTAMS00289_09">
        Iohannes Chrysostomus, In decem uirgines (CPG 4580
 Aldama 341)
       </note>
-      <locus from="037-40">
-       037-40
+      <locus from="37-40">
+       37-40
       </locus>
       <rubric/>
       <incipit/>
@@ -178,16 +178,16 @@ Aldama 341)
       <note>
        Iohannes Chrysostomus, In illud : Exeuntes Pharisaei (CPG 4640)
       </note>
-      <locus from="040-43v">
-       040-43v
+      <locus from="40-43v">
+       40-43v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>     
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="11" xml:id="PTAMS00289_11">
-      <locus from="043v" to="046v">
-       043v–046v
+      <locus from="43v" to="46v">
+       43v–46v
       </locus>
       <rubric/>
       <incipit/>
@@ -201,8 +201,8 @@ Aldama 433" n="12" xml:id="PTAMS00289_12">
 BHG 1162d
 Aldama 433)
       </note>
-      <locus from="046v-52*">
-       046v-52*
+      <locus from="46v-52*">
+       46v-52*
       </locus>
       <rubric/>
       <incipit/>
@@ -214,38 +214,38 @@ Aldama 113" n="13" xml:id="PTAMS00289_13">
        Iohannes Chrysostomus, In Illud : Collegerunt Iudaei (CPG 4579
 Aldama 113)
       </note>
-      <locus from="052-53v">
-       052-53v
+      <locus from="52-53v">
+       52-53v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="cpg:4336
-BHG 0415t, 0418u, 0426d-e
+BHG 415t, 418u, 426d-e
 Aldama 313" n="14" xml:id="PTAMS00289_14">
       <note>
        Iohannes Chrysostomus, De proditione Iudae, 1-2 (CPG 4336
-BHG 0415t, 0418u, 0426d-e
+BHG 415t, 418u, 426d-e
 Aldama 313)
       </note>
-      <locus from="053v-66v">
-       053v-66v
+      <locus from="53v-66v">
+       53v-66v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="cpg:4654
-BHG 0427v
+BHG 427v
 Aldama 355" n="15" xml:id="PTAMS00289_15">
       <note>
        Iohannes Chrysostomus, In illud : Pater si possibile est (CPG 4654
-BHG 0427v
+BHG 427v
 Aldama 355)
       </note>
-      <locus from="066v-69v">
-       066v-69v
+      <locus from="66v-69v">
+       66v-69v
       </locus>
       <rubric/>
       <incipit/>
@@ -263,21 +263,21 @@ Aldama 355)
       <note>
        Iohannes Chrysostomus, In Matthaeum homiliae 1-90 (CPG 4424)
       </note>
-      <locus from="071-79v">
-       071-79v
+      <locus from="71-79v">
+       71-79v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="cpg:4338
-BHG 0438m" n="18" xml:id="PTAMS00289_18">
+BHG 438m" n="18" xml:id="PTAMS00289_18">
       <note>
        Iohannes Chrysostomus, De cruce et latrone homilia 1 (CPG 4338
-BHG 0438m)
+BHG 438m)
       </note>
-      <locus from="079v-85">
-       079v-85
+      <locus from="79v-85">
+       79v-85
       </locus>
       <rubric/>
       <incipit/>
@@ -287,21 +287,21 @@ BHG 0438m)
       <note>
        Georgius Nicomediensis mtr., In S. Mariam assistentem Cruci (BHG 1139)
       </note>
-      <locus from="085-98*">
-       085-98*
+      <locus from="85-98*">
+       85-98*
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="cpg:3768
-BHG 0808e" n="20" xml:id="PTAMS00289_20">
+BHG 808e" n="20" xml:id="PTAMS00289_20">
       <note>
        Epiphanius Constantiensis, In diuini corporis sepulturam (CPG 3768
-BHG 0808e)
+BHG 808e)
       </note>
-      <locus from="098-105v">
-       098-105v
+      <locus from="98-105v">
+       98-105v
       </locus>
       <rubric/>
       <incipit/>
@@ -321,10 +321,10 @@ Aldama 116)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:4719
-Aldama 093" n="22" xml:id="PTAMS00289_22">
+Aldama 93" n="22" xml:id="PTAMS00289_22">
       <note>
        Iohannes Chrysostomus, In uiuificam sepulturam et triduanam resurrectionem Christi (CPG 4719
-Aldama 093)
+Aldama 93)
       </note>
       <locus from="111-115v">
        111-115v
@@ -369,10 +369,10 @@ CPG 3010.45)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:4605
-Aldama 089" n="26" xml:id="PTAMS00289_26">
+Aldama 89" n="26" xml:id="PTAMS00289_26">
       <note>
        Iohannes Chrysostomus, Sermo catecheticus in Pascha (CPG 4605
-Aldama 089)
+Aldama 89)
       </note>
       <locus from="140v-141">
        140v-141
@@ -382,12 +382,12 @@ Aldama 089)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:5527
-BHG 0635u-0635uc
-Aldama 028" n="27" xml:id="PTAMS00289_27">
+BHG 635u-635uc
+Aldama 28" n="27" xml:id="PTAMS00289_27">
       <note>
        Eusebius Alexandrinus (pseudo), Sermo 18 : De Domini resurrectione (CPG 5527
-BHG 0635u-0635uc
-Aldama 028)
+BHG 635u-635uc
+Aldama 28)
       </note>
       <locus from="141v-144">
        141v-144
@@ -617,11 +617,11 @@ Aldama 186)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:5528
-BHG 0635t
+BHG 635t
 Aldama 126" n="47" xml:id="PTAMS00289_47">
       <note>
        Eusebius Alexandrinus (pseudo), Sermo 19: De Domini Ascensione (CPG 5528
-BHG 0635t
+BHG 635t
 Aldama 126)
       </note>
       <locus from="218v-221">
@@ -736,8 +736,8 @@ Aldama 524)
       <explicit/>
      </msItem>     
      <msItem corresp="urn:cts:pta:pta0001.pta017" n="56" xml:id="PTAMS00289_56">
-      <locus from="261" to="269">
-       261–269
+      <locus from="250r" to="258r">
+       250r-258r (alte Nummerierung 261r–269r)
       </locus>
       <rubric/>
       <incipit/>

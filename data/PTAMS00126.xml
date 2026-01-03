@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Megistês Lauras, fonds principal Δ 052 (Eustratiades 0428)
+     Hagion Oros, Monê Megistês Lauras, Mss. Δ 52 (Eustratiades 428)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Monê Megistês Lauras
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      Δ 052 (Eustratiades 0428)
+      Δ 52 (Eustratiades 428)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta055" n="1" xml:id="PTAMS00126_01">
-      <locus from="058" to="062">
-       058–062
+      <locus from="58" to="62">
+       58–62
       </locus>
       <rubric/>
       <incipit/>

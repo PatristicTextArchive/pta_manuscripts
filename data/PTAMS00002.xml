@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Andros, Monê Hagias (Zôodochou Pêgês), fonds principal 100 (19)
+     Andros, Monê Hagias (Zôodochou Pêgês), Mss. 100 (19)
     </title>
    </titleStmt>
    <editionStmt>
@@ -52,10 +52,10 @@
       Andros
      </settlement>
      <repository>
-      Monê Hagias (Zôodochou Pêgês)
+       Monê Hagias (Zôodochou Pêgês)
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       100 (19)
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00002_01">
-      <locus from="073v" to="080">
-       073v–080
+      <locus from="73v" to="80">
+       73v–80
       </locus>
       <rubric/>
       <incipit/>

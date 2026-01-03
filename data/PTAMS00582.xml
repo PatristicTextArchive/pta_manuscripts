@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. Z. 17 (coll. 0421)
+     Venezia, Biblioteca Nazionale Marciana, gr. Z. 17 (coll. 421)
     </title>
    </titleStmt>
    <editionStmt>
@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add Rahlfs number</change>
    <change when-iso="2022-02-07" who="#AvS">
     Created TEI file
    </change>
@@ -58,11 +59,16 @@
       gr. Z.
      </collection>
      <idno>
-      17 (coll. 0421)
+      17 (coll. 421)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
        69488
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       1215
       </idno>
      </altIdentifier>
      <altIdentifier type="sigle_pta0003.pta020">

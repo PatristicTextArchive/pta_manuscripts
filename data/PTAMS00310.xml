@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paphos, Monè Panagias tou Kukkou, fonds principal 36
+     Paphos, Monè Panagias tou Kukkou, Mss. 36
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monè Panagias tou Kukkou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       36
@@ -65,16 +65,21 @@
        49043
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ky
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem defective="true" corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00310_01">
       <locus>
-       Umschlag
+       Vorsatzblatt
       </locus>
       <note>Text PG 56,400.50–401.38 (inner surface, recto side) and 401.38–402.15 (outer surface, verso side)</note>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric type="defective"/>
+      <incipit type="defective">ωκεν νόμον τῷ ιηλ· καὶ λέγει ὁ δαδ·</incipit>
+      <explicit type="defective">τι... δρα .αλλ.ν</explicit>
      </msItem>
     </msContents>
     <history>

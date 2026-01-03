@@ -68,16 +68,16 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00302_01">
-      <locus from="037v" to="045">
-       037v–045
+      <locus from="37v" to="45">
+       37v–45
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta029" n="2" xml:id="PTAMS00302_02">
-      <locus from="066" to="074v">
-       066–074v
+      <locus from="66" to="74v">
+       66–74v
       </locus>
       <rubric/>
       <incipit/>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 0754
+     Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 754
     </title>
    </titleStmt>
    <editionStmt>
@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add Rahlfs number</change>
    <change when-iso="2022-02-07" who="#AvS">
     Created TEI file
    </change>
@@ -50,11 +51,16 @@
      <country/>
      <settlement>Vaticano</settlement>
      <repository>Biblioteca Apostolica Vaticana (BAV)</repository>
-     <collection>Vat. gr. 0754</collection>
+     <collection>Vat. gr. 754</collection>
      <idno>754</idno>
      <altIdentifier type="diktyon">
       <idno>
        67385
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       1175
       </idno>
      </altIdentifier>
      <altIdentifier type="sigle_pta0003.pta020">
@@ -84,8 +90,8 @@
       <note>
        Iosippus, Excerptum de Psalmis (ex Libello Memoriali) ()
       </note>
-      <locus from="009, 28r-v">
-       009, 28r-v
+      <locus from="9, 28r-v">
+       9, 28r-v
       </locus>
       <rubric/>
       <incipit/>

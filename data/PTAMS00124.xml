@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Koutloumousiou, fonds principal 627 (Polites 087)
+     Hagion Oros, Monê Koutloumousiou, Mss. 627 (Polites 87)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Monê Koutloumousiou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      627 (Polites 087)
+      627 (Polites 87)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00124_01">
-      <locus from="015" to="030">
-       015–030
+      <locus from="15" to="30">
+       15–30
       </locus>
       <rubric/>
       <incipit/>

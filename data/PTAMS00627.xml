@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00627" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Venezia, Biblioteca Nazionale Marciana (BNM), gr. Z. 114 (coll. 0481)
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref>
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2025-09-04" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Venezia
+     </settlement>
+     <repository>
+      Biblioteca Nazionale Marciana (BNM)
+     </repository>
+     <collection>
+      gr. Z.
+     </collection>
+     <idno>
+      114 (coll. 0481)
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       69585
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0002">
+      <idno>
+       Vd
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem corresp="cpg:4330" n="1" xml:id="PTAMS00627_01">
+      <note>
+       Iohannes Chrysostomus, Ad populum Antiochenum homiliae 1-21
+      </note>
+      <locus from="3" to="214v">
+       3-214v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4382" n="2" xml:id="PTAMS00627_02">
+      <note>
+       Iohannes Chrysostomus, De eleemosyna
+      </note>
+      <locus from="215" to="225v">
+       215-225v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4500" n="3" xml:id="PTAMS00627_03">
+      <note>
+       Iohannes Chrysostomus, Comparatio regis et monachi
+      </note>
+      <locus from="225v" to="230v">
+       225v-230v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4683" n="4" xml:id="PTAMS00627_04">
+      <note>
+       Iohannes Chrysostomus, De mansuetudine sermo
+      </note>
+      <locus from="230v" to="236">
+       230v-236
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4557" n="5" xml:id="PTAMS00627_05">
+      <note>
+       Iohannes Chrysostomus, De continentia
+      </note>
+      <locus from="236" to="239v">
+       236-239v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4326" n="6" xml:id="PTAMS00627_06">
+      <note>
+       Iohannes Chrysostomus, Contra Iudaeos et Gentiles quod Christus sit Deus
+      </note>
+      <locus from="239v" to="264v">
+       239v-264v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4349" n="7" xml:id="PTAMS00627_07">
+      <note>
+       Iohannes Chrysostomus, In Iuuentinum et Maximinum martyres
+      </note>
+      <locus from="264v" to="269">
+       264v-269
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0046.pta001" n="8" xml:id="PTAMS00627_08">
+      <locus from="269" to="273v">
+       269-273v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit type="defective"/>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate>
+        11 in.
+       </origDate>
+      </p>
+     </origin>
+    </history>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

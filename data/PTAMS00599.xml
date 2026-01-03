@@ -55,7 +55,7 @@
       Real Biblioteca
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       Ω. III. 15
@@ -82,7 +82,7 @@
        Marcellus Ancyranus, Expositio Fidei (CPG 2804)
       </note>
       <locus from="001" to="5">
-       001–5
+       1–5
       </locus>
       <rubric/>
       <incipit/>
@@ -92,8 +92,8 @@
       <note>
        Athanasius Alexandrinus, Ep. Liberii ad Athanasium (CPG 2291)
       </note>
-      <locus from="005r" to="v">
-       005r–v
+      <locus from="5r" to="v">
+       5r–v
       </locus>
       <rubric/>
       <incipit/>
@@ -103,16 +103,16 @@
       <note>
        Athanasius Alexandrinus, Ep. Liberii ad Athanasium (CPG 2291)
       </note>
-      <locus from="005v" to="6v">
-       005v–6v
+      <locus from="5v" to="6v">
+       5v–6v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0022.pta015" n="4" xml:id="PTAMS00599_04">
-      <locus from="006v" to="11v">
-       006v–11v
+      <locus from="6v" to="11v">
+       6v–11v
       </locus>
       <rubric/>
       <incipit/>

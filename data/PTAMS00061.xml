@@ -38,9 +38,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
-   <change when-iso="2020-08-14" who="#AvS">
-    Created TEI file
-   </change>
+    <change when-iso="2025-10-02" who="#AvS">Deleted wrong entry</change>
+    <change when-iso="2020-08-14" who="#AvS">Created TEI file</change>
   </revisionDesc>
  </teiHeader>
  <text>
@@ -55,7 +54,7 @@
       Real Biblioteca
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       Φ. III. 20 (Andrés 239)
@@ -83,14 +82,6 @@
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00061_02">
       <locus from="241" to="247">
        241–247
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00061_03">
-      <locus from="292" to="296">
-       292–296
       </locus>
       <rubric/>
       <incipit/>

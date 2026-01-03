@@ -63,7 +63,7 @@
       theol. gr.
      </collection>
      <idno>
-      036
+      36
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -105,12 +105,12 @@
         25r–101r
        </locus>
        <rubric>
-        <note>Theodoretus Cyrensis, Interpretatio In Ieremiam; In Jr 5 usque ad finem</note>
        </rubric>
        <incipit/>
        <explicit>
         νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
        </explicit>
+        <note>Theodoretus Cyrensis, Interpretatio In Ieremiam; In Jr 5 usque ad finem</note>
       </msItem>
       <msItem n="3.2">
        <locus from="101r" to="108r">
@@ -118,7 +118,6 @@
        </locus>
        <rubric>
         Τόμος ι̅α̅
-        <note>Theodoretus Cyrensis, Interpretatio In Baruch</note>
        </rubric>
        <incipit>
         Ὁ θαυμάσϊος βαροὺχ· συναπῆρεν μὲν εἰς αἴγυπτον
@@ -126,6 +125,7 @@
        <explicit>
         νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν
        </explicit>
+        <note>Theodoretus Cyrensis, Interpretatio In Baruch</note>
       </msItem>
       <msItem n="3.3">
        <locus from="108r" to="116v">
@@ -133,7 +133,6 @@
        </locus>
        <rubric>
          ΤΟΜΟΣ Ι̅Β̅
-         <note>Theodoretus Cyrensis, Interpretatio In Lamentationes</note>
        </rubric>
        <incipit>
         Ὁ μὲν θρῆνος, σϋμπαθείας καὶ φϊλοστοργΐας σημεῖον
@@ -141,6 +140,7 @@
        <explicit>
         νῦν καὶ πάντοτε καὶ ἀεὶ καὶ εἰς τοὺς σύμπαντας αἰῶνας τῶν αἰώνων ἀμήν
        </explicit>
+         <note>Theodoretus Cyrensis, Interpretatio In Lamentationes</note>
       </msItem>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0004.pta001" n="4" xml:id="PTAMS00561_04">
@@ -171,7 +171,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://data.onb.ac.at/rec/AL00226889" type="straighturl"/>
+        <ref target="https://onb.digital/result/100117F8" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.onb.ac.at/iiif/presentation/v3/manifest/100117F8" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

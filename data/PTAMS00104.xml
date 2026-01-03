@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Hagiou Panteleêmonos, fonds principal suppl. 100, 5
+     Hagion Oros, Monê Hagiou Panteleêmonos, Mss. suppl. 100, 5
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Hagiou Panteleêmonos
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       suppl. 100, 5
@@ -73,16 +73,16 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00104_01">
-      <locus from="028v,031" to="042v">
-       028v,031–042v
+      <locus from="28v,031" to="42v">
+       28v,031–42v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00104_02">
-      <locus from="072" to="086v">
-       072–086v
+      <locus from="72" to="86v">
+       72–86v
       </locus>
       <rubric/>
       <incipit/>

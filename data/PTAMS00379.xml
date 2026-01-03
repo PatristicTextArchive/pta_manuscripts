@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Paros, Monê tês Zoodochou Pêgês Loggobardas, fonds principal 28 (725)
+     Paros, Monê tês Zoodochou Pêgês Loggobardas, Mss. 28 (725)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê tês Zoodochou Pêgês Loggobardas
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       28 (725)
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00379_01">
-      <locus from="049" to="057">
-       049–057
+      <locus from="49" to="57">
+       49–57
       </locus>
       <rubric/>
       <incipit/>

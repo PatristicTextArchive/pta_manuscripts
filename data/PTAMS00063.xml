@@ -55,7 +55,7 @@
       Real Biblioteca
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       Υ. II. 3 (Andrés 258)
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta040" n="1" xml:id="PTAMS00063_01">
-      <locus from="080" to="092v">
-       080–092v
+      <locus from="80" to="92v">
+       80–92v
       </locus>
       <rubric/>
       <incipit/>

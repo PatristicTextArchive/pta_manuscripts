@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Batopediou, fonds principal 422
+     Hagion Oros, Monê Batopediou, Mss. 422
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Batopediou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       422
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta027" n="1" xml:id="PTAMS00084_01">
-      <locus from="068v" to="070v">
-       068v–070v
+      <locus from="68v" to="70v">
+       68v–70v
       </locus>
       <rubric/>
       <incipit/>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal F 108 sup. (Martini-Bassi 360)
+     Milano, Biblioteca Ambrosiana, Mss. F 108 sup. (Martini-Bassi 360)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Biblioteca Ambrosiana
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       F 108 sup. (Martini-Bassi 360)
@@ -68,16 +68,16 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00220_01">
-      <locus from="061v" to="065">
-       061v–065
+      <locus from="61v" to="65">
+       61v–65
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00220_02">
-      <locus from="069" to="071v">
-       069–071v
+      <locus from="69" to="71v">
+       69–71v
       </locus>
       <rubric/>
       <incipit/>

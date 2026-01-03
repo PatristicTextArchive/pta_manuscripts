@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add Rahlfs number</change>
    <change when-iso="2022-02-07" who="#AvS">
     Created TEI file
    </change>
@@ -55,12 +56,17 @@
       Monê tou Hagiou Iôannou tou Theologou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>215</idno>
      <altIdentifier type="diktyon">
       <idno>
        54459
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="rahlfs">
+      <idno>
+       1756
       </idno>
      </altIdentifier>
      <altIdentifier type="sigle_pta0003.pta020">

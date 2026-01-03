@@ -199,7 +199,7 @@ Aldama 567)
        Andreas Cretensis, In Lazarum quatriduanum (CPG 8177
 BHG 2218)
       </note>
-      <locus from="039v" to="47r">
+      <locus from="39v" to="47r">
        39v-47r
       </locus>
       <rubric></rubric>
@@ -290,7 +290,7 @@ Aldama 196)
      <msItem corresp="cpg:4635" n="22" xml:id="PTAMS00370_22">
       <note>
        Iohannes Chrysostomus, In proditionem Iudae (CPG 4635
-BHG 0444k-0444kb
+BHG 444k-444kb
 Aldama 465)
       </note>
       <locus from="81v" to="82v">
@@ -303,7 +303,7 @@ Aldama 465)
      <msItem corresp="cpg:2247" n="23" xml:id="PTAMS00370_23">
       <note>
        Athanasius Alexandrinus, De Passione et Cruce Domini (CPG 2247
-BHG 0446g, 0449h)
+BHG 446g, 449h)
       </note>
       <locus from="91" to="92">
        91-92
@@ -315,7 +315,7 @@ BHG 0446g, 0449h)
      <msItem corresp="cpg:6662" n="24" xml:id="PTAMS00370_24">
       <note>
        Basilius Seleuciensis, Homilia in Passionem Domini (CPG 6662
-BHG 0422p
+BHG 422p
 CPG 2276)
       </note>
       <locus from="91" to="92v">
@@ -328,10 +328,10 @@ CPG 2276)
      <msItem corresp="cpg:3768" n="25" xml:id="PTAMS00370_25">
       <note>
        Epiphanius Constantiensis, In diuini corporis sepulturam (CPG 3768
-BHG 0808e)
+BHG 808e)
       </note>
       <locus from="93" to="100v">
-       093-100v
+       93-100v
       </locus>
       <rubric></rubric>
       <incipit></incipit>

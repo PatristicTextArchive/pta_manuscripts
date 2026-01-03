@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Kozane, Kobentareios Dêmotikê Bibliothêkê, fonds principal 83
+     Kozane, Kobentareios Dêmotikê Bibliothêkê, Mss. 83
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Kobentareios Dêmotikê Bibliothêkê
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       83
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00186_01">
-      <locus from="001" to="013v">
-       001–013v
+      <locus from="001" to="13v">
+       1–13v
       </locus>
       <rubric/>
       <incipit/>

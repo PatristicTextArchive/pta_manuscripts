@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), fonds principal 226
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Mss. 226
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Ethnikê Bibliothêkê tês Hellados (EBE)
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       226
@@ -73,24 +73,24 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00008_01">
-      <locus from="009" to="020v">
-       009–020v
+      <locus from="009" to="20v">
+       9–20v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="2" xml:id="PTAMS00008_02">
-      <locus from="022v" to="032">
-       022v–032
+      <locus from="22v" to="32">
+       22v–32
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta002" n="3" xml:id="PTAMS00008_03">
-      <locus from="096v" to="107v">
-       096v–107v
+      <locus from="96v" to="107v">
+       96v–107v
       </locus>
       <rubric/>
       <incipit/>

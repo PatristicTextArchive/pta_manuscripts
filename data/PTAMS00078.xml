@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Bibliothêkê tou Prôtatou (Karues), fonds principal 88 (Politis 315)
+     Hagion Oros, Bibliothêkê tou Prôtatou (Karues), Mss. 88 (Politis 315)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Bibliothêkê tou Prôtatou (Karues)
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       88 (Politis 315)
@@ -68,16 +68,16 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta026" n="1" xml:id="PTAMS00078_01">
-      <locus from="005" to="011v">
-       005–011v
+      <locus from="005" to="11v">
+       5–11v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00078_02">
-      <locus from="095" to="098">
-       095–098
+      <locus from="95" to="98">
+       95–98
       </locus>
       <rubric/>
       <incipit/>

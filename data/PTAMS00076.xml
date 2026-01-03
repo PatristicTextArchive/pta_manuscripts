@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Bibliothêkê tou Prôtatou (Karues), fonds principal 041 (Lambros 41)
+     Hagion Oros, Bibliothêkê tou Prôtatou (Karues), Mss. 41 (Lambros 41)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,25 +55,30 @@
       Bibliothêkê tou Prôtatou (Karues)
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      041 (Lambros 41)
+      41 (Lambros 41)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
        18070
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Hp
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00076_01">
-      <locus from="unbekannt">
-       unbekannt
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00076_01">
+      <locus from="Iar" to="Iv">
+       Iar-v, Ir-v Zwei Fragmente auf den Vorsatzblättern vorne (Ia) und hinten (I).
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric type="defective"/>
+      <incipit type="defective">Ia: ἕτερον ὁρῶ. ἢ πέτρον / I: γινέσθω, μήτε σοὶ ἄνευ γνώμης</incipit>
+      <explicit type="defective">Ia: τὰ ἄλογα ὑπακούει λόγω· καὶ / I: ἤθος ἀγαθὸν· λόγος χρηστό</explicit>
      </msItem>
     </msContents>
     <history>

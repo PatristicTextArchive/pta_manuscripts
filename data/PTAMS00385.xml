@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Patras, Monê Hagiôn Pantôn, fonds principal 2
+     Patras, Monê Hagiôn Pantôn, Mss. 2
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Hagiôn Pantôn
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       2
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00385_01">
-      <locus from="093" to="096v">
-       093–096v
+      <locus from="93" to="96v">
+       93–96v
       </locus>
       <rubric/>
       <incipit/>

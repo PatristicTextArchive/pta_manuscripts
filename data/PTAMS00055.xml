@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2024-09-12" who="#AvS">Autopsy</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -65,15 +66,23 @@
        13563
       </idno>
      </altIdentifier>
+     <!-- Folio-Format; Lagenzählung rechts oben, beginnend mit λ auf f. 10r; größtenteils Quaternionen; Titelumrahmungen vergoldet
+      Pergament unterschiedlicher Stärke; zu Beginn jeder Homilie am unteren Rand mittig (teilweise abgeschnitten) Angabe der 
+      Anzahl der Blätter; immer wieder bei Seiten unten ein Streifen herausgeschnitten, vor allem gegen Ende; 
+      erste und letzte Seiten stockfleckig und teils durch Wurmfraß beschädigt; letztes folio 208 von anderer Hand
+      mit Schluß der letzten Homilie, f. 208v Schreibernotizen und Bibliotheksaufkleber St. Panteleeimon Athos;
+      neuerer Einband, aber wohl noch Athos  -->
     </msIdentifier>
     <msContents>
+        <!-- f. 1v hat Nr. με -->
      <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00055_01">
-      <locus from="016" to="028">
-       016–028
+      <locus from="16r" to="28r">
+       16r–28r
       </locus>
-      <rubric/>
+      <rubric>μς Του αυτου εἰς τὴν Χαναναίαν καὶ εἰς τὸν Φαραὼ καὶ ὅτι Οὐ τοῦ θέλοντος οὐδὲ τοῦ τρέχοντος ἀλλὰ τοῦ ἐλεοῦντος θυ. κυριακη ις κε ευο </rubric>
       <incipit/>
       <explicit/>
+      <finalrubric/>
      </msItem>
     </msContents>
     <history>

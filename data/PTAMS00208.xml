@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Meteora, Monê Barlaam, fonds principal 138
+     Meteora, Monê Barlaam, Mss. 138
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Barlaam
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       138
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00208_01">
-      <locus from="016v" to="027v">
-       016v–027v
+      <locus from="16v" to="27v">
+       16v–27v
       </locus>
       <rubric/>
       <incipit/>

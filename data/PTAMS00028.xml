@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 1048
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Mss. 1048
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Ethnikê Bibliothêkê tês Hellados (EBE)
      </repository>
      <collection>
-      Fonds principal
+      Mss.
      </collection>
      <idno>
       1048
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00028_01">
-      <locus from="073v" to="093">
-       073v–093
+      <locus from="73v" to="93">
+       73v–93
       </locus>
       <rubric/>
       <incipit/>

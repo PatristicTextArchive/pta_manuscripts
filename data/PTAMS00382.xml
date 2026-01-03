@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Patmos, Monê tou Hagiou Iôannou tou Theologou, fonds principal 182
+     Patmos, Monê tou Hagiou Iôannou tou Theologou, Mss. 182
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê tou Hagiou Iôannou tou Theologou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       182
@@ -65,17 +65,30 @@
        54426
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Px
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta011" n="1" xml:id="PTAMS00382_01">
-      <locus from="017" to="032v">
-       017–032v
+      <locus from="17" to="32v">
+       17–32v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta002" n="2" xml:id="PTAMS00382_02">
+     <msItem corresp="urn:cts:pta:pta0046.pta001" n="2" xml:id="PTAMS00382_02">
+      <locus from="113v" to="123r">
+       113v-123r
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta002" n="3" xml:id="PTAMS00382_03">
       <locus from="137v" to="150v">
        137v–150v
       </locus>
@@ -83,21 +96,13 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00382_03">
-      <locus from="164" to="166v">
-       164–166v
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta017" n="4" xml:id="PTAMS00382_04">
+      <locus from="164r" to="166v">
+       164r–166v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
-     </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta035" n="4" xml:id="PTAMS00382_04">
-      <locus from="191" to="198v, 160">
-       191–198v, 160–164
-      </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>λθ τοῦ αὐτοῦ. εἰς τὸ ῥητὸν τοῦ εὐαγγελίου ἐν ῶ ἔλεγον οἱ ϊουδαῖοι περὶ τοῦ σρσ. πῶς οἶδεν γράμματα μὴ μεμαθηκώς· καὶ εἰς τὸ ῥητὸν τοῦ σρσ ὅτι οὐδεὶς οἶδεν τὴν ἡμέραν ἐκείνην:</rubric>
+      <incipit>Φέρε πάλιν τῶν εὐαγγελικῶν ὑμῖν ἀπαρξώμεθα ναμάτων·</incipit>
+      <explicit type="defective">ἀντὶ τοῦ δια τί σπουδάζετε μαθεῖν τὴν ἡμέραν κυ· ἡ ἡμέρα κυ πικρὰ καὶ σκληρὰ·</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta050" n="5" xml:id="PTAMS00382_05">
       <locus from="191" to="198v, 160">

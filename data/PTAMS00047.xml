@@ -65,11 +65,16 @@
        9342
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Ba
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta008" n="1" xml:id="PTAMS00047_01">
-      <locus from="086v" to="098">
-       086v–098
+      <locus from="86v" to="98">
+       86v–98
       </locus>
       <rubric/>
       <incipit/>

@@ -55,7 +55,7 @@
       Real Biblioteca
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       Χ. II. 1
@@ -89,8 +89,8 @@
       <note>
        Athanasius Alexandrinus, De incarnatione Dei Verbi (CPG 3738)
       </note>
-      <locus from="032" to="33v">
-       032–33v
+      <locus from="32" to="33v">
+       32–33v
       </locus>
       <rubric/>
       <incipit/>
@@ -100,8 +100,8 @@
       <note>
        Athanasius Alexandrinus, De incarnatione contra Apollinarium I–II (CPG 2231)
       </note>
-      <locus from="033v" to="52">
-       033v–52
+      <locus from="33v" to="52">
+       33v–52
       </locus>
       <rubric/>
       <incipit/>
@@ -111,8 +111,8 @@
       <note>
        Athanasius Alexandrinus, Tomus ad Antiochenos (CPG 2134)
       </note>
-      <locus from="052" to="56">
-       052–56
+      <locus from="52" to="56">
+       52–56
       </locus>
       <rubric/>
       <incipit/>
@@ -126,8 +126,8 @@
 CPG 2243
 CPG 2869)
       </note>
-      <locus from="056" to="62">
-       056–62
+      <locus from="56" to="62">
+       56–62
       </locus>
       <rubric/>
       <incipit/>
@@ -137,8 +137,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Quod unus sit Christus (CPG 3737)
       </note>
-      <locus from="062" to="64v">
-       062–64v
+      <locus from="62" to="64v">
+       62–64v
       </locus>
       <rubric/>
       <incipit/>
@@ -148,8 +148,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Ep. ad Adelphium (CPG 2098)
       </note>
-      <locus from="064v" to="68">
-       064v–68
+      <locus from="64v" to="68">
+       64v–68
       </locus>
       <rubric/>
       <incipit/>
@@ -159,8 +159,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Ep. ad Maximum (CPG 2100)
       </note>
-      <locus from="068v" to="70">
-       068v–70
+      <locus from="68v" to="70">
+       68v–70
       </locus>
       <rubric/>
       <incipit/>
@@ -170,8 +170,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Epistula ad episcopos Aegypti et Libyae (CPG 2092)
       </note>
-      <locus from="070" to="83">
-       070–83
+      <locus from="70" to="83">
+       70–83
       </locus>
       <rubric/>
       <incipit/>
@@ -181,8 +181,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Contra arianos I–III (CPG 2093)
       </note>
-      <locus from="083" to="162">
-       083–162
+      <locus from="83" to="162">
+       83–162
       </locus>
       <rubric/>
       <incipit/>
@@ -494,10 +494,10 @@ CPG 2869)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:2247
-BHG 0446g, 0449h" n="39" xml:id="PTAMS00598_39">
+BHG 446g, 449h" n="39" xml:id="PTAMS00598_39">
       <note>
        Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
-BHG 0446g, 0449h)
+BHG 446g, 449h)
       </note>
       <locus from="372v" to="392">
        372v–392
@@ -529,10 +529,10 @@ BHG 0446g, 0449h)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:2101
-BHG 0140–0140d" n="42" xml:id="PTAMS00598_42">
+BHG 140–140d" n="42" xml:id="PTAMS00598_42">
       <note>
        Athanasius Alexandrinus, Vita S. Antonii (CPG 2101
-BHG 0140–0140d)
+BHG 140–140d)
       </note>
       <locus from="393" to="396v">
        393–396v

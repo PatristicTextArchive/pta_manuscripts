@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal B. V. 38 (Pasini 182)
+     Torino, Biblioteca Nazionale Universitaria, Mss. B. V. 38 (Pasini 182)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       B. V. 38 (Pasini 182)
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00428_01">
-      <locus from="001" to="020v">
-       001–020v
+      <locus from="001" to="20v">
+       1–20v
       </locus>
       <rubric/>
       <incipit/>

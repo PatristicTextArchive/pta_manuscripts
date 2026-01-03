@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Ibêrôn, fonds principal 0026 (Lambros 4146)
+     Hagion Oros, Monê Ibêrôn, Mss. 26 (Lambros 4146)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Monê Ibêrôn
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      0026 (Lambros 4146)
+      26 (Lambros 4146)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00105_01">
-      <locus from="035v" to="041v">
-       035v–041v
+      <locus from="35v" to="41v">
+       35v–41v
       </locus>
       <rubric/>
       <incipit/>

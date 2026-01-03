@@ -82,7 +82,7 @@
        Athanasius Alexandrinus, Contra arianos I–III (CPG 2093)
       </note>
       <locus from="001" to="74*">
-       001–74*
+       1–74*
       </locus>
       <rubric/>
       <incipit/>
@@ -92,8 +92,8 @@
       <note>
        Athanasius Alexandrinus, In illud: Omnia mihi tradita sunt (CPG 2099)
       </note>
-      <locus from="074" to="78*">
-       074–78*
+      <locus from="74" to="78*">
+       74–78*
       </locus>
       <rubric/>
       <incipit/>
@@ -111,8 +111,8 @@
       <note>
        Athanasius Alexandrinus, Epistulae ad Serapionem I–IV (CPG 2094)
       </note>
-      <locus from="083v" to="125v*">
-       083v–125v*
+      <locus from="83v" to="125v*">
+       83v–125v*
       </locus>
       <rubric/>
       <incipit/>
@@ -394,10 +394,10 @@ BHG 1431q–s)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:2247
-BHG 0446g, 0449h" n="32" xml:id="PTAMS00602_32">
+BHG 446g, 449h" n="32" xml:id="PTAMS00602_32">
       <note>
        Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
-BHG 0446g, 0449h)
+BHG 446g, 449h)
       </note>
       <locus from="426v" to="457*">
        426v–457*
@@ -410,7 +410,7 @@ BHG 0446g, 0449h)
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="001001-01-01">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
         s. 11
        </origDate>
       </p>

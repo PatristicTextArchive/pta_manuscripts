@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     København, Det Kongelige Bibliotek, Thott 0044 2°
+     København, Det Kongelige Bibliotek, Thott 44 2°
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,7 +58,7 @@
       Thott
      </collection>
      <idno>
-      0044 2°
+      44 2°
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,24 +68,24 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta046" n="1" xml:id="PTAMS00188_01">
-      <locus from="005v" to="008">
-       005v–008
+      <locus from="5v" to="008">
+       5v–8
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta047" n="2" xml:id="PTAMS00188_02">
-      <locus from="008" to="013">
-       008–013
+      <locus from="008" to="13">
+       8–13
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta048" n="3" xml:id="PTAMS00188_03">
-      <locus from="013" to="018v">
-       013–018v
+      <locus from="13" to="18v">
+       13–18v
       </locus>
       <rubric/>
       <incipit/>

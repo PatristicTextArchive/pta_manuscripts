@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00542_01">
-      <locus from="II. 073" to="087v">
-       II. 073–087v
+      <locus from="II. 73" to="87v">
+       II. 73–87v
       </locus>
       <rubric/>
       <incipit/>
@@ -85,6 +85,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://cudl.lib.cam.ac.uk/view/MS-NN-00001-00022/1" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://cudl.lib.cam.ac.uk//iiif/MS-NN-00001-00022" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

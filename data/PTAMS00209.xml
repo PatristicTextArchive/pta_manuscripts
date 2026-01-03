@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Meteôra, Monê Hagiou Stephanou, fonds principal 2
+     Meteôra, Monê Hagiou Stephanou, Mss. 2
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Hagiou Stephanou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       2
@@ -73,8 +73,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00209_01">
-      <locus from="042v" to="055">
-       042v–055
+      <locus from="42v" to="55">
+       42v–55
       </locus>
       <rubric/>
       <incipit/>

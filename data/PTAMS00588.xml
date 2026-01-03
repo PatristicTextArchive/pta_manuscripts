@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Cambridge, Trinity College, fonds principal B.08.10 (194)
+     Cambridge, Trinity College, Mss. B.08.10 (194)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Trinity College
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       B.08.10 (194)
@@ -111,7 +111,7 @@
         <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.10" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.10/manifest.json" type="manifesturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/manuscripts/B.8.10.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Karakallou, fonds principal 063 (Lambros 1576), Mon. 168
+     Hagion Oros, Monê Karakallou, Mss. 63 (Lambros 1576), Mon. 168
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Karakallou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       63 (Lambros 1576), Mon. 168
@@ -137,12 +137,12 @@
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta008" n="9" xml:id="PTAMS00114_09">
-      <locus from="625" to="639 (p.)">
-       625–639 (p.)
+      <locus from="625" to="639">
+       p. 625–639
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ, ὅτι παλαιᾶς καὶ καινῆς, εἷς ὁ νομοθέτης· καὶ εἰς τὸ ἔνδυμα τοῦ ἱερέως·</rubric>
+      <incipit>τῆς χυ βασιλείας τὸ εὐαγγέλιον κηρύττουσι μὲν καὶ περὶ μετανοίας:– προφῆται.</incipit>
+      <explicit>καὶ τὴν αὐτοῦ δόξαν φαιδρῦναι· ἐν χῶ ἰυ τῶ κω ἡμῶν· ὧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν:–</explicit>
      </msItem>
     </msContents>
     <history>

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal D 062 sup. (Martini-Bassi 241)
+     Milano, Biblioteca Ambrosiana, Mss. D 62 sup. (Martini-Bassi 241)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Biblioteca Ambrosiana
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      D 062 sup. (Martini-Bassi 241)
+      D 62 sup. (Martini-Bassi 241)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta038" n="1" xml:id="PTAMS00218_01">
-      <locus from="001" to="002v">
-       001–002v
+      <locus from="001" to="2v">
+       1–2v
       </locus>
       <rubric/>
       <incipit/>

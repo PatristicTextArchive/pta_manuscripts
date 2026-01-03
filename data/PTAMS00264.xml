@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Ohrid, Naroden Muzej, fonds principal 050 (Mošin 71)
+     Ohrid, Naroden Muzej, Mss. 50 (Mošin 71)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Naroden Muzej
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      050 (Mošin 71)
+      50 (Mošin 71)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00264_01">
-      <locus from="075" to="109 (p.)">
-       075–109 (p.)
+      <locus from="75" to="109 (p.)">
+       75–109 (p.)
       </locus>
       <rubric/>
       <incipit/>

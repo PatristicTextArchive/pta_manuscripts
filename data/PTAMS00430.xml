@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Torino, Biblioteca Nazionale Universitaria, fonds principal B. VI. 02 (Pasini 295)
+     Torino, Biblioteca Nazionale Universitaria, Mss. B. VI. 2 (Pasini 295)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Biblioteca Nazionale Universitaria
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      B. VI. 02 (Pasini 295)
+      B. VI. 2 (Pasini 295)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00430_01">
-      <locus from="001" to="012">
-       001–012
+      <locus from="001" to="12">
+       1–12
       </locus>
       <rubric/>
       <incipit/>

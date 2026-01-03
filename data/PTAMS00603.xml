@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Batopediou, fonds principal 6
+     Hagion Oros, Monê Batopediou, Mss. 6
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Batopediou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       6
@@ -82,7 +82,7 @@
        Athanasius Alexandrinus (Auteur supposé (tradition manuscrite)), Disputatio contra Arium (CPG 2250)
       </note>
       <locus from="003" to="22v">
-       003–22v
+       3–22v
       </locus>
       <rubric/>
       <incipit/>
@@ -92,8 +92,8 @@
       <note>
        Marcellus Ancyranus, Expositio Fidei (CPG 2804)
       </note>
-      <locus from="023" to="24v">
-       023–24v
+      <locus from="23" to="24v">
+       23–24v
       </locus>
       <rubric/>
       <incipit/>
@@ -107,8 +107,8 @@
 CPG 2243
 CPG 2869)
       </note>
-      <locus from="024v" to="31v">
-       024v–31v
+      <locus from="24v" to="31v">
+       24v–31v
       </locus>
       <rubric/>
       <incipit/>
@@ -118,8 +118,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Contra arianos IV (CPG 2230)
       </note>
-      <locus from="031v" to="46">
-       031v–46
+      <locus from="31v" to="46">
+       31v–46
       </locus>
       <rubric/>
       <incipit/>
@@ -129,8 +129,8 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, In illud: Omnia mihi tradita sunt (CPG 2099)
       </note>
-      <locus from="046" to="49">
-       046–49
+      <locus from="46" to="49">
+       46–49
       </locus>
       <rubric/>
       <incipit/>
@@ -140,16 +140,16 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, In illud : Profecti in pagum (CPG 2246)
       </note>
-      <locus from="049" to="53v">
-       049–53v
+      <locus from="49" to="53v">
+       49–53v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0022.pta003" n="7" xml:id="PTAMS00603_07">
-      <locus from="053v" to="54">
-       053v–54
+      <locus from="53v" to="54">
+       53v–54
       </locus>
       <rubric/>
       <incipit/>
@@ -167,29 +167,29 @@ CPG 2869)
       <note>
        Athanasius Alexandrinus, Epistulae ad Serapionem I–IV (CPG 2094)
       </note>
-      <locus from="056v" to="62v">
-       056v–62v
+      <locus from="56v" to="62v">
+       56v–62v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="cpg:2247
-BHG 0446g, 0449h" n="10" xml:id="PTAMS00603_10">
+BHG 446g, 449h" n="10" xml:id="PTAMS00603_10">
       <note>
        Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
-BHG 0446g, 0449h)
+BHG 446g, 449h)
       </note>
-      <locus from="063" to="82">
-       063–82
+      <locus from="63" to="82">
+       63–82
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0022.pta003" n="11" xml:id="PTAMS00603_11">
-      <locus from="082" to="111">
-       082–111
+      <locus from="82" to="111">
+       82–111
       </locus>
       <rubric/>
       <incipit/>
@@ -381,10 +381,10 @@ BHG 0446g, 0449h)
       <explicit/>
      </msItem>
      <msItem corresp="cpg:2101
-BHG 0140–0140d" n="31" xml:id="PTAMS00603_31">
+BHG 140–140d" n="31" xml:id="PTAMS00603_31">
       <note>
        Athanasius Alexandrinus, Vita S. Antonii (CPG 2101
-BHG 0140–0140d)
+BHG 140–140d)
       </note>
       <locus from="328" to="361">
        328–361
@@ -397,7 +397,7 @@ BHG 0140–0140d)
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1400-12-31" notBefore-iso="001301-01-01">
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
         s. 14 (2/4)
        </origDate>
       </p>

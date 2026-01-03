@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Venezia, Biblioteca Nazionale Marciana, gr. II. 046 (coll. 1014)
+     Venezia, Biblioteca Nazionale Marciana, gr. II. 46 (coll. 1014)
     </title>
    </titleStmt>
    <editionStmt>
@@ -58,7 +58,7 @@
       gr.
      </collection>
      <idno>
-      II. 046 (coll. 1014)
+      II. 46 (coll. 1014)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,16 +68,16 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta018" n="1" xml:id="PTAMS00510_01">
-      <locus from="001" to="011v">
-       001–011v
+      <locus from="001" to="11v">
+       1–11v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="2" xml:id="PTAMS00510_02">
-      <locus from="019v" to="026v">
-       019v–026v
+      <locus from="19v" to="26v">
+       19v–26v
       </locus>
       <rubric/>
       <incipit/>

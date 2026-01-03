@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="1" xml:id="PTAMS00529_01">
-      <locus from="021" to="029v">
-       021–029v
+      <locus from="21" to="29v">
+       21–29v
       </locus>
       <rubric/>
       <incipit/>
@@ -89,7 +89,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=30722" type="straighturl"/>
+        <ref target="https://data.onb.ac.at/rep/11345B64" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://api.onb.ac.at/iiif/presentation/v3/manifest/11345B64" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

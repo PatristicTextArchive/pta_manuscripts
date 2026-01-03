@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Patmos, Monê tou Hagiou Iôannou tou Theologou, fonds principal 185
+     Patmos, Monê tou Hagiou Iôannou tou Theologou, Mss. 185
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê tou Hagiou Iôannou tou Theologou
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       185
@@ -73,8 +73,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta014" n="1" xml:id="PTAMS00383_01">
-      <locus from="048" to="058v">
-       048–058v
+      <locus from="48" to="58v">
+       48–58v
       </locus>
       <rubric/>
       <incipit/>

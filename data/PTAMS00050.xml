@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Bruxelles, Bibliothèque Royale Albert Ier, fonds principal IV.00459
+     Bruxelles, Bibliothèque Royale Albert Ier, Mss. IV.00459
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Bibliothèque Royale Albert Ier
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       IV.00459
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta032" n="1" xml:id="PTAMS00050_01">
-      <locus from="059v" to="063">
-       059v–063
+      <locus from="59v" to="63">
+       59v–63
       </locus>
       <rubric/>
       <incipit/>
@@ -80,7 +80,7 @@
      <origin>
       <p n="origDate">
        <origDate notAfter-iso="0900-12-31" notBefore-iso="0701-01-01">
-        s. 08–09
+        s. 8–9
        </origDate>
       </p>
      </origin>

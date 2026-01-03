@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Monê Batopediou, fonds principal 600
+     Hagion Oros, Monê Batopediou, Mss. 600
     </title>
     <respStmt>
       <resp>katalogisiert von</resp>
@@ -60,7 +60,7 @@
       Monê Batopediou
      </repository>
      <collection>
-      Fonds principal
+      Mss.
      </collection>
      <idno>
       600
@@ -83,10 +83,10 @@
       </locus>
       <rubric>
        Ἀρχὴ σὺν Θεῷ τῆς παλαιᾶς
-       <note>Oktateuch</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Oktateuch</note>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0004.pta001" n="2" xml:id="PTAMS00563_02">
       <locus from="237r" to="354v">
@@ -94,7 +94,6 @@
       </locus>
       <rubric>
        Τῆς ἑρμηνείας ὁ πρόλογος τοῦ ἁγίου προφήτου δανιὴλ
-       <note>Excerpta; Foliation nicht korrekt, 238 wird gefolgt von 339-360</note>
       </rubric>
       <incipit>
        Περὶ τῆς ἀναισχυντίας τῶν ἰουδαίων· ὡς τοῦ χοροῦ τῶν προφητῶν ἀποσχοινίζειν
@@ -102,6 +101,7 @@
       <explicit>
        οὐ γὰρ τὰ μέλλοντα μόνον προφητεύων
       </explicit>
+       <note>Excerpta; Foliation nicht korrekt, 238 wird gefolgt von 339-360</note>
      </msItem>
      <msItem corresp="urn:cts:pta:pta9999.pta060" n="3" xml:id="PTAMS00563_03">
       <locus from="355r" to="355v">
@@ -151,7 +151,6 @@
       </locus>
       <rubric>
        περὶ τῆς ἰερουσαλὴμ· καὶ τοῦ γαβριήλ· ὅρασις ι̅η̅
-       <note>Cap. 9</note>
       </rubric>
       <incipit>
        Ἐν τῶ πρότω ἔτη δαρείου τοῦ υἱοῦ σουγήρ
@@ -159,6 +158,7 @@
       <explicit>
        καὶ ἕως συντελείας καὶ καιροῦ συντελεία δοϑήσεται ἐπὶ τὴν ἐρήμωσιν αὐτῶν
       </explicit>
+       <note>Cap. 9</note>
      </msItem>
      <msItem corresp="" n="7" xml:id="PTAMS00563_07">
       <locus from="361r" to="361v">

@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Stockholm, Kungliga Biblioteket, fonds principal A. 792 b
+     Stockholm, Kungliga Biblioteket, Mss. A. 792 b
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Kungliga Biblioteket
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       A. 792 b
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta007" n="1" xml:id="PTAMS00417_01">
-      <locus from="129" to="129v, 085">
-       129–129v, 085–086v, 136–136v, 038–038v, 130–135v
+      <locus from="129" to="129v, 85">
+       129–129v, 85–86v, 136–136v, 38–38v, 130–135v
       </locus>
       <rubric/>
       <incipit/>
@@ -79,7 +79,7 @@
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="0901-01-01">
+       <origDate notAfter-iso="1100-12-31" notBefore-iso="901-01-01">
         s. 10–11
        </origDate>
       </p>

@@ -65,19 +65,24 @@
        47487
       </idno>
      </altIdentifier>
+     <altIdentifier type="sigle_pta0001">
+      <idno>
+       Oi
+      </idno>
+     </altIdentifier>
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="1" xml:id="PTAMS00286_01">
-      <locus from="072v" to="076">
-       072v–076
+      <locus from="72v" to="76">
+       72v–76
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta032" n="2" xml:id="PTAMS00286_02">
-      <locus from="091v" to="094">
-       091v–094
+      <locus from="91v" to="94">
+       91v–94
       </locus>
       <rubric/>
       <incipit/>

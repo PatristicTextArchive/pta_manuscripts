@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-14" who="#AvS">Add images and IIIF links, add data; corrections</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -67,40 +68,52 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta056" n="1" xml:id="PTAMS00460_01">
-      <locus from="005" to="027v">
-       005–027v
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta056" n="1" xml:id="PTAMS00460_01">
+      <locus from="5" to="7v">
+       5r–7v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>ἰωάννου ἀρχιεπισκόπου κωνσταντίνου πόλεως τοῦ χρυσοστόμου λόγος εἰς τὸν πειρασμὸν τοῦ χυ κε ευο</rubric>
+      <incipit>ἐξῆλθεν ὁ κς ἡμῶν ις χς καὶ σηρ εἰς τὴν ἔρημῶν ὁπλιζώμενος</incipit>
+      <explicit type="defective">ὦ δόλος οὐ συνεπολιτεύσατο· ὧ δόλος οὐ συνέζησεν· ὧ δὲ κακία</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta015" n="2" xml:id="PTAMS00460_02">
-      <locus from="045" to="049v">
-       045–049v
+      <locus from="45r" to="49v">
+       45r–49v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ χρυσοστόμου. εἰς τὴν πόρνην καὶ εἰς τὸ μύρον· τῆ ἁγία δ’.</rubric>
+      <incipit>πάντοτε μὲν ὁ θς ὡς φιλάνος καιρὸν εἰς μετάνοιαν τοῖς ἁμαρτωλοῖς δέδωκεν·</incipit>
+      <explicit>σύ γαρ εἶ μόνος ἀναμάρτιτος καὶ ἀγαθὸς καὶ φιλάνος καὶ συγχωρῶν ἁμαρτίας· καὶ σὺ πρέπει δόξα τῶ πρι καὶ τῶ υω καὶ τῶ ἁγίω πνι εἰς τοὺς αἰῶνας ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta032" n="3" xml:id="PTAMS00460_03">
-      <locus from="049v" to="052v">
-       049v–052v
+      <locus from="49v" to="52v">
+       49v–52v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ [....] τῆ ἁγία ε ἑσπέρας έν ἡ ὁτε ὁ σηρ τοὺς πόδας τῶν μαθητῶν ἔνιψε</rubric>
+      <incipit>ἔλαιον καὶ φιλανιαν κηρύττειν ὁ φίλομεν· κηρύττει μὲν ἡ κτίσις πᾶσα, κηρύττει δὲ</incipit>
+      <explicit>Λάμπει τοίνυν τοῦ στρυ ἡ χάρις· καὶ πάντων ἡμῶν νίπτη τας διανοίας ὁ λόγος τῆς ἀληθείας. ἐν χω ιυ τῶ κω ἡμῶν. ὧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1100-12-31" notBefore-iso="1001-01-01">
-        s. 11
+       <origDate notAfter-iso="1050-12-31" notBefore-iso="1001-01-01">
+        s. 11 (1/2)
        </origDate>
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://digi.vatlib.it/view/MSS_Reg.gr.Pio.II.23" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://digi.vatlib.it/iiif/MSS_Reg.gr.Pio.II.23/manifest.json" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

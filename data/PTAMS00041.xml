@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Basel, Universitätsbibliothek, fonds principal B. II. 15
+     Basel, Universitätsbibliothek, Mss. B. II. 15
     </title>
    </titleStmt>
    <editionStmt>
@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-05-26" who="#AvS">Add IIIF link, item info</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -55,7 +56,7 @@
       Universitätsbibliothek
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       B. II. 15
@@ -68,12 +69,12 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta041" n="1" xml:id="PTAMS00041_01">
-      <locus from="333" to="339v">
-       333–339v
+      <locus from="333r" to="339v">
+       333r–339v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>λη τοῦ αὐτοῦ· εἰς τὸ ἀποστολικὸν ῥητὸν· ὅτε αὐτῶ ὑποταγῆ τὰ πάντα. τότε καὶ αὐτὸς ὁ υς ὑποταγήσεται τῶ ὑποτάξαντι αὐτῶ τὰ πάντα· καὶ εἰς τὸ οὐδὲν ἀπ' ἐμαυτοῦ ποιῶ· καὶ εἰς τριάδα· καὶ ὅτι εἰς τιμὴν τῆς τριάδος· γ πατριάρχαι· γ ἱερεῖς· γ βασιλεῖς· γ ἀρεταὶ μνημονεύονται·</rubric>
+      <incipit>χθὲς ἡμῖν ἀδελφοὶ· ὁ περὶ τῆς ἀτελευτήτου βασιλείας τοῦ χυ λόγος ἐγένετο·</incipit>
+      <explicit>ἀρχὴν γὰρ λαβόντος τοῦ κεφαλαίου· τοῦ εἰς τὸ κέρας θλιβέντων τῶν τριῶν ἀνθρώπων κατέπαυσεν·</explicit>
      </msItem>
     </msContents>
     <history>
@@ -89,7 +90,10 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://www.codices.ch/graeca/biblio.php?id=728" type="straighturl"/>
+        <ref target="https://doi.org/10.7891/e-manuscripta-174631" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://www.e-manuscripta.ch/i3f/v20/4780928/manifest" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

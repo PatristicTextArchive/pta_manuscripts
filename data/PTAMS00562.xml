@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Andros, Monê Hagias (Zôodochou Pêgês), fonds principal 43
+     Andros, Monê Hagias (Zôodochou Pêgês), Mss. 43
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Monê Hagias (Zôodochou Pêgês)
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       43
@@ -77,40 +77,40 @@
        2r-8r
       </locus>
       <rubric>
-       <note>Theologica, Ad Graecos et Latinos adhortatio ad unionem</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Theologica, Ad Graecos et Latinos adhortatio ad unionem</note>
      </msItem>
      <msItem corresp="" n="2" xml:id="PTAMS00562_02">
       <locus from="8bis" to="12v">
        8bis-12v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Ad Synodum De Unione I</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Ad Synodum De Unione I</note>
      </msItem>
      <msItem corresp="" n="3" xml:id="PTAMS00562_03">
       <locus from="12v" to="17v">
        12v-17v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Ad Synodum de Unione II</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Ad Synodum de Unione II</note>
      </msItem>
      <msItem corresp="" n="4" xml:id="PTAMS00562_04">
       <locus from="18r" to="43v">
        18r-43v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos Opuscula 6-12, 14</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos Opuscula 6-12, 14</note>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="5" xml:id="PTAMS00562_05">
       <locus from="44r" to="45r">
@@ -127,12 +127,12 @@
        45r-46r
       </locus>
       <rubric>
-       <note>Exzerpta tria</note>
       </rubric>
       <incipit>
        Τὸ λέγειν τὸν Κύριον πάντα ὅσα ἔχει ὁ Πατὴρ ἐμά ἐστιν
       </incipit>
       <explicit/>
+       <note>Exzerpta tria</note>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0004.pta001" n="7" xml:id="PTAMS00562_07">
       <locus from="46v" to="47r">
@@ -244,7 +244,7 @@
      </msItem>
      <msItem corresp="cpg:4425" n="16" xml:id="PTAMS00562_16">
       <locus from="54v" to="55r">
-       054v-055r
+       54v-55r
       </locus>
       <rubric>
         <!-- Excerptum -->
@@ -287,7 +287,6 @@
        56v-56v
       </locus>
       <rubric>
-       <note>Thomas Aquinas, Summa theologiae interprete Demetrio Cydonio; Partis 3 quaestionis 74 articuli 4 excerptum</note>
       </rubric>
       <incipit>
        Οὐδέ ἐστι τῶν ἀναγκαίων τῇ τελετῇ γίνεσθαι ἐν ἀζύμῳ ἢ ἐνζύμῳ
@@ -295,6 +294,7 @@
       <explicit>
        τὸ ἱερουργεῖν ἐν ἄρτῳ ἀζύμῳ εὐλογώτερόν ἐστιν
       </explicit>
+       <note>Thomas Aquinas, Summa theologiae interprete Demetrio Cydonio; Partis 3 quaestionis 74 articuli 4 excerptum</note>
      </msItem>
      <msItem corresp="" n="20" xml:id="PTAMS00562_20">
       <locus from="57r" to="57v">
@@ -328,77 +328,76 @@
        59v-62v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 3</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 3</note>
      </msItem>
      <msItem corresp="" n="23" xml:id="PTAMS00562_23">
       <locus from="62v" to="69v">
        62v-69v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 4</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 4</note>
      </msItem>
      <msItem corresp="" n="24" xml:id="PTAMS00562_24">
       <locus from="69v" to="74v">
        69v-74v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 5</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 5</note>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0004.pta001" n="25" xml:id="PTAMS00562_25">
       <locus from="75r" to="79r">
        75r-79r
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 17</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 17</note>
      </msItem>
      <msItem corresp="" n="26" xml:id="PTAMS00562_26">
       <locus from="79r" to="86r">
        79r-86r
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 18</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 18</note>
      </msItem>
      <msItem corresp="" n="27" xml:id="PTAMS00562_27">
       <locus from="86r" to="89v">
        86r-89v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 21</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 21</note>
      </msItem>
      <msItem corresp="" n="28" xml:id="PTAMS00562_28">
       <locus from="89v" to="92r">
        89v-92r
       </locus>
       <rubric>
-       <note>Nilus Cabasilas, De primatu papae</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Nilus Cabasilas, De primatu papae</note>
      </msItem>
      <msItem corresp="" n="29" xml:id="PTAMS00562_29">
       <locus from="92r" to="92v">
        92r-92v
       </locus>
       <rubric>
-       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 19; Excerptum cap. 14</note>
       </rubric>
       <incipit>
        Ἀλλὰ πατριάρχαι μὲν πολλοὶ
@@ -406,13 +405,13 @@
       <explicit>
        σώφρονος λογισμοῦ
       </explicit>
+       <note>Barlaam Calaber de Seminaria, Aduersus Latinos 19; Excerptum cap. 14</note>
      </msItem>
      <msItem corresp="" n="30" xml:id="PTAMS00562_30">
       <locus from="93r" to="97r">
        93r-97r
       </locus>
       <rubric>
-       <note>Nilus Cabasilas, De dissidio Ecclesiarum</note>
       </rubric>
       <incipit>
        Τί τοίνυν ἐστὶ τὸ τῆς διαστάσεως αἴτιον
@@ -420,26 +419,27 @@
       <explicit>
        τὰ παρόντα ἀρκεῖ
       </explicit>
+       <note>Nilus Cabasilas, De dissidio Ecclesiarum</note>
      </msItem>
      <msItem corresp="" n="31" xml:id="PTAMS00562_31">
       <locus from="98r" to="162v">
        98r-162v
       </locus>
       <rubric>
-       <note>Demetrius Cydones, De processione Spiritus sancti ad amicum; Cap. 42, 21-22, 3-4</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Demetrius Cydones, De processione Spiritus sancti ad amicum; Cap. 42, 21-22, 3-4</note>
      </msItem>
      <msItem corresp="cpg:3010.29" n="32" xml:id="PTAMS00562_32">
       <locus from="163r" to="169v">
        163r-169v
       </locus>
       <rubric>
-       <note> §§ 1-16</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note> §§ 1-16</note>
      </msItem>
      <msItem corresp="cpg:4336" n="33" xml:id="PTAMS00562_33">
       <locus from="170r" to="183r">
@@ -455,71 +455,70 @@
        183v-185v
       </locus>
       <rubric>
-       <note> §§ 16-21</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note> §§ 16-21</note>
      </msItem>
      <msItem corresp="" n="35" xml:id="PTAMS00562_35">
       <locus from="186r" to="197v">
        186r-197v
       </locus>
       <rubric>
-       <note>Nicephorus Cpl. ptr. I, Epistula ad Leonem papam</note>
       </rubric>
       <incipit>
        ΜΕΓΑΣ ΜΕΝ ΩΣ ΑΛΗΘΩΣ ΚΑΙ ΑΞΙΑΓΑΣΤΟΣ
       </incipit>
       <explicit/>
+       <note>Nicephorus Cpl. ptr. I, Epistula ad Leonem papam</note>
      </msItem>
      <msItem corresp="" n="36" xml:id="PTAMS00562_36">
       <locus from="198r" to="198v">
        198r-198v
       </locus>
       <rubric>
-       <note>Symbolum Nicaenum</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Symbolum Nicaenum</note>
      </msItem>
      <msItem corresp="cpg:5222" n="37" xml:id="PTAMS00562_37">
       <locus from="199r" to="200r">
        199r-200r
       </locus>
       <rubric>
-       <note>Cyrillus Alexandrinus, Apologia 12 Anathematismorum Contra Theodoretum; Excerpta</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Cyrillus Alexandrinus, Apologia 12 Anathematismorum Contra Theodoretum; Excerpta</note>
      </msItem>
      <msItem corresp="" n="38" xml:id="PTAMS00562_38">
       <locus from="200v" to="200v">
        200v-200v
       </locus>
       <rubric>
-       <note>Concilium Ephesinum (a. 431): decretum de symbolo</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Concilium Ephesinum (a. 431): decretum de symbolo</note>
      </msItem>
      <msItem corresp="" n="39" xml:id="PTAMS00562_39">
       <locus from="200v" to="200v">
        200v-200v
       </locus>
       <rubric>
-       <note>Cyrillus Alexandrinus, Epp 14, 33, Etc. Ad Acacium Beroeensem</note>
       </rubric>
       <incipit>
        Ἐπ’ αὐτῷ οὐκ ἔνι προσθεῖναι καὶ ἀπ’ αὐτοῦ οὐκ ἔστιν ἀφελεῖν
       </incipit>
       <explicit/>
+       <note>Cyrillus Alexandrinus, Epp 14, 33, Etc. Ad Acacium Beroeensem</note>
      </msItem>
      <msItem corresp="" n="40" xml:id="PTAMS00562_40">
       <locus from="200v" to="201r">
        200v-201r
       </locus>
       <rubric>
-       <note>Concilium Constantinopolitanum (a. 680): actionis 18 excerptum; sequuntur quaedam de Papa Agathone</note>
       </rubric>
       <incipit>
        Ὁρίζομεν αὐτοῦς
@@ -527,79 +526,79 @@
       <explicit>
        ἀναθεματίζεσθαι αὐτούς
       </explicit>
+       <note>Concilium Constantinopolitanum (a. 680): actionis 18 excerptum; sequuntur quaedam de Papa Agathone</note>
      </msItem>
      <msItem corresp="cpg:3010.29" n="41" xml:id="PTAMS00562_41">
       <locus from="201v" to="201v">
        201v-201v
       </locus>
       <rubric>
-       <note> § 21; inc. mut.</note>
       </rubric>
       <incipit>
        στραγγαλιὰς βιαίων
       </incipit>
       <explicit/>
+       <note> § 21; inc. mut.</note>
      </msItem>
      <msItem corresp="cpg:7697" n="42" xml:id="PTAMS00562_42">
       <locus from="202r" to="204v">
        202r-204v
       </locus>
       <rubric>
-       <note>Maximus confessor, Ad Marinum Cypri presbyterum</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Maximus confessor, Ad Marinum Cypri presbyterum</note>
      </msItem>
      <msItem corresp="cpg:7699" n="43" xml:id="PTAMS00562_43">
       <locus from="204v" to="205r">
        204v-205r
       </locus>
       <rubric>
-       <note>Maximus confessor, Epistulae; Excerptum ex epistula Romae descripta</note>
       </rubric>
       <incipit>
        Πάντα γὰρ τὰ πέρατα
       </incipit>
       <explicit/>
+       <note>Maximus confessor, Epistulae; Excerptum ex epistula Romae descripta</note>
      </msItem>
      <msItem corresp="cpg:7697" n="44" xml:id="PTAMS00562_44">
       <locus from="205r" to="205v">
        205r-205v
       </locus>
       <rubric>
-       <note>Maximus confessor, De qualitate, proprietate et differentia</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Maximus confessor, De qualitate, proprietate et differentia</note>
      </msItem>
      <msItem corresp="" n="45" xml:id="PTAMS00562_45">
       <locus from="206r" to="206r">
        206r-206r
       </locus>
       <rubric>
-       <note>Cyrillus Alexandrinus, Ep. 55; Excerptum</note>
       </rubric>
       <incipit>
        Διαπεράναντες γοῦν τὸν περὶ Χριστοῦ
       </incipit>
       <explicit/>
+       <note>Cyrillus Alexandrinus, Ep. 55; Excerptum</note>
      </msItem>
      <msItem corresp="" n="46" xml:id="PTAMS00562_46">
       <locus from="206r" to="206r">
        206r-206r
       </locus>
       <rubric>
-       <note>Cyrillus Alexandrinus, Ep. 17; Excerptum; Cum scholio in margine</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Cyrillus Alexandrinus, Ep. 17; Excerptum; Cum scholio in margine</note>
      </msItem>
      <msItem corresp="" n="47" xml:id="PTAMS00562_47">
       <locus from="207r" to="207v">
        207r-207v
       </locus>
       <rubric>
-       <note>Concilium Florentinum (a. 1439): Fidei formula a Latinis proposita</note>
       </rubric>
       <incipit>
        Ἐπειδὴ ἐν ταύτῃ τῇ ἱερὰ καὶ οἰκουμενικῇ συνόδῳ
@@ -607,16 +606,17 @@
       <explicit>
        οἱ ἅγιοι διδάσκαλοι καὶ πατέρες ἐκ πατρός
       </explicit>
+       <note>Concilium Florentinum (a. 1439): Fidei formula a Latinis proposita</note>
      </msItem>
      <msItem corresp="cpg:4336" n="48" xml:id="PTAMS00562_48">
       <locus from="208r" to="208v">
        208r-208v
       </locus>
       <rubric>
-       <note>Iohannes Chrysostomus, De proditione Iudae 1; Excerpta duo</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Iohannes Chrysostomus, De proditione Iudae 1; Excerpta duo</note>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0005.pta001" n="49" xml:id="PTAMS00562_49">
       <locus from="209v" to="209v">
@@ -637,51 +637,50 @@
        209v-209v
       </locus>
       <rubric>
-       <note>Manuel Comnenus I, Interpretatio Cyrilli Alexandrini De adoratione et cultu in spiritu et ueritate</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Manuel Comnenus I, Interpretatio Cyrilli Alexandrini De adoratione et cultu in spiritu et ueritate</note>
      </msItem>
      <msItem corresp="cpg:5216" n="51" xml:id="PTAMS00562_51">
       <locus from="210r" to="212r">
        210r-212r
       </locus>
       <rubric>
-       <note>Cyrillus Alexandrinus, De Sancta Trinitate dialogi VII; Excerpta quinque</note>
       </rubric>
       <incipit>
        Ὑφέστηκε γὰρ ἰδικῶς
       </incipit>
       <explicit/>
+       <note>Cyrillus Alexandrinus, De Sancta Trinitate dialogi VII; Excerpta quinque</note>
      </msItem>
      <msItem corresp="cpg:5216" n="52" xml:id="PTAMS00562_52">
       <locus from="212r" to="212v">
        212r-212v
       </locus>
       <rubric>
-       <note>Cyrillus Alexandrinus, Argumentorum de Sancto Spiritu capita; Excerpta quattuor</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Cyrillus Alexandrinus, Argumentorum de Sancto Spiritu capita; Excerpta quattuor</note>
      </msItem>
      <msItem corresp="cpg:2926" n="53" xml:id="PTAMS00562_53">
       <locus from="213r" to="215r">
        213r-215r
       </locus>
       <rubric>
-       <note>Basilius Caesariensis, Homilia de Spiritu Sancto</note>
       </rubric>
       <incipit/>
       <explicit>
        προσηγορίᾳ καὶ ὁμοιώσει
       </explicit>
+       <note>Basilius Caesariensis, Homilia de Spiritu Sancto</note>
      </msItem>
      <msItem corresp="cpg:3674" n="54" xml:id="PTAMS00562_54">
       <locus from="215r" to="215v">
        215r-215v
       </locus>
       <rubric>
-       <note>Apollinaris Laodicenus, Contra Sabellianos; Excerpta duo</note>
       </rubric>
       <incipit>
        Ἃ τοίνυν ἐλέγομεν
@@ -689,67 +688,67 @@
       <explicit>
        ἐκ τοῦ πατρὸς ἐκπορεύεται
       </explicit>
+       <note>Apollinaris Laodicenus, Contra Sabellianos; Excerpta duo</note>
      </msItem>
      <msItem corresp="" n="55" xml:id="PTAMS00562_55">
       <locus from="216r" to="216v">
        216r-216v
       </locus>
       <rubric>
-       <note>Nilus Cabasilas, De Spiritus Sancti processione; Excerptum; Sive textus Gregorii Nysseni, Ad Ablabium quod non sint tres dii; Cum interpretatione Nili</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Nilus Cabasilas, De Spiritus Sancti processione; Excerptum; Sive textus Gregorii Nysseni, Ad Ablabium quod non sint tres dii; Cum interpretatione Nili</note>
      </msItem>
      <msItem corresp="" n="56" xml:id="PTAMS00562_56">
       <locus from="216bisr" to="217v">
        216bisr-217v
       </locus>
       <rubric>
-       <note>Nilus Cabasilas, De Spiritus Sancti processione; Excerptum argumentorum contra Latinos</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Nilus Cabasilas, De Spiritus Sancti processione; Excerptum argumentorum contra Latinos</note>
      </msItem>
      <msItem corresp="" n="57" xml:id="PTAMS00562_57">
       <locus from="218r" to="219v">
        218r-219v
       </locus>
       <rubric>
-       <note>Nilus Cabasilas, De Spiritus Sancti processione; Excerpta</note>
       </rubric>
       <incipit>
        Ὁ μὲν οὖν ὅρος γέμων ἐστί
       </incipit>
       <explicit/>
+       <note>Nilus Cabasilas, De Spiritus Sancti processione; Excerpta</note>
      </msItem>
      <msItem corresp="" n="58" xml:id="PTAMS00562_58">
       <locus from="220r" to="222v">
        220r-222v
       </locus>
       <rubric>
-       <note>Augustinus Aurelius, De processione Spiritus Sancti; Excerpta octo a Latinis prolatae</note>
       </rubric>
       <incipit>
        Ὥσπερ γὰρ τὸ γεννῆσθαι τῷ Υἱῷ
       </incipit>
       <explicit/>
+       <note>Augustinus Aurelius, De processione Spiritus Sancti; Excerpta octo a Latinis prolatae</note>
      </msItem>
      <msItem corresp="" n="59" xml:id="PTAMS00562_59">
       <locus from="223r" to="226v">
        223r-226v
       </locus>
       <rubric>
-       <note>Patrum auctoritates a Latinis prolatae pro processione Spiritus Sancti</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Patrum auctoritates a Latinis prolatae pro processione Spiritus Sancti</note>
      </msItem>
      <msItem corresp="" n="60" xml:id="PTAMS00562_60">
       <locus from="227r" to="229r">
        227r-229r
       </locus>
       <rubric>
-       <note>Eusebius Caesariensis, Epistula ad Ecclesiam Caesariensem; inc. mut.</note>
       </rubric>
       <incipit>
        [μονο]γενῆ πρωτότοκον πάσης κτίσεως
@@ -757,36 +756,37 @@
       <explicit>
        εὐγόμεθα ἀδελφοὶ τιμιώτατοι
       </explicit>
+       <note>Eusebius Caesariensis, Epistula ad Ecclesiam Caesariensem; inc. mut.</note>
      </msItem>
      <msItem corresp="" n="61" xml:id="PTAMS00562_61">
       <locus from="229v" to="233v">
        229v-233v
       </locus>
       <rubric>
-       <note>Anastasius Antiochenus I, De orthodoxa fide orationes V; Oratio 2</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Anastasius Antiochenus I, De orthodoxa fide orationes V; Oratio 2</note>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0036.pta001" n="62" xml:id="PTAMS00562_62">
       <locus from="233v" to="235r">
        233v-235r
       </locus>
       <rubric>
-       <note>II 22</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>II 22</note>
      </msItem>
      <msItem corresp="cpg:6944" n="63" xml:id="PTAMS00562_63">
       <locus from="235v" to="236v">
        235v-236v
       </locus>
       <rubric>
-       <note>Anastasius Antiochenus I, De orthodoxa fide orationes V; Oratio 1; Excerpta tria</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Anastasius Antiochenus I, De orthodoxa fide orationes V; Oratio 1; Excerpta tria</note>
      </msItem>
      <msItem corresp="cpg:3010.20" n="64" xml:id="PTAMS00562_64">
       <locus from="237r" to="241v">
@@ -804,17 +804,16 @@
        243r-246v
       </locus>
       <rubric>
-       <note>Excerptum: 19,11-22,21; Cum scholiis anonymis ex Andreae Caesariensis commentario desumptis</note>
       </rubric>
       <incipit/>
       <explicit/>
+       <note>Excerptum: 19,11-22,21; Cum scholiis anonymis ex Andreae Caesariensis commentario desumptis</note>
      </msItem>
      <msItem corresp="cpg:3010.27" n="66" xml:id="PTAMS00562_66">
       <locus from="247r" to="247v">
        247r-247v
       </locus>
       <rubric>
-       <note>Cap. 3</note>
       </rubric>
       <incipit>
        Οὐ παντός, ὦ οὗτοι, τὸ περὶ Θεοῦ φιλοσοφεῖν
@@ -822,13 +821,13 @@
       <explicit>
        ἀκοὴν βλαπτούσιν ἢ τὰ σώματα
       </explicit>
+       <note>Cap. 3</note>
      </msItem>
      <msItem corresp="cpg:3010.25" n="67" xml:id="PTAMS00562_67">
       <locus from="248r" to="248v">
        248r-248v
       </locus>
       <rubric>
-       <note>Cap. 15-18</note>
       </rubric>
       <incipit>
        Ὁρίζου δὲ καὶ τὴν ἡμετέραν εὐσέβειαν
@@ -836,49 +835,49 @@
       <explicit>
        πάντων γὰρ ἡ ἐλπίς
       </explicit>
+       <note>Cap. 15-18</note>
      </msItem>
      <msItem corresp="" n="68" xml:id="PTAMS00562_68">
       <locus from="250r" to="252v">
        250r-252v
       </locus>
       <rubric>
-       <note>Concilium Florentinum (a. 1438/9): definitio cum subscriptionibus episcoporum et monachorum graecorum; sequitur numerus subscriptionibus cardinalium, archiepisc., higumenorum et abbatum; Vide 254r</note>
       </rubric>
       <incipit>
        Εὐγένιος ἐπίσκοπος δοῦλος τῶν δούλων τοῦ Θεοῦ εἰς ἀίδιον
       </incipit>
       <explicit/>
+       <note>Concilium Florentinum (a. 1438/9): definitio cum subscriptionibus episcoporum et monachorum graecorum; sequitur numerus subscriptionibus cardinalium, archiepisc., higumenorum et abbatum; Vide 254r</note>
      </msItem>
      <msItem corresp="cpg:8172" n="69" xml:id="PTAMS00562_69">
       <locus from="253r" to="253v">
        253r-253v
       </locus>
       <rubric>
-       <note>Initium tantum</note>
       </rubric>
       <incipit/>
       <explicit>
        καθ’ ἣν ἡ περὶ τοὺς τέκοντας
       </explicit>
+       <note>Initium tantum</note>
      </msItem>
      <msItem corresp="" n="70" xml:id="PTAMS00562_70">
       <locus from="254r" to="256v">
        254r-256v
       </locus>
       <rubric>
-       <note>Concilium Florentinum (a. 1438/9): definitio cum subscriptionibus episcoporum et monachorum graecorum; sequitur numerus subscriptionibus cardinalium, archiepisc., higumenorum et abbatum; Vide 250r</note>
       </rubric>
       <incipit/>
       <explicit>
        καὶ πρὸ πάντων ὁ πάπας Εὐγένιος δ̅
       </explicit>
+       <note>Concilium Florentinum (a. 1438/9): definitio cum subscriptionibus episcoporum et monachorum graecorum; sequitur numerus subscriptionibus cardinalium, archiepisc., higumenorum et abbatum; Vide 250r</note>
      </msItem>
      <msItem corresp="" n="71" xml:id="PTAMS00562_71">
       <locus from="257r" to="258v">
        257r-258v
       </locus>
       <rubric>
-       <note>Theodorus Balsamon, In Epistulam S. Gregorii Nysseni ad Letoium, inc. mut.</note>
       </rubric>
       <incipit>
        δεσπότου ἢ ζημίας ἀφορήτου
@@ -886,6 +885,7 @@
       <explicit>
        ἀποστερεῖς τῆς μεταλήψεως τῶν τιμίων μαργαριτῶν
       </explicit>
+       <note>Theodorus Balsamon, In Epistulam S. Gregorii Nysseni ad Letoium, inc. mut.</note>
      </msItem>
     </msContents>
     <history>

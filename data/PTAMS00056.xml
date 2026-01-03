@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal Κ. IV. 09 (Andrés 542) [ms. détruit]
+     Escorial (El-), Real Biblioteca, Mss. Κ. IV. 9 (Andrés 542) [ms. détruit]
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Real Biblioteca
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      Κ. IV. 09 (Andrés 542) [ms. détruit]
+      Κ. IV. 9 (Andrés 542) [ms. détruit]
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00056_01">
-      <locus from="085" to="098v">
-       085–098v
+      <locus from="85" to="98v">
+       85–98v
       </locus>
       <rubric/>
       <incipit/>

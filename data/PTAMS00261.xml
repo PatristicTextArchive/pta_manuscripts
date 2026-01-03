@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Napoli, Biblioteca nazionale Vittorio Emanuele III, fonds principal II B 18
+     Napoli, Biblioteca nazionale Vittorio Emanuele III, Mss. II B 18
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Biblioteca nazionale Vittorio Emanuele III
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       II B 18
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta022" n="1" xml:id="PTAMS00261_01">
-      <locus from="074v" to="075v">
-       074v–075v
+      <locus from="74v" to="75v">
+       74v–75v
       </locus>
       <rubric/>
       <incipit/>

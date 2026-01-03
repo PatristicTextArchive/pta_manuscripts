@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Escorial (El-), Real Biblioteca, fonds principal R. I. 18 (Revilla 018)
+     Escorial (El-), Real Biblioteca, Mss. R. I. 18 (Revilla 18)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Real Biblioteca
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      R. I. 18 (Revilla 018)
+      R. I. 18 (Revilla 18)
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta010" n="1" xml:id="PTAMS00062_01">
-      <locus from="099" to="101v">
-       099–101v
+      <locus from="99" to="101v">
+       99–101v
       </locus>
       <rubric/>
       <incipit/>

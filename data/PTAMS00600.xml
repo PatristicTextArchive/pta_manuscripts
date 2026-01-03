@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Milano, Biblioteca Ambrosiana, fonds principal I 059 sup.
+     Milano, Biblioteca Ambrosiana, Mss. I 59 sup.
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Biblioteca Ambrosiana
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      I 059 sup.
+      I 59 sup.
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -79,15 +79,15 @@
     <msContents>
      <msItem corresp="urn:cts:pta:pta0022.pta001" n="1" xml:id="PTAMS00600_01">
       <locus from="001" to="43*">
-       001–43*
+       1–43*
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0022.pta002" n="2" xml:id="PTAMS00600_02">
-      <locus from="043" to="91*">
-       043–91*
+      <locus from="43" to="91*">
+       43–91*
       </locus>
       <rubric/>
       <incipit/>
@@ -97,8 +97,8 @@
       <note>
        Athanasius Alexandrinus, Epistula ad episcopos Aegypti et Libyae (CPG 2092)
       </note>
-      <locus from="091" to="110v*">
-       091–110v*
+      <locus from="91" to="110v*">
+       91–110v*
       </locus>
       <rubric/>
       <incipit/>
@@ -204,10 +204,10 @@
       <explicit/>
      </msItem>
      <msItem corresp="cpg:2247
-BHG 0446g, 0449h" n="13" xml:id="PTAMS00600_13">
+BHG 446g, 449h" n="13" xml:id="PTAMS00600_13">
       <note>
        Athanasius Alexandrinus, De passione et cruce Domini (CPG 2247
-BHG 0446g, 0449h)
+BHG 446g, 449h)
       </note>
       <locus from="369" to="370v">
        369–370v

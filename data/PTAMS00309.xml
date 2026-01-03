@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Oxford, New College, fonds principal 82
+     Oxford, New College, Mss. 82
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       New College
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       82
@@ -73,16 +73,16 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta047" n="1" xml:id="PTAMS00309_01">
-      <locus from="013v" to="020v">
-       013v–020v
+      <locus from="13v" to="20v">
+       13v–20v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta048" n="2" xml:id="PTAMS00309_02">
-      <locus from="020v">
-       020v
+      <locus from="20v">
+       20v
       </locus>
       <rubric/>
       <incipit/>

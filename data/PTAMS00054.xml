@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Cambridge, Trinity College, fonds principal O.08.33 (1408)
+     Cambridge, Trinity College, Mss. O.08.33 (1408)
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,7 +55,7 @@
       Trinity College
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
       O.08.33 (1408)
@@ -92,7 +92,7 @@
         <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33" type="straighturl"/>
        </bibl>
        <bibl>
-        <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33/manifest.json" type="manifesturl"/>
+        <ref target="https://mss-cat.trin.cam.ac.uk/manuscripts/O.8.33.json" type="manifesturl"/>
        </bibl>
       </p>
      </surrogates>

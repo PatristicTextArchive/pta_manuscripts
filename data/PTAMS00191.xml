@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+    <change when-iso="2025-01-24" who="#AvS">Add links to facsimile</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -68,20 +69,22 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="1" xml:id="PTAMS00191_01">
-      <locus from="132">
-       132
+      <locus from="132r" to="134v">
+       132r-134v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+      <note>Excerpta</note><!-- ch. 8, 10-11-->
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00191_02">
-      <locus from="460v" to="461">
-       460v–461
+      <locus from="460v" to="461r">
+       460v–461r
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
+      <note>Excerptum, stark bearbeitet</note><!-- als Chryostomos markiert; ch. 4 -->
      </msItem>
     </msContents>
     <history>
@@ -93,6 +96,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+         <ref target="http://hdl.handle.net/1887.1/item:4168835" type="straighturl"/>
+        </bibl>
+       <bibl>
+        <ref target="https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A4168835/manifest" type="manifesturl"/>
+       </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

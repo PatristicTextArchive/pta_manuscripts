@@ -73,24 +73,24 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta002" n="1" xml:id="PTAMS00170_01">
-      <locus from="001" to="014v">
-       001–014v
+      <locus from="001" to="14v">
+       1–14v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta042" n="2" xml:id="PTAMS00170_02">
-      <locus from="006" to="019 (inc. mut.)">
-       006–019 (inc. mut.)
+      <locus from="006" to="19 (inc. mut.)">
+       6–19 (inc. mut.)
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta050" n="3" xml:id="PTAMS00170_03">
-      <locus from="078v" to="093v">
-       078v–093v
+      <locus from="78v" to="93v">
+       78v–93v
       </locus>
       <rubric/>
       <incipit/>

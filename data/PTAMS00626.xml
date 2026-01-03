@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00626" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Mss. 216
+    </title>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <title>
+      Die alexandrinische und antiochenische Bibelexegese in der Spätantike
+     </title>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>
+     Berlin-Brandenburgische Akademie der Wissenschaften
+    </authority>
+    <distributor>
+     Patristic Text Archive
+    </distributor>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Available under a Creative Commons Attribution 4.0 International License
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <p>
+     This description is based on data from the
+     <ref target="https://pinakes.irht.cnrs.fr/">
+      Pinakes-Database
+     </ref> (with the notes by G. Nowack and M. Richard)
+     and on autopsy.
+    </p>
+   </sourceDesc>
+  </fileDesc>
+  <revisionDesc status="draft">
+   <change when-iso="2025-08-14" who="#AvS">
+    Created TEI file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <msDesc>
+    <msIdentifier>
+     <country/>
+     <settlement>
+      Athêna
+     </settlement>
+     <repository>
+      Ethnikê Bibliothêkê tês Hellados (EBE)
+     </repository>
+     <collection>
+      Mss.
+     </collection>
+     <idno>
+      216
+     </idno>
+     <altIdentifier type="diktyon">
+      <idno>
+       2512
+      </idno>
+     </altIdentifier>
+     <altIdentifier type="sigle_pta0002">
+      <idno>
+       Ay
+      </idno>
+     </altIdentifier>
+    </msIdentifier>
+    <msContents>
+     <msItem defective="true" corresp="cpg:4373" n="1" xml:id="PTAMS00626_01">
+      <note>
+       Iohannes Chrysostomus, De gloria in tribulationibus
+      </note>
+      <locus from="1v" to="8r">
+       1v-8r
+      </locus>
+      <rubric type="defective"></rubric>
+      <incipit type="defective">(παντα)χόθεν μυρίας αἴρεσθαι, κατὰ τῶν πιστευόντων παρεσκέυασεν ἐπαχθείας καὶ μάχας· ἐντεῦθεν οἱ μὲν δεσμωτήρια ἀπήγοντο, οἱ δὲ εἰς δικαστήρια</incipit>
+      <explicit>ἀλλὰ μετὰ ἀνδρείας ἁπάσης ἱστάμενοι εὐχαριστῶμεν τῷ θεῷ διηνεκῶς ὑπὲρ πάντων τῶν εἰς ἡμᾶς τελουμένων εὐεργεσιῶν αὐτοῦ, ἵνα καὶ τῶν παρόντων ἀπολαύσωμεν ἀγαθῶν καὶ τῶν μελλόντων ἐπιτύχωμεν δωρεῶν, χάριτι καὶ οἰκτιρμοῖς... ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="cpg:4414" n="2" xml:id="PTAMS00626_02">
+      <note>
+       Iohannes Chrysostomus, In illud : Ne timueritis cum diues factus fuerit homo (Ps. 48, 17) homiliae 1-2
+      </note>
+      <locus from="8r" to="14r">
+       8r-14r
+      </locus>
+      <rubric><num>ιε</num> Τοῦ αὐτοῦ ὁμιλία έχθεῖσα ἐν Κωνσταντινουπόλει ἐν τῇ ἐκκλησίᾳ τῇ μεγάλῃ, ὀλίγων συνελθόντων, εἰς τό· μὴ φοβοῦ ὅταν πλουτήσῃ ἄνθρωπος, καὶ περὶ ἐλεημοσύνης.</rubric>
+      <incipit>Βραχὺς ὁ καρπὸς τοῦ καλῶς εἰρηκότος, ἀλλ' ὤριμος</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4317" n="3" xml:id="PTAMS00626_03">
+      <note>
+       Iohannes Chrysostomus, Sermo cum presbyter fuit ordinatus
+      </note>
+      <locus from="14r" to="20r">
+       14r-20r
+      </locus>
+      <rubric><num>ις</num> Τοῦ αὐτοῦ ὅτε πρεσβύτερος προεχειρίσθη, εἰς ἑαυτόν, καὶ εἰς τὸν ἐπίσκοπον, καὶ εἰς τὸ πλῆθος τοῦ λαοῦ ὁμιλία.</rubric>
+      <incipit>Ἆρα ἀληθῆ τὰ συμβάντα περὶ ἡμᾶς καὶ γέγονεν ὄντως</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4376" n="4" xml:id="PTAMS00626_04">
+      <note>
+       Iohannes Chrysostomus, In illud : Salutate Priscillam et Aquilam (Rm. 16, 3) sermo 1
+      </note>
+      <locus from="20r" to="28r">
+       20r-28r
+      </locus>
+      <rubric><num>ιζ</num> Τοῦ αὐτοῦ ὁμιλία εἰς τό· ἀσπάσθε Πρίσκιλλαν καὶ Ἄκυλλαν, καὶ τὰ ἐξῆς.</rubric>
+      <incipit>Πολλοὺς ὑμῶν οἶμαι θαυμάζειν ἐπὶ τῆ περικοπῆι</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4376" n="5" xml:id="PTAMS00626_05">
+      <note>
+       Iohannes Chrysostomus, In illud : Salutate Priscillam et Aquilam (Rm. 16, 3) sermo 2
+      </note>
+      <locus from="28r" to="40r">
+       20r-40r
+      </locus>
+      <rubric><num>ιη</num> Τοῦ αὐτοῦ ὁμιλία ἑτέρα εἰς Ἄκυλαν Πρίσκιλλαν, καὶ εἰς τὸ μὴ κακῶς λέγειν τοὺς ἱερεῖς τοῦ θεοῦ.</rubric>
+      <incipit>Ἆρα ἐπαιδεύθητε μηδὲν εἶναι νομίζειν</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:XXXX" n="6" xml:id="PTAMS00626_06">
+      <note>
+        Quod oportet honorare spirituales magistros (a) In illud, Salutate Priscillam, homilia 2 : PG 51, 203, linn. 2-24 ; 203, lin. 45-204, lin. 36 ; 206, linn. 5-32. (b) In Epistulam II ad Timotheum homilia 2 : PG 62, 609, lin. 18 ab imo-611, lin. 20 ; 612 linn. 1-16 et linn. 42-52. (c) In illud, Salutate Priscillam, homilia 2 : PG 51, 205, linn. 7-39. (d) In Iohannem homilia 86 : PG 59, 471, lin. 3 ab imo-474, lin. 5 
+      </note>
+      <locus from="40r" to="45v">
+       40r-45v
+      </locus>
+      <rubric><num>ιθ</num> Τοῦ αὐτοῦ ὅτι δεῖ τιμᾶν τοὺς πνευματικοὺς διδασκάλους καὶ μὴ λοιδορεῖν αὐτούς.</rubric>
+      <incipit>Οὐδὲν οὕτως ἐλευθεροστομεῖν παρασκευάζει καὶ θαρρεῖν πᾶσι πείθη τοῖς δεινοῖς</incipit>
+      <explicit>καὶ τοὺς ἱερεῖς αὐτοῦ ἐντίμως ἔχωμεν πᾶσάν τε αὐτοῖς ἀπονέμωμεν τιμῆς, ἵνα καὶ ὑπὲρ τῶν οἰκείων κατορθωμάτων καὶ ὑπὲρ τῆς εἰς ἐκείνους θεραπείας πολλὴν ἀπολαύσωμεν παρὰ θεοῦ τὴν ἀμοιβήν, χάριτι... ἀμήν.</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0046.pta001" n="7" xml:id="PTAMS00626_07">
+      <locus from="45v" to="50v">
+       45v-50v
+      </locus>
+      <rubric><num>κ</num> Τοῦ αὐτοῦ ὁμιλία περὶ τοῦ μὴ δεῖν ἀναθεματίζειν ζῶντας ἤ τεθνεῶτας.</rubric>
+      <incipit>Πρώιην μὲν οὖν περὶ ἀκαταλήπτου γνώσεως</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4383" n="8" xml:id="PTAMS00626_08">
+      <note>
+       Iohannes Chrysostomus, In illud : Habentes eundem spiritum homilia 1
+      </note>
+      <locus from="50v" to="60r">
+       50v-60
+      </locus>
+      <rubric><num>κα</num> Τοῦ αὐτοῦ εἰς τὴν ἀποστολικὴν ῥῆσιν τὴν λέγουσαν· ἔχοντες δὲ τὸ αὐτὸ πνεῦμα τῆς πίστεως κατὰ τὸ γεγραμμένον· καὶ εἰς τό· ἐπίστευσα, διὸ ἐλάλησα, καὶ περὶ ἐλεημοσύνης.</rubric>
+      <incipit>Οἱ σοφώτατοι τῶν ἰατρῶν, ἐπεὶ δ' ἂν ἴδωσιν</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4383" n="9" xml:id="PTAMS00626_09">
+      <note>
+       Iohannes Chrysostomus, In illud : Habentes eundem spiritum homilia 2
+      </note>
+      <locus from="60r" to="69r">
+       60r-69r
+      </locus>
+      <rubric><num>κβ</num> Τοῦ αὐτοῦ τῆ προτέρα διαλεχθεὶς εἰς τὴν ἀποστολικὴν ῥῆσιν τὴν λέγουσαν· ἔχοντες δὲ τὸ αὐτὸ πνεῦμα τῆς πίστεως κατὰ τὸ γεγραμμένον· πάλιν εἰς τὴν αὐτὴν εἶπεν καὶ πρὸς Μανιχαίους, καὶ πάντας τοὺς διαβάλλοντας τὴν Παλαιὰν καὶ διαιροῦντας (αὐτὴν) τῆς Καινῆς, καὶ περὶ ἐλεημοσύνης, λόγος β΄</rubric>
+      <incipit>Ἀποστολικῆς ὑμῖν ἐξεγήσεως χρέος ὀφείλω παλαίον</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4383" n="10" xml:id="PTAMS00626_10">
+      <note>
+       Iohannes Chrysostomus, In illud : Habentes eundem spiritum homilia 3
+      </note>
+      <locus from="69r" to="80r">
+       69r-80r
+      </locus>
+      <rubric><num>κγ</num> Τοῦ αὐτοῦ ὁμιλία πάλιν εἰς τὴν αὐτὴν ῥῆσιν· ἔχοντες δὲ τὸ αὐτὸ πνεῦμα τῆς πίστεως κατὰ τὸ γεγραμμένον, καὶ διὰ τί κοινῆ πάντες ἀπολαμβάνουσι τὰ ἀγαθά, καὶ περὶ ἐλεημοσύνης, λόγος γ΄</rubric>
+      <incipit>Τῷ προτέρᾳ συνάξει καὶ τῆ πρὸ ἐκείνης</incipit>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4329" n="11" xml:id="PTAMS00626_11">
+      <note>
+       Iohannes Chrysostomus, De Lazaro concio 7
+      </note>
+      <locus from="80v" to="90v">
+       80v-90v
+      </locus>
+      <rubric><num>κδ</num> Τοῦ αὐτοῦ ὁμιλία πρὸς τοὺς εἰς τὰς ἰπποδρομίας ἀπελθόντας, καὶ εἰς τὸ ῥητὸν τοῦ εὐαγγελίου· εἰσέλθετε διὰ τῆς στενῆς πύλης, ὅτι πλατεῖα ἡ πύλη καὶ εὐρύχωρος ἡ ὁδὸς ἡ ἀπάγουσα εἰς τὴν ἀπώλειαν, καὶ πολλοὶ εἰσὶν οἱ εἰσερχόμενοι δι' αὐτῆς, καὶ πρὸς τῷ τέλει εἰς τὸν Λάζαρον.</rubric>
+      <incipit>Βουλόμαι τῆς συνήθους ἄψασθαι πάλιν διδασκαλίας καὶ τὴν πνευματικὴν</incipit>
+      <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="cpg:4329" n="12" xml:id="PTAMS00626_12">
+      <note>
+       Iohannes Chrysostomus, De Lazaro concio 1
+      </note>
+      <locus from="90v" to="96v">
+       90v-96v
+      </locus>
+      <rubric><num>κε</num> Τοῦ αὐτοῦ ὁμιλία μετὰ τὰς Καλάνδας τῆ ἐξῆς κατὰ μεθυόντων καὶ περὶ τῶν εἰς καπηλεῖα εἰσιόντων, καὶ ὅτι τὸν διδάσκαλον οὐ χρὴ ἀπογινώσκειν τῶν μαθητῶν, κἄν πρὸς τὸ παρὸν μὴ πείθωνται, καὶ εἰς τὸν Λάζαρον.</rubric>
+      <incipit>Τὴν χθὲς ἡμέραν ἑορτὴν οὖσαν διαβολικὴν ἐποιήσατε</incipit>
+      <explicit type="defective">καὶ τὰ ἕλκη τῆς μέθης ἐν ταῖς τῶν μεθυόντων ἐργάζεται ψυχαῖς ὁ διάβολος καὶ ἡμᾶς τὰ φάρμακα ἐπιτιθέ(ναι χρὴ)</explicit>
+     </msItem>
+    </msContents>
+    <history>
+     <origin>
+      <p n="origDate">
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1001-01-01">
+        s. 11-12
+       </origDate>
+      </p>
+     </origin>
+    </history>
+   </msDesc>
+  </body>
+ </text>
+</TEI>

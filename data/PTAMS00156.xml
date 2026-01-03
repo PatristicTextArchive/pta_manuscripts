@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Hagion Oros, Skêtê Kausokalubiôn, fonds principal Kyriakou 003
+     Hagion Oros, Skêtê Kausokalubiôn, Mss. Kyriakou 3
     </title>
    </titleStmt>
    <editionStmt>
@@ -55,10 +55,10 @@
       Skêtê Kausokalubiôn
      </repository>
      <collection>
-      fonds principal
+      Mss.
      </collection>
      <idno>
-      Kyriakou 003
+      Kyriakou 3
      </idno>
      <altIdentifier type="diktyon">
       <idno>
@@ -68,8 +68,8 @@
     </msIdentifier>
     <msContents>
      <msItem corresp="urn:cts:pta:pta0001.pta016" n="1" xml:id="PTAMS00156_01">
-      <locus from="001" to="012">
-       001–012
+      <locus from="001" to="12">
+       1–12
       </locus>
       <rubric/>
       <incipit/>

@@ -79,15 +79,15 @@
     <msContents>
      <msItem corresp="urn:cts:pta:pta0022.pta001" n="1" xml:id="PTAMS00601_01">
       <locus from="001" to="37v">
-       001–37v
+       1–37v
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0022.pta002" n="2" xml:id="PTAMS00601_02">
-      <locus from="037v" to="79v">
-       037v–79v
+      <locus from="37v" to="79v">
+       37v–79v
       </locus>
       <rubric/>
       <incipit/>
@@ -97,8 +97,8 @@
       <note>
        Athanasius Alexandrinus, De incarnatione Dei Verbi (CPG 3738)
       </note>
-      <locus from="079v" to="81v">
-       079v–81v
+      <locus from="79v" to="81v">
+       79v–81v
       </locus>
       <rubric/>
       <incipit/>
@@ -108,8 +108,8 @@
       <note>
        Athanasius Alexandrinus, De incarnatione et contra arianos (CPG 2806)
       </note>
-      <locus from="081v" to="96">
-       081v–96
+      <locus from="81v" to="96">
+       81v–96
       </locus>
       <rubric/>
       <incipit/>
@@ -119,8 +119,8 @@
       <note>
        Athanasius Alexandrinus, De incarnatione contra Apollinarium I–II (CPG 2231)
       </note>
-      <locus from="096" to="120v">
-       096–120v
+      <locus from="96" to="120v">
+       96–120v
       </locus>
       <rubric/>
       <incipit/>
@@ -323,7 +323,7 @@ CPG 2869)
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1200-12-31" notBefore-iso="001101-01-01">
+       <origDate notAfter-iso="1200-12-31" notBefore-iso="1101-01-01">
         s. 12
        </origDate>
       </p>
