@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00022" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00633" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Mss. 425
+     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Mss. 428
     </title>
    </titleStmt>
    <editionStmt>
@@ -33,13 +33,12 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
-   <change when-iso="2026-04-24" who="#NW">add data</change>
-   <change when-iso="2020-08-14" who="#AvS">
+   <change when-iso="2026-02-14" who="#AvS">
     Created TEI file
    </change>
   </revisionDesc>
@@ -59,34 +58,58 @@
       Mss.
      </collection>
      <idno>
-      425
+      428
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       2721
+       2724
       </idno>
      </altIdentifier>
-     <altIdentifier type="sigle_pta0001">
+     <altIdentifier type="sigle_pta0022">
       <idno>
-       Ax
+       C
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00022_01">
-      <locus from="143" to="171 (p.)">
-       143–171 (p.)
+     <msItem corresp="cpg:2093" n="1" xml:id="PTAMS00633_01">
+      <locus from="1" to="250">
+       p. 1-250
       </locus>
-      <rubric>τοῦ ἐν ἁγίοις πρς ἡμῶν ἰω ἀρχιεσπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου λόγος εἰς τὸ ὁ κς ἐβασίλευσεν ἀγαλιάσθω ἡ γῆ· καὶ εἰς τὸ, ὅταν παραδῷ τὴν βασιλεὶαν τῷ θῷ καὶ πρὶ· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
-      <incipit>πάλιν ἡμῖν τοῦ μακαρίου δαδ πνικὴ κιθάρα παρὰ τοῦ ἁγίου πνς ἀνακρουσθεῖσα, τοὺς οὐνίους ἀπέδωκε φθόγγους·</incipit>
-      <explicit>ἅμα τῷ πρι σϋν ἀγίῷ πνί· νῦν ἀεὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:2092" n="2" xml:id="PTAMS00633_02">
+      <locus from="251" to="282">
+       p. 251-282
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0022.pta001" n="3" xml:id="PTAMS00633_03">
+      <locus from="283" to="340">
+       p. 283-340
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0022.pta002" n="4" xml:id="PTAMS00633_04">
+      <locus from="341" to="374">
+       p. 341-374
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1400-12-31" notBefore-iso="1301-01-01">
+        s. 14
        </origDate>
       </p>
      </origin>

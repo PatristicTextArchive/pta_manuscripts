@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2020-05-15" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -100,9 +101,9 @@
       <locus from="370" to="378">
        370–378
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸ ὁ κς ἐβασίλευσεν· καὶ εἰς τὸ ὅταν παραδῶ τὴν βασιλεὶαν τῷ θω καὶ πρι·ϗ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
+      <incipit>πάλιν ἡμῖν ἡ τοῦ μακαρίου δαδ πνικὴ κιθάρα παρὰ τοῦ ἁγίου πνς ἀνακρουσθεῖσα, τοὺς οὐνίους ἡμῖν ἀπέδωκε φθόγγους·</incipit>
+      <explicit>εἴη δὲ ἡμᾶς ἐν πᾶσι πιστοὺς διαμένειν θω· ᾧ ἡ δόξα καὶ τὸ κράτος· νῦν καὶ ἀὲι καὶ εἰς  τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>

@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-06" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -84,9 +85,9 @@
       <locus from="410" to="425 (p.)">
        410–425 (p.)
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ χρου ὁμιλία ψαλμ.  Ϟβ (ϞϚ a.c.). α. τοῦ χρου εἰς τὸ, ὁ κς ἐβασίλευσεν, ἀ α. κορ. ιε. κδ. γαλλιάσθω ἡ γῆ, εἰς τὸ, ὅταν παραδῷ τὴν βασιλεὶαν τῷ θῷ πρὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
+      <incipit>πάλιν ἡμῖν ἡ τοῦ μακαρίου δαδ πνικὴ κιθάρα παρὰ τοῦ Ex. Ms. Regio ut. emend.</incipit>
+      <explicit>μνημονευε τῆς τελευτῆς σου, καὶ ἕξεις τὴν γνώμην ἀσάλευτον. εἴη δὲ ἡμᾶς, ἀδελφοὶ, ἐν πᾶσι πιστοὺς διαμένειν θεῷ, ᾧ πρέπει πᾶσα δόξα, τιμὴ καὶ κράτος, εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="3" xml:id="PTAMS00271_03">
       <locus from="425" to="447 (p.)">

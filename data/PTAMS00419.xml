@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2020-05-15" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -72,15 +73,248 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00419_01">
-      <locus from="196" to="206">
-       196–206
+     <msItem corresp="cpg:4329.07" n="1" xml:id="PTAMS00419_01">
+      <locus from="003" to="010">
+       003-010
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta008" n="2" xml:id="PTAMS00419_02">
+     <msItem corresp="cpg:4329.01" n="2" xml:id="PTAMS00419_02">
+      <locus from="011" to="025">
+       011–025
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4329.02" n="3" xml:id="PTAMS00419_03">
+      <locus from="025" to="034">
+       025–034
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4329.03" n="4" xml:id="PTAMS00419_04">
+      <locus from="034" to="047">
+       034–047
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="" n="5" xml:id="PTAMS00419_05">
+     <note>Iohannes Chrysostomus De Galilaeis quorum sanguinem Pilatus miscuit cum sacrificiis eorum</note>
+      <locus from="047" to="048">
+       047–048
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4329.04" n="6" xml:id="PTAMS00419_06">
+      <locus from="048" to="057">
+       048–057
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4329.05" n="7" xml:id="PTAMS00419_07">
+      <locus from="058" to="066">
+       058–066
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4417.2" n="8" xml:id="PTAMS00419_08">
+      <locus from="066" to="071">
+       066–071
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4417.3" n="9" xml:id="PTAMS00419_09">
+      <locus from="071" to="078">
+       071–078
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4417.4" n="10" xml:id="PTAMS00419_10">
+      <locus from="078" to="085">
+       078–085
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4417.5" n="11" xml:id="PTAMS00419_11">
+      <locus from="086" to="090">
+       086–090
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4417.6" n="12" xml:id="PTAMS00419_12">
+      <locus from="090" to="095">
+       090–095
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="bhg:1108" n="13" xml:id="PTAMS00419_13">
+      <locus from="095" to="102">
+       095–102
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4386" n="14" xml:id="PTAMS00419_14">
+      <locus from="102" to="117">
+       102–117
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4332" n="15" xml:id="PTAMS00419_15">
+      <locus from="117" to="131">
+       117–131
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4417.1" n="16" xml:id="PTAMS00419_16">
+      <locus from="132" to="140">
+       132–140
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4527" n="17" xml:id="PTAMS00419_17">
+      <locus from="141" to="147">
+       141–147
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4419" n="18" xml:id="PTAMS00419_18">
+      <locus from="148" to="155">
+       148–155
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3194" n="19" xml:id="PTAMS00419_19">
+      <locus from="156" to="164">
+       156–164
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:3192" n="20" xml:id="PTAMS00419_20">
+      <locus from="173" to="183">
+       173–183
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4420.2" n="21" xml:id="PTAMS00419_21">
+      <locus from="183" to="195">
+       183–195
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="22" xml:id="PTAMS00419_22">
+      <locus from="196" to="206">
+       196–206
+      </locus>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ ῥητὸν τοῦ ἀποστόλου· οὐχ ὃ θέλω τοῦτο ποιῶ, ἀλλ’ ὃ μισῶ τοῦτο πρασσω· καὶ πῶς ἐγενετὸ ὁ ἱακὼβ τυπος χυ· ἐνδὲ τῶ προοιμίω τοῦ λογου, κατα τῶν θεωρούντων τὰ θέατρα· κυ ευλόγησον</rubric>
+      <incipit>ἐπαινῶ μὲν ὑμῶν τὸν πόθον καὶ θαυμάζω τὸν ζῆλον καὶ τὴν καλὴν ταύτην ἅμιλλαν ἀποδέχομαι</incipit>
+      <explicit>τὸ χάρισμα ὃ ἐλάβετε μὴ σβέννυτε· πνα τοίνυν κα λεῖ τοῦ πνς τὴν ἐνένγειαν· ἦς γένοιτο πάντω ἡμᾶς ἐπιτυχεῖν, ἐν χω ιυ τῶ κω ἡμῶν ὧ ἡ δόξα καὶ τὸ κράτος ναῦ καὶ ἀεὶ εῖς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν·</explicit>
+     </msItem>
+     <msItem corresp="cpg:4393" n="23" xml:id="PTAMS00419_23">
+      <locus from="206" to="210">
+       206–210
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4392" n="24" xml:id="PTAMS00419_24">
+      <locus from="210" to="214">
+       210–214
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4528" n="25" xml:id="PTAMS00419_25">
+      <locus from="214" to="227">
+       214–227
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4319" n="26" xml:id="PTAMS00419_26">
+      <locus from="228" to="233">
+       228–233
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4204" n="27" xml:id="PTAMS00419_27">
+      <locus from="234" to="247">
+       234–247
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4334" n="28" xml:id="PTAMS00419_28">
+      <locus from="247" to="254">
+       247–254
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4194" n="29" xml:id="PTAMS00419_29">
+      <locus from="255" to="268">
+       255–268
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="cpg:4677" n="30" xml:id="PTAMS00419_30">
+      <locus from="268" to="274">
+       268–274
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta008" n="31" xml:id="PTAMS00419_31">
       <locus from="274" to="284">
        274–284
       </locus>
@@ -88,7 +322,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta014" n="3" xml:id="PTAMS00419_03">
+     <msItem corresp="urn:cts:pta:pta0001.pta014" n="32" xml:id="PTAMS00419_32">
       <locus from="284" to="295v">
        284–295v
       </locus>
@@ -96,7 +330,15 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta025" n="4" xml:id="PTAMS00419_04">
+     <msItem corresp="cpg:4400" n="33" xml:id="PTAMS00419_33">
+      <locus from="295" to="313">
+       295–313
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+    </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta025" n="34" xml:id="PTAMS00419_34">
       <locus from="313v" to="319v">
        313v–319v
       </locus>
@@ -104,15 +346,23 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="5" xml:id="PTAMS00419_05">
-      <locus from="325" to="335v">
-       325–335v
+      <msItem corresp="cpg:4328" n="35" xml:id="PTAMS00419_35">
+      <locus from="319" to="325">
+       319–325
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta004" n="6" xml:id="PTAMS00419_06">
+     <msItem corresp="urn:cts:pta:pta0001.pta006" n="36" xml:id="PTAMS00419_36">
+      <locus from="325" to="335v">
+       325–335v
+      </locus>
+      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸ ὁ κς ἐβασίλευσεν· καὶ εἰς τὸ ὅτἂν παραδιδῷ τὴν βασιλεὶαν τῷ θῳ καὶ πρι· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
+      <incipit>πάλιν ἡμῖν ἡ τοῦ μακαρίου δαδ πνικη κιθάρα παρὰ τοῦ ἁγίου πνς ἀνακρουσθεῖσα, τοὺς οὐρανίους ὑμῖν ἀπέδωκεν φθόγγους·</incipit>
+      <explicit>εἴη δὲ ἡμᾶς ἀδελφοὶ, ἐν πᾶσι πιστοὺς διαμένειν θω· ᾧ ἡ δόξα καὶ τὸ κράτος, νῦν καὶ ἀεὶ· καὶ εἰς τοὺς αἰῶνας, τῶν αἰώνων· ἀμήν</explicit>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta004" n="37" xml:id="PTAMS00419_37">
       <locus from="335" to="349">
        335–349
       </locus>
@@ -120,13 +370,21 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta001" n="7" xml:id="PTAMS00419_07">
+     <msItem corresp="urn:cts:pta:pta0001.pta001" n="38" xml:id="PTAMS00419_38">
       <locus from="349r" to="357v">
        349r–357v
       </locus>
       <rubric>Τοῦ χρυσοστόμου λόγος περὶ πίστεως καὶ εἰς τὸν περὶ φύσεως νόμον· καὶ κατὰ αἱρετικῶν:- λθ’</rubric>
       <incipit>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος· ἀρχὴν ἔχουσα καὶ πηγὴν τῆς εὐσεβείας,</incipit>
       <explicit>αὕτη γάρ ἐστιν, ἡ ἄκτιστος φύσις· ἡ ἀληθινὴ ἀξία· ἡ ἀμέριστος βασιλεία· ἡ ἄσχιστος τιμὴ· ἡ ἀδιαίρετος ἐλπὶς· ἡ ἀκατάληπτος δόξα· τοῦ πρς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνς· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν·</explicit>
+     </msItem>
+     <msItem corresp="cpg:4335" n="39" xml:id="PTAMS00419_39">
+      <locus from="358" to="363">
+       358–363
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
      </msItem>
     </msContents>
     <history>

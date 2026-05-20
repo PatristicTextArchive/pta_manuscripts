@@ -38,6 +38,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-15" who="#NW">add data</change>
+   <change when-iso="2026-04-12" who="#AvS">add siglum</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -124,9 +126,9 @@
       <locus from="289" to="296v">
        289–296v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ, εἰς τὸ ῥητὸν τοῦ ἀποστόλου οὐχ ὃ θέλω τοῦτο ποιῶ· ἀλλʼ ὃ μισῶ, τοῦτο πράσσω· καὶ πῶς ἐγένετο ὁ ἱακὼβ τύπος χῦ· καὶ ἐν τῶ προοιμίω κατὰ τῶν ἐν ἱπποδρομίαις θεωρούντων</rubric>
+      <incipit>ἐπαινῶ μὲν ὑμων τὸν πόθον, καὶ θαυμάζω τὸν ζῆλον·</incipit>
+      <explicit>ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν, ἐν χῶ ἰῦ τῶ κω ἡμῶν· μεθʼ οὗ τῶ πρὶ ἡ δόξα ἅμα τῶ ἁγίω πνί· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν:</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta040" n="8" xml:id="PTAMS00106_08">
       <locus from="305v" to="312">

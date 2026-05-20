@@ -38,6 +38,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-08" who="#NW">add data</change>
+    <change when-iso="2026-03-18" who="#AvS">Added msItem again</change>
     <change when-iso="2025-10-02" who="#AvS">Deleted wrong entry</change>
     <change when-iso="2020-08-14" who="#AvS">Created TEI file</change>
   </revisionDesc>
@@ -86,6 +88,14 @@
       <rubric/>
       <incipit/>
       <explicit/>
+     </msItem>
+     <msItem defective="true" corresp="urn:cts:pta:pta0001.pta017" n="3" xml:id="PTAMS00061_03">
+      <locus from="293v" to="296r">
+       293v-296r
+      </locus>
+      <rubric type="defective"/>
+      <incipit type="defective"/>
+      <explicit>γένοιτο τοινυν ἡμας μετα πασης ἀγαπης και μετα πασης της γης αρδευομενους το πνα χαριτος καρπους ἀναφερειν παντοτε δικαιοσυνης ἐν χω ιυ· ῶ ἡ δόξα καὶ τὸ κράτος εἰς τοῦς αἰῶνας τῶν αἰώνων· ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>

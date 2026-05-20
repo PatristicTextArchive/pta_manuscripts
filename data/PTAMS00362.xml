@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-08" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -132,9 +133,9 @@
       <locus from="238" to="245">
        238–245
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν ἀγίοις πρς ἡμῶν ἰωάννου ἀρχιεπισκόπου κωνσταντινου πόλεως τοῦ χρϋσοστόμου ὁμιλιαν εἰς τὸ ῥητὸν τοῦ εὐαγγελίου ἐν ῶ ἔλεγον οἱ ἰουδαίοι περὶ τοῦ σωτῆρος· πῶς οἶδεν οὗτος γράμματα μὴ μεμαθηκώς· καὶ εἰς τὸ ῥητὸν τοῦ σρσ ὅτι οὐδεὶς οἶδε τὴν ἡμέραν ἐκείνην + εὐλόγησον περ +</rubric>
+      <incipit>Φέρε πάλιν τῶν εὐαγγελικῶν ὑμῖν ἀπαρξώμεθα ναμάτων·</incipit>
+      <explicit>καὶ τῶ παναγίω καὶ ἀγαθῶν καὶ ζωοποιῶ πνί· νῦν καὶ ἀὲι· καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν + + +</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta003" n="9" xml:id="PTAMS00362_09">
       <locus from="245" to="259">

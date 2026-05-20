@@ -42,6 +42,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-15" who="#NW">add data</change>
    <change when-iso="2023-09-22" who="#AvS">added title information</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
@@ -130,9 +131,9 @@
       <locus from="47v" to="52v">
        47v-52v
       </locus>
-      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸ ὁ κς ἐβασίλευσεν &#xB7; καὶ εἰς τὸ ὅτ'ἂν παραδῷ τὴν βασιλεὶαν τῷ θῷ καὶ πρὶ· καὶ εἰς τὸ μϋστήριον τοῦ βαπτίσματος.</rubric>
-      <incipit>πάλιν ἡμῖν ἡ <unclear>τοῦ</unclear> μακαρίου δαδ πνικὴ</incipit>
-      <explicit></explicit>
+      <rubric/>
+      <incipit/>
+      <explicit/>
      </msItem>
      <msItem corresp="cpg:4528" n="8" xml:id="PTAMS00228_08">
       <locus from="52v" to="71r">
@@ -154,9 +155,9 @@
       <locus from="85v" to="96r">
        85v–96r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸν ἄγιον ἀκάκιον τὸν ποιμένα· καὶ εἰς τὸ πρόβατον· καὶ εἰς τὸ καταπέτασμα, καὶ εἰς τὸ ἱλαστήριον·</rubric>
+      <incipit>Πάλιν μαρτύρων μνήμη· πάλιν εὐσεβῶν ἑορταὶ·</incipit>
+      <explicit>ἐνταῦθα μὲν οὖν τὰ σπέρματα, ἐκεῖ δὲ τὰ δ ἐνταῦθα μετὰ θλίθερί μετ’ σύνης, ὥς φησιν ὁ δαδ· οἱ σπείροντες ἐν δάκρυσιν, ἐν ἀγαλλιάσει θεριοῦσιν· γένοιτο δὲ ἡμᾶς καὶ σπείραι καὶ θερίσαι ἐν ἀγαλλιάσει ἐν χω ιυ τῷ κω ἡμῶν· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
      <msItem corresp="cpg:4400" n="11" xml:id="PTAMS00228_11">
       <locus from="96v" to="115r">
@@ -202,9 +203,9 @@
       <locus from="164v" to="176r">
        164v–176r
       </locus>
-      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸ ὁ κς ἐβασίλευσεν &#xB7; καὶ εἰς τὸ ὅτ'ἂν παραδῷ τὴν βασιλεὶαν τῷ θῷ καὶ πρὶ· καὶ εἰς τὸ μϋστήριον τοῦ βαπτίσματος.</rubric>
+      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸ ὁ κς ἐβασίλευσεν· καὶ εἰς τὸ ὅτ'ἂν παραδῷ τὴν βασιλεὶαν τῷ θῷ καὶ πρὶ· καὶ εἰς τὸ μϋστήριον τοῦ βαπτίσματος.</rubric>
       <incipit>πάλιν ἡμῖν ἡ <unclear>τοῦ</unclear> μακαρίου δαδ πνικὴ</incipit>
-      <explicit></explicit>
+      <explicit>εἴη δὲ ἡμᾶς ἐν πᾶσιν πιστοὺς διαμένειν θω· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="17" xml:id="PTAMS00228_17">
       <locus from="176r" to="191v">

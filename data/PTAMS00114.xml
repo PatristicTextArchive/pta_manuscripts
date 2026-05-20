@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-15" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -76,9 +77,9 @@
       <locus from="439" to="453 (p.)">
        439–453 (p.)
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ, εἰς τὸ ῥητὸν τοῦ ἀποστόλου, οὐχ ὃ θέλω τοῦτο ποιῶ, ἀλλ’ ὃ μισῶ, τοῦτο πράσσω, καὶ πῶς ἐγένετο ὁ ἰακὼβ τύπος χυ: ἐν δὲ τῶ προοιμίῳ κατὰ τῶν θεωρούντων τὰ θέατρα:</rubric>
+      <incipit>ἐπαινῶ μὲν ὑμῶν τὸν πόθον καὶ θαυμάζω τὸν ζῆλον, καὶ τὴν καλὴν ταύτην ἀμίλλαν ἀποδέχομαι·</incipit>
+      <explicit>πνᾶ τοίνϋν καλεῖ τοῦ πνς τὴν ἐνέργειαν, ἧς γένοιτο πάντας ὑμᾶς ἐπιτϋχεῖν, ἐν χῶ ἰῦ τῶ κω ἡμῶν, ὧ ἡ δόξα καὶ τὸ κράτος, νῦν καὶ ἀεὶ· καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="2" xml:id="PTAMS00114_02">
       <locus from="473" to="493 (p.)">
@@ -108,9 +109,9 @@
       <locus from="541" to="554 (p.)">
        541–554 (p.)
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ, εἰς τὸ ὁ κς ἐβασίλευσεν εἰς τὸ ὅταν παραδῶ τὴν βασιλεὶαν τῷ θω πρι· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
+      <incipit>πάλιν ἡμῖν ἡ τοῦ μακαρίου δαδ πνικη κιθάρα, παρὰ τοῦ ἁγίου πνς, ἀνακρουσθεῖσα τοὺς οὐνίους ἡμῖν ἀπέδωκεν φθόγγους, οὐκ ἀκοὰς θέλγοντας, ἀλλὰ ψυχὰς ἐκ παιδεύοντας.</incipit>
+      <explicit>εἴη δὲ ἡμᾶς, ἀδελφοὶ, ἐν πᾶσι πιστοὺς διαμένειν θω, ᾧ ἡ δόξα τὸ κράτος.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="6" xml:id="PTAMS00114_06">
       <locus from="554" to="573">
@@ -158,8 +159,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://hdl.handle.net/20.500.11957/129779" type="straighturl"/>
+        <ref target="https://repo.mountathos.org/en/items/45797a05-0073-4443-9353-f75682fba563" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://dspace.mountathos.org/iiif/manifest/45797a05-0073-4443-9353-f75682fba563" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

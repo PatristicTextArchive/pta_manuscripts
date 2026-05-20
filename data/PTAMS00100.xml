@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-08" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -76,9 +77,9 @@
       <locus from="191" to="204">
        191–204
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ ῥητὸν τοῦ ἀποστόλου· οὐχ ὃ θελω τοῦτο ποιῶ, ἀλλ’ ὃμισῶ τοῦτο πράσσω· καὶ πῶς ἐγένετο ὁ ἰακὼβ τύπος χῦ· ἐν δε τῶ προοιμίω τοῦ λόγου κατὰ τῶν θεωροῦντων τὰ θέατρα +</rubric>
+      <incipit>ἐπαινῶ μὲν ὑμῶν τὸν ποθον καὶ θαυμάζω τὸν ζῆλον, καὶ τὴν καλὴν ταύτην ἅμιλλαν ἀποδέχομαι·</incipit>
+      <explicit>ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν· ἐν χω ιυ τῶ κω ἡμῶν· ὧ ἡ δόξα καὶ τὸ κράτος νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν ἀιώνων· ἀμὴν</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta022" n="2" xml:id="PTAMS00100_02">
       <locus from="245" to="250">

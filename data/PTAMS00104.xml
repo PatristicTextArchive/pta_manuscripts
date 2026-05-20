@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-04-22" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -92,9 +93,9 @@
       <locus from="103" to="114">
        103–114
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν ἅγιον ἀκάκιον τον ποιμένα· καὶ εἰς τὸ πρό βατον καὶ εἰς το καταπέτασμα καὶ εἰς τὸ ἱλαστήριον.</rubric>
+      <incipit>Πάλιν μαρτύρων μνή μη, πάλιν εὐσεβῶν ἑορταὶ·</incipit>
+      <explicit>οἱ σπείροντες ἐν δάκρυσιν, ἐν ἀγαλλιάσει θεριοῦσιν. γένοιτο δὲ ἡμᾶς καὶ σπεῖραι, καὶ θερίσαι ἐναλλιάσει, ἐν χ ἡμ δόξα κράτοὺς αἰτῶν αἰώνων· ἀ</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta025" n="4" xml:id="PTAMS00104_04">
       <locus from="114" to="127v">
@@ -116,9 +117,9 @@
       <locus from="154v" to="166v">
        154v–166v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸ ὁ κς ἐβασίλευσεν καὶ εἰς τὸ ὅτ ἂν παραδῶ τὴν βασιλεὶαν τῷ θω καὶ πρι· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
+      <incipit>πάλιν ἡμῖν ἡ τοῦ μακαρίου δαδ πνευματικὴ κιθάρα παρὰ τοῦ ἁγίου πνεύματος ἀνακρουσθεῖσα τοὺς οὐρανίους ἡμῖν ἀπέδωκε φθόγγους, οὐκ ἀκοὰς θέλγοντας ἀλλὰ ψυχὴν ἐκ παιδεύοντας.</incipit>
+      <explicit>ἴη δὲ ἡμᾶς ἐν πᾶσι πιστοὺς, διαμένειν θωι· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="7" xml:id="PTAMS00104_07">
       <locus from="175v" to="193v">

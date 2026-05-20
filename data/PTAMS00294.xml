@@ -38,6 +38,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2020-05-15" who="#NW">add data</change>
+   <change when-iso="2026-04-14" who="#AvS">add siglum</change>
    <change when-iso="2024-08-07" who="#AvS">Autopsy</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
@@ -93,9 +95,9 @@
       <locus from="465r" to="465r">
        465r
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν ἁγΐοις πρς ἡμῶν ἰωάννου τοῦ χρϋσοστόμου, ἐκ τῆς ὁμϊλΐας αὐτοῦ, ἧς ἡ ἀρχὴ οὐχ ὃ θέλω τοῦτο ποιῶ, ἀλλ’ ὃ μϊσῶ τοῦτο πράττω·</rubric>
+      <incipit>ἀλλὰ ταῦτα μὲν πρὸς αἱρετϊκοὺς, τοὺς λέγοντας, ψϋχὴν καὶ σῶμα καὶ πνα·</incipit>
+      <explicit>καὶ τῶ παναγΐῳ καὶ ἀγαθῶ καὶ ζωοποιῷ αὐτῶ πνί· νῧν καὶ ἀεί· καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν:</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0039.pta001" n="4" xml:id="PTAMS00294_04">
       <locus from="466r" to="470v">

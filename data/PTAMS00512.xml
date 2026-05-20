@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-06" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -100,9 +101,9 @@
       <locus from="197v" to="205">
        197v–205
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>ὁμϊλία λαοῦ αὐτοῦ εἰς τὸ, ὁ κς ἐβασίλευσε· καὶ εἰς τὸ, ὅταν παραδῷ τὴν βασϊλεὶαν τῷ θῳ καὶ πρι· καὶ εἰς τὸ μυστήρϊον τοῦ βαπτίσματος.</rubric>
+      <incipit>πάλιν ἡμῖν τοῦ μακαρίου δαδ ἡ πνικὴ κϊθάρα, παρὰ τοῦ ἁγίου πνεύματος ἀνακρουσθεῖσα, τοὺς οὐνίους ἡμῖν ἀπέδωκε φθόγγους οὐκ ἀκοὰς θέλγοντας, ἀλλὰ ψυχὴν ἐκπαιδεύοντας.</incipit>
+      <explicit>καὶ ἕξεις τὴν γνώμην ἀσάλευτον. εἴη δὲ ἡμᾶς ἐν πᾶσϊ, πϊστοὺς δϊαμένειν θῷ· ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν·</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta002" n="5" xml:id="PTAMS00512_05">
       <locus from="209v" to="216v">

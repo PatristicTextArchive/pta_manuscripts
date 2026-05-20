@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-04-24" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -84,9 +85,9 @@
       <locus from="137" to="142v">
        137–142v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ ὁ κς ἐβασίλευσεν· καὶ εἰς τὸ ὅτἂν παραδῷ τὴν βασιλεὶαν τῷ θω καὶ πρι· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος· λόγος</rubric>
+      <incipit>πάλιν ἡμῖν, ἡ τοῦ μακαρίου δαδ πνευματικῇ κϊθάρᾳ· παρὰ τοῦ ἁγίου πνς ἀνακρουσθεῖσα, τοὺς ὀυνίους ἡμῖν ἀπέδωκε φθόγγους·</incipit>
+      <explicit>καὶ ἐν πᾶσϊ τοῖς λόγοις σου μϊμνήσκου τὰ αἰσχατά, καὶ εἰς τὸν αἰῶνα οὐχ ἁμαρτήσεις· εἴη δὲ ἡμᾶς ἐν πᾶσϊ πϊστοὺς δϊαμένειν θω· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta040" n="3" xml:id="PTAMS00285_03">
       <locus from="146v" to="148v">

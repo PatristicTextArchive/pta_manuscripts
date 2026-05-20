@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-04-24" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -77,9 +78,8 @@
        134r–139v
       </locus>
       <rubric type="defective"/>
-      <incipit type="defective">σι συνΐσταται &#xB7; ὅθεν τοίνυν καὶ σήμερον
-        διδάσκει ὁ μακάριος δαδ, καὶ κηρύττει τοῦ θῦ τὴν βασιλείαν λέγων.</incipit>
-      <explicit type="defective">φύγωμεν καὶ φαύλων ἔργων ἀναστροφήν. τεκμήριον πίστεως, φιλανια καὶ ἐλεμοσύνη &#xB7; ὤνησον,</explicit>
+      <incipit type="defective">σι συνΐσταται· ὅθεν τοίνυν καὶ σήμερον διδάσκει ὁ μακάριος δαδ, καὶ κηρύττει τοῦ θῦ τὴν βασιλείαν λέγων.</incipit>
+      <explicit type="defective">φύγωμεν καὶ φαύλων ἔργων ἀναστροφήν. τεκμήριον πίστεως, φιλανια καὶ ἐλεμοσύνη· ὤνησον,</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta014" n="2" xml:id="PTAMS00167_02">
       <locus from="140" to="149v">

@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-04-22" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -84,9 +85,9 @@
       <locus from="248v" to="256">
        248v–256
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ, εἰς τὸν ἅγιον ἀκακίον τὸν ποιμένα· καὶ εἰς τὸ πρόβατον· καὶ εἰς τὸ καταπέτασμα, καὶ εἰς τὸ ἱλαστήριον.</rubric>
+      <incipit>Πάλϊν μαρτύρων μνήμη· πάλϊν εὐσεβῶν ἑορταὶ· πάλϊν ἀγγέλων ὑπόθεσις· πάλιν ἐκκλησίας πανήγυρις·</incipit>
+      <explicit>ἐνταῦθα σπείρεις μετὰ θλίψεως, ἐκεῖ θερίζεις μετ’ εὐφροσύνης, ὥς φησϊν ὁ δαδ· οἱ σπείροντες ἐν δάκρυσιν, ἐν ἀγαλλϊάσει θεριοῦσι· γένοιτο δὲ ἡμᾶς καὶ σπεῖραι καὶ θερίσαι ἐν ἀγαλλιάσει, ἐν χῷ ἰῦ τῷ κῷ ἡμῶν, ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
      <msItem defective="true" corresp="urn:cts:pta:pta0001.pta001" n="3" xml:id="PTAMS00514_03">
       <locus from="256r" to="259v">

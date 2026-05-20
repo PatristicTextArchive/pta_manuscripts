@@ -42,6 +42,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-04-24" who="#NW">add data</change>
    <change when-iso="2023-09-22" who="#AvS">added title information</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
@@ -116,7 +117,7 @@
       </locus>
       <rubric>Τοῦ αυτοῦ ἄρχεται εἰς το ὁ κς ἐβασίλευσεν, καὶ εἰς τὸ όταν παραδῶ τὴν βασιλείαν τῶ θω καὶ πρι· καὶ εἰς το μυστήριον τοῦ βαπτίσματος</rubric>
       <incipit>Πάλιν ἡμῖν τοῦ μακαρίου δαδ</incipit>
-      <explicit></explicit>
+      <explicit>εἴη δὲ ἡμᾶς ἐν πᾶσϊν πιστοὺς διαμένειν θῶ· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν.</explicit>
       <note>in mg. oben κ. προ των φωτων</note>
      </msItem>
      <msItem corresp="cpg:4512" n="6" xml:id="PTAMS00229_06">

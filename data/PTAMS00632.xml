@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00022" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TEI telota:doctype="manuscriptDesc" xml:id="PTAMS00632" xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Mss. 425
+     Hagion Oros, Monê Batopediou, Mss. 236
     </title>
    </titleStmt>
    <editionStmt>
@@ -33,13 +33,12 @@
      <ref target="https://pinakes.irht.cnrs.fr/">
       Pinakes-Database
      </ref>
-     and on notes by Karl-Heinz Uthemann as well as on autopsy.
+     and on autopsy.
     </p>
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
-   <change when-iso="2026-04-24" who="#NW">add data</change>
-   <change when-iso="2020-08-14" who="#AvS">
+   <change when-iso="2025-10-22" who="#AvS">
     Created TEI file
    </change>
   </revisionDesc>
@@ -50,43 +49,44 @@
     <msIdentifier>
      <country/>
      <settlement>
-      Athêna
+      Hagion Oros
      </settlement>
      <repository>
-      Ethnikê Bibliothêkê tês Hellados (EBE)
+      Monê Batopediou
      </repository>
      <collection>
       Mss.
      </collection>
      <idno>
-      425
+      236
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       2721
+        18380
       </idno>
      </altIdentifier>
      <altIdentifier type="sigle_pta0001">
       <idno>
-       Ax
+       FlorB
       </idno>
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta006" n="1" xml:id="PTAMS00022_01">
-      <locus from="143" to="171 (p.)">
-       143–171 (p.)
+     <msItem corresp="" n="1" xml:id="PTAMS00632_01">
+      <note>Florilegium de anima</note>
+      <locus from="113v" to="126v">
+       113v–126v
       </locus>
-      <rubric>τοῦ ἐν ἁγίοις πρς ἡμῶν ἰω ἀρχιεσπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου λόγος εἰς τὸ ὁ κς ἐβασίλευσεν ἀγαλιάσθω ἡ γῆ· καὶ εἰς τὸ, ὅταν παραδῷ τὴν βασιλεὶαν τῷ θῷ καὶ πρὶ· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
-      <incipit>πάλιν ἡμῖν τοῦ μακαρίου δαδ πνικὴ κιθάρα παρὰ τοῦ ἁγίου πνς ἀνακρουσθεῖσα, τοὺς οὐνίους ἀπέδωκε φθόγγους·</incipit>
-      <explicit>ἅμα τῷ πρι σϋν ἀγίῷ πνί· νῦν ἀεὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
+      <rubric/>
+      <incipit/>
+      <explicit/>
      </msItem>
     </msContents>
     <history>
      <origin>
       <p n="origDate">
-       <origDate notAfter-iso="1600-12-31" notBefore-iso="1501-01-01">
-        s. 16
+       <origDate notAfter-iso="1300-12-31" notBefore-iso="1101-01-01">
+        s. 12-13
        </origDate>
       </p>
      </origin>

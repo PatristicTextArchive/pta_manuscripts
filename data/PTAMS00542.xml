@@ -38,6 +38,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-08" who="#NW">add data</change>
+   <change when-iso="2026-04-14" who="#AvS">add siglum</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -76,9 +78,9 @@
       <locus from="II. 73" to="87v">
        II. 73–87v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric></rubric>
+      <incipit>τοῦ αὐτοῦ ὁμιλία εἰς τὸ ῥητὸν τοῦ ἀποστόλου οὐχ’ ὃ θέλω τοῦτο ποιῶ, ἀλλ’ ὃμισῶ τοῦτο πράσσω·</incipit>
+      <explicit>ἧς γένοιτο πάντας ἡμᾶς ἐπιτυχεῖν, ἐν χω ιυ τῶ κω ἡμῶν· ὧι ἡ δοξα καὶ τὸ κράτος, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν</explicit>
      </msItem>
     </msContents>
     <history>

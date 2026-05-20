@@ -38,6 +38,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2020-05-15" who="#NW">add data</change>
+   <change when-iso="2026-04-14" who="#AvS">add siglum</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -76,9 +78,9 @@
       <locus from="203v" to="205">
        203v–205
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ ἐν ἀγίοις πρς ἡμῶν ἰω τοῦ χρϋσοστόμου· ἐκ τῆς ὁμϊλΐας αὐτοῦ, ἧς ἡ ἀρχὴ, οὐχ’ ὃ θέλω τοῦτο ποιὼ, ἀλλ’ ὃ μϊσῶ τοῦτο πράσσω:</rubric>
+      <incipit>ἀλλὰ ταῦτα μὲν πρὸς αἱρετϊκούς, τοὺς λέγοντας, ψυχὴν καὶ σῶμα καὶ πνα·</incipit>
+      <explicit>καὶ τῶ παναγΐω καὶ ἀγάθω καὶ ζωοποιῶ αὐτοῦ πνΐ· νῦν καὶ ἀεῖ· καί εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν:+</explicit>
      </msItem>
     </msContents>
     <history>

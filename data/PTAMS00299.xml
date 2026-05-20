@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-04-24" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -92,9 +93,9 @@
       <locus from="87" to="95">
        87–95
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ ὁμιλία εἰς τὸ, ὁ κς ἐβασίλευσεν, καὶ εἰς τὸ, ὅταν καταδίδω τὴν βασιλεὶαν τῷ θῷ καὶ πρι· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
+      <incipit>πάλιν ἡμῖν ἡ τοῦ μακαρίου δαδ πνικὴ κιθάρα παρὰ τοῦ ἁγίου πνς ἀνακρουσθεῖσα, τοὺς οὐνίους ἡμῖν ἀπέδωκε φθόγγους, οὐκ ἀκοὰς θέλγοντας, ἀλλὰ ψυχὰς ἐκπαιδεύοντας.</incipit>
+      <explicit>εἴη δὲ ἡμᾶς ἐν πᾶσι πιστοὺς διαμένειν θῷ, ᾧ πρέπει ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta062" n="4" xml:id="PTAMS00299_04">
       <locus from="116v" to="129">

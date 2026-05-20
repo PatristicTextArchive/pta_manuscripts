@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-08" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -92,9 +93,9 @@
       <locus from="261v" to="267v, 270">
        261v–267v, 270–272v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>Τοῦ αὐτοῦ ὅτι παλαιᾶς καὶ καινῆς, εἷς ὁ νομοθέτης· καὶ εἰς τὸ ἔνδυμα τοῦ ϊερέως· καὶ περὶ μετανοίας· εὐο δέσποτης</rubric>
+      <incipit>τῆς χυ βασιλείας τὸ εὐαγγέλιον, κηρύττουσι προφῆται. ἑρμηνεύουσι δὲ οἱ τῆς νέας χάριτος ὑπηρέται·</incipit>
+      <explicit>διαβὰς εἰς μακεδονίαν βοήθησον ἡμῖν· ἔχωμεν ἀποστόλους· μὴ ναρκήσωμεν.</explicit>
      </msItem>
     </msContents>
     <history>

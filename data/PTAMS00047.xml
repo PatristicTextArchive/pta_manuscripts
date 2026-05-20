@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-15" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -84,9 +85,9 @@
       <locus from="117v" to="127v">
        117v–127v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ ἰωάννου τοῦ χρυσοστόμου· ὁμιλία εἰς τὸν ἀκακίον τὸν ποιμένα· καὶ εἰς τὸ πρόβατον· καὶ εἰς τὸ καταπέτασμα· καὶ εἰς τὸ ἱλαστήριον</rubric>
+      <incipit>Πάλιν μαρτύρων μνήμη, καὶ πάλιν εὐσεβῶν ἑορταὶ·</incipit>
+      <explicit>ὥς φησιν ὁ δαδ· οἱ σπείροντες ἐν δάκρυσιν, ἐν ἀγαλλιάσει θεριοῦσιν· γένοιτο δὲ ἡμᾶς· καὶ σπεῖραι καὶ θερίσαι ἐν ἀγαλλιάσει· ἐν χῳ ἰυ τῷ κῳ ἡμῶν ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων. ἀμήν·</explicit>
      </msItem>
     </msContents>
     <history>

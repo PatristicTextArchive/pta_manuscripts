@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-06" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -77,8 +78,8 @@
        50v–58v
       </locus>
       <rubric/>
-      <incipit/>
-      <explicit/>
+      <incipit>τοῦ αὐτοῦ εἰς τὸ ὁ κς ἐβασί λευσεν καὶ εἰς τὸ ὅταν παραδίδω τὴν βασιλεὶαν τῷ θω καὶ πρι, καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</incipit>
+      <explicit>εἴη δὲ ἡμᾶς ἐν πᾶσι πιστοὺς διαμένειν θω· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν.</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta004" n="2" xml:id="PTAMS00146_02">
       <locus from="59" to="70">

@@ -38,6 +38,8 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2020-05-15" who="#NW">add data</change>
+   <change when-iso="2026-04-14" who="#AvS">add siglum</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -76,9 +78,9 @@
       <locus from="433" to="459 (p.)">
        433–459 (p.)
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ ῥητὸν τοῦ ἀποστόλου οὐχ ὃ θέλω τοῦτο ποιῶ, ἀλλ’ ὃμισῶ τοῦτο πράσσω· καὶ πῶς ἐγένετο ὁ ἰακὼβ τύπος χριστοῦ· ἐν δὲ τῶι προοιμίωι τοῦ λόγου, κατὰ τῶν θεωρούντων τὰ θεατρα⁘</rubric>
+      <incipit>ἐπαινῶ μὲν ὑμῶν τὸν πόθον καὶ θαυμάζωτον ζῆλον, καὶ τὴν καλὴν ταύτην ἄμιλλαν ἀποδέχομαι·</incipit>
+      <explicit>ὧι ἡ δόξα καὶ τὸ κράτος, νῦν καί ἀεὶ καὶ εἰς τοὺς αἰῶας τῶν αἰώνων· ἀμήν</explicit>
      </msItem>
     </msContents>
     <history>

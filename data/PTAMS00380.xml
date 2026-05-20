@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-08" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -116,9 +117,9 @@
       <locus from="204v" to="216v">
        204v–216v
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ ῥητὸν τοῦ εὐαγγελίου ἐν ῶ ἔλεγον οἱ ϊουδαίοι περὶ τοῦ σρσ. πῶς οἶδεν γράμματα μὴ μεμαθηκώς· καὶ εἰς τὸ ῥητὸν τοῦ σρσ ὅτι οὐδεὶς οἶδεν τὴν ἡμέραν ἐκείνην: - </rubric>
+      <incipit>Φέρε πάλιν τῶν εὐαγγελικῶν ὑμῖν ἀπαρξώμεθα ναμάτων· φέρε μεθ’ ὑμῶν τὸ διειδὲς καὶ καθαρὸν ἀρυσώμεθα ῥεῖθρον.</incipit>
+      <explicit>καὶ τὸν ὑμέτερον πόθον· ἐν χῶ ἰυ τῶ κω ἡμῶν ὦ ἡ δόξα εἰς τούς αἰῶνας τῶν αἰώνων ἀμήν</explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta040" n="7" xml:id="PTAMS00380_07">
       <locus from="219" to="231">

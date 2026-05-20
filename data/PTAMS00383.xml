@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-06" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -92,9 +93,9 @@
       <locus from="n. 27">
        n. 27
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτοῦ εἰς τὸ ὁ κς ἐβασίλευσεν, καὶ εἰς τὸ, ὅτ'ἂν παραδῷ τὴν βασιλεὶαν τῷ θῷ καὶ πρὶ· καὶ εἰς τὸ μυστήριον τοῦ βαπτίσματος.</rubric>
+      <incipit>τῷν τῆς τυραννίδος τῶν δαιμόνων, καὶ τὴν διὰ τῆς παρουσίας τοῦ σρς λάμπουσαν οἰκονομίαν, λέγει τὸ ὁ κς ἐβασίλευσεν·</incipit>
+      <explicit>εἴη δὲ ἡμᾶς ἀδελφοὶ, ἐν πᾶσι πιστοὺς διαμένειν θω· ᾧ πρέπει πᾶσα δόξα τιμὴ καὶ κράτος, εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν.</explicit>
      </msItem>
     </msContents>
     <history>

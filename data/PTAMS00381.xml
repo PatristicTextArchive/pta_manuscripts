@@ -42,6 +42,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc>
+   <change when-iso="2026-04-22" who="#NW">add data</change>
     <change when-iso="2023-09-25" who="#AvS">Updated information</change>
    <change when-iso="2020-08-14" who="#AvS">Created TEI file</change>
   </revisionDesc>
@@ -196,7 +197,7 @@
       </locus>
       <rubric>Τοῦ αὐτοῦ ὁμιλία εἰς τὸν ἅγιον Ἀκάκιον τὸν ποιμένα καὶ εἰς τὸ πρόβατον καὶ εἰς τὸ καταπέτασμα καὶ εἰς τὸ ἱλαστήριον</rubric>
       <incipit>Πάλιν μαρτύρων μνήμη, πάλιν εὐσεβῶν ἑορταί</incipit>
-      <explicit></explicit>
+      <explicit>ποίῳ καιρῷ ἰδίῳ· τῷ τῆς ἀναστάσεως· οὐκοῦν ὁ καιρὸς οὗτος οὐκ ἴδιος ἡμῶν, ἀλλ’ ἀλλότριος· ἐνταῦθα μὲν οὖν τὰ σπέρματα, ἐκεῖ δὲ τὰ δράγματα. ἐνταῦθα σπείρεις μετὰ θλίψεως, ἐκεῖ θερίζεις μετευφροσύνης, ὥς φησιν ὁ δαδ. οἱ σπείροντες ἐν δάκρυσιν, ἐν αγαλλιάσει θεριοῦσιν· γένοιτο δὲ ἡμᾶς καὶ σπεῖραι καὶ θερίσαι ἐν ἀγαλλιάσει ἐν χω ιυ τῷ κῳ ἡμῶν, ᾧ  ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν.</explicit>
      </msItem>
      <msItem defective="true" corresp="cpg:4400" n="16" xml:id="PTAMS00381_16">
       <locus from="125v" to="149r">

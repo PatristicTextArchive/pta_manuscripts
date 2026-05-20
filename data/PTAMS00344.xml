@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-03-19" who="#AvS">add msItem and siglum</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -72,9 +73,17 @@
      </altIdentifier>
     </msIdentifier>
     <msContents>
-     <msItem corresp="urn:cts:pta:pta0001.pta045" n="1" xml:id="PTAMS00344_01">
-      <locus from="301-306">
-       301-306
+     <msItem corresp="urn:cts:pta:pta0001.pta044" n="1" xml:id="PTAMS00344_01">
+      <locus from="267r" to="270v">
+       267r-270v
+      </locus>
+      <rubric/>
+      <incipit/>
+      <explicit/>
+     </msItem>
+     <msItem corresp="urn:cts:pta:pta0001.pta045" n="2" xml:id="PTAMS00344_02">
+      <locus from="301r" to="306r">
+       301r-306r
       </locus>
       <rubric/>
       <incipit/>

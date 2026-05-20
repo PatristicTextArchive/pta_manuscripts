@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2020-05-15" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -79,9 +80,9 @@
       </locus>
       </locusGrp>
       <note>Palimpsest</note>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>παραμυθία· καὶ ἐπῳδή τίς ἐστιν ἁγία, οὐχ ὑπὸ μύθων προσφερομένη· ἀλλ’ ὥσπερ θηρία πονηρὰ, τὰς ἐπιθυμίας κοιμίζει, ἀκολασίαν χορίζει, ἀπὸ τοῦ σώματος· σβέννυσιν ἀδικίαν· ἐξάπτει δικαιοσύνην, βλασφήμους ὑπονοίας ἀνατρέπει, λογισμοὺς αἰσχροὺς ἀναιρεῖ, θεῖον ὑπαγορεύει</rubric>
+      <incipit>νόμον, θν κηρύττει πίστιν ἑρμηνεύει·</incipit>
+      <explicit>ἐκεῖνος ὡς ἰουδαῖος, καὶ ἰουδαϊκῇ ἀμαθίᾳ συνγηράσας.</explicit>
      </msItem>
     </msContents>
     <history>

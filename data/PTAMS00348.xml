@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-08" who="#NW">add data</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -84,9 +85,9 @@
       <locus from="250v" to="260">
        250v–260
       </locus>
-      <rubric/>
-      <incipit/>
-      <explicit/>
+      <rubric>τοῦ αὐτου· ὅτι παλαιᾶς καὶ καινῆς διὰθήκης. εἷς ὁ νομοθέτης· καὶ εἰς τὸ ἔνδυμα τοῦ ϊερέως· κζ καὶ περὶ μετὰνοίας⁘</rubric>
+      <incipit>τῆς χυ βασιλείας τὸ εὐαγγέλιον·</incipit>
+      <explicit>καὶ τὴν βασιλείαν στῆσαι, καὶ τὴν αὐτοῦ δόξαν φαιδρῦναι, ἐν χω ϊυ τῶ κω ἡμῶν· ὦ πρέπει πᾶσα δόξα τιμὴ καὶ κράτος· τῶ πρι καὶ τῶ υἱῶ καὶ τῶ ἁγίω πνι· εἰς τοὺς αἰῶνας τῶν αἰώνων· ※ ἀμήν ※ </explicit>
      </msItem>
      <msItem corresp="urn:cts:pta:pta0001.pta020" n="3" xml:id="PTAMS00348_03">
       <locus from="266v" to="280">
