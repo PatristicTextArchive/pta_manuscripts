@@ -178,6 +178,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://repo.mountathos.org/en/items/b55fe3a5-f2d8-42a9-97fb-98575882119b" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://dspace.mountathos.org/iiif/manifest/b55fe3a5-f2d8-42a9-97fb-98575882119b" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

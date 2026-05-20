@@ -170,6 +170,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://repo.mountathos.org/en/items/102ca8ca-8bc8-4d9f-829c-6d8afb4a7473" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://dspace.mountathos.org/iiif/manifest/102ca8ca-8bc8-4d9f-829c-6d8afb4a7473" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>

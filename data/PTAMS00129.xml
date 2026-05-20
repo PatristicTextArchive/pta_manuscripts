@@ -38,6 +38,7 @@
    </sourceDesc>
   </fileDesc>
   <revisionDesc status="draft">
+   <change when-iso="2026-05-04" who="#AvS">corrected diktyon number</change>
    <change when-iso="2020-08-14" who="#AvS">
     Created TEI file
    </change>
@@ -62,7 +63,7 @@
      </idno>
      <altIdentifier type="diktyon">
       <idno>
-       27588
+       28406
       </idno>
      </altIdentifier>
     </msIdentifier>
@@ -93,15 +94,6 @@
       </p>
      </origin>
     </history>
-    <additional>
-     <surrogates>
-      <p>
-       <bibl>
-        <ref target="https://www.loc.gov/item/00271051451-ma/" type="straighturl"/>
-       </bibl>
-      </p>
-     </surrogates>
-    </additional>
    </msDesc>
   </body>
  </text>

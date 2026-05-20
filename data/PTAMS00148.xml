@@ -89,8 +89,11 @@
      <surrogates>
       <p>
        <bibl>
-        <ref target="http://hdl.handle.net/20.500.11957/101370" type="straighturl"/>
+        <ref target="https://repo.mountathos.org/en/items/4ca79bbf-3d80-473a-a4c5-67fa27f4a363" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://dspace.mountathos.org/iiif/manifest/4ca79bbf-3d80-473a-a4c5-67fa27f4a363" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

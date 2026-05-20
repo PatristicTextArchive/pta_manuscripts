@@ -110,8 +110,12 @@
      <surrogates>
       <p>
        <bibl>
+        <ref target="https://repo.mountathos.org/en/items/1b4e60d6-8e0e-4f07-b397-ffb20d003505" type="straighturl"/>
         <ref target="http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=42357" type="straighturl"/>
        </bibl>
+       <bibl>
+        <ref target="https://dspace.mountathos.org/iiif/manifest/1b4e60d6-8e0e-4f07-b397-ffb20d003505" type="manifesturl"/>
+        </bibl>
       </p>
      </surrogates>
     </additional>

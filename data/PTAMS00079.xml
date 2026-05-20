@@ -93,6 +93,18 @@
       </p>
      </origin>
     </history>
+    <additional>
+     <surrogates>
+      <p>
+       <bibl>
+        <ref target="https://repo.mountathos.org/en/items/65641d16-faac-44e6-81e5-d3633c701dc8" type="straighturl"/>
+       </bibl>
+       <bibl>
+        <ref target="https://dspace.mountathos.org/iiif/manifest/65641d16-faac-44e6-81e5-d3633c701dc8" type="manifesturl"/>
+        </bibl>
+      </p>
+     </surrogates>
+    </additional>
    </msDesc>
   </body>
  </text>
