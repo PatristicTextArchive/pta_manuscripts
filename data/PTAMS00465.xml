@@ -82,7 +82,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:3170" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:3170" n="2" xml:id="PTAMS00465_02">
       <locus from="003" to="012">
        003–012
       </locus>
@@ -90,7 +90,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:3145" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:3145" n="3" xml:id="PTAMS00465_03">
       <locus from="012" to="028">
        012–028
       </locus>
@@ -98,7 +98,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:3163" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:3163" n="4" xml:id="PTAMS00465_04">
       <locus from="028" to="034">
        028–034
       </locus>
@@ -106,7 +106,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4393" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4393" n="5" xml:id="PTAMS00465_05">
       <locus from="035" to="040">
        035–040
       </locus>
@@ -114,7 +114,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4392" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4392" n="6" xml:id="PTAMS00465_06">
       <locus from="040" to="046">
        040–046
       </locus>
@@ -122,7 +122,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4528" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4528" n="7" xml:id="PTAMS00465_07">
       <locus from="046" to="066">
        046–066
       </locus>
@@ -130,7 +130,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4383" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4383" n="8" xml:id="PTAMS00465_08">
       <locus from="066" to="100">
        066–100
       </locus>
@@ -138,7 +138,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4329" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4329" n="9" xml:id="PTAMS00465_09">
       <locus from="100" to="111">
        100–111
       </locus>
@@ -146,7 +146,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4972" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4972" n="10" xml:id="PTAMS00465_10">
       <locus from="112" to="113">
        112–113
       </locus>
@@ -154,7 +154,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:5557" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:5557" n="11" xml:id="PTAMS00465_11">
       <locus from="113" to="113">
        113–113
       </locus>
@@ -162,7 +162,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:1764" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:1764" n="12" xml:id="PTAMS00465_12">
       <locus from="114" to="114">
        114–114
       </locus>
@@ -170,7 +170,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4329.05" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4329.05" n="13" xml:id="PTAMS00465_13">
       <locus from="115" to="125">
        115–125
       </locus>
@@ -178,7 +178,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4386" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4386" n="14" xml:id="PTAMS00465_14">
       <locus from="125" to="144">
        125–144
       </locus>
@@ -186,7 +186,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4377" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4377" n="15" xml:id="PTAMS00465_15">
       <locus from="144" to="154">
        144–154
       </locus>
@@ -194,7 +194,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4378" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4378" n="16" xml:id="PTAMS00465_16">
       <locus from="154" to="163">
        154–163
       </locus>
@@ -202,7 +202,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4379" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4379" n="17" xml:id="PTAMS00465_17">
       <locus from="163" to="183">
        163–183
       </locus>
@@ -210,7 +210,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4332" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4332" n="18" xml:id="PTAMS00465_18">
       <locus from="183" to="190">
        183–190
       </locus>
@@ -218,7 +218,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4417.1" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4417.1" n="19" xml:id="PTAMS00465_19">
       <locus from="190" to="200">
        190–200
       </locus>
@@ -226,15 +226,15 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4417" n="1" xml:id="PTAMS00465_01">
-      <locus from="190" to="234">
-       190–234
+     <msItem corresp="cpg:4417" n="20" xml:id="PTAMS00465_20">
+      <locus from="200" to="234">
+       200–234
       </locus>
       <rubric/>
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="cpg:4527" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="cpg:4527" n="21" xml:id="PTAMS00465_21">
       <locus from="235" to="242">
        235–242
       </locus>
@@ -242,7 +242,7 @@
       <incipit/>
       <explicit/>
      </msItem>
-     <msItem corresp="urn:cts:pta:pta0001.pta019" n="1" xml:id="PTAMS00465_01">
+     <msItem corresp="urn:cts:pta:pta0001.pta019" n="22" xml:id="PTAMS00465_22">
       <locus from="242" to="256">
        242–256
       </locus>
